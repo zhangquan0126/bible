@@ -1,11 +1,11 @@
 ---
 layout: daily-en
-title:  "Week 12 Day 6: Serve Wholeheartedly"
-date:   2018-04-14
+title:  "Week 12 Day 1: The Sabbath Year"
+date:   2018-04-09
 categories: daily
-permalink: /en/daily/wk12-day6-daily.html
+permalink: /en/daily/wk12-day1-daily.html
 weekNum: 12
-dayNum: 6
+dayNum: 1
 bibleTitle1: "Leviticus 24:10-25:55"
 bibleGatewayRef1: "lev.24.10-25.55"
 youVersionRef1: "LEV.24"
