@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 {% assign verse1 = page.bibleTitle1 %}
 {% assign bgV1 = page.bibleGatewayRef1 %}
