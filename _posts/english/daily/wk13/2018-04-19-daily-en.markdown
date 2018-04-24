@@ -39,7 +39,7 @@ How did God look after His faithful servant when people complained and talked ag
 
 Bible Reading
 ---
-+ [{{ verse1 }} [BibleGateway]][bgLink1] | [[YouVersion]][yvLink1] 
+[{{ verse1 }} [BibleGateway]][bgLink1] | [[YouVersion]][yvLink1] 
 
 Meditation: God's Story 
 ---
@@ -73,7 +73,7 @@ judge.
 
 Bible Reading
 ---
-+ [{{ verse2 }} [BibleGateway]][bgLink2] | [[YouVersion]][yvLink2]
+[{{ verse2 }} [BibleGateway]][bgLink2] | [[YouVersion]][yvLink2]
 
 Prayer
 ---
