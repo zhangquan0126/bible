@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title:  "第 14 週 第 1 天 可拉叛亂"
+title:  "第14週 第1天 可拉叛亂"
 date:   2018-04-23
 categories: daily
 permalink: /daily/wk14-day1-daily.html
