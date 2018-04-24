@@ -15,6 +15,9 @@ youVersionRef2: "PSA.89"
 language: English
 ---
 
+{% include_relative BibleLinks.md %}
+
+
 {% assign verse1 = page.bibleTitle1 %}
 {% assign bgV1 = page.bibleGatewayRef1 %}
 {% assign yvV1 = page.youVersionRef1 %}
