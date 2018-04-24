@@ -1,0 +1,60 @@
+---
+layout: daily-en
+title:  "Week 12 Day 5: "
+date:   2018-04-13
+categories: daily
+permalink: /en/daily/wk12-day5-daily.html
+weekNum: 12
+dayNum: 5
+bibleTitle1: "Numbers "
+bibleGatewayRef1: "num."
+youVersionRef1: "NUM."
+bibleTitle2: "Psalm 82"
+bibleGatewayRef2: "ps.82"
+youVersionRef2: "PSA.82"
+language: English
+---
+
+{% assign verse1 = page.bibleTitle1 %}
+{% assign bgV1 = page.bibleGatewayRef1 %}
+{% assign yvV1 = page.youVersionRef1 %}
+{% assign verse2 = page.bibleTitle2 %}
+{% assign bgV2 = page.bibleGatewayRef2 %}
+{% assign yvV2 = page.youVersionRef2 %}
+
+{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
+{% assign yvLink1 = "https://www.bible.com/bible/111/" | append:yvV1 | append: ".NIV" %}
+
+{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
+{% assign yvLink2 = "https://www.bible.com/bible/111/" | append:yvV2 | append: ".NIV" %}
+
+[bgLink1]: {{ bgLink1 }}
+[bgLink2]: {{ bgLink2 }}
+[yvLink1]: {{ yvLink1 }}
+[yvLink2]: {{ yvLink2 }}
+
+Question
+---
+
+
+Bible Reading
+---
+[{{ verse1 }}][bgLink1] | [[YouVersion]][yvLink1]
+
+Meditation: God’s Story
+---
+
+Meditation: My Story
+---
+
+Bible Reading
+---
+[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
+
+Prayer
+---
+
+Notes & Responses
+---
+ 
+<p> 
