@@ -34,6 +34,7 @@ language: English
 [yvLink2]: {{ yvLink2 }}
 
 Question
+---
 How did the Israelites celebrate and serve when the Tabernacle was set up?
 
 Bible Reading
