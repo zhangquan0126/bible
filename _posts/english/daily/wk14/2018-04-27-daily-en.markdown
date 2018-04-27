@@ -55,13 +55,14 @@ Meditation: My Story
 
 Scripture Reading
 ---
-
+[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
 
 Prayer
 ---
-[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
+
 
 Notes and Responses
 ---
+
 
 <p>
