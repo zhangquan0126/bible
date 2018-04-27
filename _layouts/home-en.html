@@ -24,7 +24,10 @@ language: "English"
           {% if today == postDate %}
             {% assign todayPost = post %} 
           {% endif %}
-          <li><span>{{ post.date | date: '%b %d' }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    
+          {% assign splitTitles = post.title | split:": " %}
+          <li><span>{{ post.date | date: '%b %d' }} {{ splitTitles[0] }}</span> <br>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ splitTitles[1] }}</a></li>
         {% endif %}
 
       {% else %}
