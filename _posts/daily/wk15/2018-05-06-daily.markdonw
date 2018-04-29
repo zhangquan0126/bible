@@ -14,14 +14,6 @@ bibleGatewayRef2: "ps.105"
 youVersionRef2: "PSA.105"
 ---
 
-### 讀經：[{{ verse2 }}【繁體】][bgLink4]
-
-|[【简体】][bgLink5]|[【NIV】][bgLink6]|[【YouVersion】][yvLink2]
-
-### 禱告：
-
-### 筆記與回應：
-
 
 {% assign verse1 = page.bibleTitle1 %}
 {% assign bgV1 = page.bibleGatewayRef1 %}
@@ -47,3 +39,12 @@ youVersionRef2: "PSA.105"
 [bgLink6]: {{ bgLink6 }}
 [yvLink1]: {{ yvLink1 }}
 [yvLink2]: {{ yvLink2 }}
+
+### 讀經：[{{ verse2 }}【繁體】][bgLink4]
+
+|[【简体】][bgLink5]|[【NIV】][bgLink6]|[【YouVersion】][yvLink2]
+
+### 禱告：
+
+### 筆記與回應：
+
