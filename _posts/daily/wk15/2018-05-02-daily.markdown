@@ -6,12 +6,12 @@ categories: daily
 permalink: /daily/wk15-day3-daily.html
 weekNum: 15
 dayNum: 3
-bibleTitle1: "民數記 30-31"
-bibleGatewayRef1: "num.30-31"
-youVersionRef1: "NUM.30"
-bibleTitle2: "詩篇 101"
-bibleGatewayRef2: "ps.101"
-youVersionRef2: "PSA.101"
+bibleTitle1: "民數記 32-33"
+bibleGatewayRef1: "num.32-33"
+youVersionRef1: "NUM.32"
+bibleTitle2: "詩篇 102"
+bibleGatewayRef2: "ps.102"
+youVersionRef2: "PSA.102"
 ---
 
 {% assign verse1 = page.bibleTitle1 %}
