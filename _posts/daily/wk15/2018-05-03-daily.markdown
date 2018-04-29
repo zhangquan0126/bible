@@ -8,7 +8,7 @@ weekNum: 15
 dayNum: 4
 bibleTitle1: "民數記 34-35"
 bibleGatewayRef1: "num.34-35"
-youVersionRef1: "NUM.33"
+youVersionRef1: "NUM.34"
 bibleTitle2: "詩篇 102"
 bibleGatewayRef2: "ps.102"
 youVersionRef2: "PSA.102"
