@@ -14,7 +14,6 @@ bibleGatewayRef2: "ps.105"
 youVersionRef2: "PSA.105"
 ---
 
-
 {% assign verse1 = page.bibleTitle1 %}
 {% assign bgV1 = page.bibleGatewayRef1 %}
 {% assign yvV1 = page.youVersionRef1 %}
