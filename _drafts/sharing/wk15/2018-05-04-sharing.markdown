@@ -1,0 +1,9 @@
+---
+layout: sharing
+date: 2018-05-04
+title: "讀經分享：【馨香】"
+categories: sharing
+weekNum: 15
+dayNum: 5
+permalink: /sharing/2018-05-04-sharing.html
+---
