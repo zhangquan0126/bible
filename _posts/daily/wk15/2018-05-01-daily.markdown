@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title:  "第15週 第2天 日日獻祭"
+title:  "第15週 第2天 米甸之役"
 date:   2018-05-01
 categories: daily
 permalink: /daily/wk15-day2-daily.html
