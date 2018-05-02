@@ -32,8 +32,25 @@ language: English
 {% assign weekly = "/en/guide/wk" | append:page.weekNum | append:".html#top" %}
 {% assign chUrl = page.permalink | replace_first: '/en/', '/' %}
 
+{% comment %}
+================================================
+// Get the Bible reading schedule from Chinese page
+// Generate the Bible links here on top of daily reading guide
+================================================
+{% endcomment %}
 
+{% assign tempResult = site.posts | where: "categories", "daily" %}
+{% assign tempResult = tempResult | where_exp: "item", "item.language != 'English'" %}
+{% assign tempResult = tempResult | where: "weekNum", page.weekNum %}
+{% assign chDaily Page = tempResult | where: "dayNum", page.dayNum %}
 
+{% if chDailyPage %}
+  {% assign page.bibleGatewayRef1 = chDailyPage.bibleGatewayRef1 %}
+  {% assign page.youVersionRef1 = chDailyPage.youVersionRef1 %}
+  {% assign page.bibleGatewayRef2 = chDailyPage.bibleGatewayRef2 %}
+  {% assign page.youVersionRef2 = chDailyPage.youVersionRef2 %}
+
+{% endif %}
 
 <p>
 <table>
@@ -47,10 +64,15 @@ language: English
 </table>
 <p>
 
+
+
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date: '%B %d, %Y' }}</p>
 
 {{ content }}
+
+
+
 
 {% assign pageDate = page.date | '%Y-%m-%d' %}
 {% assign sharings = site.posts | where: "categories", "sharing" %}
@@ -61,6 +83,9 @@ language: English
   {% endif %}
 {% endfor %}
 </ul>
+
+
+
 
 <table>
   <thead>
