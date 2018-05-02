@@ -15,56 +15,24 @@ youVersionRef2: "PSA.97"
 language: English
 ---
 
-{% assign verse1 = page.bibleTitle1 %}
-{% assign bgV1 = page.bibleGatewayRef1 %}
-{% assign yvV1 = page.youVersionRef1 %}
-{% assign verse2 = page.bibleTitle2 %}
-{% assign bgV2 = page.bibleGatewayRef2 %}
-{% assign yvV2 = page.youVersionRef2 %}
-
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/bible/111/" | append:yvV1 | append: ".NIV" %}
-
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/bible/111/" | append:yvV2 | append: ".NIV" %}
-
-[bgLink1]: {{ bgLink1 }}
-[bgLink2]: {{ bgLink2 }}
-[yvLink1]: {{ yvLink1 }}
-[yvLink2]: {{ yvLink2 }}
-
-Question
----
+### Question
 How did the Moabites deceive Israelites, cause them to sin and angered God?
 
-Scripture Reading
----
-[{{ verse1 }}][bgLink1] | [[YouVersion]][yvLink1]
-
-Meditation: God’s Story
----
+### Meditation: God’s Story
 + Israelites’ number had not changed much in the 40 years. This was a blessing from God for He promised Abraham’s descendants would become a great nation.
 
 + God blessed Zelophehad’s Daughters for they had the rightful view of their inheritances.
 
 + Moses was denied entry into the land of Canaan. He asked God in his last prayer for a new leader who would lead the Israelites into the promised land.
 
-Meditation: My Story
----
+### Meditation: My Story
 + **Walking with God** – Israelites number changed little after plagues, disasters, killings, and other punishments. God’s promises never change because of our weakness. Looking back in my life, do I often see my own failures or God’s faithfulness?
 
 + **Community** – Moses’ heart was with the people even though he was denied entry into the promised land. What can I pray for my family, church, and God’s leading in my services?
 
-Scripture Reading
----
-[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
+### Prayer
 
-Prayer
----
-
-
-Notes and Responses
----
+### Notes and Responses
 
 
 <p>
