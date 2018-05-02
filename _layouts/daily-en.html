@@ -75,6 +75,11 @@ language: English
   [yvLink1]: {{ yvLink1 }}
   [yvLink2]: {{ yvLink2 }}
 
+Scripture Reading
+---
+[{{ verse1 }}][bgLink1] | [[YouVersion]][yvLink1]
+[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
+
 {% endif %}
 
 <p>
@@ -94,10 +99,7 @@ language: English
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date: '%B %d, %Y' }}</p>
 
-Scripture Reading
----
-[{{ verse1 }}][bgLink1] | [[YouVersion]][yvLink1]
-[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
+
 
 {{ content }}
 
