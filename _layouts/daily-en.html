@@ -83,8 +83,10 @@ language: English
 <p class="meta">{{ page.date | date: '%B %d, %Y' }}</p>
 
 <h3>Scripture Reading</h3>
-<a href="{{ bgLink1 }}">{{ verse1 }}</a> | <a href="{{ yvLink1 }}">[YouVersion]</a>
-<a href="{{ bgLink2 }}">{{ verse2 }}</a> | <a href="{{ yvLink2 }}">[YouVersion]</a>
+<ul>
+  <li><a href="{{ bgLink1 }}">{{ verse1 }}</a> | <a href="{{ yvLink1 }}">[YouVersion]</a></li>
+  <li><a href="{{ bgLink2 }}">{{ verse2 }}</a> | <a href="{{ yvLink2 }}">[YouVersion]</a></li>
+</ul>
 
 {{ content }}
 
