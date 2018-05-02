@@ -93,7 +93,9 @@ language: English
 {{ content }}
 
 
+<h3>Prayer</h3>
 
+<h3>Notes and Responses</h3>
 
 {% assign pageDate = page.date | '%Y-%m-%d' %}
 {% assign sharings = site.posts | where: "categories", "sharing" %}
@@ -104,8 +106,6 @@ language: English
   {% endif %}
 {% endfor %}
 </ul>
-
-
 
 
 <table>
