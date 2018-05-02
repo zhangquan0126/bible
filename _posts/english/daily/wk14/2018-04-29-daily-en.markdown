@@ -15,14 +15,9 @@ youVersionRef2: "PSA.98"
 language: English
 ---
 
-### Bible Reading ###
-[{{ verse2 }}][bgLink2] | [【YouVersion】][yvLink2]
+### Prayer
 
-Prayer
----
-
-Notes & Responses
----
+### Notes & Responses
 
 
 <p>
