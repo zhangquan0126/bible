@@ -84,7 +84,9 @@ language: English
 
 <h3>Scripture Reading</h3>
 <ul>
-  <li><a href="{{ bgLink1 }}">{{ verse1 }} [@BibleGateway]</a> | <a href="{{ yvLink1 }}">[@YouVersion]</a></li>
+  {% if verse1.size > 0 %}
+    <li><a href="{{ bgLink1 }}">{{ verse1 }} [@BibleGateway]</a> | <a href="{{ yvLink1 }}">[@YouVersion]</a></li>
+  {% endif %}
   <li><a href="{{ bgLink2 }}">{{ verse2 }} [BibleGateway]</a> | <a href="{{ yvLink2 }}">[YouVersion]</a></li>
 </ul>
 
