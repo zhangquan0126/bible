@@ -4,6 +4,12 @@ title: {{ site.name }}
 language: English
 ---
 
+{% comment %}
+================================================
+// The Prev Day, Weekly, Next Day navigation bar
+================================================
+{% endcomment %}
+
 {% if page.dayNum == 1 %}
   {% assign prevWeekNum = page.weekNum | minus:"1" %}
   {% assign prevDayNum = 7 %}
@@ -25,6 +31,9 @@ language: English
 {% assign nextDay = "/en/daily/wk" | append:nextWeekNum | append:"-day" | append:nextDayNum | append:"-daily.html#top" %}
 {% assign weekly = "/en/guide/wk" | append:page.weekNum | append:".html#top" %}
 {% assign chUrl = page.permalink | replace_first: '/en/', '/' %}
+
+
+
 
 <p>
 <table>
