@@ -40,13 +40,9 @@ language: English
 {% endcomment %}
 
 {% assign tempResult = site.posts | where: "categories", "daily" %}
-tempResult.size; 
 {% assign tempResult = tempResult | where_exp: "item", "item.language != 'English'" %}
-tempResult.size; 
 {% assign tempResult = tempResult | where: "weekNum", page.weekNum %}
-tempResult.size; 
 {% assign chDailyPage = tempResult | where: "dayNum", page.dayNum %}
-chDailyPage.size; 
 
 {% if chDailyPage.size > 0 %}
   {% assign page.bibleGatewayRef1 = chDailyPage.bibleGatewayRef1 %}
