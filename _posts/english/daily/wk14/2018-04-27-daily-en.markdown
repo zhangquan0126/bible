@@ -15,54 +15,15 @@ youVersionRef2: "PSA.96"
 language: English
 ---
 
-{% assign verse1 = page.bibleTitle1 %}
-{% assign bgV1 = page.bibleGatewayRef1 %}
-{% assign yvV1 = page.youVersionRef1 %}
-{% assign verse2 = page.bibleTitle2 %}
-{% assign bgV2 = page.bibleGatewayRef2 %}
-{% assign yvV2 = page.youVersionRef2 %}
+### Question
+** How did the Moabites deceive Israelites, cause them to sin and angered God? **
 
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/bible/111/" | append:yvV1 | append: ".NIV" %}
-
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/bible/111/" | append:yvV2 | append: ".NIV" %}
-
-[bgLink1]: {{ bgLink1 }}
-[bgLink2]: {{ bgLink2 }}
-[yvLink1]: {{ yvLink1 }}
-[yvLink2]: {{ yvLink2 }}
-
-Question
----
-How did the Moabites deceive Israelites, cause them to sin and angered God?
-
-Scripture Reading
----
-[{{ verse1 }}][bgLink1] | [[YouVersion]][yvLink1]
-
-Meditation: God’s Story
----
+### Meditation: God’s Story
 + In reference to Numbers 31:8,16, the incident in this chapter was Balaam’s plan. He tried to corrupt the Israelites to cause them to separate from God and lose His protection.
 
 + Phinehas was zealous for God’s honor. He killed those sinful Israelites and turned away God’s anger for the Israelites. God made with Phinehas and his descendants the covenant of peace, the lasting priesthood.
 
-Meditation: My Story
----
+### Meditation: My Story
 + **Identity** – Satan’s deception is like Balaam’s, to corrupt God’s people from within to take them away from God. Am I falling for Satan’s deception? Ask God to remind me and keep me alert.
 
 + **Fidelity** – Phinehas’ zeal for God’s honor contrasts with Israelites. By no mean God wants us to judge upon others nor He wants us to carry out justice for Him. What does zeal for God’s honor mean in my daily life? How do I live it out?
-
-Scripture Reading
----
-[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
-
-Prayer
----
-
-
-Notes and Responses
----
-
-
-<p>
