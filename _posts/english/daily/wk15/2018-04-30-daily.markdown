@@ -7,7 +7,7 @@ permalink: /en/daily/wk15-day1-daily.html
 weekNum: 15
 dayNum: 1
 bibleTitle1: "Numbers 28-29"
-bibleTitle2: "Psalm 97"
+bibleTitle2: "Psalm 99"
 language: English
 ---
 
