@@ -15,10 +15,10 @@ youVersionRef2: "PSA.94"
 language: English
 ---
 
-{% include BibleLinks-en.html %}
-
 ### Question
 What did the Israelites experience when they came back to Kadesh in the final year of wandering?
+
+{% include BibleLinks-en.html %}
 
 ### Meditation: God’s Story
 + The last year of wandering in the desert. The Israelites came back to Kadesh where they rebelled against God’s will and refused to go into the land of Canaan.
