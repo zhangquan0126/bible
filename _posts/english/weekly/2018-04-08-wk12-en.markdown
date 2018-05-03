@@ -8,7 +8,7 @@ permalink: "/en/guide/wk12.html"
 weekNum: 12
 ---
 
-<div id="forward">
+<div id="forward"></div>
 <h3>Forward</h3>
 We are now completing the reading on the `Book of Leviticus` and starting on the `Book of Numbers`.
 
@@ -27,5 +27,4 @@ the Israelites wandered in the wilderness for 40 years and finally entered the p
 of Moab.
 
 May you all be renewed in God’s word!
-</div>
 
