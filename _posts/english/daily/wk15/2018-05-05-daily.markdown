@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title:  "Week 15 Day 5: Failure of Rebellion"
-date:   2018-05-04
+date:   2018-05-05
 categories: daily
 permalink: /en/daily/wk15-day6-daily.html
 weekNum: 15
