@@ -15,34 +15,10 @@ youVersionRef2: "PSA.86"
 language: English
 ---
 
-{% assign verse1 = page.bibleTitle1 %}
-{% assign bgV1 = page.bibleGatewayRef1 %}
-{% assign yvV1 = page.youVersionRef1 %}
-{% assign verse2 = page.bibleTitle2 %}
-{% assign bgV2 = page.bibleGatewayRef2 %}
-{% assign yvV2 = page.youVersionRef2 %}
+### Question
+**How Levites purified and made themselves ceremonially clean before they serve?**
 
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/bible/111/" | append:yvV1 | append: ".NIV" %}
-
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/bible/111/" | append:yvV2 | append: ".NIV" %}
-
-[bgLink1]: {{ bgLink1 }}
-[bgLink2]: {{ bgLink2 }}
-[yvLink1]: {{ yvLink1 }}
-[yvLink2]: {{ yvLink2 }}
-
-Question
----
-How Levites purified and made themselves ceremonially clean before they serve?
-
-Bible Reading
----
-[{{ verse1 }}][bgLink1] | [[YouVersion]][yvLink1] 
-
-Meditation: God’s Story
----
+### Meditation: God’s Story
 + In `8:1-4`, God commanded Moses to tell Aaron to light up the 7 golden lamps the first time. God
 wanted the area in front of the lampstands to be filled with light.
 
@@ -54,8 +30,7 @@ the Holy of the Holies.
 
 + Verses `9:1-14` records the first Passover after the Israelites came out of Egypt.
 
-Meditation: My Story
----
+### Meditation: My Story
 + **Walking with God** – In this passage we see God provided a way to celebrate Passover for those
 who wish to celebrate but unable to follow the regulations because they were unable to keep
 themselves ceremonially clean. However, those who were able to follow the regulations but
@@ -68,15 +43,3 @@ my daily life?
 
 + **Fidelity** – The Levites must first clean, then atone, and then present their offerings before they
 can serve. What does this ordering remind me of?
-
-Bible Reading
----
-[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
-
-Prayer
----
-
-Notes & Responses
----
- 
-<p>
