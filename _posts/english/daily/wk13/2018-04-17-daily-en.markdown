@@ -18,6 +18,8 @@ language: English
 ### Question
 **How Levites purified and made themselves ceremonially clean before they serve?**
 
+{% include BibleLinks-en.html %}
+
 ### Meditation: God’s Story
 + In `8:1-4`, God commanded Moses to tell Aaron to light up the 7 golden lamps the first time. God
 wanted the area in front of the lampstands to be filled with light.
