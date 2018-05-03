@@ -15,34 +15,12 @@ youVersionRef2: "PSA.89"
 language: English
 ---
 
-{% assign verse1 = page.bibleTitle1 %}
-{% assign bgV1 = page.bibleGatewayRef1 %}
-{% assign yvV1 = page.youVersionRef1 %}
-{% assign verse2 = page.bibleTitle2 %}
-{% assign bgV2 = page.bibleGatewayRef2 %}
-{% assign yvV2 = page.youVersionRef2 %}
-
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/bible/111/" | append:yvV1 | append: ".NIV" %}
-
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/bible/111/" | append:yvV2 | append: ".NIV" %}
-
-[bgLink1]: {{ bgLink1 }}
-[bgLink2]: {{ bgLink2 }}
-[yvLink1]: {{ yvLink1 }}
-[yvLink2]: {{ yvLink2 }}
-
-Question
----
+### Question
 How did the Israelites celebrate and serve when the Tabernacle was set up?
 
-Bible Reading
----
-[{{ verse1 }} [BibleGateway]][bgLink1] | [[YouVersion]][yvLink1] 
+{% include BibleLinks-en.html %}
 
-Meditation: God's Story 
----
+### Meditation: God's Story 
 + Scouts were sent out when the Israelites came to the land of Canaan. Israelites believed the
 exaggerated report from the scouts and were afraid of the people there. They didn’t want to
 follow Moses, Aaron, Caleb, Joshua and wanted to turn back to Egypt. They rebelled against
@@ -56,8 +34,7 @@ except Caleb and Joshua was allowed to enter the promised land.
 + Israelites became bitter and went ahead without God&#39;s permission. They were completely
 defeated as result.
 
-Meditation: My Story 
----
+### Meditation: My Story 
 + **Walking with God** – It can be seen from Moses’s prayers that he knew God&#39;s attributes. And,
 that his prayers were to glorify God. Can I pray like him?
 
@@ -65,15 +42,3 @@ that his prayers were to glorify God. Can I pray like him?
 advance into Canaan? What reports from the scouts were requested by Moses? What weren’t?
 What caused them to report the bad news and oppose to Caleb and Joshua’s strong faith by
 exaggerating their views? Is there anything I need to change in my services?
-
-Bible Reading
----
-[{{ verse2 }} [BibleGateway]][bgLink2] | [[YouVersion]][yvLink2]
-
-Prayer
----
-
-Notes & Responses
----
- 
-<p>
