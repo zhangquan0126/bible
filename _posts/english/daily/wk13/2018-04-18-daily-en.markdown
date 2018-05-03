@@ -16,7 +16,7 @@ language: English
 ---
 
 ### Question
-How did the Israelites follow God’s lead?
+**How did the Israelites follow God’s lead?**
 
 ### Meditation: God's Story 
 + Israelites encamped or moved on as God commanded.
