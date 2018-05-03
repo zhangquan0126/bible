@@ -16,7 +16,7 @@ language: English
 ---
 
 ### Question
-How did God displayed His faithfulness and blessings after He struck down on the Israelites?
+**How did God displayed His faithfulness and blessings after He struck down on the Israelites?**
 
 {% include BibleLinks-en.html %}
 
