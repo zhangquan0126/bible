@@ -14,3 +14,5 @@ bibleGatewayRef2: "ps.98"
 youVersionRef2: "PSA.98"
 language: English
 ---
+
+{% include BibleLinks.html %}
