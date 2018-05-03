@@ -18,6 +18,8 @@ language: English
 ### Question
 **How did the Israelites celebrate and serve when the Tabernacle was set up?**
 
+{% include BibleLinks-en.html %}
+
 ### Meditation: God’s Story
 + This chapter records the events after Exodus 40 where Moses set up the Tabernacle as God
 commanded, and His glory filled the Tabernacle. Here, the celebration and offering continued
