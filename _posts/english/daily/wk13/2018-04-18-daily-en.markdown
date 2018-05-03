@@ -15,34 +15,10 @@ youVersionRef2: "PSA.87"
 language: English
 ---
 
-{% assign verse1 = page.bibleTitle1 %}
-{% assign bgV1 = page.bibleGatewayRef1 %}
-{% assign yvV1 = page.youVersionRef1 %}
-{% assign verse2 = page.bibleTitle2 %}
-{% assign bgV2 = page.bibleGatewayRef2 %}
-{% assign yvV2 = page.youVersionRef2 %}
-
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/bible/111/" | append:yvV1 | append: ".NIV" %}
-
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/bible/111/" | append:yvV2 | append: ".NIV" %}
-
-[bgLink1]: {{ bgLink1 }}
-[bgLink2]: {{ bgLink2 }}
-[yvLink1]: {{ yvLink1 }}
-[yvLink2]: {{ yvLink2 }}
-
-Question
----
+### Question
 How did the Israelites follow God’s lead?
 
-Bible Reading
----
-[{{ verse1 }}][bgLink1] | [[YouVersion]][yvLink1] 
-
-Meditation: God's Story 
----
+### Meditation: God's Story 
 + Israelites encamped or moved on as God commanded.
 
 + God gave the Israelites two silver trumpets at the foot of Mount Sinai to signal their
@@ -56,27 +32,14 @@ covered in `10:11-22:1`.
 
 + God values His faithful servant. God strengthens when he is tired, avenges when he is wronged.
 
-Meditation: My Story 
----
+### Meditation: My Story
 + Walking with God – The ark of covenant was at the very front leading the way to find a restful
 place for the Israelites (10:33). During the day, the cloud covered them from the burning sun. It
 might look like a lot of hard work to follow God but it is always filled with His mercy and
 protection. Think about the love and care He gave me as well the encouragements this passage
 gives me.
- 
+
 + Identity – When the cloud lifted, the Israelites set out. When the cloud settled, they stayed.
 They sometimes would stay at one place for a long while. Sometimes they would move on the
 next day. When the trumpets sound, they followed. Following God means not following our own
 desires, no matter what. What am I following today, my own desire or God?
-
-Bible Reading
----
-[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
-
-Prayer
----
-
-Notes & Responses
----
- 
-<p>
