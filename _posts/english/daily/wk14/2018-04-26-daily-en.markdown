@@ -15,10 +15,10 @@ youVersionRef2: "PSA.95"
 language: English
 ---
 
-{% include BibleLinks-en.html %}
-
 ### Question
 **Why Balaam blessed Israelites when Balak wanted him to curse them?**
+
+{% include BibleLinks-en.html %}
 
 ### Meditation: God’s Story
 + Moab wasn’t their aim when the Israelites came to camp across from Jericho. Balak summoned Balaam to curse the Israelites but God made him to bless them instead.
