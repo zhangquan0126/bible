@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title:  "Week 15 Day 4: Boundaries of Canaan"
-date:   2018-05-02
+date:   2018-05-03
 categories: daily
 permalink: /en/daily/wk15-day4-daily.html
 weekNum: 15
