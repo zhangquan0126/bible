@@ -15,34 +15,10 @@ youVersionRef2: "PSA.85"
 language: English
 ---
 
-{% assign verse1 = page.bibleTitle1 %}
-{% assign bgV1 = page.bibleGatewayRef1 %}
-{% assign yvV1 = page.youVersionRef1 %}
-{% assign verse2 = page.bibleTitle2 %}
-{% assign bgV2 = page.bibleGatewayRef2 %}
-{% assign yvV2 = page.youVersionRef2 %}
+### Question
+**How did the Israelites celebrate and serve when the Tabernacle was set up?**
 
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/bible/111/" | append:yvV1 | append: ".NIV" %}
-
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/bible/111/" | append:yvV2 | append: ".NIV" %}
-
-[bgLink1]: {{ bgLink1 }}
-[bgLink2]: {{ bgLink2 }}
-[yvLink1]: {{ yvLink1 }}
-[yvLink2]: {{ yvLink2 }}
-
-Question
----
-How did the Israelites celebrate and serve when the Tabernacle was set up?
-
-Bible Reading
----
-[{{ verse1 }}][bgLink1] | [[YouVersion]][yvLink1]
-
-Meditation: God’s Story
----
+### Meditation: God’s Story
 + This chapter records the events after Exodus 40 where Moses set up the Tabernacle as God
 commanded, and His glory filled the Tabernacle. Here, the celebration and offering continued
 for 12 days as response to God’s promises.
@@ -59,8 +35,7 @@ tribes.
 between the two cherubim above the atonement cover on the ark. This was the first time
 Moses spoke with God after the Tabernacle was set up.
 
-Meditation: My Story
----
+### Meditation: My Story
 + **Identity** – The same offerings presented 12 times and recorded 12 times show clearly that the
 tribes were all accepted by God equally. In God’s eyes, there’s no difference between what
 others offered and what I offered. Do I see differences between the services others do and
@@ -68,15 +43,3 @@ mine?
 
 + **Fidelity** – The Israelites saw the glory of God and presented their offerings. Do I see God’s glory
 in my life? What can I present to Him as my spiritual offering to His faithfulness?
-
-Bible Reading
----
-[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
-
-Prayer
----
-
-Notes & Responses
----
- 
-<p>
