@@ -15,59 +15,21 @@ youVersionRef2: "PSA.83"
 language: English
 ---
 
-{% assign verse1 = page.bibleTitle1 %}
-{% assign bgV1 = page.bibleGatewayRef1 %}
-{% assign yvV1 = page.youVersionRef1 %}
-{% assign verse2 = page.bibleTitle2 %}
-{% assign bgV2 = page.bibleGatewayRef2 %}
-{% assign yvV2 = page.youVersionRef2 %}
+### Question
+**How did God make Israelites the holy nation?**
 
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/bible/111/" | append:yvV1 | append: ".NIV" %}
+{% include BibleLinks-en.html %}
 
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/bible/111/" | append:yvV2 | append: ".NIV" %}
-
-[bgLink1]: {{ bgLink1 }}
-[bgLink2]: {{ bgLink2 }}
-[yvLink1]: {{ yvLink1 }}
-[yvLink2]: {{ yvLink2 }}
-
-Question
----
-How did God make Israelites the holy nation?
-
-Bible Reading
----
-[{{ verse1 }}][bgLink1] | [[YouVersion]][yvLink1]
-
-Meditation: God’s Story
----
+### Meditation: God’s Story
 + God called the Israelites to become His holy nation.
 
 + The laws to keep the Israelites clean:
   * Restitution for wrongs: to keep Israelites united.
   * Holy marriage: to keep the descendants clean.
   * Nazirites: a special testimony to God’s calling.
-  * Aaron’s blessing: Reaffirmed God’s promises and pointed the Israelites to the promised
-land.
+  * Aaron’s blessing: Reaffirmed God’s promises and pointed the Israelites to the promised land.
 
-Meditation: My Story
----
-+ Community – God made the Israelites His and established laws and rules on restitution to keep
-them united. Do I value the unity of Christians or am I damaging it?
+### Meditation: My Story
++ Community – God made the Israelites His and established laws and rules on restitution to keep them united. Do I value the unity of Christians or am I damaging it?
 
-+ Fidelity – God put great emphasis on fidelity in marriage. Do I value my marriage as holy and
-being faithful to my spouse?
-
-Bible Reading
----
-[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
-
-Prayer
----
-
-Notes & Responses
----
- 
-<p> 
++ Fidelity – God put great emphasis on fidelity in marriage. Do I value my marriage as holy and being faithful to my spouse?
