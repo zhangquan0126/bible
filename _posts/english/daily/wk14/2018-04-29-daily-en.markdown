@@ -15,4 +15,4 @@ youVersionRef2: "PSA.98"
 language: English
 ---
 
-{% include BibleLinks.html %}
+{% include BibleLinks-en.html %}
