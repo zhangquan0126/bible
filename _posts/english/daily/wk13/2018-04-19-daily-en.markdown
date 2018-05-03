@@ -15,34 +15,10 @@ youVersionRef2: "PSA.88"
 language: English
 ---
 
-{% assign verse1 = page.bibleTitle1 %}
-{% assign bgV1 = page.bibleGatewayRef1 %}
-{% assign yvV1 = page.youVersionRef1 %}
-{% assign verse2 = page.bibleTitle2 %}
-{% assign bgV2 = page.bibleGatewayRef2 %}
-{% assign yvV2 = page.youVersionRef2 %}
-
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/bible/111/" | append:yvV1 | append: ".NIV" %}
-
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/bible/111/" | append:yvV2 | append: ".NIV" %}
-
-[bgLink1]: {{ bgLink1 }}
-[bgLink2]: {{ bgLink2 }}
-[yvLink1]: {{ yvLink1 }}
-[yvLink2]: {{ yvLink2 }}
-
-Question
----
+### Question
 How did God look after His faithful servant when people complained and talked against him?
 
-Bible Reading
----
-[{{ verse1 }} [BibleGateway]][bgLink1] | [[YouVersion]][yvLink1] 
-
-Meditation: God's Story 
----
+### Meditation: God's Story 
 + Israelites started their complaints again just three days out of Sinai. This angered God and
 burned some of them until Moses prayed for them.
 
@@ -55,8 +31,7 @@ Miriam immediately.
 
 + God values His faithful servant. God strengthens when he is tired, avenges when he is wronged.
 
-Meditation: My Story 
----
+### Meditation: My Story
 + Walking with God – Like they were at the foot of Mount Sinai, the Israelites complained just
 three days out of Sinai. There are always peaks and valleys in our spiritual lives. How does the
 lesson Israelites received help me?
@@ -66,19 +41,7 @@ Am I willing to forgive others? Am I willing to pray for them?
 
 + Integrity – Bible said the rabble craved other foods. Am I a rabble in my spiritual life? Do the
 medias influence my thoughts? Can I turn to God’s word to block out the bad influences?
- 
+
 + Integrity – It is not a display of weak faith when Moses was tired and prayed to God. God helped
 him and avenged for him. Am I being wronged by others? Do not worry, pray and let God be the
 judge.
-
-Bible Reading
----
-[{{ verse2 }} [BibleGateway]][bgLink2] | [[YouVersion]][yvLink2]
-
-Prayer
----
-
-Notes & Responses
----
- 
-<p>
