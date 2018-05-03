@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title:  "Week 15 Day 3: Land of Wandering"
-date:   2018-05-01
+date:   2018-05-03
 categories: daily
 permalink: /en/daily/wk15-day3-daily.html
 weekNum: 15
