@@ -1,0 +1,40 @@
+{% comment %}
+================================================
+// Get the Bible reading schedule from Chinese page
+// Generate the Bible links here on top of daily reading guide
+================================================
+{% endcomment %}
+
+{% assign tempResult = site.posts | where: "categories", "daily" %}
+{% assign tempResult = tempResult | where_exp: "item", "item.language != 'English'" %}
+{% assign tempResult = tempResult | where: "weekNum", page.weekNum %}
+{% assign chDailyPage = tempResult | where: "dayNum", page.dayNum %}
+
+{% if chDailyPage.size > 0 %}
+  {% assign page.bibleGatewayRef1 = chDailyPage.bibleGatewayRef1 %}
+  {% assign page.youVersionRef1 = chDailyPage.youVersionRef1 %}
+  {% assign page.bibleGatewayRef2 = chDailyPage.bibleGatewayRef2 %}
+  {% assign page.youVersionRef2 = chDailyPage.youVersionRef2 %}
+
+  {% assign verse1 = page.bibleTitle1 %}
+  {% assign bgV1 = page.bibleGatewayRef1 %}
+  {% assign yvV1 = page.youVersionRef1 %}
+  {% assign verse2 = page.bibleTitle2 %}
+  {% assign bgV2 = page.bibleGatewayRef2 %}
+  {% assign yvV2 = page.youVersionRef2 %}
+ 
+  {% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
+  {% assign yvLink1 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV1 | append: ".CUNP" %} 
+  
+  {% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
+  {% assign yvLink2 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV2 | append: ".CUNP" %}
+
+{% endif %}
+
+<h3>Scripture Reading</h3>
+<ul>
+  {% if verse1.size > 0 %}
+    <li><a href="{{ bgLink1 }}">{{ verse1 }}</a> | <a href="{{ yvLink1 }}">[YouVersion]</a></li>
+  {% endif %}
+  <li><a href="{{ bgLink2 }}">{{ verse2 }}</a> | <a href="{{ yvLink2 }}">[YouVersion]</a></li>
+</ul>
