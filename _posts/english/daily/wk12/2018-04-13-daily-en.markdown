@@ -15,54 +15,15 @@ youVersionRef2: "PSA.82"
 language: English
 ---
 
-{% assign verse1 = page.bibleTitle1 %}
-{% assign bgV1 = page.bibleGatewayRef1 %}
-{% assign yvV1 = page.youVersionRef1 %}
-{% assign verse2 = page.bibleTitle2 %}
-{% assign bgV2 = page.bibleGatewayRef2 %}
-{% assign yvV2 = page.youVersionRef2 %}
+### Question
+**How did God make Israel a kingdom of priests?**
 
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/bible/111/" | append:yvV1 | append: ".NIV" %}
+{% include BibleLinks-en.html %}
 
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/bible/111/" | append:yvV2 | append: ".NIV" %}
-
-[bgLink1]: {{ bgLink1 }}
-[bgLink2]: {{ bgLink2 }}
-[yvLink1]: {{ yvLink1 }}
-[yvLink2]: {{ yvLink2 }}
-
-Question
----
-How did God make Israel a kingdom of priests?
-
-Bible Reading
----
-[{{ verse1 }}][bgLink1] | [[YouVersion]][yvLink1]
-
-Meditation: God’s Story
----
+### Meditation: God’s Story
 + Chapter 3 starts in Genesis like fashion with the lineage of the Levites.
 
-+ God established the kingdom of priests as the works for the tribe of Levi were around the
-Tabernacle signifying God’s covenant with Israelites and His presence.
++ God established the kingdom of priests as the works for the tribe of Levi were around the Tabernacle signifying God’s covenant with Israelites and His presence.
 
-Meditation: My Story
----
-+ Identity – Reference Genesis 49 and Exodus 32. Levites loved God and offered themselves to
-God. Now God took the Levites as substitute for all Israelite firstborns to serve Him. Likewise,
-when we turn to God, we are offering ourselves to Him and serve Him. Think about the
-transformation God has done for my life.
-
-Bible Reading
----
-[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
-
-Prayer
----
-
-Notes & Responses
----
- 
-<p> 
+### Meditation: My Story
++ Identity – Reference Genesis 49 and Exodus 32. Levites loved God and offered themselves to God. Now God took the Levites as substitute for all Israelite firstborns to serve Him. Likewise, when we turn to God, we are offering ourselves to Him and serve Him. Think about the transformation God has done for my life.
