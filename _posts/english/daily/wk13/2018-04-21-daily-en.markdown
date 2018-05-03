@@ -15,34 +15,12 @@ youVersionRef2: "PSA.90"
 language: English
 ---
 
-{% assign verse1 = page.bibleTitle1 %}
-{% assign bgV1 = page.bibleGatewayRef1 %}
-{% assign yvV1 = page.youVersionRef1 %}
-{% assign verse2 = page.bibleTitle2 %}
-{% assign bgV2 = page.bibleGatewayRef2 %}
-{% assign yvV2 = page.youVersionRef2 %}
-
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/bible/111/" | append:yvV1 | append: ".NIV" %}
-
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/bible/111/" | append:yvV2 | append: ".NIV" %}
-
-[bgLink1]: {{ bgLink1 }}
-[bgLink2]: {{ bgLink2 }}
-[yvLink1]: {{ yvLink1 }}
-[yvLink2]: {{ yvLink2 }}
-
-Question
----
+### Question
 How did God displayed His faithfulness and blessings after He struck down on the Israelites?
 
-Bible Reading
----
-[{{ verse1 }}][bgLink1] | [[YouVersion]][yvLink1] 
+{% include BibleLinks-en.html %}
 
-Meditation: God's Story 
----
+### Meditation: God's Story 
 + Right after God struck down on the Israelites in chapter 14, He gave Moses the regulations on
 offerings when they go into the promised land. It can be seen clearly here that God was faithful
 to His covenant with Abraham, Isaac, and Jacob.
@@ -57,8 +35,7 @@ same offerings, and receive the same blessings or punishments. God is the God fo
 
 + God commanded Israelites to put tassels on their garments to remember God’s commands.
 
-Meditation: My Story 
----
+### Meditation: My Story 
 + **Integrity** – God treats intentional sins different from unintentional ones. God sees the Gentiles
 the same as the Jews. What do I learn from these truth about God’s sovereignty and attributes?
 How do they remind me and encourage me?
@@ -67,14 +44,3 @@ How do they remind me and encourage me?
 not to follow their own sinful wills. Is there anything I can use to remind myself of God’s word
 and stay away from the worldly filth?
 
-Bible Reading
----
-[{{ verse2 }}][bgLink2] | [【YouVersion】][yvLink2]
-
-Prayer
----
-
-Notes & Responses
----
-
-<p>
