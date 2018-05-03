@@ -15,62 +15,19 @@ youVersionRef2: "PSA.79"
 language: English
 ---
 
-{% assign verse1 = page.bibleTitle1 %}
-{% assign bgV1 = page.bibleGatewayRef1 %}
-{% assign yvV1 = page.youVersionRef1 %}
-{% assign verse2 = page.bibleTitle2 %}
-{% assign bgV2 = page.bibleGatewayRef2 %}
-{% assign yvV2 = page.youVersionRef2 %}
+### Question
+**What are the blessings for being obedient and the punishments for disobedient?**
 
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/bible/111/" | append:yvV1 | append: ".NIV" %}
+{% include BibleLinks-en.html %}
 
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/bible/111/" | append:yvV2 | append: ".NIV" %}
-
-[bgLink1]: {{ bgLink1 }}
-[bgLink2]: {{ bgLink2 }}
-[yvLink1]: {{ yvLink1 }}
-[yvLink2]: {{ yvLink2 }}
-
-Question
----
-What are the blessings for being obedient and the punishments for disobedient?
-
-Bible Reading
----
-[{{ verse1 }}][bgLink1] | [[YouVersion]][yvLink1]
-
-Meditation: God’s Story
----
+### Meditation: God’s Story
 + Proclaim the blessings and punishments after the covenant was made.
 
-+ Verses 3 to 13 are the blessings: rain comes, crop grows, peace in the land, and Israelites’
-number increase.
++ Verses 3 to 13 are the blessings: rain comes, crop grows, peace in the land, and Israelites’ number increase.
 
-+ Verses 14-46 are the punishments: disasters, crop dies, losing war, famine, and people die. Not
-all disaster would come all at once. God always give His people chances to repent and turn
-around. Each time a disaster strikes, the next disaster comes only “`if in spite of these things you
-do not accept my correction but continue to be hostile toward me.`”
++ Verses 14-46 are the punishments: disasters, crop dies, losing war, famine, and people die. Not all disaster would come all at once. God always give His people chances to repent and turn around. Each time a disaster strikes, the next disaster comes only “`if in spite of these things you do not accept my correction but continue to be hostile toward me.`”
 
-Meditation: My Story
----
-+ Identity – God blesses His people. He blesses those who obey His commands and love Him. Do I
-often see God’s mercy and love by counting the blessings He has bestowed on me?
+### Meditation: My Story
++ Identity – God blesses His people. He blesses those who obey His commands and love Him. Do I often see God’s mercy and love by counting the blessings He has bestowed on me?
 
-+ Integrity – God sends disaster to people not to punish them but to give them a chance to turn
-around. What characters of God do I realize from the incremental disasters He places? Have I in
-my life been reminded or impeded by Holy Spirit? Am I willing to understand His will and turn
-around to obey Him?
-
-Bible Reading
----
-[{{ verse2 }}][bgLink2] | [[YouVersion]][yvLink2]
-
-Prayer
----
-
-Notes & Responses
----
- 
-<p> 
++ Integrity – God sends disaster to people not to punish them but to give them a chance to turn around. What characters of God do I realize from the incremental disasters He places? Have I in my life been reminded or impeded by Holy Spirit? Am I willing to understand His will and turn around to obey Him?
