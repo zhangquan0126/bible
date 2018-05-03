@@ -16,7 +16,7 @@ language: English
 ---
 
 ### Question
-How did the Israelites celebrate and serve when the Tabernacle was set up?
+**How did the Israelites celebrate and serve when the Tabernacle was set up?**
 
 {% include BibleLinks-en.html %}
 
