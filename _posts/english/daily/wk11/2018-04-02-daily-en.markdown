@@ -1,0 +1,17 @@
+---
+layout: daily-en
+title:  "Week 11 Day 1: Failure of Rebellion"
+date:   2018-04-02
+categories: daily
+permalink: /en/daily/wk11-day1-daily.html
+weekNum: 11
+dayNum: 1
+bibleTitle1: "Deuteronomy 1"
+bibleTitle2: "Psalm 104"
+language: English
+---
+
+### Question
+**Why did the previous generation of Israelites fail to enter the promised land 40 years ago?**
+
+{% include BibleLinks-en.html %}
