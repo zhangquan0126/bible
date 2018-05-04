@@ -6,7 +6,7 @@ categories: daily
 permalink: /en/daily/wk11-day6-daily.html
 weekNum: 11
 dayNum: 6
-bibleTitle1: "23:1-24:9"
+bibleTitle1: "Leviticus 23:1-24:9"
 bibleTitle2: "Psalm 76"
 language: English
 ---
