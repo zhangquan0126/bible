@@ -1,7 +1,7 @@
 ---
 layout: weekly-en
 title:  "Weekly Guide ：Week 8"
-date:   2018-03-18
+date:   2018-03-25
 language: English
 categories: weekly guide
 permalink: "/en/guide/wk8.html"
