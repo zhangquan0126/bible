@@ -7,7 +7,7 @@ permalink: /en/daily/wk11-day7-daily.html
 weekNum: 11
 dayNum: 7
 bibleTitle1: 
-bibleTitle2: "Psalm 104"
+bibleTitle2: "Psalm 77"
 language: English
 ---
 
