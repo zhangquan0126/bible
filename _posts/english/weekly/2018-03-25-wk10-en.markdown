@@ -1,0 +1,9 @@
+---
+layout: weekly-en
+title:  "Weekly Guide ：Week 10"
+date:   2018-03-25
+language: English
+categories: weekly guide
+permalink: "/en/guide/wk10.html"
+weekNum: 10
+---
