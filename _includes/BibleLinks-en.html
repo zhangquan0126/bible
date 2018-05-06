@@ -8,13 +8,13 @@
 {% assign tempResult = site.posts | where: "categories", "daily" %}
 {% assign tempResult = tempResult | where_exp: "item", "item.language != 'English'" %}
 {% assign tempResult = tempResult | where: "weekNum", page.weekNum %}
-{% assign chDailyPage = tempResult | where: "dayNum", page.dayNum %}
+{% assign chDailyPage = tempResult | where: "dayNum", page.dayNum | first %}
 
-{% if chDailyPage.size > 0 %}
-  {% assign page.bibleGatewayRef1 = chDailyPage[0].bibleGatewayRef1 %}
-  {% assign page.youVersionRef1 = chDailyPage[0].youVersionRef1 %}
-  {% assign page.bibleGatewayRef2 = chDailyPage[0].bibleGatewayRef2 %}
-  {% assign page.youVersionRef2 = chDailyPage[0].youVersionRef2 %}
+{% if chDailyPage %}
+  {% assign page.bibleGatewayRef1 = chDailyPage.bibleGatewayRef1 %}
+  {% assign page.youVersionRef1 = chDailyPage.youVersionRef1 %}
+  {% assign page.bibleGatewayRef2 = chDailyPage.bibleGatewayRef2 %}
+  {% assign page.youVersionRef2 = chDailyPage.youVersionRef2 %}
 
   {% assign verse1 = chDailyPage.bibleTitle1 %}
   {% assign bgV1 = chDailyPage.bibleGatewayRef1 %}
