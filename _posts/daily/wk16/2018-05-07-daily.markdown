@@ -16,10 +16,7 @@ youVersionRef2: "PSA.106"
 
 ### 問題: 
 
-### 讀經：
 {% include BibleLinks.html %}
-
-### 默想：神的故事 
 
 ### 默想：我的故事 
 
