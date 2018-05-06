@@ -1,1 +1,28 @@
+---
+layout: daily2
+title:  "第16週 第1天 "
+date:   2018-05-07
+categories: daily
+permalink: /daily/wk16-day1-daily.html
+weekNum: 16
+dayNum: 1
+bibleTitle1: "申命記 2"
+bibleGatewayRef1: "deut.2"
+youVersionRef1: "DEU.2"
+bibleTitle2: "詩篇 106"
+bibleGatewayRef2: "ps.106"
+youVersionRef2: "PSA.106"
+---
 
+### 問題: 
+
+### 讀經：
+{% include "BibleLinks.html" %}
+
+### 默想：神的故事 
+
+### 默想：我的故事 
+
+### 禱告：
+
+### 筆記與回應：
