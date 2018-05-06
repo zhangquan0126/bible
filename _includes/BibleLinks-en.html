@@ -10,6 +10,8 @@
 {% assign tempResult = tempResult | where: "weekNum", page.weekNum %}
 {% assign chDailyPage = tempResult | where: "dayNum", page.dayNum %}
 
+page.weekNum + page.dayNum
+
 {% if chDailyPage.size > 0 %}
   {% assign page.bibleGatewayRef1 = chDailyPage.bibleGatewayRef1 %}
   {% assign page.youVersionRef1 = chDailyPage.youVersionRef1 %}
@@ -28,7 +30,7 @@
   
   {% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
   {% assign yvLink2 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV2 | append: ".CUNP" %}
-
+  ---- Found ---  
 {% endif %}
 
 <h3>Scripture Reading</h3>
