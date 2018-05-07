@@ -8,7 +8,7 @@ weekNum: 16
 dayNum: 3
 bibleTitle1: "申命記 4:44-5:33"
 bibleGatewayRef1: "deut.4:44-5:33"
-youVersionRef1: "DEU.4:44-5:33"
+youVersionRef1: "DEU.4"
 bibleTitle2: "詩篇 108"
 bibleGatewayRef2: "ps.108"
 youVersionRef2: "PSA.108"
@@ -20,7 +20,9 @@ youVersionRef2: "PSA.108"
 
 ### 默想：神的故事 
 + 摩西在`申命記第5-11章`，向以色列人陳明神的律法。
+
 +	摩西向新一代以色列民重申十誡。十誡是神的律法的核心，前四誡關乎神，後六誡關乎人。
+
 +	摩西強調`「這約不是與我們列祖立的，乃是與我們今日在這裏存活之人立的」（5:3）`。
 
 
