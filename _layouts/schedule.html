@@ -19,12 +19,12 @@ plan:
         - verseYV: PSA.111
 ---
 
-{% assign verse1 = plan.schedule.d97.verse1.titleCh %}
-{% assign bgV1 = plan.schedule.d97.verse1.verseBG %}
-{% assign yvV1 = plan.schedule.d97.verse1.verseYV %}
-{% assign verse2 = plan.schedule.d97.verse2.titleCh %}
-{% assign bgV2 = plan.schedule.d97.verse2.verseBG %}
-{% assign yvV2 = plan.schedule.d97.verse1.verseYV %}
+{% assign verse1 = page.plan.schedule.d97.verse1.titleCh %}
+{% assign bgV1 = page.plan.schedule.d97.verse1.verseBG %}
+{% assign yvV1 = page.plan.schedule.d97.verse1.verseYV %}
+{% assign verse2 = page.plan.schedule.d97.verse2.titleCh %}
+{% assign bgV2 = page.plan.schedule.d97.verse2.verseBG %}
+{% assign yvV2 = page.plan.schedule.d97.verse1.verseYV %}
 
 {% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPT" %}
 {% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPS" %}
@@ -36,9 +36,10 @@ plan:
 {% assign bgLink6 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
 {% assign yvLink2 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV2 | append: ".CUNP" %}
 
-{{ plan.name }}
-{{ plan.totalDays }}
-{{ plan.startDate }}
+{{ page.langeuage }}
+{{ page.plan.name }}
+{{ page.plan.totalDays }}
+{{ page.plan.startDate }}
 <a href="{{ bgLink1 }}">{{ verse1 }}</a>
 
 <a href="{{ bgLink2 }}">{{ verse2 }}</a>
