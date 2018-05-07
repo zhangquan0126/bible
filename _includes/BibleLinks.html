@@ -31,17 +31,25 @@
 
 <h3>讀經：</h3>
 <ul>
-  <li><a href="{{ bgLink1 }}">{{ verse1 }}【繁體】</a> <br/>
+  {% if verse1 %}
+  <li>
     <table>
+      <tr>
+        <td colspan=2><a href="{{ bgLink1 }}">{{ verse1 }}【繁體】</a></td>
+      </tr>
       <tr>
         <td><a href="{{ bgLink2 }}">【简体】</a></td>
         <td><a href="{{ yvLink1 }}">【YouVersion】</a></td>
       </tr>
     </table>
   </li>
+  {% endif %}
   
-  <li><a href="{{ bgLink4 }}">{{ verse2 }}【繁體】</a> <br/>
+  <li>
     <table>
+      <tr>
+        <td colspan=2><a href="{{ bgLink4 }}">{{ verse2 }}【繁體】</a></td>
+      </tr>
       <tr>
         <td><a href="{{ bgLink5 }}">【简体】</a></td>
         <td><a href="{{ yvLink2 }}">【YouVersion】</a></td>
