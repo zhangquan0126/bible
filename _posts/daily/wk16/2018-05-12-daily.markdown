@@ -8,7 +8,7 @@ weekNum: 16
 dayNum: 6
 bibleTitle1: "申命記 10-11"
 bibleGatewayRef1: "deut.10-11"
-youVersionRef1: "DEU.10-11"
+youVersionRef1: "DEU.10"
 bibleTitle2: "詩篇 111"
 bibleGatewayRef2: "ps.111"
 youVersionRef2: "PSA.111"
@@ -20,7 +20,9 @@ youVersionRef2: "PSA.111"
 
 ### 默想：神的故事 
 + 摩西按照神的吩咐，重新鑿出兩塊石版，上面有神再次親筆書寫的十誡，存放在耐久的皂莢木櫃中。
+
 +	摩西提醒百姓，神是`「萬神之神，萬主之主，至大的神，大有能力，大而可畏」`；神的要求是他們`敬畏祂，遵行祂的道，愛他，盡心盡性事奉祂`，好讓他們活在神的恩典、祝福當中。
+
 +	摩西叮囑百姓要守神所吩咐的一切誡命，就會有神滿滿的祝福。
 
 ### 默想：我的故事 
