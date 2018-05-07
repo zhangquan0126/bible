@@ -8,7 +8,7 @@ weekNum: 16
 dayNum: 2
 bibleTitle1: "申命記 4:1-43"
 bibleGatewayRef1: "deut.4:1-43"
-youVersionRef1: "DEU.4:1-43"
+youVersionRef1: "DEU.4"
 bibleTitle2: "詩篇 107"
 bibleGatewayRef2: "ps.107"
 youVersionRef2: "PSA.107"
@@ -20,6 +20,7 @@ youVersionRef2: "PSA.107"
 
 ### 默想：神的故事 
 + `4:1-40` 摩西呼天喚地一再勸誡以色列民要謹守遵行神的律例典章，並且要傳給子子孫孫，好使他們在應許之地存活、得那地為業。
+
 + `4:41-43` 摩西在約旦河東分定三座逃城，為兩個半支派分定地界。
 
 ### 默想：我的故事 
