@@ -45,3 +45,5 @@ plan:
 <a href="{{ bgLink2 }}">{{ verse2 }}</a>
 
 Under Construction!
+
+{{ site.name }}
