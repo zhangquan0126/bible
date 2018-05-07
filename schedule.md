@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 language: Chinese
 plan:
   name: "「從聖經看屬靈生命」"
