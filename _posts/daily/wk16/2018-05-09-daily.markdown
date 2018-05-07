@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title:  "第16週 第2天 呼天喚地"
+title:  "第16週 第3天 十條誡命"
 date:   2018-05-09
 categories: daily
 permalink: /daily/wk16-day3-daily.html
