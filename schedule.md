@@ -2,20 +2,20 @@
 layout: post
 language: Chinese
 plan:
-- name: "「從聖經看屬靈生命」"
+  name: "「從聖經看屬靈生命」"
   startDate: "02-15-2018"
   totalDays: 730
   days: 
-    - index: 97
-      verses:
-        - titleCh: 申命記 10-11
-          titleEn: Deuteronomy 10-11
-          verseBG: duet.10-11
-          verseYV: DUE.1
-        - titleCh: 詩篇 111
-          titleEn: Psalm 111
-          verseBG: ps.111
-          verseYV: PSA.111
+    index: 97
+    verses:
+      - titleCh: 申命記 10-11
+        titleEn: Deuteronomy 10-11
+        verseBG: duet.10-11
+        verseYV: DUE.1
+      - titleCh: 詩篇 111
+        titleEn: Psalm 111
+        verseBG: ps.111
+        verseYV: PSA.111
 ---
 
 {% assign verse1 = page.plan.days[0].verses[0].titleCh %}
