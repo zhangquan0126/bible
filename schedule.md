@@ -1,9 +1,8 @@
 ---
 layout: post
-language: Chinese
 plan:
   name: "「從聖經看屬靈生命」"
-  startDate: "02-15-2018"
+  startDate: "01-22-2018"
   totalDays: 730
   days: 
     - index: "w1d1"
