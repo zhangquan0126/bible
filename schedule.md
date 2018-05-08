@@ -68,5 +68,4 @@ Under Construction!
 {% endfor %}
 </ul>
  
-{% endfor %}
   
