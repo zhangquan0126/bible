@@ -12,7 +12,7 @@ language: English
 ---
 
 ### Question
-**How did Moses summarize the way Israelites complete their wandering in the wilderness and the final push up north?**
+**What did Moses plead desperately to Israelites?**
 
 {% include BibleLinks-en.html %}
 
