@@ -16,7 +16,7 @@ language: English
 
 {% include BibleLinks-en.html %}
 
-### Meditation: God?s Story
+### Meditation: God's Story
 + God gave the Israelites the laws in chapters 5 to 11.
 
 + God reiterates the ten commandments to the new generation of Israelites. The ten commandments are the essence of the law. The first four are about God, the last six are about people.
