@@ -12,7 +12,7 @@ language: English
 ---
 
 ### Question
-**hat happens if one obeys God? What happens if otherwise?**
+**What happens if one obeys God? What happens if otherwise?**
 
 {% include BibleLinks-en.html %}
 
