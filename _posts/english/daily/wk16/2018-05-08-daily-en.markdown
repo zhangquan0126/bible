@@ -6,7 +6,7 @@ categories: daily
 permalink: /en/daily/wk16-day2-daily.html
 weekNum: 16
 dayNum: 2
-bibleTitle1: "Deuteronomy 4:44-5:33"
+bibleTitle1: "Deuteronomy 4:1-43"
 bibleTitle2: "Psalm 107"
 language: English
 ---
@@ -17,11 +17,12 @@ language: English
 {% include BibleLinks-en.html %}
 
 ### Meditation: God's Story  
-+ God gave the Israelites the laws in chapters 5 to 11.
++ Moses pleaded continuously to Israelites to obey God's law and pass on the obedience to their descendants so they may continue living on the promised land.
 
-+ God reiterates the ten commandments to the new generation of Israelites. The ten commandments are the essence of the law. The first four are about God, the last six are about people.
-
-+ Moses stressed: `"it was not with our ancestors that the Lord made this covenant, but with us, with all of us who are alive here today." (Deu. 5:3)`
++ Moses established three cities of refuge to the east of Jordan river for the two and half tribes.
 
 ### Meditation: My Story  
-+ **Walking with God** The Israelites feared God as they heard His voice in the fire. Jesus said: `"because you have seen me, you have believed; blessed are those who have not seen and yet have believed." (John 20:29)` Do I fear God from the bottom of my heart so that I would obey His law and cause myself and descendants to be blessed?
++ **Walking with God** As a result of obeying God's law, `will show your wisdom and understanding to the nations, who will hear about all these decrees and say, Surely this great nation is a wise and understanding people.` Is my head knowledge of God's law real wisdom? Do I have the law embedded deep in my heart?
+
++ **Walking with God** God forbids idolatry because we believe what can be seen and ignore the unseen, the truth, the way, the life. Do I believe my own eyes and what I see more than God who cannot be seen?
+
