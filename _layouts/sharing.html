@@ -4,6 +4,7 @@ title: {{ site.name }}
 ---
 
 {% assign posts = site.posts | where: "weekNum", page.weekNum %}
+{% assign posts = posts | where_exp: "language", "language != 'English'" %}
 {% assign posts2 = posts | where: "dayNum", page.dayNum %}
 {% assign dailyPage = posts2 | where: "categories", "daily" | first %} 
 {% assign bgLink = "https://www.biblegateway.com/passage/?search=" %}
