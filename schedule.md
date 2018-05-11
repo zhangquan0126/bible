@@ -2246,7 +2246,7 @@ plan:
       verseYV: LUK.5
     - titleCh: 雅歌 1
       titleEn: The Song of Songs 1
-      verseBG: The Song of Songs.1
+      verseBG: Songs.1
       verseYV: SON.1
 
   - index: 205
@@ -2257,7 +2257,7 @@ plan:
       verseYV: LUK.6
     - titleCh: 雅歌 2
       titleEn: The Song of Songs 2
-      verseBG: The Song of Songs.2
+      verseBG: Songs.2
       verseYV: SON.2
 
   - index: 206
@@ -2268,7 +2268,7 @@ plan:
       verseYV: LUK.7
     - titleCh: 雅歌 3
       titleEn: The Song of Songs 3
-      verseBG: The Song of Songs.3
+      verseBG: Songs.3
       verseYV: SON.3
 
   - index: 207
@@ -2279,7 +2279,7 @@ plan:
       verseYV: LUK.8
     - titleCh: 雅歌 4
       titleEn: The Song of Songs 4
-      verseBG: The Song of Songs.4
+      verseBG: Songs.4
       verseYV: SON.4
 
   - index: 208
@@ -2290,7 +2290,7 @@ plan:
       verseYV: LUK.9
     - titleCh: 雅歌 5
       titleEn: The Song of Songs 5
-      verseBG: The Song of Songs.5
+      verseBG: Songs.5
       verseYV: SON.5
 
   - index: 209
@@ -2301,7 +2301,7 @@ plan:
       verseYV: LUK.9
     - titleCh: 雅歌 6
       titleEn: The Song of Songs 6
-      verseBG: The Song of Songs.6
+      verseBG: Songs.6
       verseYV: SON.6
 
   - index: 210
@@ -2312,7 +2312,7 @@ plan:
       verseYV: 
     - titleCh: 雅歌 7
       titleEn: The Song of Songs 7
-      verseBG: The Song of Songs.7
+      verseBG: Songs.7
       verseYV: SON.7
 
   - index: 211
@@ -2323,7 +2323,7 @@ plan:
       verseYV: LUK.11
     - titleCh: 雅歌 8
       titleEn: The Song of Songs 8
-      verseBG: The Song of Songs.8
+      verseBG: Songs.8
       verseYV: SON.8
 
   - index: 212
