@@ -30,7 +30,8 @@ plan: "「從聖經看屬靈生命」"
 <li> Reading for day {{ day.index }}
   <ul>
   {% for verse in day.verses %}
-    <li> <a href="{{ bgLink | append: verse.verseBG | append: "&version=CUVMPT" }}">{{ verse.titleCh }}</a>
+    <li> <a href="{{ bgLink | append: verse.verseBG | append: "&version=CUVMPT" }}">{{ verse.titleCh }}</a> | 
+      <a href="{{ bgLink | append: verse.verseYV | append: "&version=CUVMPS" }}">[YouVersion]</a>
     </li>
   {% endfor %}
   </ul>
