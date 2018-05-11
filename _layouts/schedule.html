@@ -3,16 +3,40 @@ layout: post
 plan: "「從聖經看屬靈生命」"
 ---
 
+<h2>Under Construction!</h2>
 
 
-Plan is：{{ page.langeuage }}
-Language is：{{ page.plan }}
+{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPT" %}
+{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPS" %}
+{% assign bgLink3 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
+{% assign yvLink1 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV1 | append: ".CUNP" %}
+
+{% assign bgLink4 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=CUVMPT" %}
+{% assign bgLink5 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=CUVMPS" %}
+{% assign bgLink6 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
+{% assign yvLink2 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV2 | append: ".CUNP" %}
+
+{{ page.langeuage }}
+{{ page.plan.name }}
+{{ page.plan.totalDays }}
+{{ page.plan.startDate }}
 
 
-<a href="{{ bgLink1 }}">{{ verse1 }} 简体</a>
+{% assign bgLink = "https://www.biblegateway.com/passage/?search=" %}
+{% assign yvLink = "https://www.bible.com/zh-TW/bible/46/" %}
 
-<a href="{{ bgLink2 }}">{{ verse2 }} 繁体</a>
-
-Under Construction!
+<ul>
+{% for day in page.plan.days %}
+<li> Reading for day {{ day.index }}
+  <ul>
+  {% for verse in day.verses %}
+    <li> <a href="{{ bgLink | append: verse.verseBG | append: "&version=CUVMPT" }}">{{ verse.titleCh }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</li>
+{% endfor %}
+</ul>
+ 
 
 
