@@ -11,9 +11,9 @@
 {% assign index = index | minus:8 | plus: page.dayNum %}
 
 {% assign dailySchedule = schedulePage[0].plan.days[index] %}
-{{ dailySchedule.verse[0].titleCh }}
-{{ dailySchedule.verse[1].titleEn }}
-{{ schedulePage[0].plan.name }}
+{{ dailySchedule.verses[0].titleCh }}
+{{ dailySchedule.verses[1].titleEn }}
+
 
 {% assign tempResult = site.posts | where: "categories", "daily" %}
 {% assign tempResult = tempResult | where_exp: "item", "item.language != 'English'" %}
