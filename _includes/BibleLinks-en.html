@@ -10,10 +10,10 @@
 {% assign index = page.weekNum | times:7 %}
 {% assign index = index | minus:8 | plus: page.dayNum %}
 
-{% assign dailySchedule = schedulePage.plan.days[index] %}
+{% assign dailySchedule = schedulePage[0].plan.days[index] %}
 {{ dailySchedule.verse[0].titleCh }}
 {{ dailySchedule.verse[1].titleEn }}
-{{ schedulePage.plan.name }}
+{{ schedulePage[0].plan.name }}
 
 {% assign tempResult = site.posts | where: "categories", "daily" %}
 {% assign tempResult = tempResult | where_exp: "item", "item.language != 'English'" %}
