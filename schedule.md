@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: schedule
 plan:
   name: "「從聖經看屬靈生命」"
   startDate: "01-22-2018"
@@ -3790,44 +3790,4 @@ plan:
       verseYV: PSA.91
 ---
 
-{% assign verse1 = page.plan.days[0].verses[0].titleCh %}
-{% assign bgV1 = page.plan.days[0].verses[0].verseBG %}
-{% assign yvV1 = page.plan.days[0].verses[0].verseYV %}
-{% assign verse2 = page.plan.days[1].verses[1].titleCh %}
-{% assign bgV2 = page.plan.days[1].verses[1].verseBG %}
-{% assign yvV2 = page.plan.days[1].verses[1]..verseYV %}
-
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPT" %}
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPS" %}
-{% assign bgLink3 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV1 | append: ".CUNP" %}
-
-{% assign bgLink4 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=CUVMPT" %}
-{% assign bgLink5 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=CUVMPS" %}
-{% assign bgLink6 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV2 | append: ".CUNP" %}
-
-{{ page.langeuage }}
-{{ page.plan.name }}
-{{ page.plan.totalDays }}
-{{ page.plan.startDate }}
-
-<a href="{{ bgLink1 }}">{{ verse1 }}</a>
-
-<a href="{{ bgLink2 }}">{{ verse2 }}</a>
-
-Under Construction!
-<ul>
-{% for day in page.plan.days %}
-<li> Reading for day {{ day.index }}
-  <ul>
-  {% for verse in day.verses %}
-    <li> <a href="{{ verse.bgLink1 }}">{{ verse.titleCh }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-</li>
-{% endfor %}
-</ul>
- 
   
