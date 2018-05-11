@@ -6,8 +6,12 @@
 {% endcomment %}
 
 {% assign schedulePage = site.pages | where: "layout", "schedule" %}
+{{ schedulePage.size }}
+
 {% assign index = page.weekNum | times:7 %}
 {% assign index = index | minus:7 | plus: page.dayNum %}
+day {{ index }}
+
 {% assign dailySchedule = schedulePage.plan.days[index] %}
 {{ dailySchedule.verse[0].titleCh }}
 {{ dailySchedule.verse[1].titleEn }}
