@@ -6,15 +6,14 @@
 {% endcomment %}
 
 {% assign schedulePage = site.pages | where: "layout", "schedule" %}
-{{ schedulePage.size }}
 
 {% assign index = page.weekNum | times:7 %}
-{% assign index = index | minus:7 | plus: page.dayNum %}
-day {{ index }}
+{% assign index = index | minus:8 | plus: page.dayNum %}
 
 {% assign dailySchedule = schedulePage.plan.days[index] %}
 {{ dailySchedule.verse[0].titleCh }}
 {{ dailySchedule.verse[1].titleEn }}
+{{ schedulePage.plan.name }}
 
 {% assign tempResult = site.posts | where: "categories", "daily" %}
 {% assign tempResult = tempResult | where_exp: "item", "item.language != 'English'" %}
