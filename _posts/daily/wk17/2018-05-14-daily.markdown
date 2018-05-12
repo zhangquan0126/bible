@@ -8,4 +8,4 @@ weekNum: 17
 dayNum: 1
 ---
 
-{% include bible-links-2 %}
+{% include bible-links-2.html %}
