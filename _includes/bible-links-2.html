@@ -20,8 +20,11 @@
   {% assign bgV1 = dailySchedule.verses[0].verseBG %}
   {% assign yvV1 = dailySchedule.verses[0].verseYV %}
   {% assign verse2 = dailySchedule.verses[1].titleCh %}
-  {% assign bgV1 = dailySchedule.verses[1].verseBG %}
-  {% assign yvV1 = dailySchedule.verses[1].verseYV %}
+  {% assign bgV2 = dailySchedule.verses[1].verseBG %}
+  {% assign yvV2 = dailySchedule.verses[1].verseYV %}
+
+  {% assign verseEn1 = dailySchedule.verses[0].titleEn %}
+  {% assign verseEn2 = dailySchedule.verses[1].titleEn %}
  
   {% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
   {% assign yvLink1 = "https://www.bible.com/zh-TW/bible/111/" | append:yvV1 | append: ".NIV" %} 
