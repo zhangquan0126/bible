@@ -9,3 +9,4 @@ dayNum: 1
 ---
 
 {% include bible-links-2.html %}
+{% include BibleLinks.html %}
