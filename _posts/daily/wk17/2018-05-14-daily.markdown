@@ -8,5 +8,17 @@ weekNum: 17
 dayNum: 1
 ---
 
-{% include bible-links-2.html %}
+### 問題：
 
+{% include BibleLinks.html %}
+
+### 默想：神的故事 
+
+
+### 默想：我的故事 
+
+
+### 禱告：
+
+
+### 筆記與回應：
