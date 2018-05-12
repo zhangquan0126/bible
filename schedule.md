@@ -1162,10 +1162,10 @@ plan:
 
   - index: 106
     verses:
-    - titleCh: 申命記  2-3 
-      titleEn: Deuteronomy  2-3 
-      verseBG: Deuteronomy. 2-3 
-      verseYV: DEU. 2
+    - titleCh: 申命記 2-3 
+      titleEn: Deuteronomy 2-3 
+      verseBG: Deuteronomy.2-3 
+      verseYV: DEU.2
     - titleCh: 詩篇 106
       titleEn: Psalms 106
       verseBG: Psalms.106
@@ -1176,7 +1176,7 @@ plan:
     - titleCh: 申命記 4:1-43
       titleEn: Deuteronomy 4:1-43
       verseBG: Deuteronomy.4:1-43
-      verseYV: DEU.4:1
+      verseYV: DEU.4
     - titleCh: 詩篇 107
       titleEn: Psalms 107
       verseBG: Psalms.107
@@ -1187,7 +1187,7 @@ plan:
     - titleCh: 申命記 4:44-5:33
       titleEn: Deuteronomy 4:44-5:33
       verseBG: Deuteronomy.4:44-5:33
-      verseYV: DEU.4:44
+      verseYV: DEU.4
     - titleCh: 詩篇 108
       titleEn: Psalms 108
       verseBG: Psalms.108
@@ -1195,10 +1195,10 @@ plan:
 
   - index: 109
     verses:
-    - titleCh: 申命記  6-7
-      titleEn: Deuteronomy  6-7
-      verseBG: Deuteronomy. 6-7
-      verseYV: DEU. 6
+    - titleCh: 申命記 6-7
+      titleEn: Deuteronomy 6-7
+      verseBG: Deuteronomy.6-7
+      verseYV: DEU.6
     - titleCh: 詩篇 109
       titleEn: Psalms 109
       verseBG: Psalms.109
@@ -1206,10 +1206,10 @@ plan:
 
   - index: 110
     verses:
-    - titleCh: 申命記  8-9
-      titleEn: Deuteronomy  8-9
-      verseBG: Deuteronomy. 8-9
-      verseYV: DEU. 8
+    - titleCh: 申命記 8-9
+      titleEn: Deuteronomy 8-9
+      verseBG: Deuteronomy.8-9
+      verseYV: DEU.8
     - titleCh: 詩篇 110
       titleEn: Psalms 110
       verseBG: Psalms.110
@@ -1217,10 +1217,10 @@ plan:
 
   - index: 111
     verses:
-    - titleCh: 申命記   10-11
-      titleEn: Deuteronomy   10-11
-      verseBG: Deuteronomy.  10-11
-      verseYV: DEU.  10
+    - titleCh: 申命記 10-11
+      titleEn: Deuteronomy 10-11
+      verseBG: Deuteronomy.10-11
+      verseYV: DEU.10
     - titleCh: 詩篇 111
       titleEn: Psalms 111
       verseBG: Psalms.111
@@ -1242,7 +1242,7 @@ plan:
     - titleCh: 申命記 12:1-14:2
       titleEn: Deuteronomy 12:1-14:2
       verseBG: Deuteronomy.12:1-14:2
-      verseYV: DEU.12:1
+      verseYV: DEU.12
     - titleCh: 詩篇 113
       titleEn: Psalms 113
       verseBG: Psalms.113
