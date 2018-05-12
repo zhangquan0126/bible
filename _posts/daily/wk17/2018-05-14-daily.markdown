@@ -1,0 +1,11 @@
+---
+layout: daily2
+title:  "第17週 第1天 神要祝福"
+date:   2018-05-14
+categories: daily
+permalink: /daily/wk17-day1-daily.html
+weekNum: 17
+dayNum: 1
+---
+
+{% include bible-links-2 %}
