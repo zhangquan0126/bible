@@ -1,0 +1,40 @@
+{% comment %}
+================================================
+// Get the Bible reading schedule from Schedule
+// Generate the Bible links here on top of daily reading guide
+================================================
+{% endcomment %}
+
+{% assign schedulePage = site.pages | where: "layout", "schedule" %}
+{% assign index = page.weekNum | times:7 %}
+{% assign index = index | minus:8 | plus: page.dayNum %}
+
+{% assign dailySchedule = schedulePage[0].plan.days[index] %}
+{% if dailySchedule %}
+  {% assign page.bibleGatewayRef1 = chDailyPage.bibleGatewayRef1 %}
+  {% assign page.youVersionRef1 = chDailyPage.youVersionRef1 %}
+  {% assign page.bibleGatewayRef2 = chDailyPage.bibleGatewayRef2 %}
+  {% assign page.youVersionRef2 = chDailyPage.youVersionRef2 %}
+
+  {% assign verse1 = dailySchedule.verses[0].titleCh %}
+  {% assign bgV1 = dailySchedule.verses[0].verseBG %}
+  {% assign yvV1 = dailySchedule.verses[0].verseYV %}
+  {% assign verse2 = dailySchedule.verses[1].titleCh %}
+  {% assign bgV1 = dailySchedule.verses[1].verseBG %}
+  {% assign yvV1 = dailySchedule.verses[1].verseYV %}
+ 
+  {% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
+  {% assign yvLink1 = "https://www.bible.com/zh-TW/bible/111/" | append:yvV1 | append: ".NIV" %} 
+  
+  {% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
+  {% assign yvLink2 = "https://www.bible.com/zh-TW/bible/111/" | append:yvV2 | append: ".NIV" %}
+
+{% endif %}
+
+<h3>Scripture Reading</h3>
+<ul>
+  {% if verse1.size > 0 %}
+    <li><a href="{{ bgLink1 }}">{{ verse1 }}</a> | <a href="{{ yvLink1 }}">[YouVersion]</a></li>
+  {% endif %}
+  <li><a href="{{ bgLink2 }}">{{ verse2 }}</a> | <a href="{{ yvLink2 }}">[YouVersion]</a></li>
+</ul>
