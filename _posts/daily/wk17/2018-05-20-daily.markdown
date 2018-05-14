@@ -6,6 +6,9 @@ categories: daily
 permalink: /daily/wk17-day7-daily.html
 weekNum: 17
 dayNum: 7
+bibleTitle2: "詩篇 126"
+bibleGatewayRef2: "ps.126"
+youVersionRef2: "PSA.126"
 ---
 
 {% include BibleLinks.html %}
