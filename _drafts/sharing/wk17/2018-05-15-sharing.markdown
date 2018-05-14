@@ -1,0 +1,9 @@
+---
+layout: sharing
+date: 2018-05-15
+title: "讀經分享：【】"
+categories: sharing
+weekNum: 17
+dayNum: 2
+permalink: /sharing/2018-05-15-sharing.html
+---
