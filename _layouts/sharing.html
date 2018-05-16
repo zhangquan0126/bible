@@ -15,6 +15,9 @@ title: {{ site.name }}
 <a href='{{ bgLink | append:dailyPage.bibleGatewayRef2 | append: "&version=CUVMPT" }}'>
    <code><strong>{{ dailyPage.bibleTitle2 }}</strong></code></a>
 
+{% include BibleLinks.html %}
+
+
 <h3>{{ page.title }}</h3>
 
 {{ page.content }}
