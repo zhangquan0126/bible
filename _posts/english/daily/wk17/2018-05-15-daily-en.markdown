@@ -1,0 +1,12 @@
+---
+layout: daily-en
+title:  "Week 17 Day 2: Catch-up Day"
+date:   2018-05-15
+categories: daily
+permalink: /en/daily/wk17-day2-daily.html
+weekNum: 17
+dayNum: 2
+language: English
+---
+
+{% include BibleLinks.html %}
