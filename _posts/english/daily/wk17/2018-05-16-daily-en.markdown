@@ -1,0 +1,12 @@
+---
+layout: daily-en
+title:  "Week 17 Day 2: "
+date:   2018-05-16
+categories: daily
+permalink: /en/daily/wk17-day3-daily.html
+weekNum: 17
+dayNum: 3
+language: English
+---
+
+{% include BibleLinks.html %}
