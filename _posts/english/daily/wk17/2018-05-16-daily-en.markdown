@@ -10,7 +10,8 @@ language: English
 ---
 
 ### Question    
-What did Moses say about appointing judges and setting a King? What prophets God promised through Moses would raise up? 
++ What did Moses say about appointing judges and setting a King? 
++ What prophets God promised through Moses would raise up? 
 
 {% include BibleLinks.html %}
 
