@@ -11,7 +11,8 @@ language: English
 
 
 ### Question    
-What did Moses say about the place of worship, idols, meat, blood, and the Levites? What did he say about how to deal with those who seduce the Israelites to worship other gods?
++ What did Moses say about the place of worship, idols, meat, blood, and the Levites? 
++ What did he say about how to deal with those who seduce the Israelites to worship other gods?
 
 {% include BibleLinks.html %}
 
