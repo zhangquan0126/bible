@@ -10,7 +10,8 @@ language: English
 ---
 
 ### Question    
-Who were the cities of refuge established for? What is proper way of going to battle in the eyes of our Lord?
++ Who were the cities of refuge established for? 
++ What is proper way of going to battle in the eyes of our Lord?
 
 {% include BibleLinks.html %}
    
