@@ -1,0 +1,12 @@
+---
+layout: daily-en
+title:  "Week 17 Day 4: "
+date:   2018-05-17
+categories: daily
+permalink: /en/daily/wk17-day4-daily.html
+weekNum: 17
+dayNum: 4
+language: English
+---
+
+{% include BibleLinks.html %}
