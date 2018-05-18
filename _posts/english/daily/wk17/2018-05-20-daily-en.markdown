@@ -1,0 +1,12 @@
+---
+layout: daily-en
+title:  "Week 17 Day 7: Catch-up Day"
+date:   2018-05-20
+categories: daily
+permalink: /en/daily/wk17-day7-daily.html
+weekNum: 17
+dayNum: 7
+language: English
+---
+
+{% include BibleLinks.html %}
