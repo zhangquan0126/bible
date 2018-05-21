@@ -1,4 +1,4 @@
----
+----
 layout: sharing
 date: 2018-05-21
 title: "讀經分享：【】"
@@ -7,3 +7,5 @@ weekNum: 18
 dayNum: 1
 permalink: /sharing/2018-05-21-sharing.html
 ---
+
+`錢斌傳道`
