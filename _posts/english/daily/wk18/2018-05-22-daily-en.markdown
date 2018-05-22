@@ -11,7 +11,7 @@ language: English
 
 ### Question     
 + What did Moses say about the firstfruits and the third year? 
-+ What about the three “this day?”
++ What about the three `“this day”`?
 
 {% include BibleLinks.html %} 
 
