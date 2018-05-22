@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 18 Day 2: Firstfruits and Tithes"
-date: 2018-05-27
+date: 2018-05-22
 categories: daily
 permalink: /en/daily/wk18-day2-daily.html
 weekNum: 18
