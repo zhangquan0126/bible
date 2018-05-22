@@ -1,0 +1,12 @@
+---
+layout: weekly-en
+title:  "Weekly Guide：Week 18"
+date:   2018-05-27
+categories: weekly guide
+permalink: "/en/guide/wk18.html"
+weekNum: 18
+language: English
+---
+
+<h3>Forward</h3>
+We are continuing the reading on the Book of Deuteronomy. May the Lord’s word renew you all each day!
