@@ -8,6 +8,7 @@ weekNum: 18
 dayNum: 1
 language: English
 ---
+
 ### Question     
 + What did Moses say about divorcing the wife, treating newly wedded wife, the widow, the fatherless, and flogging the guilty? 
 + What is the The Family of the Unsandaled?
