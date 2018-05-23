@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 18 Day 4: People's Choice"
-date 2018-05-24
+date: 2018-05-24
 categories: daily
 permalink: /en/daily/wk18-day4-daily.html
 weekNum: 18
