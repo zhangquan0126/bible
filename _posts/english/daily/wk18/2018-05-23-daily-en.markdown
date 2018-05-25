@@ -9,7 +9,8 @@ dayNum: 3
 language: English
 ---
 ### Question     
-What did Moses command? Whom did the Levitical priests say would be cursed?
++ What did Moses command? 
++ Whom did the Levitical priests say would be cursed?
 
 {% include BibleLinks.html %} 
 
