@@ -1,0 +1,11 @@
+---
+layout: daily2
+title:  "第19週 第7天 補漏拾遺"
+date:   2018-06-03
+categories: daily
+permalink: /daily/wk19-day7-daily.html
+weekNum: 19
+dayNum: 7
+---
+
+{% include BibleLinks.html %}
