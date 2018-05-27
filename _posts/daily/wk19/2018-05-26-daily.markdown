@@ -1,3 +1,4 @@
+---
 layout: daily2
 title:  "第19週 第1天 摩西之死"
 date:   2018-05-28
