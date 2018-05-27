@@ -9,3 +9,7 @@ dayNum: 7
 ---
 
 {% include BibleLinks.html %}
+
+### 禱告：
+
+### 筆記與回應：
