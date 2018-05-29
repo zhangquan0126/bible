@@ -12,15 +12,15 @@ title: {{ site.name }}
 
 <div id="top"></div>
 <table id="navibar" style="width:100%; border: none;">
+
+{% if page.language == "English" %}
 <tr>    
-    <td>
+    <td align="left">
         <div align="left">
-            Home | Schedule | Disussion
+            <a href="/en">Home</a> | <a href="/schedule.html">Schedule</a> | <a href="/discuss.html">Disussion</a>
         </div>
     </td>
-    <td>
-{% if page.language == "English" %}
-
+    <td align="right">
   {% assign chUrl = page.url | replace_first: "/en/", "/" %}
   <div id="language" align="right">
     <a href="{{ chUrl }}">中文</a> | English
@@ -28,6 +28,13 @@ title: {{ site.name }}
 
 {% else %}
 
+<tr>    
+    <td align="left">
+        <div align="left">
+            <a href="/">主頁</a> | <a href="/schedule.html">計劃</a> | <a href="/discuss.html">討論</a>
+        </div>
+    </td>
+    <td align="right">
 <div id="language" align="right">
   {% assign enUrl = page.url | prepend: "/en" %}
 
