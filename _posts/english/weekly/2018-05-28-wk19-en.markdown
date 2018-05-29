@@ -1,13 +1,14 @@
 ---
 layout: weekly-en
-title: "Week 19"
-date: 2018-06-03
-categories: weekly
-permalink: /en/daily/wk19.html
+title:  "Weekly Guide：Week 18"
+date:   2018-06-03
+categories: weekly guide
+permalink: "/en/guide/wk19.html"
 weekNum: 19
-dayNum: 
 language: English
 ---
+
+<h3>Forward</h3>
 ### Forward     
 We are finishing the reading on the Book of Deuteronomy and starting on the Book of Joshua.
 
