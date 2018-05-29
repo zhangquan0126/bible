@@ -27,7 +27,7 @@ plan: "「從聖經看屬靈生命」"
 
 <ul>
 {% for day in page.plan.days %}
-<li> {{ day.index }} 日
+<li> 第 {{ day.index }} 日
   <ul>
   {% for verse in day.verses %}
     <li> <a href="{{ bgLink | append: verse.verseBG | append: "&version=CUVMPT" }}">{{ verse.titleCh }}</a> | 
