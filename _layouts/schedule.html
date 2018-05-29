@@ -3,7 +3,7 @@ layout: post
 plan: "「從聖經看屬靈生命」"
 ---
 
-<h2>Under Construction!</h2>
+<h2>「從聖經看屬靈生命」讀經計劃 - 2018</h2>
 
 
 {% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPT" %}
@@ -27,7 +27,7 @@ plan: "「從聖經看屬靈生命」"
 
 <ul>
 {% for day in page.plan.days %}
-<li> Reading for day {{ day.index }}
+<li> {{ day.index }} 日
   <ul>
   {% for verse in day.verses %}
     <li> <a href="{{ bgLink | append: verse.verseBG | append: "&version=CUVMPT" }}">{{ verse.titleCh }}</a> | 
