@@ -11,13 +11,13 @@ title: {{ site.name }}
 </style>
 
 <div id="top"></div>
-<table id="navibar" style="width:100%; border-style: none; padding: 0; display: content;">
+<table id="navibar" style="width:100%; border: 0px; padding: 0px;">
 
 {% if page.language == "English" %}
 <tr>    
     <td align="left">
         <div align="left">
-            <a href="/en">Home</a> | <a href="/schedule.html">Schedule</a> | <a href="/discuss.html">Disussion</a>
+            <a href="/en">Home</a> | <a href="/schedule.html">Plan</a> | <a href="/discuss.html">Disussion</a>
         </div>
     </td>
     <td align="right">
@@ -35,7 +35,6 @@ title: {{ site.name }}
         </div>
     </td>
     <td align="right">
-<div id="language" align="right">
   {% assign enUrl = page.url | prepend: "/en" %}
 
   {% assign enPost = site.posts | where_exp: "item", "item.url == enUrl" %}
@@ -46,7 +45,7 @@ title: {{ site.name }}
   {% else %}
     中文 | English
   {% endif %}
-</div>
+
 
 {% endif %}
 
