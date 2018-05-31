@@ -1,6 +1,6 @@
 ---
 layout: daily-en
-title:  "Week 16 Day 7: Catch-up Day"
+title:  "Week 16 Day 7: Mend the Loose Ends"
 date:   2018-05-13
 categories: daily
 permalink: /en/daily/wk16-day7-daily.html
