@@ -43,18 +43,12 @@ language: English
             {% assign bgLink3 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}  
             {% assign bgLink6 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
  
-            <a href='{{ bgLink3 }}'><code>{{ verseEn1 }}</code></a>  
+            {% if verseEn1.size > 0 %}
+              <a href='{{ bgLink3 }}'><code>{{ verseEn1 }}</code></a>  
+            {% endif %}
             <a href='{{ bgLink6" }}'><code>{{ verseEn2 }}</code></a>
           {% endif %}
-          {% if dailyPost.bibleTitle2.size > 0 %}
-            
-            
-                <a href='{{ bgLink | append:dailyPost.bibleGatewayRef1 | append: "&version=NIV" }}'>
-                  <code>{{ dailyPost.bibleTitle1 }}</code></a>  
-                <a href='{{ bgLink | append:dailyPost.bibleGatewayRef2 | append: "&version=NIV" }}'>
-                  <code>{{ dailyPost.bibleTitle2 }}</code></a>
-              
-          {% endif %}
+          
         {% endfor %}
       </ul>
   </details>
