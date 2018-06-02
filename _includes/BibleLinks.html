@@ -32,19 +32,34 @@
   {% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
   {% assign yvLink2 = "https://www.bible.com/zh-TW/bible/111/" | append:yvV2 | append: ".NIV" %}
 
-{% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPT" %}
-{% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPS" %}
-{% assign bgLink3 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
-{% assign yvLink1 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV1 | append: ".CUNP" %}
-{% assign yvLink3 = "https://www.bible.com/bible/111/" | append:yvV1 %}
+  {% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPT" %}
+  {% assign bgLink2 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPS" %}
+  {% assign bgLink3 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}
+  {% assign yvLink1 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV1 | append: ".CUNP" %}
+  {% assign yvLink3 = "https://www.bible.com/bible/111/" | append:yvV1 %}
 
-{% assign bgLink4 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=CUVMPT" %}
-{% assign bgLink5 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=CUVMPS" %}
-{% assign bgLink6 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
-{% assign yvLink2 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV2 %}
-{% assign yvLink4 = "https://www.bible.com/bible/111/" | append:yvV2 %}
+  {% assign bgLink4 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=CUVMPT" %}
+  {% assign bgLink5 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=CUVMPS" %}
+  {% assign bgLink6 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
+  {% assign yvLink2 = "https://www.bible.com/zh-TW/bible/46/" | append:yvV2 %}
+  {% assign yvLink4 = "https://www.bible.com/bible/111/" | append:yvV2 %}
 
 {% endif %}
+
+{% if page.layout == "all" %}
+  {% if page.language == "English" %}
+     <a href='{{ bgLink3 }}'>
+     <code>{{ verseEn1 }}</code></a>  
+     <a href='{{ bgLink6 }}'>
+     <code>{{ verseEn2 }}</code></a>
+  {% else %}
+     <a href='{{ bgLink1 }}'>
+     <code>{{ verse1 }}</code></a>  
+     <a href='{{ bgLink4 }}'>
+     <code>{{ verse2 }}</code></a>
+  {% endif %}
+
+{% else %}
 
 {% if page.language == "English" %}
 <h3>Scripture Reading</h3>
@@ -85,4 +100,5 @@
         <td colspan="2"><a href="{{ yvLink2 }}">【YouVersion】</a></td>
       </tr>
 </table>
+{% endif %}
 {% endif %}
