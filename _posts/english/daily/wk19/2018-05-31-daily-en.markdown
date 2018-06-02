@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 19 Day 4: Crossing Jordan River"
-date: 2018-05-30
+date: 2018-05-31
 categories: daily
 permalink: /en/daily/wk19-day4-daily.html
 weekNum: 19
