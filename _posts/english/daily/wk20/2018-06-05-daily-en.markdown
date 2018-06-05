@@ -1,11 +1,11 @@
 ---
 layout: daily-en
-title: "Week 20 Day 2: East of Jordan"
-date: 2018-06-05
+title: "Week 20 Day 3: East of Jordan"
+date: 2018-06-06
 categories: daily
-permalink: /en/daily/wk20-day2-daily.html
+permalink: /en/daily/wk20-day3-daily.html
 weekNum: 20
-dayNum: 2
+dayNum: 3
 language: English
 ---
 ### Question     
