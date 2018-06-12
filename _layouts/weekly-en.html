@@ -64,7 +64,7 @@ language: English
     {% assign link = dayMinus | append: dayPlus %}    
   {% endif %}
   
-<div id='{{ 'day' | append: day }}'></div>
+<div id="{{ 'day' | append: day }}"></div>
 <h2> 
   <a href="{{ onePage.url }}">{{ onePage.title }}</a> {{ link }}
 </h2>
@@ -75,7 +75,7 @@ language: English
 
 <h3>Notes and Responses</h3>
 
-{% assign pageDate = onePage.date | '%Y-%m-%d' %}
+{% assign pageDate = onePage.date | date: "%Y-%m-%d" %}
 {% assign sharings = site.posts | where: "categories", "sharing" %}
 
 <ul>

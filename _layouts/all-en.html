@@ -44,9 +44,9 @@ language: English
             {% assign bgLink6 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
  
             {% if verseEn1.size > 0 %}
-              <a href='{{ bgLink3 }}'><code>{{ verseEn1 }}</code></a>  
+              <a href="{{ bgLink3 }}"><code>{{ verseEn1 }}</code></a>  
             {% endif %}
-            <a href='{{ bgLink6" }}'><code>{{ verseEn2 }}</code></a>
+            <a href="{{ bgLink6 }}"><code>{{ verseEn2 }}</code></a>
           {% endif %}
           
         {% endfor %}
