@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 21 Day 4: Into the Snare"
-date 2018-06-14
+date: 2018-06-14
 categories: daily
 permalink: /en/daily/wk21-day4-daily.html
 weekNum: 21
