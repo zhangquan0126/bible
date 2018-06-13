@@ -12,11 +12,8 @@ language: "Chinese"
   <ul class="posts">
 
     {% assign today = site.time | date: "%Y-%m-%d"  %}
-    
     {% assign chnPosts = site.posts | where_exp: "item", "item.language != 'English'" %}
-    
     {% for post in chnPosts limit:16 %}
-      
       {% if post.categories contains "daily" %}
         
         {% assign postDate = post.date | date: "%Y-%m-%d"  %}
