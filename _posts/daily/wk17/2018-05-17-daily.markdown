@@ -10,7 +10,7 @@ dayNum: 4
 
 ### 問題：神設立的逃城是為哪些人預備的？神眼裡合理的戰爭是怎樣的？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 神為過失殺人者預備了可以存活的逃城，但故意殺人者就要被處死。

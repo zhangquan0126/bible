@@ -18,7 +18,7 @@ language: English
 ### Question
 **What are the blessings for being obedient and the punishments for disobedient?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + Proclaim the blessings and punishments after the covenant was made.

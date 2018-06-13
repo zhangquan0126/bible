@@ -11,7 +11,7 @@ language: English
 ### Question     
 What was effect of the victories in Jericho and Ai had with the people in the south?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + Joshua and the leaders of Israelites did not consult with the Lord and was deceived by the Gibeonites (Hivites, 9:7, 11:19) to make peace treaty with them in violation of God's command (Deu. 7:2).  

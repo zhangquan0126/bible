@@ -13,7 +13,7 @@ language: English
 + What did Moses say about the firstfruits and the third year? 
 + What about the three `“this day”`?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + After entering the promised land, the Israelites must offer the firstfruit, and proclaim God's redemption and blessings. 

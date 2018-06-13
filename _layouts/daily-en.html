@@ -5,33 +5,33 @@ language: English
 permalink: /en/daily/wk11-day1-daily.html
 ---
 
-{% comment %}
+{%- comment -%}
 ================================================
 // The Prev Day, Weekly, Next Day navigation bar
 ================================================
-{% endcomment %}
+{%- endcomment -%}
 
-{% if page.dayNum == 1 %}
-  {% assign prevWeekNum = page.weekNum | minus:"1" %}
-  {% assign prevDayNum = 7 %}
-  {% assign nextWeekNum = page.weekNum %}
-  {% assign nextDayNum = page.dayNum | plus:"1" %}
-{% elsif page.dayNum == 7 %}
-  {% assign nextWeekNum = page.weekNum | plus:"1" %}
-  {% assign nextDayNum = 1 %}
-  {% assign prevWeekNum = page.weekNum %}
-  {% assign prevDayNum = page.dayNum | minus:"1" %}
-{% else %}
-  {% assign prevWeekNum = page.weekNum %}
-  {% assign prevDayNum = page.dayNum | minus:"1" %}
-  {% assign nextWeekNum = page.weekNum %}
-  {% assign nextDayNum = page.dayNum | plus:"1" %}
-{% endif %}
+{%- if page.dayNum == 1 -%}
+  {%- assign prevWeekNum = page.weekNum | minus:"1" -%}
+  {%- assign prevDayNum = 7 -%}
+  {%- assign nextWeekNum = page.weekNum -%}
+  {%- assign nextDayNum = page.dayNum | plus:"1" -%}
+{%- elsif page.dayNum == 7 -%}
+  {%- assign nextWeekNum = page.weekNum | plus:"1" -%}
+  {%- assign nextDayNum = 1 -%}
+  {%- assign prevWeekNum = page.weekNum -%}
+  {%- assign prevDayNum = page.dayNum | minus:"1" -%}
+{%- else -%}
+  {%- assign prevWeekNum = page.weekNum -%}
+  {%- assign prevDayNum = page.dayNum | minus:"1" -%}
+  {%- assign nextWeekNum = page.weekNum -%}
+  {%- assign nextDayNum = page.dayNum | plus:"1" -%}
+{%- endif -%}
 
-{% assign prevDay = "/en/daily/wk" | append: prevWeekNum | append:"-day" | append:prevDayNum | append:"-daily.html#top" %}
-{% assign nextDay = "/en/daily/wk" | append: nextWeekNum | append:"-day" | append:nextDayNum | append:"-daily.html#top" %}
-{% assign weekly = "/en/guide/wk" | append:page.weekNum | append:".html#top" %}
-{% assign chUrl = page.permalink | replace_first: '/en/', '/' %}
+{%- assign prevDay = "/en/daily/wk" | append: prevWeekNum | append:"-day" | append:prevDayNum | append:"-daily.html#top" -%}
+{%- assign nextDay = "/en/daily/wk" | append: nextWeekNum | append:"-day" | append:nextDayNum | append:"-daily.html#top" -%}
+{%- assign weekly = "/en/guide/wk" | append:page.weekNum | append:".html#top" -%}
+{%- assign chUrl = page.permalink | replace_first: '/en/', '/' -%}
 
 <p>
 <table style="display: table">
@@ -56,20 +56,20 @@ permalink: /en/daily/wk11-day1-daily.html
 
 <h3>Notes and Responses</h3>
 
-{% assign pageDate = page.date | date: "%Y-%m-%d" %}
-{% assign sharings = site.posts | where: "categories", "sharing" %}
+{%- assign pageDate = page.date | date: "%Y-%m-%d" -%}
+{%- assign sharings = site.posts | where: "categories", "sharing" -%}
 <ul>
-{% for post in sharings %}
-  {% if post.date == pageDate %}
+{%- for post in sharings -%}
+  {%- if post.date == pageDate -%}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endif %}
-{% endfor %}
+  {%- endif -%}
+{%- endfor -%}
 </ul>
 
 <p>
 </div>
 
-{% include disqus.html %}
+{%- include disqus.html -%}
 
 <table>
   <thead>

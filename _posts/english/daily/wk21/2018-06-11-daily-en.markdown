@@ -23,7 +23,7 @@ May our Lord renew you all each day with His word!
 ### Question     
 How Levites got their allotment?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + God established six cities of refuge. Three on the east side of Jordan River and three on the west side. These are evenly distributed in the promised land to ensure that anyone who killed unintentionally could get to one of them within a half day. This was by the command God had given to Moses. (`Deu. 19:1-13`; `Num. 35:9-34`) 

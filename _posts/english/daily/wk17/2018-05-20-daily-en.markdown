@@ -9,4 +9,4 @@ dayNum: 7
 language: English
 ---
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}

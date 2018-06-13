@@ -14,7 +14,7 @@ language: English
 ### Question
 **What were the Israelites’ offerings in the entire year?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + The day of Moses’ passing was getting closer. God commanded him to pass on the honor of leading the Israelites to Joshua. God commanded Moses to pass on the regulations on the offerings for each day, each sabbath, beginning of each month, and each festival. This was to prepare the Israelites for the worship centered life under the leadership of Joshua and high priest Elijah when they have entered the promised land.

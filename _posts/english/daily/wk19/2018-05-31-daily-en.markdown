@@ -11,7 +11,7 @@ language: English
 ### Question     
 How did the Israelites cross the Jordan River to go into the land of Canaan?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + God stopped the flow of Jordan River. Joshua lead the Israelites to cross the Jordan River like Moses lead their fathers to cross the Red Sea. 

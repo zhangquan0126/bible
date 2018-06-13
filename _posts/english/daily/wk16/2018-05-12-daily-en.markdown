@@ -14,7 +14,7 @@ language: English
 ### Question
 **What happens if one obeys God? What happens if otherwise?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God's Story  
 + God commanded Moses to chisel out of two stone tablets and make a wooden ark. God wrote the commandments on the tablets and Moses put them into the ark.

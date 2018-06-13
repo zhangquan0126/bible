@@ -12,7 +12,7 @@ language: English
 ### Question    
 What did Moses say about clean foods, treating the Levites, the poor and the slaves, the Passover, the Pentecost (Festival of Weeks), and the Festival of Tabernacle?
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
   
 ### Meditation: God’s Story  
 + `14:3-29` repeats what can be eaten and what can’t. Consumption of the tenth produced as well as the first born of herds and flocks in presence of God at the place where God has chosen. At end of every three years, the tithes were to satisfy the Levites, foreigners, fatherless and widows.
@@ -21,7 +21,7 @@ What did Moses say about clean foods, treating the Levites, the poor and the sla
 
 + `16:1-17` talks about the regulations on Passover, Pentecost, and Festival of Tabernacle. 
 
-###Meditation: My Story  
+### Meditation: My Story  
 + **Walking with God** - God gave me everything I have. Am I willing to offer a tenth to Him?
 
 + **Walking with God** - We need to watch over and take care of the helpless to live out the life from merciful God. Have I paid attention to those around me who may need my help?

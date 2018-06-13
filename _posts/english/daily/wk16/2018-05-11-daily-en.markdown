@@ -14,7 +14,7 @@ language: English
 ### Question
 **Moses reminded the people whom they can truly rely on.**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God's Story  
 + Moses reminded the Israelites that God had provided them everything they needed during the forty years of wandering. They were given manna, their clothes did not wear out, and their feet did not swell. Reliance on God was the source of their blessings, not material wealth. 

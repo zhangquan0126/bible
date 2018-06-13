@@ -11,7 +11,7 @@ language: English
 ### Question     
 How does God view the life of His servant?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + Moses went up to Mount Nebo by himself. God let him see the entire promised land of Canaan on top of Pisgah. God buried Moses. Moses died at age of one hundred and twenty, yet his eyes were not weak nor his strength gone. 

@@ -14,7 +14,7 @@ language: English
 ### Question
 **What were the regulation on taking care of the Israelites’ skin?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 * Continued with regulation to keep Israelites holy in order to worship God.

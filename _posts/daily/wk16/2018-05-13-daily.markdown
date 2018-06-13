@@ -11,7 +11,7 @@ bibleGatewayRef2: "ps.112"
 youVersionRef2: "PSA.112"
 ---
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 禱告：
 

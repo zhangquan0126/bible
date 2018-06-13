@@ -10,7 +10,7 @@ dayNum: 5
 
 ### 問題：神將如何幫助以色列人奪取迦南的第一座城耶利哥？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 耶和華軍隊的元帥向約書亞顯現，表明神將親自為以色列爭戰。

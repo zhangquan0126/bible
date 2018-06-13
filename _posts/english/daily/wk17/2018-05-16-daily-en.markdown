@@ -13,7 +13,7 @@ language: English
 + What did Moses say about appointing judges and setting a King? 
 + What prophets God promised through Moses would raise up? 
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### Meditation: God’s Story  
 + `16:18-20` and `17:8-13` talks about priests and judges. Judges must judge fairly, must not pervert justice or show partiality, must not accept bribe. One shall act according to the decision and instruction given by the judge and priest.

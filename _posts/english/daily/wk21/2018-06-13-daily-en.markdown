@@ -12,7 +12,7 @@ language: English
 ### Question     
 What were Joshua's last words to the Israelites?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + Chapter 23 is Joshua's final encouragement to the heads of the Israelite tribes. Chapter 24 is Joshua's final encouragement to the entire Israelite community, to renew the covenant with God. 

@@ -11,4 +11,4 @@ bibleTitle2: "Psalm 105"
 language: English
 ---
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}

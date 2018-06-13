@@ -33,7 +33,7 @@ jobs:
     
     - stage: Cron test and update
       script:
-      - bundle exec rake
+      # - bundle exec rake
       - bundle exec rake build_date
       deploy:
       - provider: pages

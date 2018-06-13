@@ -18,7 +18,7 @@ language: English
 ### Question
 **What are the regulations on blasphemy, killing, and Sabbath Year?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + Leviticus 24:10-22 records the punishment laid upon a Gentile who blasphemed against God and thus committed an offense of the 3 rd law of the ten commandments. “You are to have the same law for the foreigner and the native-born. I am the Lord your God.”

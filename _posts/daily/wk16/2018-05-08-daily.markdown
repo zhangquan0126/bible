@@ -16,7 +16,7 @@ youVersionRef2: "PSA.107"
 
 ### 問題：摩西呼天喚地勸誡以色列民的是哪些事？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + `4:1-40` 摩西呼天喚地一再勸誡以色列民要謹守遵行神的律例典章，並且要傳給子子孫孫，好使他們在應許之地存活、得那地為業。

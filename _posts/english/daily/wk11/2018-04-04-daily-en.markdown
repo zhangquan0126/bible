@@ -14,7 +14,7 @@ language: English
 ### Question
 **What behaviors did God want to forbid?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 * God told the Israelites that to be holy, they need to behave holy.

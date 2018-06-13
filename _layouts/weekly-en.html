@@ -6,34 +6,42 @@ language: English
 
 <div id="top"></div>
 
-{% assign lastWeek = page.weekNum | minus:"1" %}
-{% assign nextWeek = page.weekNum | plus:"1" %}
-{% assign lastLink = "/en/guide/wk" | append:lastWeek | append:".html#top" %}
-{% assign nextLink = "/en/guide/wk" | append:nextWeek | append:".html#top" %}
-{% assign filter = page.weekNum %}
-{% assign chUrl = page.permalink | replace_first: "/en/", "/" %}
+{%- assign lastWeek = page.weekNum | minus:"1" -%}
+{%- assign nextWeek = page.weekNum | plus:"1" -%}
+{%- assign lastLink = "/en/guide/wk" | append:lastWeek | append:".html" -%}
+{%- assign nextLink = "/en/guide/wk" | append:nextWeek | append:".html" -%}
+{%- assign filter = page.weekNum -%}
+{%- assign chUrl = page.permalink | replace_first: "/en/", "/" -%}
+
+{%- assign thisWeek = site.posts | where: "weekNum", filter | sort: "date" -%}
+{%- assign thisWeek = thisWeek | where: "categories", "daily" | sort: "date" -%}
+{%- assign thisWeek = thisWeek | where_exp: "item", "item.language == 'English'" -%}
 
 <p>
 <table style="display: table">
   <thead>
   <tr>
-    <th><a href="{{ lastLink }}">&#171; Prev</a></th>
+    <th><a href="{{ lastLink | append: '#top' }}">&#171; Prev</a></th>
     <th colspan=2><a href="/en/">Home</a></th>
-    <th><a href="{{ nextLink }}">Next &#187;</a></th>
+    <th><a href="{{ nextLink | append: '#top' }}">Next &#187;</a></th>
   </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="#day1">Day 1</a></td>
-      <td><a href="#day2">Day 2</a></td>
-      <td><a href="#day3">Day 3</a></td>
-      <td><a href="#day4">Day 4</a></td>
-    </tr>
-    <tr>
-      <td><a href="#day5">Day 5</a></td>
-      <td><a href="#day6">Day 6</a></td>
-      <td><a href="#day7">Day 7</a></td>
-      <td></td>
+      {%- for dayOfWeek in thisWeek -%}
+      <td><a href="#day{{dayOfWeek.dayNum}}">Day {{dayOfWeek.dayNum}}</a></td>
+        {%- assign rowEnd = forloop.index | modulo: 4 -%}
+      {%- if rowEnd == 0 and forloop.index != forloop.length -%} 
+      </tr>
+      <tr>
+      {%- elsif rowEnd != 0 and forloop.last -%}
+        {%- assign countEnd = 4 | minus: rowEnd -%}
+        {%- capture count -%}{{ countEnd }}{%- endcapture -%}
+        {%- for num in (1..count) -%}
+        <td></td>
+        {%- endfor -%}
+      {%- endif -%}
+      {%- endfor -%}
     </tr>
   </tbody>
 </table>
@@ -45,48 +53,46 @@ language: English
 {{ content }}
 <hr>
 
-{% assign thisWeek = site.posts | where: "weekNum", filter | sort: "date" %}
-{% assign thisWeek = thisWeek | where: "categories", "daily" | sort: "date" %}
-{% assign thisWeek = thisWeek | where_exp: "item", "item.language == 'English'" %}
 
-
-{% assign day = 1 %}
-{% for onePage in thisWeek %}
-  {% if day == 1 %}
-    {% assign link = '<a href="#top">&#8679;</a> <a href="#day2">&#8681;</a>' %}    
-  {% elsif day == 7 %}
-    {% assign link = '<a href="#day6">&#8679;</a> <a href="#top">&#8686;</a>' %}
-  {% else %}
-    {% assign dayMinus = day | minus:'1' %}
-    {% assign dayMinus = '<a href="#day' | append:dayMinus | append:'">&#8679;</a>' %}
-    {% assign dayPlus = day | plus:'1' %}
-    {% assign dayPlus = ' <a href="#day' | append:dayPlus | append:'">&#8681;</a>' %}
-    {% assign link = dayMinus | append: dayPlus %}    
-  {% endif %}
+{%- assign day = 1 -%}
+{%- for onePage in thisWeek -%}
+  {%- if day == 1 -%}
+    {%- assign link = '<a href="#top">&#8679;</a> <a href="#day2">&#8681;</a>' -%}    
+  {%- elsif day == 7 -%}
+    {%- assign link = '<a href="#day6">&#8679;</a> <a href="#top">&#8686;</a>' -%}
+  {%- else -%}
+    {%- assign dayMinus = day | minus:'1' -%}
+    {%- assign dayMinus = '<a href="#day' | append:dayMinus | append:'">&#8679;</a>' -%}
+    {%- assign dayPlus = day | plus:'1' -%}
+    {%- assign dayPlus = ' <a href="#day' | append:dayPlus | append:'">&#8681;</a>' -%}
+    {%- assign link = dayMinus | append: dayPlus -%}    
+  {%- endif -%}
   
-<div id="{{ 'day' | append: day }}"></div>
+  {%- capture dayString -%}day{{day}}{%- endcapture -%}
+<div id="{{ dayString }}"></div>
 <h2> 
   <a href="{{ onePage.url }}">{{ onePage.title }}</a> {{ link }}
 </h2>
 
-{{ onePage.content }}
+{%- assign dayString = dayString | prepend: 'id="' | append: 'Content"' -%}
+{{ onePage.content | replace: 'id="top"', dayString }}
 
 <h3>Prayer</h3>
 
 <h3>Notes and Responses</h3>
 
-{% assign pageDate = onePage.date | date: "%Y-%m-%d" %}
-{% assign sharings = site.posts | where: "categories", "sharing" %}
+{%- assign pageDate = onePage.date | date: "%Y-%m-%d" -%}
+{%- assign sharings = site.posts | where: "categories", "sharing" -%}
 
 <ul>
-{% for post in sharings %}
-  {% if post.date == pageDate %}
+{%- for post in sharings -%}
+  {%- if post.date == pageDate -%}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endif %}
-{% endfor %}
+  {%- endif -%}
+{%- endfor -%}
 </ul>
 
 <hr>
 
-  {% assign day = day | plus:'1' %}
-{% endfor %}
+  {%- assign day = day | plus:'1' -%}
+{%- endfor -%}

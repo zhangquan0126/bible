@@ -12,7 +12,7 @@ language: English
 ### Question    
 What did Moses say about the rights of various people and marriage violations?
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### Meditation: God’s Story  
 + `21:1-22:12` are regulations on unsolved murder, captive woman, firstborn, rebellious son, dead body on pole, stray animal, clothing as opposite sex (God hates sexual indistinction), mercy to animals, roof parapet, mixing of kinds (God dislikes disorder: `Gen 1:4, 12, 21`; `Luke 16:13`; `2 Corinthians 6:14-18`), and tassels of the cloak.

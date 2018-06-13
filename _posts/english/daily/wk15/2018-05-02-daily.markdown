@@ -14,7 +14,7 @@ language: English
 ### Question
 **What should the Israelites’ life be like when they arrive at the promised land?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + In `Numbers 32`, the Gadites, Reubenites and the half-tribe of Manasseh had their eyes on the land to the east of Jordan river. They promised Moses that they would help the rest of the Israelites enter the promised land first. They saw the land was fertile and suitable for grazing, wanted to settle down quickly. Later, due to the lack of natural barriers, they were the first to be captured and occupied by the Assyrian before the entire nation of Israel fell.

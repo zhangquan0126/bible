@@ -14,7 +14,7 @@ language: English
 ### Question
 **What did Moses plead desperately to Israelites?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God's Story  
 + Moses pleaded continuously to Israelites to obey God's law and pass on the obedience to their descendants so they may continue living on the promised land.

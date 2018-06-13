@@ -10,7 +10,7 @@ dayNum: 6
 
 ### 問題：神如何藉著約書亞的智慧幫助以色列奪取艾城？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 神幫助約書亞，通過一個機智的軍事戰略來擊敗和摧毀艾城。

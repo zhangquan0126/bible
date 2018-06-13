@@ -14,7 +14,7 @@ language: English
 ### Question
 How should the Israelites have lived in the promised land?
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + God gave the Israelites the boundaries of the promised land and selected leaders, one from each of the 9 and half tribes. They followed the leadership of Joshua and high priest Elijah to distribute the land.

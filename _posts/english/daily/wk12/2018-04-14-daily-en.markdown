@@ -18,7 +18,7 @@ language: English
 ### Question
 **How did God make Israelites the holy nation?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + God called the Israelites to become His holy nation.

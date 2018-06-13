@@ -12,7 +12,7 @@ language: English
 ### Question    
 What did Moses say about the assembly, camp, shrine prostitute, loan, and vow?
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### Meditation: God’s Story  
 + Not everyone may enter the assembly of the Lord. Holiness and cleanliness must be kept as God is around. Properly treat the runaway slaves. Ban on shrine prostitutes. Ban on loan interest. Vow payment must not be delayed. Grapes and kernel of grains may be eaten but not taken away.

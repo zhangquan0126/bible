@@ -12,7 +12,7 @@ dayNum: 4
 
 ### 問題：約書亞死後，以色列人會如何為未得之地繼續爭戰？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 約書亞死後，不再有統領以色列人的領袖。

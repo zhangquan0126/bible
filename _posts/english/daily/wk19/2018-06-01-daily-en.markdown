@@ -11,7 +11,7 @@ language: English
 ### Question     
 How did God help Israelites to capture the first city, Jericho?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + The commander of the Lord's army came to Joshua indicated that God himself would fight for Israel. 

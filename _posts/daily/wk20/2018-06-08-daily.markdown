@@ -10,7 +10,7 @@ dayNum: 5
 
 ### 問題：其次得地的是哪些支派？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 其次是約瑟的兩個支派：以法蓮和瑪拿西的半個支派。

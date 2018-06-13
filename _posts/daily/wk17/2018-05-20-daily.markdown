@@ -8,7 +8,7 @@ weekNum: 17
 dayNum: 7
 ---
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 禱告：
 

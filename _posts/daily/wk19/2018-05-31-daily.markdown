@@ -10,7 +10,7 @@ dayNum: 4
 
 ### 問題：以色列人如何跨過約旦河進入迦南？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 耶和華行神跡使約旦河水流斷絕；約書亞帶領以色列人穿越約旦河，如同當年跨越紅海。

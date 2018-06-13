@@ -14,7 +14,7 @@ language: English
 ### Question
 **What are the other regulations to keep Israelites holy?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 * More regulations to keep Israelites holy so they can worship God.

@@ -26,7 +26,7 @@ title: {{ site.name }}
 <div id="top"></div>
 <table id="navibar">
 
-{% if page.language == "English" %}
+{%- if page.language == "English" -%}
 <tr>    
     <td align="left">
         <div align="left">
@@ -34,12 +34,12 @@ title: {{ site.name }}
         </div>
     </td>
     <td align="right">
-  {% assign chUrl = page.url | replace_first: "/en/", "/" %}
+  {%- assign chUrl = page.url | replace_first: "/en/", "/" -%}
   <div id="language" align="right">
     <a href="{{ chUrl }}">中文</a> | English
   </div>
 
-{% else %}
+{%- else -%}
 
 <tr>    
     <td align="left">
@@ -48,19 +48,19 @@ title: {{ site.name }}
         </div>
     </td>
     <td align="right">
-  {% assign enUrl = page.url | prepend: "/en" %}
+  {%- assign enUrl = page.url | prepend: "/en" -%}
 
-  {% assign enPost = site.posts | where_exp: "item", "item.url == enUrl" %}
-  {% assign enPage = site.pages | where_exp: "item", "item.url == enUrl" %}
-  {% assign ifExist = enPost.size | plus: enPage.size %}
-  {% if ifExist > 0 %}
+  {%- assign enPost = site.posts | where_exp: "item", "item.url == enUrl" -%}
+  {%- assign enPage = site.pages | where_exp: "item", "item.url == enUrl" -%}
+  {%- assign ifExist = enPost.size | plus: enPage.size -%}
+  {%- if ifExist > 0 -%}
     中文 | <a href="{{ enUrl }}">English</a>
-  {% else %}
+  {%- else -%}
     中文 | English
-  {% endif %}
+  {%- endif -%}
 
 
-{% endif %}
+{%- endif -%}
 
     </td>
     </tr>    
