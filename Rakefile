@@ -35,10 +35,10 @@ task proof_external: 'build' do
 end
 
 task :build_date do
-  filePath = File.join(__dir__, "_data/build_date.yml")
   last_build_date = {}
   last_build_date['date'] = Time.new
-  File.write(filePath, YAML.dump(last_build_date))
+  file_path = File.join(__dir__, '_data/build_date.yml')
+  File.write(file_path, YAML.dump(last_build_date))
 end
 
 RuboCop::RakeTask.new
