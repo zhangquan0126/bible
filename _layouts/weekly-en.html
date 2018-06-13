@@ -8,8 +8,8 @@ language: English
 
 {% assign lastWeek = page.weekNum | minus:"1" %}
 {% assign nextWeek = page.weekNum | plus:"1" %}
-{% assign lastLink = "wk" | append:lastWeek | append:".html#top" %}
-{% assign nextLink = "wk" | append:nextWeek | append:".html#top" %}
+{% assign lastLink = "/en/guide/wk" | append:lastWeek | append:".html#top" %}
+{% assign nextLink = "/en/guide/wk" | append:nextWeek | append:".html#top" %}
 {% assign filter = page.weekNum %}
 {% assign chUrl = page.permalink | replace_first: "/en/", "/" %}
 
