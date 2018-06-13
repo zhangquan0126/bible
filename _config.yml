@@ -23,12 +23,12 @@ google_analytics: UA—114680216-1
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-  - Rakefile
-  - README.md
   - Gemfile
   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Rakefile
+  - README.md
