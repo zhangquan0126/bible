@@ -8,7 +8,7 @@ weekNum: 15
 language: English
 ---
 
-<h3>Forward</h3>
+### Forward
 
 We are about to walk out of the desert! This week we’ll complete the reading on the `Book of Numbers` and continue into the `Book of Deuteronomy`. The reading gives the account of the preparations and commands God gave Israelites before they went into the promised land.
 

@@ -8,5 +8,5 @@ weekNum: 18
 language: English
 ---
 
-<h3>Forward</h3>
+### Forward
 We are continuing the reading on the Book of Deuteronomy. May the Lord’s word renew you all each day!
