@@ -5,7 +5,6 @@ date:   2018-01-24 20:31:02 -0800
 categories: weekly guide
 permalink: /guide/wk1.html
 ---
-<div id="top"></div>
 
 |[《前言](intro.html)|[主页](/)|[下週》](wk2.html)|
 |-----------|

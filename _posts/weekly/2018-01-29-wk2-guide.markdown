@@ -6,7 +6,6 @@ categories: weekly guide
 weekNum: 2
 permalink: /guide/wk2.html
 ---
-<div id="top"></div>
 
 |[《上週](wk1.html)|[主页](/)|[下週》](wk3.html)|
 |-----------|
