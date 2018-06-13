@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 21 Day 1: Tribe of Levi"
-date 2018-06-11
+date: 2018-06-11
 categories: daily
 permalink: /en/daily/wk21-day1-daily.html
 weekNum: 21
