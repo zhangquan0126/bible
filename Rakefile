@@ -7,7 +7,8 @@ task default: %w[rubocop proof]
 task :build do
   config = Jekyll.configuration(
     'source' => './',
-    'destination' => './_site'
+    'destination' => './_site',
+    'future' => true
   )
   site = Jekyll::Site.new(config)
   Jekyll::Commands::Build.build site, config
