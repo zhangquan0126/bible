@@ -11,10 +11,11 @@ before_script:
 # install: gem install jekyll
 script: jekyll build ./_site
 
+
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - gh-pages     # test the gh-pages branch
+#  - gh-pages     # test the gh-pages branch
   - master
 # - /pages-(.*)/ # test every branch which starts with "pages-"
 
@@ -23,3 +24,4 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
 sudo: false # route your build to the container-based infrastructure for a faster build
+
