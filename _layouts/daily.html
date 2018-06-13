@@ -16,12 +16,12 @@ title: {{ site.name }}
 </table>
 
 <h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date: '%B %d, %Y' }}</p>
+<p class="meta">{{ page.date | date: "%B %d, %Y" }}</p>
 {% assign nextDate = page.date | plus:"1" %}
 
 {{ content }}
 
-{% assign pageDate = page.date | '%Y-%m-%d' %}
+{% assign pageDate = page.date | date: "%Y-%m-%d" %}
 {% assign sharings = site.posts | where: "categories", "sharing" %}
 
 <ul>

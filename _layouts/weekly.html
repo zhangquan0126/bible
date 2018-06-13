@@ -55,14 +55,14 @@ title: {{ site.name }}
     {% assign link = dayMinus | append: dayPlus %}    
   {% endif %}
   
-<div id='{{ 'day' | append: day }}'></div>
+<div id="{{ 'day' | append: day }}"></div>
 <h2> 
   {{ onePage.title | link_to: onePage.permalink }} {{ link }}
 </h2>
 
 {{ onePage.content }}
 
-{% assign pageDate = onePage.date | '%Y-%m-%d' %}
+{% assign pageDate = onePage.date | date: "%Y-%m-%d" %}
 {% assign sharings = site.posts | where: "categories", "sharing" %}
 
 <ul>

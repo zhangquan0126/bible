@@ -8,11 +8,11 @@ language: "English"
 <div id="home">
   
  <h1>Latest Posts</h1>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | relative_url }}">via RSS</a></p>
    
   <ul class="posts">
 
-    {% assign today = site.time | date: '%Y-%m-%d'  %}
+    {% assign today = site.time | date: "%Y-%m-%d"  %}
     
     {% assign chnPosts = site.posts | where_exp: "item", "item.language == 'English'" %}
     
@@ -27,13 +27,13 @@ language: "English"
           {% endif %}
     
           {% assign splitTitles = post.title | split:": " %}
-          <li><span style="display:inline-block;">{{ post.date | date: '%b %d' }} {{ splitTitles[0] }}</span>
+          <li><span style="display:inline-block;">{{ post.date | date: "%b %d" }} {{ splitTitles[0] }}</span>
             <a href="{{ site.baseurl }}{{ post.url }}">{{ splitTitles[1] }}</a></li>
         {% endif %}
 
       {% else %}
         
-        <li><span>{{ post.date | date: '%b %d' }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        <li><span>{{ post.date | date: "%b %d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
       
       {% endif %}
     
@@ -48,11 +48,11 @@ language: "English"
   <div id="today"></div>
   <h1>Today's Reading</h1>
   <h2>{{ todayPost.title }}</h2>
-  <p class="meta">{{ todayPost.date | date: '%B %d, %Y' }}</p>
+  <p class="meta">{{ todayPost.date | date: "%B %d, %Y" }}</p>
   {{ todayPost.content }}
     
   {% assign sharings = site.posts | where: "categories", "sharing" %}
-  {% assign pageDate = todayPost.date | '%Y-%m-%d' %}
+  {% assign pageDate = todayPost.date | date: "%Y-%m-%d" %}
   
   <ul> 
   {% for post in sharings %}

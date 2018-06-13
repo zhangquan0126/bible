@@ -42,13 +42,13 @@ title: {{ site.name }}
       
             {% assign verse1 = dailySchedule.verses[0].titleCh %}
             {% assign verse2 = dailySchedule.verses[1].titleCh %}
-            {% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=CUVMPT" %}
-            {% assign bgLink4 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=CUVMPT" %}
+            {% assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: '&version=CUVMPT' %}
+            {% assign bgLink4 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: '&version=CUVMPT' %}
  
             {% if verse1.size > 0 %}
-              <a href='{{ bgLink1 }}'><code>{{ verse1 }}</code></a> 
+              <a href="{{ bgLink1 }}"><code>{{ verse1 }}</code></a> 
             {% endif %}
-            <a href='{{ bgLink4" }}'><code>{{ verse2 }}</code></a>
+            <a href="{{ bgLink4 }}"><code>{{ verse2 }}</code></a>
           {% endif %}
       
         {% endfor %}
