@@ -25,13 +25,26 @@ title: {{ site.name }}
 {%- assign weekly = "/guide/wk" | append:page.weekNum | append:".html" -%}
 {%- assign enUrl = "/en" | append : page.permalink -%}
 
+{%- capture linksTable -%}
+    {%- assign pageExists = site.posts | where: "url", prevDay | size -%}
+    {%- if pageExists > 0 -%}
+      <th><a href="{{ prevDay }}">《上一日</a></th>
+    {%- endif -%}
+    {%- assign pageExists = site.posts | where: "url", weekly | size -%}
+    {%- if pageExists > 0 -%}
+      <th><a href="{{ weekly }}">本周</a></th>
+    {%- endif -%}
+    {%- assign pageExists = site.posts | where: "url", nextDay | size -%}
+    {%- if pageExists > 0 -%}
+      <th><a href="{{ nextDay }}">下一日》</a></th>
+    {%- endif -%}
+{%- endcapture -%}
+
 <p>
 <table style="width:100%; display: table">
   <thead>
   <tr>
-    <th><a href="{{ prevDay | append: '#top' }}">《上一日</a></th>
-    <th><a href="{{ weekly | append: '#top' }}">本週</a></th>
-    <th><a href="{{ nextDay | append: '#top' }}">下一日》</a></th>
+    {{ linksTable }}
   </tr>
   </thead>
 </table>
@@ -59,9 +72,7 @@ title: {{ site.name }}
 <table>
   <thead>
     <tr>
-      <th><a href="{{ prevDay }}">《上一日</a></th>
-      <th><a href="{{ weekly }}">本週</a></th>
-      <th><a href="{{ nextDay }}">下一日》</a></th>
+      {{ linksTable }}
     </tr>
   </thead>
 </table>

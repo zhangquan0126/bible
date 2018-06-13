@@ -20,14 +20,22 @@ language: Chinese
 <table style="display: table">
   <thead>
   <tr>
+    {%- assign pageExists = site.posts | where: "url", lastLink | size -%}
+    {%- if pageExists > 0 -%}
     <th colspan="2"><a href="{{ lastLink | append: '#top' }}">《上週</a></th>
+    {%- endif -%}
+    <th colspan="2"><a href="/">主页</a></th>
+    {%- assign pageExists = site.posts | where: "url", nextLink | size -%}
+    {%- if pageExists > 0 -%}
     <th colspan="2"><a href="{{ nextLink | append: '#top' }}">下週》</a></th>
+    {%- endif -%}
   </tr>
   </thead>
   <tbody>
     <tr>
+{%- assign day = 1 -%}
       {%- for dayOfWeek in thisWeek -%}
-      <td><a href="#day{{dayOfWeek.dayNum}}">第{{dayOfWeek.dayNum}}天</a></td>
+      <td><a href="#day{{day}}">第{{dayOfWeek.dayNum}}天</a></td>
         {%- assign rowEnd = forloop.index | modulo: 4 -%}
       {%- if rowEnd == 0 and forloop.index != forloop.length -%} 
       </tr>
@@ -39,6 +47,7 @@ language: Chinese
         <td></td>
         {%- endfor -%}
       {%- endif -%}
+  {%- assign day = day | plus:'1' -%}
       {%- endfor -%}
     </tr>
   </tbody>
@@ -65,7 +74,7 @@ language: Chinese
     {%- assign link = dayMinus | append: dayPlus -%}    
   {%- endif -%}
 
-  {%- capture dayString -%}day{{day}}{%- endcapture -%}
+  {%- assign dayString = 'day' | append: day -%}
 <div id="{{ dayString }}"></div>
 <h2> 
   <a href="{{ onePage.url }}">{{ onePage.title }}</a> {{ link }}

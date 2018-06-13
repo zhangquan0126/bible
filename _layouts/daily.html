@@ -9,7 +9,6 @@ title: {{ site.name }}
 <table>
   <thead>
   <tr>
-    {%- capture linksTable -%}
     {%- assign pageExists = site.posts | where: "url", page.prevDay | size -%}
     {%- if pageExists > 0 -%}
       <th><a href="{{ page.prevDay }}">《上一日</a></th>
@@ -22,7 +21,6 @@ title: {{ site.name }}
     {%- if pageExists > 0 -%}
       <th><a href="{{ page.nextDay }}">下一日》</a></th>
     {%- endif -%}
-{%- endcapture -%}
   </tr>
   </thead>
 </table>

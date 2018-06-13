@@ -19,15 +19,22 @@ language: English
 <table style="display: table">
   <thead>
   <tr>
+    {%- assign pageExists = site.posts | where: "url", lastLink | size -%}
+    {%- if pageExists > 0 -%}
     <th><a href="{{ lastLink | append: '#top' }}">&#171; Prev</a></th>
+    {%- endif -%}
     <th colspan=2><a href="/en/">Home</a></th>
+    {%- assign pageExists = site.posts | where: "url", nextLink | size -%}
+    {%- if pageExists > 0 -%}
     <th><a href="{{ nextLink | append: '#top' }}">Next &#187;</a></th>
+    {%- endif -%}
   </tr>
   </thead>
   <tbody>
     <tr>
+{%- assign day = 1 -%}
       {%- for dayOfWeek in thisWeek -%}
-      <td><a href="#day{{dayOfWeek.dayNum}}">Day {{dayOfWeek.dayNum}}</a></td>
+      <td><a href="#day{{day}}">Day {{dayOfWeek.dayNum}}</a></td>
         {%- assign rowEnd = forloop.index | modulo: 4 -%}
       {%- if rowEnd == 0 and forloop.index != forloop.length -%} 
       </tr>
@@ -39,6 +46,7 @@ language: English
         <td></td>
         {%- endfor -%}
       {%- endif -%}
+  {%- assign day = day | plus:'1' -%}
       {%- endfor -%}
     </tr>
   </tbody>
@@ -66,7 +74,7 @@ language: English
     {%- assign link = dayMinus | append: dayPlus -%}    
   {%- endif -%}
   
-  {%- capture dayString -%}day{{day}}{%- endcapture -%}
+  {%- assign dayString = 'day' | append: day -%}
 <div id="{{ dayString }}"></div>
 <h2> 
   <a href="{{ onePage.url }}">{{ onePage.title }}</a> {{ link }}
