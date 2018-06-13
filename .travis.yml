@@ -14,6 +14,7 @@ git commit -m 'rebuild pages' --allow-empty
 git push origin master
 jekyll build ./_site
 
+
 # branch whitelist, only for GitHub Pages
 branches:
   only:
