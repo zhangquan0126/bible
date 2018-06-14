@@ -36,8 +36,7 @@
 
 {%- endif -%}
 
-<br/>
-{%- if page.language == "English" -%}
+{% if page.language == "English" %}
 <h3>Scripture Reading</h3>
 <ul>
   {%- if verse1.size > 0 -%}
@@ -46,11 +45,11 @@
   <li><a href="{{ bgLink6 }}">{{ verseEn2 }}</a> | <a href="{{ yvLink4 }}">[YouVersion]</a></li>
 </ul>
 
-{%- else -%}
+{% else %}
 
 
 <h3>讀經：</h3>
-  {%- if verse1 -%}
+  {% if verse1 %}
 
 <table>
   <tr>
@@ -63,7 +62,7 @@
       </tr>
 </table>
 
-  {%- endif -%}
+  {% endif %}
 
 <table>
       <tr>
@@ -76,6 +75,5 @@
         <td colspan="2"><a href="{{ yvLink2 }}">【YouVersion】</a></td>
       </tr>
 </table>
-{%- endif -%}
+{% endif %}
 
-<br />
