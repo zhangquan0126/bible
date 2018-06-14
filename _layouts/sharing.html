@@ -8,7 +8,7 @@ title: {{ site.name }}
 {%- assign posts3 = posts2 | where_exp: "item", "item.language != 'English'" -%}
 {%- assign dailyPage = posts3 | where: "categories", "daily" | first -%} 
 
-<h3><a href={{ dailyPage.url }}>{{ dailyPage.title }}</a></h3>
+<h3><a href="{{ dailyPage.url }}">{{ dailyPage.title }}</a></h3>
 
 {%- include BibleLinks.html -%}
 
