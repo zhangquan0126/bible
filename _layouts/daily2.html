@@ -26,6 +26,9 @@ title: {{ site.name }}
 {%- assign enUrl = "/en" | append : page.permalink -%}
 
 {%- capture linksTable -%}
+<table style="width:100%; display: table;">
+  <thead>
+  <tr>
     {%- assign pageExists = site.posts | where: "url", prevDay | size -%}
     {%- if pageExists > 0 -%}
       <th><a href="{{ prevDay }}">《上一日</a></th>
@@ -42,16 +45,13 @@ title: {{ site.name }}
     {%- else -%}
       <th>下一日》</th>
     {%- endif -%}
-{%- endcapture -%}
-
-<p>
-<table style="width:100%; display: table">
-  <thead>
-  <tr>
-    {{ linksTable }}
   </tr>
   </thead>
 </table>
+{%- endcapture -%}
+
+<p>
+    {{ linksTable }}
 <p>
 
 <div id="dailyContent">
@@ -73,11 +73,7 @@ title: {{ site.name }}
 
 {%- include disqus.html -%}
 
-<table style="width:100%; display: table">
-  <thead>
-    <tr>
-      {{ linksTable }}
-    </tr>
-  </thead>
-</table>
+
+{{ linksTable }}
+
 
