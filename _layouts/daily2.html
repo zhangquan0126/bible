@@ -29,6 +29,8 @@ title: {{ site.name }}
     {%- assign pageExists = site.posts | where: "url", prevDay | size -%}
     {%- if pageExists > 0 -%}
       <th><a href="{{ prevDay }}">《上一日</a></th>
+    {%- else -%}
+      <th>《上一日</th>
     {%- endif -%}
     {%- assign pageExists = site.posts | where: "url", weekly | size -%}
     {%- if pageExists > 0 -%}
@@ -37,6 +39,8 @@ title: {{ site.name }}
     {%- assign pageExists = site.posts | where: "url", nextDay | size -%}
     {%- if pageExists > 0 -%}
       <th><a href="{{ nextDay }}">下一日》</a></th>
+    {%- else -%}
+      <th>下一日》</th>
     {%- endif -%}
 {%- endcapture -%}
 
