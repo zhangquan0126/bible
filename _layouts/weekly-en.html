@@ -21,14 +21,13 @@ language: English
   <tr>
     {%- assign pageExists = site.posts | where: "url", lastLink | size -%}
     {%- if pageExists > 0 -%}
-      <th><a href="{{ lastLink | append: '#top' }}">&#171; Prev</a></th>
+      <th colspan=2><a href="{{ lastLink | append: '#top' }}">&#171; Prev</a></th>
     {%- else -%}
       <th>&#171; Prev</th>
     {%- endif -%}
-      <th colspan=2><a href="/en/">Home</a></th>
     {%- assign pageExists = site.posts | where: "url", nextLink | size -%}
     {%- if pageExists > 0 -%}
-      <th><a href="{{ nextLink | append: '#top' }}">Next &#187;</a></th>
+      <th colspan=2><a href="{{ nextLink | append: '#top' }}">Next &#187;</a></th>
     {%- else -%}
       <th>Next &#187;</th>
     {%- endif -%}
