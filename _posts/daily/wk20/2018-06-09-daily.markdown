@@ -10,7 +10,7 @@ dayNum: 6
 
 ### 問題：其他支派所得的地業如何分配？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 其他支派的分地方式不同於猶大、約瑟支派的分地方式。

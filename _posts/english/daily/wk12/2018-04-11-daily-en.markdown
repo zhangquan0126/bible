@@ -18,7 +18,7 @@ language: English
 ### Question
 **How does man redeem from his vow to God?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + Redeeming what is Lord’s is a very serious business. Man often take a vow to make wishes to

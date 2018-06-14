@@ -12,7 +12,7 @@ language: English
 + What were Moses' final words to Joshua, the priests, the Levites, and the elders? 
 + What did God say to Moses and Joshua?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + Moses could not enter the promised land because God did not allow him and he was old. However, God brought up Joshua to lead the Israelites to cross the Jordan river, to go into the land of Canaan, to destroy the nations on that land. Moses encouraged Joshua in front of all Israel that God will be with him. 

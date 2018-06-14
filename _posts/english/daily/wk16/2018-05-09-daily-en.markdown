@@ -14,7 +14,7 @@ language: English
 ### Question
 **What were the ten commandments?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God's Story
 + God gave the Israelites the laws in chapters 5 to 11.

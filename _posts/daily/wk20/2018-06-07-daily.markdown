@@ -10,7 +10,7 @@ dayNum: 4
 
 ### 問題：地首先分給了哪個支派？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 迦南地的分配，首先是給迦勒和猶大支派，顯出猶大支派的重要性。

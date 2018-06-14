@@ -12,7 +12,7 @@ dayNum: 2
 
 ### 問題：摩西死後，神如何繼續帶領以色列人？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 神呼召約書亞成為摩西的繼任者，命令他帶領百姓進入神所應許給他們祖先的土地。

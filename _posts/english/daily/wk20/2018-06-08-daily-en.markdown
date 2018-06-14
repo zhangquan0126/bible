@@ -11,7 +11,7 @@ language: English
 ### Question     
 What tribes were the next to receive land?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + The two tribes of Joseph's descendant were next to receive their allotments: Ephraim and half tribe of Manasseh. 

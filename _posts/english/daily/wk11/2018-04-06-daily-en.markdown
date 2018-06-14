@@ -14,7 +14,7 @@ language: English
 ### Question
 **Why did the previous generation of Israelites fail to enter the promised land 40 years ago?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 * The priests are set apart from the people for God. The requirements for the priests are even higher. God set clear priority to their duty and daily lives.

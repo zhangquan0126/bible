@@ -14,7 +14,7 @@ language: English
 ### Question
 **How did Moses summarize the way Israelites complete their wandering in the wilderness and the final push up north?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God's Story  
 + All the men died 38 years after they refused to enter the land of Canaan due to fear. Now, Israelites obeyed God's command and pushed northward. They entered the land of Edomites, Moabites, and Ammonites peacefully. However, they battled Sihon king of Heshbon when they went through the land as God began to `put terror and fear of the Israelites on all nations under heaven. (Deuteronomy 2:25)`

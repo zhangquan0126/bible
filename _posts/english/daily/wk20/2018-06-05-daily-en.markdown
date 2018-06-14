@@ -11,7 +11,7 @@ language: English
 ### Question     
 How did the Israelites conquer the cities in the north?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + After defeating the kings in the south, the Israelites turned north and conquered the northern kings. 

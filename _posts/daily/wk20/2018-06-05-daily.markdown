@@ -10,7 +10,7 @@ dayNum: 2
 
 ### 問題：以色列如何奪取北部各城？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 南地諸王的失敗之後，以色列揮師北上，擊敗北方諸王。

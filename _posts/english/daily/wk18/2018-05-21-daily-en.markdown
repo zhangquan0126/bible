@@ -13,7 +13,7 @@ language: English
 + What did Moses say about divorcing the wife, treating newly wedded wife, the widow, the fatherless, and flogging the guilty? 
 + What is the The Family of the Unsandaled?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + `Chapter 24`, a man may divorce his wife if he finds something indecent about her but must write a certificate of divorce. The newly wedded man must not be sent to war or have any other duty laid on him for a year so he can bring happiness to his wife. Because the Israelites have been slaves in Egypt, they should not take advantage of the poor, must be compassionate, should not deprive the foreigner or the fatherless of justice, must help them and give them dignity. It is evil to kidnap and treat or sell others as slaves. Be very careful with skin diseases. Each will die for their own sins, family should not be put to death for them. 

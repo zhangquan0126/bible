@@ -14,7 +14,7 @@ language: English
 ### Question
 **Why did the previous generation of Israelites fail to enter the promised land 40 years ago?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 * Chapter 19 details the morality, law, worship, and spiritual life and covers all the Ten Commandments. A total of 16 short sections with each ending with the phrase `"I am the Lord."` `"Be holy because I, the Lord your God, am holy."` is the basis for calling upon the people to live holy lives. `"Love your neighbor as yourself"` appears in the verses and tells Israelites that the standard of holiness is not just keeping the law, but also to actively live out its virtue.

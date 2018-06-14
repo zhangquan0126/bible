@@ -11,7 +11,7 @@ language: English
 ### Question     
 How was the inheritance divided up for the rest of the tribes?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + The inheritance was divided up in different way than the tribes of Judah and Joseph. 

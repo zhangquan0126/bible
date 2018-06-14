@@ -6,14 +6,14 @@ categories: all
 permalink: "/all.html"
 ---
 
-{% assign weeklyPosts = site.posts | where: "categories", "weekly" | sort: "date" %}
+{%- assign weeklyPosts = site.posts | where: "categories", "weekly" | sort: "date" -%}
 
 <ul>
-{% for post in weeklyPosts %}
+{%- for post in weeklyPosts -%}
 
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 
-{% endfor %}
+{%- endfor -%}
 </ul>
 
 

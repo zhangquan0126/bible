@@ -18,7 +18,7 @@ language: English
 ### Question
 **How did God look after His faithful servant when people complained and talked against him?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God's Story 
 + Israelites started their complaints again just three days out of Sinai. This angered God and

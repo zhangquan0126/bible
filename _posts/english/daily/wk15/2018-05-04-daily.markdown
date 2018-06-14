@@ -14,7 +14,7 @@ language: English
 ### Question
 **How did God ensure the land of those who has no son will not go to other tribes?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + With God’s permission, the daughters of son-less Zelophehad inherited his land. The family heads now faced a new problem. Namely, a tribe’s land may go to other tribes in the Year of Jubilee if daughters with inheritances marry men from other tribes. Therefore, by God’s command, Moses ordered: “They may marry anyone they please as long as they marry within their father’s tribal clan.” The daughters obeyed.

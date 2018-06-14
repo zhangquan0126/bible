@@ -14,7 +14,7 @@ language: English
 ### Question     
 How did the Israelites continue to go to war for lands after Joshua had passed?
  
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + Israel had no more leader after Joshua. 

@@ -11,7 +11,7 @@ language: English
 ### Question     
 How did God give Ai to Israelites through Joshua's wisdom?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + God helped Joshua to capture and destroy Ai through a wise military strategy. 

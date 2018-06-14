@@ -12,7 +12,7 @@ language: English
 + What did Moses command? 
 + Whom did the Levitical priests say would be cursed?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + Israelites' livelihood depends on their relationship with God. The relationship depends on their obedience to God's law. So, they were to write all the words of the law on some large plaster coated stones when they entered the promised land. 

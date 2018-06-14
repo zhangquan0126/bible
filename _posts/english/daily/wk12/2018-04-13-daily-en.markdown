@@ -18,7 +18,7 @@ language: English
 ### Question
 **How did God make Israel a kingdom of priests?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + Chapter 3 starts in Genesis like fashion with the lineage of the Levites.

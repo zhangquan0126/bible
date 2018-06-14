@@ -13,7 +13,7 @@ language: English
 + Who were the cities of refuge established for? 
 + What is proper way of going to battle in the eyes of our Lord?
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
    
 ### Meditation: God’s Story  
 + God established the cities of refuge for those who killed unintentionally. However, those who willfully kill would be put to death.

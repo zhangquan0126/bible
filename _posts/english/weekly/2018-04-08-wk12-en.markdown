@@ -9,7 +9,7 @@ weekNum: 12
 ---
 
 <div id="forward"></div>
-<h3>Forward</h3>
+### Forward
 We are now completing the reading on the `Book of Leviticus` and starting on the `Book of Numbers`.
 
 Tips and highlights of this week’s reading:

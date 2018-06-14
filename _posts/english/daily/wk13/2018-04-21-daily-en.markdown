@@ -18,7 +18,7 @@ language: English
 ### Question
 **How did God displayed His faithfulness and blessings after He struck down on the Israelites?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God's Story 
 + Right after God struck down on the Israelites in chapter 14, He gave Moses the regulations on

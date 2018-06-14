@@ -18,7 +18,7 @@ language: English
 ### Question
 **How were the census conducted and tribes’ camps arranged?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + The first census and where each of the tribes were placed around the Tent of Meeting.

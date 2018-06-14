@@ -14,7 +14,7 @@ language: English
 + What did Moses say about the place of worship, idols, meat, blood, and the Levites? 
 + What did he say about how to deal with those who seduce the Israelites to worship other gods?
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### Meditation: God’s Story  
 + `Chapters 12-16` are the detailed records of the requirements, decrees, and laws outside of the commands. Although much of the content has been recorded in Exodus, Leviticus, and Numbers, what recorded here is not simply a repeat of the same but targeted toward the specific situation in the land of Canaan.

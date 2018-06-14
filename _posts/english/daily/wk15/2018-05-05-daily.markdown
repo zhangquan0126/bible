@@ -14,7 +14,7 @@ language: English
 ### Question
 **Why did the previous generation of Israelites fail to enter the promised land 40 years ago?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + The new generation of Israelites have not reached 20 or yet to be born at the time of exodus from Egypt. They now have finally reached the plains of Moab across the Jordan river from the promised land after 40 years of wandering journey. The Book of Deuteronomy records the last days of Moses where he followed God’s command to reiterate the laws and regulations so that they `“fear the Lord your God, to walk in obedience to him, to love him, to serve the Lord your God with all your heart and with all your soul, and to observe the Lord’s commands and decrees that I am giving you today for your own good.” (Deu. 10:12-13)`

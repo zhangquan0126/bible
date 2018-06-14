@@ -14,7 +14,7 @@ Book of Joshua, the account of Israelites entering the land of Canaan to take po
 ### Question     
 How did God lead the Israelites after Moses' passing?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + God called upon Joshua to succeed Moses and commanded him to lead Israelites to go into the land promised to their ancestors. 

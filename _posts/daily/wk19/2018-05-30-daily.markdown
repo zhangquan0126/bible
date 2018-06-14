@@ -10,7 +10,7 @@ dayNum: 3
 
 ### 問題：以色列人進入迦南之前首先做了什麼準備？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 約書亞派遣探子前往耶利哥。神藉著身份低微的妓女喇合拯救了探子。

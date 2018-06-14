@@ -11,7 +11,7 @@ language: English
 ### Question     
 Which tribe was the first to receive land?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + Caleb and the tribe of Judah were the first to receive inheritance indicating the importance of the tribe. 

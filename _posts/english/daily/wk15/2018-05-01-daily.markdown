@@ -14,7 +14,7 @@ language: English
 ### Question
 **How did the Israelites divide up the plunders and spoils from the war?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + `Numbers 30` is regulation about woman who took vows. Her father before she marries or husband after she marries are responsible for her spiritual direction and protection.

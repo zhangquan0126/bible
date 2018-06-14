@@ -8,7 +8,7 @@ weekNum: 17
 language: English
 ---
 
-<h3>Forward</h3>
+### Forward
 We continue reading the Book of Deuteronomy this week.
 
 Deuteronomy is an important and applicable book for today’s believers. Moses’ exhortation and warning in Deuteronomy proved that human nature is the never ending idol factory. Although it speaks of the treachery of Israelite, but the same idol is worshiped by all mankind.

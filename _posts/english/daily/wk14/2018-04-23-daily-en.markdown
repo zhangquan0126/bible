@@ -18,7 +18,7 @@ language: English
 ### Question
 **Who established Aaron’s priesthood that Korah challenged?**
 
-{% include BibleLinks-en.html %}
+{%- include BibleLinks-en.html -%}
 
 ### Meditation: God’s Story
 + Korah, a descendant of Levi, lead some Israelites to challenge Moses for the appointment of Aaron and his descendant’s priesthood. Moses asked them to come in front of God and be tested with fire. God brought about something totally new to destroy Korah and everyone and everything associated with him.

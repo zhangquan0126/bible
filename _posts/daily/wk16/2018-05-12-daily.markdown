@@ -16,7 +16,7 @@ youVersionRef2: "PSA.111"
 
 ### 問題：遵守神的誡命會如何？不聽從又會如何？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 摩西按照神的吩咐，重新鑿出兩塊石版，上面有神再次親筆書寫的十誡，存放在耐久的皂莢木櫃中。

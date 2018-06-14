@@ -16,7 +16,7 @@ youVersionRef2: "PSA.108"
 
 ### 問題：神藉著摩西頒布的十誡是哪些誡命？
 
-{% include BibleLinks.html %}
+{%- include BibleLinks.html -%}
 
 ### 默想：神的故事 
 + 摩西在`申命記第5-11章`，向以色列人陳明神的律法。

@@ -5,57 +5,56 @@ title: {{ site.name }}
 language: English
 ---
 
-{% assign schedulePage = site.pages | where: "layout", "schedule" %}
+{%- assign schedulePage = site.pages | where: "layout", "schedule" -%}
 
 <a href="/">Back to Home</a>
 <h2>All Posts</h2>
 
-{% assign allEnPosts = site.posts | where_exp: "item", "item.language == 'English'" %}
-{% assign weeklyPosts = allEnPosts| where: "categories", "weekly" | sort: "date" %}
-{% assign dailyPosts = allEnPosts | where: "categories", "daily" %}
-{% assign sharingPosts = allEnPosts | where: "categories", "sharing" %}
+{%- assign allEnPosts = site.posts | where_exp: "item", "item.language == 'English'" -%}
+{%- assign weeklyPosts = allEnPosts| where: "categories", "weekly" | sort: "date" -%}
+{%- assign dailyPosts = allEnPosts | where: "categories", "daily" -%}
+{%- assign sharingPosts = allEnPosts | where: "categories", "sharing" -%}
 
-{% assign bgLink = "https://www.biblegateway.com/passage/?search=" %}
+{%- assign bgLink = "https://www.biblegateway.com/passage/?search=" -%}
 
-{% for post in weeklyPosts %}
-
-  {% assign weekNum = post.weekNum %}
-  {% assign thisWeek = dailyPosts | where: "weekNum", weekNum | sort: "date" %}
+{%- for post in weeklyPosts -%}
+  {%- assign weekNum = post.weekNum -%}
+  {%- assign thisWeek = dailyPosts | where: "weekNum", weekNum | sort: "date" -%}
   
-  {% if thisWeek.size > 0 %}
+  {%- if thisWeek.size > 0 -%}
     <details><summary>  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></summary>    
     <ul>
-        {% assign weekNum = post.weekNum %}
-        {% assign thisWeek = dailyPosts | where: "weekNum", weekNum | sort: "date" %}
-        {% for dailyPost in thisWeek %}
+        {%- assign weekNum = post.weekNum -%}
+        {%- assign thisWeek = dailyPosts | where: "weekNum", weekNum | sort: "date" -%}
+        {%- for dailyPost in thisWeek -%}
           <li><a href="{{ site.baseurl }}{{ dailyPost.url }}">{{ dailyPost.title }}</a></li>
       
-                {% assign index = weekNum | times:7 %}
-          {% assign index = index | minus:8 | plus: dailyPost.dayNum %}
-          {% assign dailySchedule = schedulePage[0].plan.days[index] %}
+                {%- assign index = weekNum | times:7 -%}
+          {%- assign index = index | minus:8 | plus: dailyPost.dayNum -%}
+          {%- assign dailySchedule = schedulePage[0].plan.days[index] -%}
           
-          {% if dailySchedule %}
-            {% assign bgV2 = dailySchedule.verses[1].verseBG %}
-            {% assign bgV1 = dailySchedule.verses[0].verseBG %}
+          {%- if dailySchedule -%}
+            {%- assign bgV2 = dailySchedule.verses[1].verseBG -%}
+            {%- assign bgV1 = dailySchedule.verses[0].verseBG -%}
      
-            {% assign verseEn1 = dailySchedule.verses[0].titleEn %}
-            {% assign verseEn2 = dailySchedule.verses[1].titleEn %}
-            {% assign bgLink3 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" %}  
-            {% assign bgLink6 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" %}
+            {%- assign verseEn1 = dailySchedule.verses[0].titleEn -%}
+            {%- assign verseEn2 = dailySchedule.verses[1].titleEn -%}
+            {%- assign bgLink3 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: "&version=NIV" -%}  
+            {%- assign bgLink6 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: "&version=NIV" -%}
  
-            {% if verseEn1.size > 0 %}
+            {%- if verseEn1.size > 0 -%}
               <a href="{{ bgLink3 }}"><code>{{ verseEn1 }}</code></a>  
-            {% endif %}
+            {%- endif -%}
             <a href="{{ bgLink6 }}"><code>{{ verseEn2 }}</code></a>
-          {% endif %}
+          {%- endif -%}
           
-        {% endfor %}
+        {%- endfor -%}
       </ul>
   </details>
   
-  {% else %}
+  {%- else -%}
   
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li> 
-  {% endif %}
+  {%- endif -%}
   
-{% endfor %}
+{%- endfor -%}

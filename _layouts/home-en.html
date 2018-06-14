@@ -11,34 +11,30 @@ language: "English"
   <p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | relative_url }}">via RSS</a></p>
    
   <ul class="posts">
-
-    {% assign today = site.time | date: "%Y-%m-%d"  %}
-    
-    {% assign chnPosts = site.posts | where_exp: "item", "item.language == 'English'" %}
-    
-    {% for post in chnPosts limit:16 %}
-      
-      {% if post.categories contains "daily" %}
+    {%- assign today = site.time | date: "%Y-%m-%d"  -%}
+    {%- assign chnPosts = site.posts | where_exp: "item", "item.language == 'English'" -%}
+    {%- for post in chnPosts limit:16 -%}
+      {%- if post.categories contains "daily" -%}
         
-        {% assign postDate = post.date | date: '%Y-%m-%d'  %}
-        {% if today >= postDate %}
-          {% if today == postDate %}
-            {% assign todayPost = post %} 
-          {% endif %}
+        {%- assign postDate = post.date | date: '%Y-%m-%d'  -%}
+        {%- if today >= postDate -%}
+          {%- if today == postDate -%}
+            {%- assign todayPost = post -%} 
+          {%- endif -%}
     
-          {% assign splitTitles = post.title | split:": " %}
+          {%- assign splitTitles = post.title | split:": " -%}
           <li><span style="display:inline-block;">{{ post.date | date: "%b %d" }} {{ splitTitles[0] }}</span>
             <a href="{{ site.baseurl }}{{ post.url }}">{{ splitTitles[1] }}</a></li>
-        {% endif %}
+        {%- endif -%}
 
-      {% else %}
+      {%- else -%}
         
         <li><span>{{ post.date | date: "%b %d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
       
-      {% endif %}
+      {%- endif -%}
     
 
-    {% endfor %}
+    {%- endfor -%}
     
     <li><a href="/en/all.html">All Posts</a></li>
   </ul>
@@ -51,14 +47,14 @@ language: "English"
   <p class="meta">{{ todayPost.date | date: "%B %d, %Y" }}</p>
   {{ todayPost.content }}
     
-  {% assign sharings = site.posts | where: "categories", "sharing" %}
-  {% assign pageDate = todayPost.date | date: "%Y-%m-%d" %}
+  {%- assign sharings = site.posts | where: "categories", "sharing" -%}
+  {%- assign pageDate = todayPost.date | date: "%Y-%m-%d" -%}
   
   <ul> 
-  {% for post in sharings %}
-    {% if post.date == pageDate %}
+  {%- for post in sharings -%}
+    {%- if post.date == pageDate -%}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
+    {%- endif -%}
+  {%- endfor -%}
 </ul>
 </div>

@@ -11,7 +11,7 @@ language: English
 ### Question     
 What was the first thing the Israelites prepared for before going into Canaan?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + Joshua sent spies to Jericho. God saved the spies through the lowly prostitute named Rahab. 

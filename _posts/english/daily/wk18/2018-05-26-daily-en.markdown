@@ -12,7 +12,7 @@ language: English
 + What did Moses write in the song? 
 + What were the blessings to the twelve tribes?
 
-{% include BibleLinks.html %} 
+{%- include BibleLinks.html -%} 
 
 ### Meditation: God's Story   
 + `Chapter 32`: Moses wrote the song by God's command to recall God's blessings, people's rebellion, the punishments that followed, and God's promises and redemption. The song proclaimed that God is the rock and He is the only God. Moses asked the people to take all the words to heart so they can command their children to obey. The words are not idle; The words are their life. God once again told Moses he will not enter the land of Canaan for he did not uphold God's holiness at the waters of Meribah. 
