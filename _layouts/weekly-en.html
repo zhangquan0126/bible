@@ -16,18 +16,18 @@ language: English
 {%- assign thisWeek = thisWeek | where_exp: "item", "item.language == 'English'" -%}
 
 <p>
-<table style="display: table">
+<table style="display: table;">
   <thead>
   <tr>
     {%- assign pageExists = site.posts | where: "url", lastLink | size -%}
     {%- if pageExists > 0 -%}
-      <th colspan=2><a href="{{ lastLink | append: '#top' }}">&#171; Prev</a></th>
+      <th colspan="2"><a href="{{ lastLink | append: '#top' }}">&#171; Prev</a></th>
     {%- else -%}
-      <th>&#171; Prev</th>
+      <th colspan="2">&#171; Prev</th>
     {%- endif -%}
     {%- assign pageExists = site.posts | where: "url", nextLink | size -%}
     {%- if pageExists > 0 -%}
-      <th colspan=2><a href="{{ nextLink | append: '#top' }}">Next &#187;</a></th>
+      <th colspan="2"><a href="{{ nextLink | append: '#top' }}">Next &#187;</a></th>
     {%- else -%}
       <th>Next &#187;</th>
     {%- endif -%}
