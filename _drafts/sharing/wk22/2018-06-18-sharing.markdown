@@ -1,3 +1,4 @@
+---
 layout: sharing
 date: 2018-06-18
 title: "讀經分享：【】"
