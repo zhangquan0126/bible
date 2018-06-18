@@ -1,0 +1,9 @@
+---
+layout: sharing
+date: 2018-06-23
+title: "讀經分享：【】"
+categories: sharing
+weekNum: 22
+dayNum: 6
+permalink: /sharing/2018-06-23-sharing.html
+---
