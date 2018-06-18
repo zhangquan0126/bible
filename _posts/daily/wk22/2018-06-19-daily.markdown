@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title:  "第22週 第1天 紀念勝利"
+title:  "第22週 第2天 紀念勝利"
 date:   2018-06-19
 categories: daily
 permalink: /daily/wk22-day2-daily.html
