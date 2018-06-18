@@ -7,3 +7,5 @@ weekNum: 22
 dayNum: 4
 permalink: /sharing/2018-06-21-sharing.html
 ---
+
+`錢斌傳道`
