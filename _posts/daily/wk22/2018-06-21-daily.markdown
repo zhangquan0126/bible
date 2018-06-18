@@ -1,7 +1,7 @@
 ---
 layout: daily2
 title:  "第22週 第4天 許願還願"
-date:   2018-06-22
+date:   2018-06-21
 categories: daily
 permalink: /daily/wk22-day4-daily.html
 weekNum: 22
