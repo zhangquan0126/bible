@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 22 Day 1: Few against Many"
-date: 2018-06-24
+date: 2018-06-18
 categories: daily
 permalink: /en/daily/wk22-day1-daily.html
 weekNum: 22
