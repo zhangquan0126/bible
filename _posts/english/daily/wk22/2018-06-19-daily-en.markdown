@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 22 Day 2: Commemorate the Victory"
-date: 2018-06-24
+date: 2018-06-19
 categories: daily
 permalink: /en/daily/wk22-day2-daily.html
 weekNum: 22
