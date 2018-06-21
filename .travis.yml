@@ -22,7 +22,10 @@ stages:
 
 jobs:
   include:
-
+    - &test-baseline
+      stage: Test
+      script:
+        bundle exec rake
       
     - <<: *test-baseline
       script:
