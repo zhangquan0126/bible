@@ -18,7 +18,7 @@ plugins:
 timezone: America/Chicago    
 
 # Google Analytics
-google_analytics: UA—114680216-1
+# google_analytics: UA—114680216-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
