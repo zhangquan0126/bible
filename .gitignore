@@ -1,3 +1,6 @@
 /_site
 /*.lock
 /.sass-cache
+/.bundle
+/tmp
+/vendor
