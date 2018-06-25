@@ -8,7 +8,7 @@ weekNum: 23
 dayNum: 2
 ---
 
-### 問題：便雅憫出了如此大惡，會有如何的結局？
+### 問題：便雅憫出了如此大惡，會有怎樣的結局？
 
 {%- include BibleLinks.html -%}
 
