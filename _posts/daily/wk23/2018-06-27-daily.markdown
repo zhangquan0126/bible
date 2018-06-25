@@ -1,11 +1,11 @@
 ---
 layout: daily2
 title:  "第23週 第3天 大加討伐"
-date:   2018-06-26
+date:   2018-06-27
 categories: daily
-permalink: /daily/wk23-day2-daily.html
+permalink: /daily/wk23-day3-daily.html
 weekNum: 23
-dayNum: 2
+dayNum: 3
 ---
 
 ### 問題：便雅憫出了如此大惡，會有怎樣的結局？
