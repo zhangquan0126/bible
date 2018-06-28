@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 23 Day 2: Wicked and Immoral"
-date: 06/26/2018
+date: 2018-06-26
 categories: daily
 permalink: /en/daily/wk23-day2-daily.html
 weekNum: 23
