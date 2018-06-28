@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 23 Day 1: A Private Shrine"
-date: 06/25/2018
+date: 2018-06-25
 categories: daily
 permalink: /en/daily/wk23-day1-daily.html
 weekNum: 23
