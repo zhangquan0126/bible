@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 23 Day 3: The Great Punishment"
-date: 06/27/2018
+date: 2018-06-27
 categories: daily
 permalink: /en/daily/wk23-day3-daily.html
 weekNum: 23
