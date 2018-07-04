@@ -60,7 +60,7 @@ title: {{ site.name }}
 
 {{ content }}
 
-{%- assign pageDate = page.date | date: "%Y-%m-%d" -%}
+{%- assign pageDate = page.date | "%Y-%m-%d" -%}
 {%- assign sharings = site.posts | where: "categories", "sharing" -%}
 <ul>
 {%- for post in sharings -%}
