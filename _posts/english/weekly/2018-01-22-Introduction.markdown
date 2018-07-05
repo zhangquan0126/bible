@@ -3,7 +3,8 @@ layout: post
 title:  "Forword"
 date:   2018-01-22 21:31:02 -0800
 categories: weekly guide
-permalink: /guide/intro.html
+permalink: /en/guide/intro.html
+language: English
 ---
 
 ### Forward
