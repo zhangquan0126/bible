@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 6 Day 6: Leaving Egypt"
-date 2018-03-03
+date: 2018-03-03
 categories: daily
 permalink: /en/daily/wk6-day6-daily.html
 weekNum: 6
