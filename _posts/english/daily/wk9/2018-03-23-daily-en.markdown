@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 9 Day 5: The Burnt Offering and the Grain Offering"
-date: 2018-03-25
+date: 2018-03-23
 categories: daily
 permalink: /en/daily/wk9-day5-daily.html
 weekNum: 9
