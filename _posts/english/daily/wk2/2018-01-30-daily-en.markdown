@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 2 Day 2: Blessed Land"
-date: 2018-01-29
+date: 2018-01-30
 categories: daily
 permalink: /en/daily/wk2-day2-daily.html
 weekNum: 2
