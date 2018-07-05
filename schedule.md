@@ -216,10 +216,10 @@ plan:
 
   - index: 20
     verses:
-    - titleCh:  27-28
-      titleEn: 
-      verseBG: 
-      verseYV: 
+    - titleCh: 創世記 27-28
+      titleEn: Genesis 27-28
+      verseBG: Genesis.27-28
+      verseYV: GEN.27
     - titleCh: 詩篇 20
       titleEn: Psalms 20
       verseBG: Psalms.20
@@ -227,10 +227,10 @@ plan:
 
   - index: 21
     verses:
-    - titleCh: 創世記 
-      titleEn: Genesis 
-      verseBG: Genesis.
-      verseYV: GEN.
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
     - titleCh: 詩篇 21
       titleEn: Psalms 21
       verseBG: Psalms.21
