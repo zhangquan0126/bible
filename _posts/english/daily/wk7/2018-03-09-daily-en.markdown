@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 7 Day 5: The Civil Laws"
-date: 2018-03-11
+date: 2018-03-09
 categories: daily
 permalink: /en/daily/wk7-day5-daily.html
 weekNum: 7
