@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 7 Day 4: The Law"
-date: 2018-03-11
+date: 2018-03-08
 categories: daily
 permalink: /en/daily/wk7-day4-daily.html
 weekNum: 7
