@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 24 Day 1: Bitter to Sweet"
-date 2018-07-02
+date: 2018-07-02
 categories: daily
 permalink: /en/daily/wk24-day1-daily.html
 weekNum: 24
