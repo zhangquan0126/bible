@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 24 Day 6: Jesus' Great Power"
-date 2018-07-07
+date: 2018-07-07
 categories: daily
 permalink: /en/daily/wk24-day6-daily.html
 weekNum: 24
