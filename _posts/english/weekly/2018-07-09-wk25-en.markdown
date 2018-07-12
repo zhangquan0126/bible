@@ -1,6 +1,6 @@
 ---
 layout: weekly-en
-title:  "Weekly Guide：Week 23"
+title:  "Weekly Guide：Week 25"
 date:   2018-07-15
 categories: weekly guide
 permalink: "/en/guide/wk25.html"
