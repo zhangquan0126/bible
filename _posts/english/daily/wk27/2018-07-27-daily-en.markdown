@@ -10,6 +10,7 @@ language: English
 ---
 
 ### Question     
+What are Jesus' true identity and capability?
 
 {% include BibleLinks.html %} 
 
