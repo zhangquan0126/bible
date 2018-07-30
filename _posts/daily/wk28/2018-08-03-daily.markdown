@@ -1,0 +1,22 @@
+---
+layout: daily2
+title:  "第28週 第5天 末日預兆"
+date:   2018-08-03
+categories: daily
+permalink: /daily/wk28-day5-daily.html
+weekNum: 28
+dayNum: 5
+---
+
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
++ 
+### 默想：我的故事 
++ 
+
+### 禱告：
+
+### 筆記與回應
