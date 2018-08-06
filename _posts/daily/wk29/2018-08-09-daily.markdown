@@ -1,0 +1,19 @@
+---
+layout: daily2
+title:  "第29週 第4天 "
+date:   2018-08-09
+categories: daily
+permalink: /daily/wk29-day4-daily.html
+weekNum: 29
+dayNum: 4
+---
+
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
++ 
+
+### 默想：我的故事
++ 
