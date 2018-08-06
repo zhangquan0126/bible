@@ -1,0 +1,19 @@
+---
+layout: daily2
+title:  "第29週 第5天 "
+date:   2018-08-10
+categories: daily
+permalink: /daily/wk29-day5-daily.html
+weekNum: 29
+dayNum: 5
+---
+
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
++ 
+
+### 默想：我的故事
++ 
