@@ -1,7 +1,7 @@
 ---
 layout: sharing
 date: 2018-08-07
-title: "讀經分享：【時候】"
+title: "讀經分享：【】"
 categories: sharing
 weekNum: 29
 dayNum: 2
