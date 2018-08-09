@@ -10,7 +10,8 @@ language: English
 ---
 
 ### Question     
-Why did Luke write this gospel? Where did he start?
++ Why did Luke write this gospel? 
++ Where did he start?
 
 {% include BibleLinks.html %} 
 
