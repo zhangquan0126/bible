@@ -1,0 +1,18 @@
+---
+layout: daily2
+title:  "第30週 第5天 赦免醫治"
+date:   2018-08-17
+categories: daily
+permalink: /daily/wk30-day5-daily.html
+weekNum: 30
+dayNum: 5
+---
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
++ 
+
+### 默想：我的故事
++ 
