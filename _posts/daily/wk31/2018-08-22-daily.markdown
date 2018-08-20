@@ -8,10 +8,7 @@ weekNum: 31
 dayNum: 3
 ---
 
-### 本週引言：
-
-
-### 問題：耶穌如何呼召第一批門徒?
+### 問題：
 
 {%- include BibleLinks.html -%}
 
