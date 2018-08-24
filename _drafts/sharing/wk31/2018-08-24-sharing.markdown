@@ -1,19 +1,15 @@
 ---
 layout: sharing
 date: 2018-08-24
-title: "讀經分享：【】"
+title: "讀經分享：【資源】"
 categories: sharing
 weekNum: 31
 dayNum: 5
 permalink: /sharing/2018-08-24-sharing.html
 ---
-8月24日 資源
 
-讀經：路加福音16:1-17:10；約伯記4
-
-默想：資源
-財富不是用來比較和囤積，
-而是用於為人服務滿足需要，
+財富不是用來比較和囤積，  
+而是用於為人服務滿足需要，  
 錢財不是目的而是一種手段，  
 讓人看到神的憐憫和關心。  
 
