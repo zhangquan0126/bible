@@ -1,0 +1,23 @@
+---
+layout: daily2
+title:  "第32週 第2天 "
+date:   2018-08-28
+categories: daily
+permalink: /daily/wk32-day2-daily.html
+weekNum: 32
+dayNum: 2
+---
+
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
++ 
+
+### 默想：我的故事
++ 
+
+### 禱告：
+
+### 筆記與回應：
