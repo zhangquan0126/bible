@@ -8,7 +8,7 @@ weekNum: 32
 dayNum: 5
 ---
 
-### 問題：耶穌從死裡復活 之後在地上做了什麼 ？
+### 問題：耶穌從死裡復活之後在地上做了什麼 ？
 
 {%- include BibleLinks.html -%}
 
