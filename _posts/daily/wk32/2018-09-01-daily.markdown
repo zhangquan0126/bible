@@ -8,7 +8,7 @@ weekNum: 32
 dayNum: 6
 ---
 
-### 問題：門徒如何遵守 耶穌升天前的囑咐？
+### 問題：門徒如何遵守耶穌升天前的囑咐？
 
 {%- include BibleLinks.html -%}
 
