@@ -4,7 +4,7 @@ date: 2018-08-30
 title: "讀經分享：【聲音】"
 categories: sharing
 weekNum: 32
-dayNum: 4
+dayNum: 5
 permalink: /sharing/2018-08-30-sharing.html
 ---
 
