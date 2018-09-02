@@ -4,7 +4,7 @@ date: 2018-08-31
 title: "讀經分享：【應驗】"
 categories: sharing
 weekNum: 32
-dayNum: 6
+dayNum: 5
 permalink: /sharing/2018-08-31-sharing.html
 ---
 
