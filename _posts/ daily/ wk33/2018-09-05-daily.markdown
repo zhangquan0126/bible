@@ -8,8 +8,6 @@ weekNum: 33
 dayNum: 3
 ---
 
-### 本周引言：
-
 ### 问题：當初代教會面臨欺哄、監禁、怨言，教會走向何方？
 
 {%- include BibleLinks.html -%}
