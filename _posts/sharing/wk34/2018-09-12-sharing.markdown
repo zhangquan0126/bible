@@ -1,8 +1,12 @@
-9月12日 辯論
-
-讀經：使徒行傳14:1-16:5；約伯記23
-
-默想：辯論
+---
+layout: sharing
+date: 2018-09-12
+title: "讀經分享：【辯論】"
+categories: sharing
+weekNum: 34
+dayNum: 3
+permalink: /sharing/2018-09-12-sharing.html
+---
 
 教會對神的託付應付出的責任，  
 是採取立即的措施來糾正偏差， 
