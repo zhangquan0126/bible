@@ -3,7 +3,7 @@ layout: daily2
 title: "第34周第6天 不顧性命"
 date: 2018-09-15
 categories: daily
-permalink: /daily/wk34-day5-daily.html
+permalink: /daily/wk34-day6-daily.html
 weekNum: 34
 dayNum: 6
 ---
