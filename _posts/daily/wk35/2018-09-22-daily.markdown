@@ -1,7 +1,7 @@
 ---
 layout: daily2
 title: "第35周第6天 神的福音"
-date: 2018-09-21
+date: 2018-09-22
 categories: daily
 permalink: /daily/wk35-day6-daily.html
 weekNum: 35
