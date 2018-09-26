@@ -1,11 +1,11 @@
 ---
 layout: sharing
-date: 2018-08-31
+date: 2018-09-26
 title: "讀經分享：【】"
 categories: sharing
-weekNum: 32
-dayNum: 5
-permalink: /sharing/2018-08-31-sharing.html
+weekNum: 36
+dayNum: 3
+permalink: /sharing/2018-09-26-sharing.html
 ---
 
 `錢斌傳道`
