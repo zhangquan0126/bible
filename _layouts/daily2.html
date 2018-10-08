@@ -69,7 +69,7 @@ title: {{ site.name }}
   {%- endif -%}
 {%- endfor -%}
   
-{%- if post.dayNum <> 7 -%}
+{%- if post.dayNum < 7 -%}
   <li><a href="https://zhuolindailydevotion.wordpress.com/{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/">每日靈修（ZL）</a></li>
 {%- endif -%}
 </ul>
