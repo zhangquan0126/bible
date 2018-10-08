@@ -69,10 +69,10 @@ title: {{ site.name }}
   {%- endif -%}
 {%- endfor -%}
   
-  <li><a href="https://zhuolindailydevotion.wordpress.com/{{ page.date | '%Y' }}/{{ page.date | '%m' }}/{{ page.date | '%d' }}/">每日靈修（ZL）</a></li>
+  <li><a href="https://zhuolindailydevotion.wordpress.com/{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/">每日靈修（ZL）</a></li>
 </ul>
 </div>
-
+date: 
 {%- include disqus.html -%}
 
 
