@@ -1,0 +1,8 @@
+---
+layout: weekly2
+title:  "讀經向導：第 38 週"
+date:   2018-10-14
+categories: weekly guide
+permalink: "/guide/wk38.html"
+weekNum: 38
+---
