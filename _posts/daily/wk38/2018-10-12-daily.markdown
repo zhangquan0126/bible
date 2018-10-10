@@ -8,7 +8,7 @@ weekNum: 38
 dayNum: 5
 ---
 
-### 問題：神設立婚姻的目的是什麼？
+### 問題：在基督裡的自由是什麼？
 
 {%- include BibleLinks.html -%}
 
