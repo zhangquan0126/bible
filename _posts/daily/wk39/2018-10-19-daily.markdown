@@ -1,10 +1,10 @@
 ---
 layout: daily2
-title: "第38周第5天 患難與憂愁"
+title: "第39周第5天 患難與憂愁"
 date: 2018-10-19
 categories: daily
-permalink: /daily/wk38-day5-daily.html
-weekNum: 38
+permalink: /daily/wk39-day5-daily.html
+weekNum: 39
 dayNum: 5
 ---
 
