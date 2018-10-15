@@ -1,10 +1,10 @@
 ---
 layout: daily2
-title: "第38周第2天 屬靈的恩賜"
+title: "第39周第2天 屬靈的恩賜"
 date: 2018-10-16
 categories: daily
-permalink: /daily/wk38-day2-daily.html
-weekNum: 38
+permalink: /daily/wk39-day2-daily.html
+weekNum: 39
 dayNum: 2
 ---
 
