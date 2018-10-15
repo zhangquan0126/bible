@@ -1,11 +1,11 @@
 ---
 layout: daily2
-title: "第??周第?天 "
+title: "第38周第1天 "
 date: 2018-10-08
 categories: daily
 permalink: /daily/wk38-day1-daily.html
-weekNum: ??
-dayNum: ?
+weekNum: 38
+dayNum: 1
 ---
 
 ### 本周引言：
