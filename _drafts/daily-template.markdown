@@ -3,7 +3,7 @@ layout: daily2
 title: "第??周第?天 "
 date: 2018-10-08
 categories: daily
-permalink: /daily/wk??-day?-daily.html
+permalink: /daily/wk38-day1-daily.html
 weekNum: ??
 dayNum: ?
 ---
