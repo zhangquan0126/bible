@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第40周第7天 "
+title: "第40周第7天 補漏拾遺"
 date: 2018-10-28
 categories: daily
 permalink: /daily/wk40-day7-daily.html
