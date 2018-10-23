@@ -1,11 +1,11 @@
 ---
 layout: sharing
-date: 2018-10-13
+date: 2018-10-24
 title: "讀經分享：【】"
 categories: sharing
-weekNum: 38
-dayNum: 6
-permalink: /sharing/2018-10-13-sharing.html
+weekNum: 40
+dayNum: 3
+permalink: /sharing/2018-10-24-sharing.html
 ---
 
 
