@@ -1,0 +1,25 @@
+---
+layout: daily2
+title: "第41周第1天 "
+date: 2018-10-29
+categories: daily
+permalink: /daily/wk41-day1-daily.html
+weekNum: 41
+dayNum: 1
+---
+
+### 本周引言：
+
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
+
+### 默想：我的故事
+
+### 祷告：
+
+### 笔记与回应：
+
+
