@@ -10,6 +10,8 @@ language: English
 ---
 
 ### Question     
+What is the life of Christ’s ambassador?
+
 {% include BibleLinks.html %} 
 
 ### Meditation: God's Story   
