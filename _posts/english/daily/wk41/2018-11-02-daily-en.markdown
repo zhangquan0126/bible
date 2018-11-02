@@ -10,6 +10,8 @@ language: English
 ---
 
 ### Question     
+What is the spiritual inheritance of a Christian? 
+
 {% include BibleLinks.html %} 
 
 ### Meditation: God's Story   
