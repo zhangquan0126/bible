@@ -1,0 +1,8 @@
+---
+layout: weekly2
+title:  "讀經向導：第 42 週"
+date:   2018-11-11
+categories: weekly guide
+permalink: "/guide/wk42.html"
+weekNum: 42
+---
