@@ -1,0 +1,23 @@
+---
+layout: daily2
+title: "第42周第2天 "
+date: 2018-11-06
+categories: daily
+permalink: /daily/wk42-day2-daily.html
+weekNum: 42
+dayNum: 2
+---
+
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
+
+### 默想：我的故事
+
+### 祷告：
+
+### 笔记与回应：
+
+
