@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第42周第3天 爭戰得勝問題:基督徒如何應對屬靈的爭戰?"
+title: "第42周第3天 爭戰得勝"
 date: 2018-11-07
 categories: daily
 permalink: /daily/wk42-day3-daily.html
