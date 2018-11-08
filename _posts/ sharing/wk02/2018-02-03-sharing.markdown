@@ -2,6 +2,8 @@
 layout: post
 title:  "讀經分享：【代求】"
 date:   2018-02-03
+weekNum:  2
+dayNum: 5
 categories: sharing
 author: 钱斌
 permalink: /sharing/2018-02-03-sharing.html
