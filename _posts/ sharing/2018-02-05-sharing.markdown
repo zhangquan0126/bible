@@ -2,6 +2,8 @@
 layout: post
 title:  "讀經分享：【喜笑】"
 date:   2018-02-05
+weekNum: 2
+dayNum: 6
 categories: sharing
 author: 钱斌
 permalink: /sharing/2018-02-05-sharing.html
