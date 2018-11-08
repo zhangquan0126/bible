@@ -2,6 +2,8 @@
 layout: post
 title:  "讀經分享：【完全】"
 date:   2018-02-01
+weekNum: 2
+dayNum: 4
 categories: sharing
 author: 钱斌
 permalink: /sharing/2018-02-01-test.html
