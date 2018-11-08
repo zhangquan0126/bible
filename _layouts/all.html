@@ -49,6 +49,12 @@ title: {{ site.name }}
             <a href="{{ bgLink4 }}"><code>{{ verse2 }}</code></a>
           {%- endif -%}
       
+          {%- for post in sharingPosts -%}
+            {%- if post.date == dailyPost.date -%}
+              <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+            {%- endif -%}
+          {%- endfor -%}
+      
         {%- endfor -%}
       </ul>
   </details>
