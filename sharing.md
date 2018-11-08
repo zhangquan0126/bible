@@ -1,0 +1,3 @@
+---
+layout: sharing-all-bin
+---
