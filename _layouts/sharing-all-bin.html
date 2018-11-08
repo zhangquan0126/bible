@@ -10,11 +10,12 @@ title: {{ site.name }}
 <h2>讀經分享</h2>
 
 {%- assign allPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
+{%- assign weeklyPosts = allPosts | where: "categories", "weekly" | sort: "date" -%}
 {%- assign sharingPosts = allPosts | where: "categories", "sharing" -%}
 
 {%- assign bgLink = "https://www.biblegateway.com/passage/?search=" -%}
 
-{%- for post in sharingPosts -%}
+{%- for post in weeklyPosts  -%}
 
   {%- assign weekNum = post.weekNum -%}
   {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" -%}
@@ -22,8 +23,6 @@ title: {{ site.name }}
   {%- if thisWeek.size > 0 -%}
     <details><summary>  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></summary>    
     <ul>
-        {%- assign weekNum = post.weekNum -%}
-        {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" -%}
         {%- for dailyPost in thisWeek -%}
           <li><a href="{{ site.baseurl }}{{ dailyPost.url }}">{{ dailyPost.title }}</a></li>
           
