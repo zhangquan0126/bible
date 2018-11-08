@@ -22,7 +22,7 @@ title: {{ site.name }}
   
   {%- if thisWeek.size > 0 -%}
     <details><summary>  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></summary>    
-    <ul>
+    <ol>
         {%- for dailyPost in thisWeek -%}
           <li><a href="{{ site.baseurl }}{{ dailyPost.url }}">{{ dailyPost.title }}</a></li>
           
@@ -46,7 +46,7 @@ title: {{ site.name }}
           {%- endif -%}
       
         {%- endfor -%}
-      </ul>
+      </ol>
   </details>
   
   {%- else -%}
