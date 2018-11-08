@@ -1,0 +1,59 @@
+---
+
+layout: post
+title: {{ site.name }}
+
+---
+{%- assign schedulePage = site.pages | where: "layout", "schedule" -%}
+
+<a href="/">返回主頁</a>
+
+<h2>讀經分享</h2>
+
+{%- assign allPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
+{%- assign sharingPosts = allPosts | where: "categories", "sharing" -%}
+
+{%- assign bgLink = "https://www.biblegateway.com/passage/?search=" -%}
+
+{%- for post in sharingPosts -%}
+
+  {%- assign weekNum = post.weekNum -%}
+  {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" -%}
+  
+  {%- if thisWeek.size > 0 -%}
+    <details><summary>  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></summary>    
+    <ul>
+        {%- assign weekNum = post.weekNum -%}
+        {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" -%}
+        {%- for dailyPost in thisWeek -%}
+          <li><a href="{{ site.baseurl }}{{ dailyPost.url }}">{{ dailyPost.title }}</a></li>
+          
+          {%- assign index = weekNum | times:7 -%}
+          {%- assign index = index | minus:8 | plus: dailyPost.dayNum -%}
+          {%- assign dailySchedule = schedulePage[0].plan.days[index] -%}
+          
+          {%- if dailySchedule -%}
+            {%- assign bgV2 = dailySchedule.verses[1].verseBG -%}
+            {%- assign bgV1 = dailySchedule.verses[0].verseBG -%}
+      
+            {%- assign verse1 = dailySchedule.verses[0].titleCh -%}
+            {%- assign verse2 = dailySchedule.verses[1].titleCh -%}
+            {%- assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: '&version=CUVMPT' -%}
+            {%- assign bgLink4 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: '&version=CUVMPT' -%}
+ 
+            {%- if verse1.size > 0 -%}
+              <a href="{{ bgLink1 }}"><code>{{ verse1 }}</code></a> 
+            {%- endif -%}
+            <a href="{{ bgLink4 }}"><code>{{ verse2 }}</code></a>
+          {%- endif -%}
+      
+        {%- endfor -%}
+      </ul>
+  </details>
+  
+  {%- else -%}
+  
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li> 
+  {%- endif -%}
+  
+{%- endfor -%}
