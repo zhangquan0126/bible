@@ -2,6 +2,8 @@
 layout: post
 title:  "讀經分享：【離開】"
 date:   2018-02-15
+weekNum: 4
+dayNum: 4
 categories: sharing
 author: 钱斌
 permalink: /sharing/2018-02-15-sharing.html
