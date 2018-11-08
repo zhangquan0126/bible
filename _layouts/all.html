@@ -51,7 +51,7 @@ title: {{ site.name }}
       
           {%- for post in sharingPosts -%}
             {%- if post.date == dailyPost.date -%}
-              <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
             {%- endif -%}
           {%- endfor -%}
       
