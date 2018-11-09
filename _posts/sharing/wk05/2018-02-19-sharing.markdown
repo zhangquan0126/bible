@@ -2,7 +2,7 @@
 layout: post
 title:  "讀經分享：【名望】"
 date:   2018-02-19
-weekNum:  5
+weekNum: 5
 dayNum: 1
 categories: sharing
 author: 钱斌
