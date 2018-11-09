@@ -2,6 +2,8 @@
 layout: post
 title:  "讀經分享：【妥协】"
 date:   2018-02-28
+weekNum: 6
+dayNum: 3
 categories: sharing
 author: 钱斌
 permalink: /sharing/2018-02-28-sharing.html
