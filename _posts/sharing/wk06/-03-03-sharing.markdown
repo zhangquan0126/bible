@@ -2,6 +2,8 @@
 layout: post
 title:  "讀經分享：【懼怕】"
 date:   2018-03-03
+weekNum: 6
+dayNum: 6
 categories: sharing
 author: 钱斌
 permalink: /sharing/2018-03-03-sharing.html
