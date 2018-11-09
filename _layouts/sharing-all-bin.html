@@ -24,7 +24,7 @@ title: {{ site.name }}
     <details><summary>  <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></summary>    
     <ol>
         {%- for dailyPost in thisWeek -%}
-          <li><a href="{{ site.baseurl }}{{ dailyPost.url }}">{{ dailyPost.title }}</a></li>
+          <li><a href="{{ site.baseurl }}{{ dailyPost.url }}">第{{dailyPost.dayNum}}天 祝福地土{{ dailyPost.title }}</a></li>
           
           {%- assign index = weekNum | times:7 -%}
           {%- assign index = index | minus:8 | plus: dailyPost.dayNum -%}
