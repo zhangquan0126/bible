@@ -1,0 +1,27 @@
+---
+layout: daily2
+title: "第43周第1天"
+date: 2018-11-12
+categories: daily
+permalink: /daily/wk43-day1-daily.html
+weekNum: 43
+dayNum: 1
+---
+
+### 本周引言：
+
+愿弟兄姐妹在神的话语中日日更新！
+
+### 问题：我在神国度里的「职」是什么?
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
+
+
+### 默想：我的故事
+
+### 祷告：
+
+### 笔记与回应：
+
