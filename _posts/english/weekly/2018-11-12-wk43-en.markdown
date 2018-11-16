@@ -1,7 +1,7 @@
 ---
 layout: weekly-en
-title:  "Weekly Guide：Week 43"
-date:   2018-11-18
+title: "Weekly Guide：Week 43"
+date: 2018-11-18
 categories: weekly guide
 permalink: "/en/guide/wk43.html"
 weekNum: 43
