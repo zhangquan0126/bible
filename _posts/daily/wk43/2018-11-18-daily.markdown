@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第43周第7天"
+title: "第43周第7天 補漏拾遺"
 date: 2018-11-18
 categories: daily
 permalink: /daily/wk43-day7-daily.html
