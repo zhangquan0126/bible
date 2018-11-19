@@ -68,6 +68,7 @@ language: Chinese
   {%- if day == 1 -%}
     {%- assign link = '<a href="#top">&#8679;</a> <a href="#day2">&#8681;</a>' -%}    
   {%- elsif forloop.last -%}   
+    {%- assign dayMinus = day | minus:'1' -%}
     {%- assign link = '<a href="#day' | append: dayMinus | append: '">&#8679;</a> <a href="#top">&#8686;</a>' -%}
   {%- else -%}
     {%- assign dayMinus = day | minus:'1' -%}
