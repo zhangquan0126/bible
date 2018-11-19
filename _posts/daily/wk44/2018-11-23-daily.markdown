@@ -1,0 +1,23 @@
+---
+layout: daily2
+title: "第44周第5天 "
+date: 2018-11-23
+categories: daily
+permalink: /daily/wk44-day5-daily.html
+weekNum: 44
+dayNum: 5
+---
+
+### 问题：？
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
++ 
+
+### 默想：我的故事
++ 
+
+### 祷告：
+
+### 笔记与回应：
