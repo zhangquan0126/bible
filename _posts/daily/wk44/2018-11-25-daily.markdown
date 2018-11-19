@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第44周第7天 "
+title: "第44周第7天 補漏拾遺"
 date: 2018-11-25
 categories: daily
 permalink: /daily/wk44-day7-daily.html
