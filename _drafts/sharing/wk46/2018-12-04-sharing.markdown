@@ -1,6 +1,6 @@
 ---
 layout: sharing
-date: 2018-12-4
+date: 2018-12-04
 title: "讀經分享：【】"
 categories: sharing
 weekNum: 46
