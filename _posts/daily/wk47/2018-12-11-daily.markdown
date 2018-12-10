@@ -8,7 +8,7 @@ weekNum: 47
 dayNum: 2
 ---
 
-### 問題：基督是誰?你認識基督麼?
+### 問題：基督是誰？你認識基督麼？
 
 {%- include BibleLinks.html -%}
 
