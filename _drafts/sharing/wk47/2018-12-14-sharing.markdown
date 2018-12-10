@@ -1,0 +1,14 @@
+---
+layout: sharing
+date: 2018-12-14
+title: "讀經分享：【】"
+categories: sharing
+weekNum: 47
+dayNum: 5
+permalink: /sharing/2018-12-14-sharing.html
+---
+
+
+`錢斌傳道`
+
+2018-12-10-sharing.markdown
