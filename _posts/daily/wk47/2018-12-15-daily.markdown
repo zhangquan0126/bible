@@ -1,1 +1,21 @@
-q
+---
+layout: daily2
+title: "第47周第6天 "
+date: 2018-12-15
+categories: daily
+permalink: /daily/wk47-day6-daily.html
+weekNum: 47
+dayNum: 6
+---
+
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
+
+### 默想：我的故事
+
+### 祷告：
+
+### 笔记与回应：
