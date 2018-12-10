@@ -1,1 +1,21 @@
-q
+---
+layout: daily2
+title: "第47周第4天 "
+date: 2018-12-13
+categories: daily
+permalink: /daily/wk47-day4-daily.html
+weekNum: 47
+dayNum: 4
+---
+
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
+
+### 默想：我的故事
+
+### 祷告：
+
+### 笔记与回应：
