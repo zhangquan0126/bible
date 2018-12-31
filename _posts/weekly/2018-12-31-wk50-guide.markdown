@@ -1,0 +1,8 @@
+---
+layout: weekly2
+title:  "讀經向導：第 50 週"
+date:   2019-01-06
+categories: weekly guide
+permalink: "/guide/wk50.html"
+weekNum: 50
+---
