@@ -8,7 +8,7 @@ weekNum: 50
 dayNum: 5
 ---
 
-### 问题：？
+### 问题：假師傅的行為和結局是什麼？
 
 {%- include BibleLinks.html -%}
 
