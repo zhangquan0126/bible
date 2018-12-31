@@ -3788,6 +3788,72 @@ plan:
       titleEn: Psalms 91
       verseBG: Psalms.91
       verseYV: PSA.91
+      
+  - index: 345
+    verses:
+    - titleCh: 彼得前書 3.8-4.11
+      titleEn: 1 Peter 3.8-4.11
+      verseBG: 1 Peter.3.8-4.11
+      verseYV: 1PE.3
+    - titleCh: 詩篇 92
+      titleEn: Psalms 92
+      verseBG: Psalms.92
+      verseYV: PSA.92
+ 
+  - index: 346
+    verses:
+    - titleCh: 彼得前書 4.12-5.14
+      titleEn: 1 Peter 4.12-5.14
+      verseBG: 1 Peter.4.12-5.14
+      verseYV: 1PE.4
+    - titleCh: 詩篇 93
+      titleEn: Psalms 93
+      verseBG: Psalms.93
+      verseYV: PSA.93 
+      
+  - index: 347
+    verses:
+    - titleCh: 彼得後書 1
+      titleEn: 2 Peter 1
+      verseBG: 2 Peter.1
+      verseYV: 2PE.1
+    - titleCh: 詩篇 94
+      titleEn: Psalms 94
+      verseBG: Psalms.94
+      verseYV: PSA.94 
+
+  - index: 348
+    verses:
+    - titleCh: 彼得後書 2
+      titleEn: 2 Peter 2
+      verseBG: 2 Peter.2
+      verseYV: 2PE.2
+    - titleCh: 詩篇 95
+      titleEn: Psalms 95
+      verseBG: Psalms.95
+      verseYV: PSA.95
+      
+  - index: 349
+    verses:
+    - titleCh: 彼得後書 3
+      titleEn: 2 Peter 3
+      verseBG: 2 Peter.3
+      verseYV: 2PE.3
+    - titleCh: 詩篇 96
+      titleEn: Psalms 96
+      verseBG: Psalms.96
+      verseYV: PSA.96     
+
+  - index: 350
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 97
+      titleEn: Psalms 97
+      verseBG: Psalms.97
+      verseYV: PSA.97  
 ---
 
   
