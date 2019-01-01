@@ -3,7 +3,7 @@ layout: daily2
 title: "第51周第1天 神是生命"
 date: 2018-12-31
 categories: daily
-permalink: /daily/wk50-day1-daily.html
+permalink: /daily/wk51-day1-daily.html
 weekNum: 50
 dayNum: 1
 ---
