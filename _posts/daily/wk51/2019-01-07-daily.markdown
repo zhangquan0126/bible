@@ -4,7 +4,7 @@ title: "第51周第1天 神是生命"
 date: 2018-12-31
 categories: daily
 permalink: /daily/wk51-day1-daily.html
-weekNum: 50
+weekNum: 51
 dayNum: 1
 ---
 
