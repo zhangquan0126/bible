@@ -1,7 +1,8 @@
----
+﻿---
 layout: daily2
 title: "第51周第3天 神的兒女"
 date: 2019-01-09
+
 categories: daily
 permalink: /daily/wk51-day3-daily.html
 weekNum: 51
@@ -26,4 +27,8 @@ dayNum: 3
 
 ### 祷告：
 
++ 求主坚定我的信心，爱心和盼望。
+
 ### 笔记与回应：
+
++ 昨天和小组的弟兄姐妹分享了用github写灵修笔记的意义。求主带领，让我能够坚持，也求主能够带领，让更多的人看到和参与进来。
