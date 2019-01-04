@@ -38,7 +38,7 @@ jobs:
       deploy:
       - provider: pages
         skip-cleanup: true
-        github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
+        github-token: 7cca8c34ed9df5d469a7bfe2be5c6eb998d7de0e  # Set in travis-ci.org dashboard, marked secure
         keep-history: true
         target_branch: myself
         on:
