@@ -1,2 +1,2 @@
-# bibleplan.github.io
-https://bibleplan.github.io
+# zhangquan0126.github.io
+https://zhangquan0126.github.io
