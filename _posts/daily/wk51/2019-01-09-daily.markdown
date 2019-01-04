@@ -1,7 +1,7 @@
 ---
 layout: daily3
 title: "第51周第3天 遵守新命"
-date: 2019-01-08
+date: 2019-01-09
 categories: daily
 permalink: /daily/wk51-day3-daily.html
 weekNum: 51
