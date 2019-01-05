@@ -1,6 +1,6 @@
 ---
 layout: daily5
-title: "第51周第5天 遵守新命"
+title: "第51周第5天 遠避偶像"
 date: 2019-01-11
 categories: daily
 permalink: /daily/wk51-day5-daily.html
