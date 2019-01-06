@@ -1,5 +1,5 @@
 ---
-layout: daily3
+layout: daily2
 title: "第51周第3天 遵守新命"
 date: 2019-01-09
 categories: daily
