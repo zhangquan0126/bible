@@ -3853,7 +3853,96 @@ plan:
     - titleCh: 詩篇 97
       titleEn: Psalms 97
       verseBG: Psalms.97
-      verseYV: PSA.97  
+      verseYV: PSA.97 
+      
+  - index: 351
+    verses:
+    - titleCh: 約翰一書 1.1-2.2
+      titleEn: 1 John.1.1-2.2
+      verseBG: 1 John.1.1-2.2
+      verseYV: 1JN.1 
+    - titleCh: 詩篇 98
+      titleEn: Psalms 98
+      verseBG: Psalms.98
+      verseYV: PSA.98
+      
+  - index: 352
+    verses:
+    - titleCh: 約翰一書 2.3-27
+      titleEn: 1 John.2.3-27
+      verseBG: 1 John.2.3-27
+      verseYV: 1JN.2
+    - titleCh: 詩篇 99
+      titleEn: Psalms 99
+      verseBG: Psalms.99
+      verseYV: PSA.99
+      
+  - index: 353
+    verses:
+    - titleCh: 約翰一書 2.28-3.24
+      titleEn: 1 John.2.28-3.24
+      verseBG: 1 John.2.28-3.24
+      verseYV: 1JN.2
+    - titleCh: 詩篇 100
+      titleEn: Psalms 100
+      verseBG: Psalms.100
+      verseYV: PSA.100
+      
+  - index: 354
+    verses:
+    - titleCh: 約翰一書 4
+      titleEn: 1 John.4
+      verseBG: 1 John.4
+      verseYV: 1JN.4
+    - titleCh: 詩篇 101
+      titleEn: Psalms 101
+      verseBG: Psalms.101
+      verseYV: PSA.101
+      
+  - index: 355
+    verses:
+    - titleCh: 約翰一書 5
+      titleEn: 1 John.5
+      verseBG: 1 John.5
+      verseYV: 1JN.5
+    - titleCh: 詩篇 102
+      titleEn: Psalms 102
+      verseBG: Psalms.102
+      verseYV: PSA.102
+      
+  - index: 356
+    verses:
+    - titleCh: 約翰二書 1
+      titleEn: 2 John.1
+      verseBG: 2 John.1
+      verseYV: 2JN.1
+    - titleCh: 詩篇 103
+      titleEn: Psalms 103
+      verseBG: Psalms.103
+      verseYV: PSA.103
+      
+  - index: 357
+    verses:
+    - titleCh:  
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 104
+      titleEn: Psalms 104
+      verseBG: Psalms.104
+      verseYV: PSA.104
+      
+  - index: 358
+    verses:
+    - titleCh: 約翰三書 1
+      titleEn: 3 John.1
+      verseBG: 3 John.1
+      verseYV: 3JN.1
+    - titleCh: 詩篇 105
+      titleEn: Psalms 105
+      verseBG: Psalms.105
+      verseYV: PSA.105
+
 ---
 
   
