@@ -7164,7 +7164,644 @@ plan:
       titleEn: Psalms 135
       verseBG: Psalms.135
       verseYV: PSA.135
+      
+  - index: 652
+    verses:
+    - titleCh: 西番雅書 2-3
+      titleEn: Zephaniah.2-3
+      verseBG: Zephaniah.2-3
+      verseYV: ZEP.2
+    - titleCh: 詩篇 136
+      titleEn: Psalms 136
+      verseBG: Psalms.136
+      verseYV: PSA.136
 
+  - index: 653
+    verses:
+    - titleCh: 哈該書 1-2
+      titleEn: Haggai.1-2
+      verseBG: Haggai.1-2
+      verseYV: HAG.1
+    - titleCh: 詩篇 137
+      titleEn: Psalms 137
+      verseBG: Psalms.137
+      verseYV: PSA.137
+
+  - index: 654
+    verses:
+    - titleCh: 撒迦利亞書 1-2
+      titleEn: Zechariah.1-2
+      verseBG: Zechariah.1-2
+      verseYV: ZEC.1
+    - titleCh: 詩篇 138
+      titleEn: Psalms 138
+      verseBG: Psalms.138
+      verseYV: PSA.138
+
+  - index: 655
+    verses:
+    - titleCh: 撒迦利亞書 3-6
+      titleEn: Zechariah.3-6
+      verseBG: Zechariah.3-6
+      verseYV: ZEC.3
+    - titleCh: 詩篇 139
+      titleEn: Psalms 139
+      verseBG: Psalms.139
+      verseYV: PSA.139
+
+  - index: 656
+    verses:
+    - titleCh: 撒迦利亞書 7-8
+      titleEn: Zechariah.7-8
+      verseBG: Zechariah.7-8
+      verseYV: ZEC.7
+    - titleCh: 詩篇 140
+      titleEn: Psalms 140
+      verseBG: Psalms.140
+      verseYV: PSA.140
+
+  - index: 657
+    verses:
+    - titleCh: 撒迦利亞書 9-11
+      titleEn: Zechariah.9-11
+      verseBG: Zechariah.9-11
+      verseYV: ZEC.9
+    - titleCh: 詩篇 141
+      titleEn: Psalms 141
+      verseBG: Psalms.141
+      verseYV: PSA.141
+
+  - index: 658
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 142
+      titleEn: Psalms 142
+      verseBG: Psalms.142
+      verseYV: PSA.142
+
+  - index: 659
+    verses:
+    - titleCh: 撒迦利亞書 12-14
+      titleEn: Zechariah.12-14
+      verseBG: Zechariah.12-14
+      verseYV: ZEC.12
+    - titleCh: 詩篇 143
+      titleEn: Psalms 143
+      verseBG: Psalms.143
+      verseYV: PSA.143
+
+  - index: 660
+    verses:
+    - titleCh: 瑪拉基書 1.1-3.5
+      titleEn: Malachi.1.1-3.5
+      verseBG: Malachi.1.1-3.5
+      verseYV: MAL.1
+    - titleCh: 詩篇 144
+      titleEn: Psalms 144
+      verseBG: Psalms.144
+      verseYV: PSA.144
+
+  - index: 661
+    verses:
+    - titleCh: 瑪拉基書 3.6-4.6
+      titleEn: Malachi.3.6-4.6
+      verseBG: Malachi.3.6-4.6
+      verseYV: MAL.3
+    - titleCh: 詩篇 145
+      titleEn: Psalms 145
+      verseBG: Psalms.145
+      verseYV: PSA.145
+
+  - index: 662
+    verses:
+    - titleCh: 約翰福音 1.1-18
+      titleEn: John.1.1-18
+      verseBG: John.1.1-18
+      verseYV: JHN.1
+    - titleCh: 詩篇 146
+      titleEn: Psalms 146
+      verseBG: Psalms.146
+      verseYV: PSA.146
+
+  - index: 663
+    verses:
+    - titleCh: 約翰福音 1.19-2.12
+      titleEn: John.1.19-2.12
+      verseBG: John.1.19-2.12
+      verseYV: JHN.1
+    - titleCh: 詩篇 147
+      titleEn: Psalms 147
+      verseBG: Psalms.147
+      verseYV: PSA.147
+
+  - index: 664
+    verses:
+    - titleCh: 約翰福音 2.13-3.36
+      titleEn: John.2.13-3.36
+      verseBG: John.2.13-3.36
+      verseYV: JHN.2
+    - titleCh: 詩篇 148
+      titleEn: Psalms 148
+      verseBG: Psalms.148
+      verseYV: PSA.148
+
+  - index: 665
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 詩篇 149
+      titleEn: Psalms 149
+      verseBG: Psalms.149
+      verseYV: PSA.149
+
+  - index: 666
+    verses:
+    - titleCh: 約翰福音 4
+      titleEn: John.4
+      verseBG: John.4
+      verseYV: JHN.4
+    - titleCh: 詩篇 150
+      titleEn: Psalms 150
+      verseBG: Psalms.150
+      verseYV: PSA.150
+
+  - index: 667
+    verses:
+    - titleCh: 約翰福音 5
+      titleEn: John.5
+      verseBG: John.5
+      verseYV: JHN.5
+    - titleCh: 箴言 1
+      titleEn: Proverbs 1
+      verseBG: Proverbs.1
+      verseYV: PRO.1
+
+  - index: 668
+    verses:
+    - titleCh: 約翰福音 6
+      titleEn: John.6
+      verseBG: John.6
+      verseYV: JHN.6
+    - titleCh: 箴言 2
+      titleEn: Proverbs 2
+      verseBG: Proverbs.2
+      verseYV: PRO.2
+
+  - index: 669
+    verses:
+    - titleCh: 約翰福音 7
+      titleEn: John.7
+      verseBG: John.7
+      verseYV: JHN.7
+    - titleCh: 箴言 3
+      titleEn: Proverbs 3
+      verseBG: Proverbs.3
+      verseYV: PRO.3
+
+  - index: 670
+    verses:
+    - titleCh: 約翰福音 8
+      titleEn: John.8
+      verseBG: John.8
+      verseYV: JHN.8
+    - titleCh: 箴言 4
+      titleEn: Proverbs 4
+      verseBG: Proverbs.4
+      verseYV: PRO.4
+
+  - index: 671
+    verses:
+    - titleCh: 約翰福音 9.1-10.21
+      titleEn: John.9.1-10.21
+      verseBG: John.9.1-10.21
+      verseYV: JHN.9
+    - titleCh: 箴言 5
+      titleEn: Proverbs 5
+      verseBG: Proverbs.5
+      verseYV: PRO.5
+
+  - index: 672
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 6
+      titleEn: Proverbs 6
+      verseBG: Proverbs.6
+      verseYV: PRO.6
+
+  - index: 673
+    verses:
+    - titleCh: 約翰福音 10.22-42
+      titleEn: John.10.22-42
+      verseBG: John.10.22-42
+      verseYV: JHN.10
+    - titleCh: 箴言 7
+      titleEn: Proverbs 7
+      verseBG: Proverbs.7
+      verseYV: PRO.7
+
+  - index: 674
+    verses:
+    - titleCh: 約翰福音 11
+      titleEn: John.11
+      verseBG: John.11
+      verseYV: JHN.11
+    - titleCh: 箴言 8
+      titleEn: Proverbs 8
+      verseBG: Proverbs.8
+      verseYV: PRO.8
+
+  - index: 675
+    verses:
+    - titleCh: 約翰福音 12.1-36
+      titleEn: John.12.1-36
+      verseBG: John.12.1-36
+      verseYV: JHN.12
+    - titleCh: 箴言 9
+      titleEn: Proverbs 9
+      verseBG: Proverbs.9
+      verseYV: PRO.9
+
+  - index: 676
+    verses:
+    - titleCh: 約翰福音 12.37-50
+      titleEn: John.12.37-50
+      verseBG: John.12.37-50
+      verseYV: JHN.12
+    - titleCh: 箴言 10
+      titleEn: Proverbs 10
+      verseBG: Proverbs.10
+      verseYV: PRO.10
+
+  - index: 677
+    verses:
+    - titleCh: 約翰福音 13
+      titleEn: John.13
+      verseBG: John.13
+      verseYV: JHN.13
+    - titleCh: 箴言 11
+      titleEn: Proverbs 11
+      verseBG: Proverbs.11
+      verseYV: PRO.11
+
+  - index: 678
+    verses:
+    - titleCh: 約翰福音 14-15
+      titleEn: John.14-15
+      verseBG: John.14-15
+      verseYV: JHN.14
+    - titleCh: 箴言 12
+      titleEn: Proverbs 12
+      verseBG: Proverbs.12
+      verseYV: PRO.12
+
+  - index: 679
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 13
+      titleEn: Proverbs 13
+      verseBG: Proverbs.13
+      verseYV: PRO.13
+
+  - index: 680
+    verses:
+    - titleCh: 約翰福音 16
+      titleEn: John.16
+      verseBG: John.16
+      verseYV: JHN.16
+    - titleCh: 箴言 14
+      titleEn: Proverbs 14
+      verseBG: Proverbs.14
+      verseYV: PRO.14
+
+  - index: 681
+    verses:
+    - titleCh: 約翰福音 17
+      titleEn: John.17
+      verseBG: John.17
+      verseYV: JHN.17
+    - titleCh: 箴言 15
+      titleEn: Proverbs 15
+      verseBG: Proverbs.15
+      verseYV: PRO.15
+
+  - index: 682
+    verses:
+    - titleCh: 約翰福音 18
+      titleEn: John.18
+      verseBG: John.18
+      verseYV: JHN.18
+    - titleCh: 箴言 16
+      titleEn: Proverbs 16
+      verseBG: Proverbs.16
+      verseYV: PRO.16
+
+  - index: 683
+    verses:
+    - titleCh: 約翰福音 19
+      titleEn: John.19
+      verseBG: John.19
+      verseYV: JHN.19
+    - titleCh: 箴言 17
+      titleEn: Proverbs 17
+      verseBG: Proverbs.17
+      verseYV: PRO.17
+
+  - index: 684
+    verses:
+    - titleCh: 約翰福音 20
+      titleEn: John.20
+      verseBG: John.20
+      verseYV: JHN.20
+    - titleCh: 箴言 18
+      titleEn: Proverbs 18
+      verseBG: Proverbs.18
+      verseYV: PRO.18
+
+  - index: 685
+    verses:
+    - titleCh: 約翰福音 21
+      titleEn: John.21
+      verseBG: John.21
+      verseYV: JHN.21
+    - titleCh: 箴言 19
+      titleEn: Proverbs 19
+      verseBG: Proverbs.19
+      verseYV: PRO.19
+
+  - index: 686
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 20
+      titleEn: Proverbs 20
+      verseBG: Proverbs.20
+      verseYV: PRO.20
+
+  - index: 687
+    verses:
+    - titleCh: 啟示錄 1.1-8
+      titleEn: Revelation.1.1-8
+      verseBG: Revelation.1.1-8
+      verseYV: REV.1
+    - titleCh: 箴言 21
+      titleEn: Proverbs 21
+      verseBG: Proverbs.21
+      verseYV: PRO.21
+
+  - index: 688
+    verses:
+    - titleCh: 啟示錄 1.9-20
+      titleEn: Revelation.1.9-20
+      verseBG: Revelation.1.9-20
+      verseYV: REV.1
+    - titleCh: 箴言 22
+      titleEn: Proverbs 22
+      verseBG: Proverbs.22
+      verseYV: PRO.22
+
+  - index: 689
+    verses:
+    - titleCh: 啟示錄 2
+      titleEn: Revelation.2
+      verseBG: Revelation.2
+      verseYV: REV.2
+    - titleCh: 箴言 23
+      titleEn: Proverbs 23
+      verseBG: Proverbs.23
+      verseYV: PRO.23
+
+  - index: 690
+    verses:
+    - titleCh: 啟示錄 3
+      titleEn: Revelation.3
+      verseBG: Revelation.3
+      verseYV: REV.3
+    - titleCh: 箴言 24
+      titleEn: Proverbs 24
+      verseBG: Proverbs.24
+      verseYV: PRO.24
+
+  - index: 691
+    verses:
+    - titleCh: 啟示錄 4-5
+      titleEn: Revelation.4-5
+      verseBG: Revelation.4-5
+      verseYV: REV.4
+    - titleCh: 箴言 25
+      titleEn: Proverbs 25
+      verseBG: Proverbs.25
+      verseYV: PRO.25
+
+  - index: 692
+    verses:
+    - titleCh: 啟示錄 6
+      titleEn: Revelation.6
+      verseBG: Revelation.6
+      verseYV: REV.6
+    - titleCh: 箴言 26
+      titleEn: Proverbs 26
+      verseBG: Proverbs.26
+      verseYV: PRO.26
+
+  - index: 693
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 箴言 27
+      titleEn: Proverbs 27
+      verseBG: Proverbs.27
+      verseYV: PRO.27
+
+  - index: 694
+    verses:
+    - titleCh: 啟示錄 7.1-8.5
+      titleEn: Revelation.7.1-8.5
+      verseBG: Revelation.7.1-8.5
+      verseYV: REV.7
+    - titleCh: 箴言 28
+      titleEn: Proverbs 28
+      verseBG: Proverbs.28
+      verseYV: PRO.28
+
+  - index: 695
+    verses:
+    - titleCh: 啟示錄 8.6-9.21
+      titleEn: Revelation.8.6-9.21
+      verseBG: Revelation.8.6-9.21
+      verseYV: REV.8
+    - titleCh: 箴言 29
+      titleEn: Proverbs 29
+      verseBG: Proverbs.29
+      verseYV: PRO.29
+
+  - index: 696
+    verses:
+    - titleCh: 啟示錄 10-11
+      titleEn: Revelation.10-11
+      verseBG: Revelation.10-11
+      verseYV: REV.10
+    - titleCh: 箴言 30
+      titleEn: Proverbs 30
+      verseBG: Proverbs.30
+      verseYV: PRO.30
+
+  - index: 697
+    verses:
+    - titleCh: 啟示錄 12
+      titleEn: Revelation.12
+      verseBG: Revelation.12
+      verseYV: REV.12
+    - titleCh: 箴言 31
+      titleEn: Proverbs 31
+      verseBG: Proverbs.31
+      verseYV: PRO.31
+
+  - index: 698
+    verses:
+    - titleCh: 啟示錄 13
+      titleEn: Revelation.13
+      verseBG: Revelation.13
+      verseYV: REV.13
+    - titleCh: 傳道書  1
+      titleEn: Ecclesiastes 1
+      verseBG: Ecclesiastes.1
+      verseYV: ECC.1
+
+  - index: 699
+    verses:
+    - titleCh: 啟示錄 14
+      titleEn: Revelation.14
+      verseBG: Revelation.14
+      verseYV: REV.14
+    - titleCh: 傳道書  2
+      titleEn: Ecclesiastes 2
+      verseBG: Ecclesiastes.2
+      verseYV: ECC.2
+
+  - index: 700
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 傳道書  3
+      titleEn: Ecclesiastes 3
+      verseBG: Ecclesiastes.3
+      verseYV: ECC.3
+
+  - index: 701
+    verses:
+    - titleCh: 啟示錄 15-16
+      titleEn: Revelation.15-16
+      verseBG: Revelation.15-16
+      verseYV: REV.15
+    - titleCh: 傳道書  4
+      titleEn: Ecclesiastes 4
+      verseBG: Ecclesiastes.4
+      verseYV: ECC.4
+
+  - index: 702
+    verses:
+    - titleCh: 啟示錄 17
+      titleEn: Revelation.17
+      verseBG: Revelation.17
+      verseYV: REV.17
+    - titleCh: 傳道書  5
+      titleEn: Ecclesiastes 5
+      verseBG: Ecclesiastes.5
+      verseYV: ECC.5
+
+  - index: 703
+    verses:
+    - titleCh: 啟示錄 18.1-19.10
+      titleEn: Revelation.18.1-19.10
+      verseBG: Revelation.18.1-19.10
+      verseYV: REV.18
+    - titleCh: 傳道書  6
+      titleEn: Ecclesiastes 6
+      verseBG: Ecclesiastes.6
+      verseYV: ECC.6
+
+  - index: 704
+    verses:
+    - titleCh: 啟示錄 19.11-20.15
+      titleEn: Revelation.19.11-20.15
+      verseBG: Revelation.19.11-20.15
+      verseYV: REV.19
+    - titleCh: 傳道書  7
+      titleEn: Ecclesiastes 7
+      verseBG: Ecclesiastes.7
+      verseYV: ECC.7
+
+  - index: 705
+    verses:
+    - titleCh: 啟示錄 21.1-22.11
+      titleEn: Revelation.21.1-22.11
+      verseBG: Revelation.21.1-22.11
+      verseYV: REV.21
+    - titleCh: 傳道書  8
+      titleEn: Ecclesiastes 8
+      verseBG: Ecclesiastes.8
+      verseYV: ECC.8
+
+  - index: 706
+    verses:
+    - titleCh: 啟示錄 22.12-21
+      titleEn: Revelation.22.12-21
+      verseBG: Revelation.22.12-21
+      verseYV: REV.22
+    - titleCh: 傳道書  9
+      titleEn: Ecclesiastes 9
+      verseBG: Ecclesiastes.9
+      verseYV: ECC.9
+
+  - index: 707
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 傳道書  10
+      titleEn: Ecclesiastes 10
+      verseBG: Ecclesiastes.10
+      verseYV: ECC.10
+
+  - index: 708
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 傳道書  11
+      titleEn: Ecclesiastes 11
+      verseBG: Ecclesiastes.11
+      verseYV: ECC.11
+
+  - index: 709
+    verses:
+    - titleCh: 
+      titleEn: 
+      verseBG: 
+      verseYV: 
+    - titleCh: 傳道書  12
+      titleEn: Ecclesiastes 12
+      verseBG: Ecclesiastes.12
+      verseYV: ECC.12
 
 ---
 
