@@ -1,5 +1,5 @@
 ---
-layout: daily4
+layout: daily2
 title: "第51周第4天 遵守新命"
 date: 2019-01-10
 categories: daily
