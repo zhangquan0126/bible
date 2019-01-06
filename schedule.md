@@ -5548,7 +5548,7 @@ plan:
       titleEn: Psalms 40
       verseBG: Psalms.40
 
-"  - index: 505
+  - index: 505
     verses:
     - titleCh: 以賽亞書 24-25
       titleEn: Isaiah.24-25
