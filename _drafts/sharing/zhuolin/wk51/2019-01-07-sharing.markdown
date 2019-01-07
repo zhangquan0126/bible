@@ -1,4 +1,12 @@
-01/07/2019 the Fellowship（相交）
+---
+layout: sharing
+date: 2019-01-07
+title: "讀經分享：【相交】"
+categories: sharing
+weekNum: 51
+dayNum: 1
+permalink: /sharing/zhuolin/2019-01-07-sharing.html
+---
 
 約翰一書1:1-2:2 
 
