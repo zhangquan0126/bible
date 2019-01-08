@@ -5,7 +5,7 @@ title: "讀經分享：【與神相交】"
 categories: sharing
 weekNum: 51
 dayNum: 2
-permalink: /sharing/2019-01-08-sharing.html
+permalink: /sharing/zhuolin/2019-01-08-sharing.html
 ---
 2：3-6
 
