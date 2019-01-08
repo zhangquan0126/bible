@@ -1,7 +1,7 @@
 ---
 layout: sharing
 date: 2019-01-07
-title: "讀經分享：【相交】"
+title: "讀經分享：【The Fellowship（相交）】"
 categories: sharing
 weekNum: 51
 dayNum: 1
