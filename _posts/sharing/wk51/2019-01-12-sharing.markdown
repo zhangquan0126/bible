@@ -5,8 +5,8 @@ title: "讀經分享：【】"
 categories: sharing
 weekNum: 51
 dayNum: 6
-permalink: /draft/sharing/2019-01-12-sharing.html
+permalink: /2019-01-12-sharing.html
 ---
 
 
-`錢`
+`小錢`
