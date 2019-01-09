@@ -7,6 +7,14 @@ language: "Chinese"
 
 <div id="home">
   <div id="today"></div>
+  {%- assign today = site.time | date: "%Y-%m-%d"  -%}
+  {%- assign chnPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
+  {%- for post in chnPosts limit:16 -%}
+  {%- assign postDate = post.date | date: "%Y-%m-%d"  -%}
+  {%- if today == postDate -%}
+    {%- assign todayPost = post -%}
+  {%- endif -%}
+  {%- endfor -%}
   <h1>今日讀經内容</h1>
   <h2>{{ todayPost.title }}</h2>
   <p class="meta">{{ todayPost.date | date: "%B %d, %Y" }}</p>
