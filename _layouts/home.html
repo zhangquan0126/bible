@@ -7,17 +7,6 @@ language: "Chinese"
 
 <div id="home">
   <div id="today"></div>
-  {%- assign today = site.time | date: "%Y-%m-%d"  -%}
-  {%- assign chnPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
-  {%- assign showPosts = 0 -%}
-  {%- for post in chnPosts limit:25 -%}
-  {%- if post.categories contains "daily" -%}
-  {%- assign postDate = post.date | date: "%Y-%m-%d"  -%}
-  {%- if today == postDate -%}
-    {%- assign todayPost = post -%}
-  {%- endif -%}
-  {%- endif -%}
-  {%- endfor -%}
   <h1>今日讀經内容</h1>
   <h2>{{ todayPost.title }}</h2>
   <p class="meta">{{ todayPost.date | date: "%B %d, %Y" }}</p>
@@ -68,10 +57,10 @@ language: "Chinese"
  <p></p>
  <h1>分類文章</h1>
  <ul>
-  <li><a href="/bible/all.html">導讀文章</a></li>
-  <li><a href="/bible/sharing.html">讀經分享 <code>小錢</code></a></li>
-  <li><a href="/bible/sharing-zl.html">每日靈修 <code>Zhuolin</code></a></li>
- </ul>
+   <li><a href="/all.html">導讀文章</a></li>
+  <li><a href="/sharing.html">讀經分享 <code>小錢</code></a></li>
+  <li><a href="/sharing-zl.html">每日靈修 <code>Zhuolin</code></a></li>
+  </ul>
 </div>
 
 
