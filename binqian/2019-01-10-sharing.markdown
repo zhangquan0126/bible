@@ -5,7 +5,7 @@ title: "讀經分享：【】"
 categories: sharing
 weekNum: 51
 dayNum: 4
-permalink: /sharing/wk51/2019-01-10-sharing.ht--
+permalink: /sharing/wk51/2019-01-10-sharing.html
 ---
 
 
