@@ -5,7 +5,7 @@ title: "讀經分享：【命令】"
 categories: sharing
 weekNum: 51
 dayNum: 3
-permalink: /sharing/wk51/2019-01-09-sharing.html
+permalink: /sharing/2019-01-09-sharing.html
 ---
 
 教會是一個賦予生命的社區，  
