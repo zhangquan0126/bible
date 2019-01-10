@@ -9,6 +9,7 @@ weekNum: 51
 dayNum: 1
 language: English
 ---
+
 ### Forward     
 This week, we are going to read the first and second book of John.
 
@@ -31,4 +32,5 @@ What does the fact that God is light mean to our life?
 
 ### Meditation: My Story   
 + **Identity** - We are given eternal life, therefore, we should hold fast the truth, instead of pursuing the worldly temporary things. Am I able to turn away from a life in pursue of fame and money which are worldly and temporary? 
+
 + **Integrity** - As we fellowship with God and since God is light, we must walk in the light and stop sinning. Reflect on my sins, confess and repent in prayers, and ask God for forgiveness.
