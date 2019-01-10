@@ -2,7 +2,7 @@
 layout: sharing
 date: 2019-01-08
 title: "讀經分享：【與神相交】"
-categories: sharing
+categories: sharing_zhuolin
 weekNum: 51
 dayNum: 2
 permalink: /sharing/zhuolin/2019-01-08-sharing.html
