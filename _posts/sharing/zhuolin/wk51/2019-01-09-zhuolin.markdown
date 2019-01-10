@@ -2,10 +2,10 @@
 layout: sharing
 date: 2019-01-09
 title: "讀經分享：【與神相交——外在表現】"
-categories: sharing
+categories: sharing_zhuolin
 weekNum: 51
 dayNum: 3
-permalink: /sharing/2019-01-09-zhuolin.html
+permalink: /sharing/zhuolin/2019-01-09-sharing.html
 ---
 
 這一段有幾個重複的重要詞：
