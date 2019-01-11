@@ -1,0 +1,9 @@
+---
+layout: weekly-en
+title: "Weekly Guide：Week 50"
+date: 2019-01-13
+categories: weekly guide
+permalink: "/en/guide/wk51.html"
+weekNum: 51
+language: English
+---
