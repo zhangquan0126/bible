@@ -2,7 +2,7 @@
 layout: sharing
 date: 2019-01-11
 title: "Keep yourself from idols（遠避偶像）"
-categories: sharing
+categories: sharing_zhuolin
 weekNum: 51
 dayNum: 5
 permalink: /sharing/zhuolin/2019-01-11-sharing.html
