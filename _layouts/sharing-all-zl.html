@@ -1,1 +1,58 @@
+---
+layout: post
+title: {{ site.name }}
+---
+
+{%- assign schedulePage = site.pages | where: "layout", "schedule" -%}
+
+<a href="/">返回主頁</a>
+
+<h2>讀經分享</h2>
+
+{%- assign allPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
+{%- assign weeklyPosts = allPosts | where: "categories", "weekly" | sort: "date" -%}
+{%- assign sharingPosts = allPosts | where: "categories", "Zhuolin" -%}
+
+{%- assign bgLink = "https://www.biblegateway.com/passage/?search=" -%}
+
+{%- for post in weeklyPosts  -%}
+
+  {%- assign weekNum = post.weekNum -%}
+  {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" -%}
+  
+  {%- if thisWeek.size > 0 -%}
+  <details><summary style="cursor: pointer;"> 讀經分享 ：第 {{weekNum}} 週 </summary>    
+    <ul>
+        {%- for dailyPost in thisWeek -%}
+          <li><a href="{{ site.baseurl }}{{ dailyPost.url }}">第{{dailyPost.dayNum}}天 {{ dailyPost.title }}</a></li>
+          
+          {%- assign index = weekNum | times:7 -%}
+          {%- assign index = index | minus:8 | plus: dailyPost.dayNum -%}
+          {%- assign dailySchedule = schedulePage[0].plan.days[index] -%}
+          
+          {%- if dailySchedule -%}
+            {%- assign bgV2 = dailySchedule.verses[1].verseBG -%}
+            {%- assign bgV1 = dailySchedule.verses[0].verseBG -%}
+      
+            {%- assign verse1 = dailySchedule.verses[0].titleCh -%}
+            {%- assign verse2 = dailySchedule.verses[1].titleCh -%}
+            {%- assign bgLink1 = "https://www.biblegateway.com/passage/?search=" | append:bgV1 | append: '&version=CUVMPT' -%}
+            {%- assign bgLink4 = "https://www.biblegateway.com/passage/?search=" | append:bgV2 | append: '&version=CUVMPT' -%}
+ 
+            {%- if verse1.size > 0 -%}
+              <a href="{{ bgLink1 }}"><code>{{ verse1 }}</code></a> 
+            {%- endif -%}
+            <a href="{{ bgLink4 }}"><code>{{ verse2 }}</code></a>
+          {%- endif -%}
+      
+        {%- endfor -%}
+      </ul>
+  </details>
+  
+  {%- else -%}
+  
+
+  {%- endif -%}
+  
+{%- endfor -%}
 
