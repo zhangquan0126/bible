@@ -6,6 +6,7 @@ categories: sharing_zhuolin
 weekNum: 51
 dayNum: 6
 permalink: /sharing/zhuolin/2019-01-12-sharing.html
+author: Zhuolin
 ---
 約翰二書和約翰三書，在書信的開始，約翰的問安都有一個特點，就是稱呼對方為“我誠心所愛的”。“誠心所愛”這個短語，英文是“love in truth”，truth是真理的意思。因此，“誠心所愛”是在真理裡愛。
 
