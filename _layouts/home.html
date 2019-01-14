@@ -30,7 +30,6 @@ language: "Chinese"
            {%- if author == null -%}
              {%- assign author = "小钱" -%}
            {%- endif -%}
-         <span><pre><code>{{ author }}</code></pre></span>
          {%- endif -%}
    
         <li><span>{{ post.date | date: "%b %d" }} <code>{{ author }}</code></span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
