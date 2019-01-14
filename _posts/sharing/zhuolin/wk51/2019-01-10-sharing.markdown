@@ -2,7 +2,7 @@
 layout: sharing
 date: 2019-01-10
 title: "每日靈修：誰屬神？"
-categories: sharing, Zhuolin
+categories: sharing Zhuolin
 weekNum: 51
 dayNum: 4
 permalink: /sharing/zhuolin/2019-01-10-sharing.html
