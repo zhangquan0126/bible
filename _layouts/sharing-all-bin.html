@@ -16,7 +16,7 @@ title: {{ site.name }}
 {%- assign bgLink = "https://www.biblegateway.com/passage/?search=" -%}
 
 {%- for post in weeklyPosts  -%}
-  {%- unless post.categories contains "Zhuolin" -%}
+  
   {%- assign weekNum = post.weekNum -%}
   {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" -%}
   
@@ -24,6 +24,7 @@ title: {{ site.name }}
   <details><summary style="cursor: pointer;"> 讀經分享 ：第 {{weekNum}} 週 </summary>    
     <ul>
         {%- for dailyPost in thisWeek -%}
+          {%- unless dailyPost.categories contains "Zhuolin" -%}
           <li><a href="{{ site.baseurl }}{{ dailyPost.url }}">第{{dailyPost.dayNum}}天 {{ dailyPost.title }}</a></li>
           
           {%- assign index = weekNum | times:7 -%}
@@ -44,7 +45,7 @@ title: {{ site.name }}
             {%- endif -%}
             <a href="{{ bgLink4 }}"><code>{{ verse2 }}</code></a>
           {%- endif -%}
-      
+          {%- endunless -%}
         {%- endfor -%}
       </ul>
   </details>
@@ -53,5 +54,5 @@ title: {{ site.name }}
   
 
   {%- endif -%}
-  {%- endunless -%}
+
 {%- endfor -%}
