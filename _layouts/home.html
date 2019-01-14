@@ -18,14 +18,14 @@ language: "Chinese"
     {%- for post in chnPosts limit:25 -%}
       
       {%- if post.categories contains "weekly" -%}
-        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
    
       {%- else -%}
         {%- assign postDate = post.date | date: "%Y-%m-%d"  -%}
         
         {%- if today >= postDate and showPosts <= 15 -%}
            <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-           {%- assign showPosts | plus: 1 %}
+           {%- assign showPosts = showPosts | plus: 1 -%}
  
            {%- if post.categories contains "daily" -%}
             {%- if today == postDate -%}
