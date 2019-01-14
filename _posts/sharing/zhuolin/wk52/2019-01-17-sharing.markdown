@@ -1,1 +1,12 @@
-4
+---
+layout: sharing
+date: 2019-01-17
+title: "每日靈修(ZL)："
+categories: sharing_zhuolin
+weekNum: 52
+dayNum: 4
+permalink: /sharing/zhuolin/wk52/2019-01-17-sharing.html
+---
+
+
+`Zhuolin`
