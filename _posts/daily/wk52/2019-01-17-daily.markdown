@@ -1,1 +1,22 @@
 4
+---
+layout: daily2
+title: "第52周第4天 "
+date: 2019-01-17
+categories: daily
+permalink: /daily/wk52-day4-daily.html
+weekNum: 52
+dayNum: 4
+---
+
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
+
+### 默想：我的故事
+
+### 祷告：
+
+### 笔记与回应：
