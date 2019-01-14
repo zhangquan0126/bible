@@ -1,4 +1,3 @@
-4
 ---
 layout: daily2
 title: "第52周第4天 "
