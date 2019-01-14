@@ -2,10 +2,11 @@
 layout: sharing
 date: 2019-01-09
 title: "每日靈修(ZL)：與神相交——外在表現"
-categories: sharing_zhuolin
+categories: sharing, Zhuolin
 weekNum: 51
 dayNum: 3
 permalink: /sharing/zhuolin/2019-01-09-sharing.html
+author: Zhuolin
 ---
 
 這一段有幾個重複的重要詞：
