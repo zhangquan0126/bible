@@ -27,7 +27,9 @@ language: "Chinese"
       {%- else -%}
         {%- if post.categories contains "sharing" -%}
            {%- assign author = post.author -%}
-           {%- if author == null -%}
+           {%- if post.categories contains "Zhuolin" -%}
+             {%- assign author = "ZL" -%}
+           {%- else -%}
              {%- assign author = "小钱" -%}
            {%- endif -%}
            <li><span>{{ post.date | date: "%b %d" }} <code>{{ author }}</code></span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
