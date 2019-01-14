@@ -22,6 +22,7 @@ language: "Chinese"
             {%- assign todayPost = post -%} 
           {%- endif -%}
           <li><span>{{ post.date | date: "%b %d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+          <p></p>
         {%- endif -%}
 
       {%- else -%}
