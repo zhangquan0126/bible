@@ -13,11 +13,9 @@ language: "Chinese"
 
     {%- assign today = site.time | date: "%Y-%m-%d"  -%}
     {%- assign chnPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
-    
-    {%- for post in chnPosts limit:16 -%}
-      {% assign post_date = post.date | date: "%s" %}
-  
-      
+    {%- assign showPosts = chnPosts | where_exp: "item", "item.date <= today" -%}
+   
+    {%- for post in showPosts limit:15 -%}
       {%- if post.categories contains "daily" -%}
         
         {%- assign postDate = post.date | date: "%Y-%m-%d"  -%}
@@ -30,7 +28,7 @@ language: "Chinese"
         {%- endif -%}
 
       {%- else -%}
-        <li><span>{{ post.date | date: "%m/%d" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
            
       {%- endif -%}
 
