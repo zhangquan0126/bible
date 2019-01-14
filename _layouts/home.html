@@ -26,19 +26,8 @@ language: "Chinese"
         {%- endif -%}
 
       {%- else -%}
-        {%- if post.categories contains "sharing" -%}
-           {%- assign author = post.author -%}
-           {%- if post.categories contains "Zhuolin" -%}
-             {%- assign author = "ZL" -%}
-           {%- else -%}
-             {%- assign author = "QB" -%}
-           {%- endif -%}
-           <li><span>{{ post.date | date: "%b %d" }} <code>{{ author }}</code></span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-         
-        {%- else -%}
-           <li><span>{{ post.date | date: "%b %d" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-        {%- endif -%}
-   
+        <li><span>{{ post.date | date: "%b %d" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+           
       {%- endif -%}
     {%- endfor -%} </ul>
  
