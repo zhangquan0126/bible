@@ -21,12 +21,12 @@ language: "Chinese"
           {%- if today == postDate -%}
             {%- assign todayPost = post -%} 
           {%- endif -%}
-          <li><span>{{ post.date | date: "%b %d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+          <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
           <p></p>
         {%- endif -%}
 
       {%- else -%}
-        <li><span>{{ post.date | date: "%b %d" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        <li><span>{{ post.date | date: "%m/%d" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
            
       {%- endif -%}
     {%- endfor -%} </ul>
