@@ -5,8 +5,10 @@ title: "每日靈修(ZL)："
 categories: sharing_zhuolin
 weekNum: 52
 dayNum: 3
-permalink: /sharing/zhuolin/wk52/2019-01-16-sharing.html
+permalink: /sharing/zhuolin/2019-01-16-sharing.html
 ---
 
 
 `Zhuolin`
+
+_posts/sharing/zhuolin/wk52/2019-01-16-sharing.markdown
