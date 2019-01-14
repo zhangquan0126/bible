@@ -7,7 +7,7 @@ weekNum: 51
 dayNum: 1
 permalink: /sharing/zhuolin/2019-01-07-sharing.html
 author: Zhuolin
-series： 每日靈修
+series: 每日靈修
 ---
 
 約翰一書是約翰年老的時候，針對那時候的異端所寫的。
