@@ -16,7 +16,7 @@ language: "Chinese"
     {% assign today = "now" | date: "%s" %}
     {%- for post in chnPosts limit:16 -%}
       {% assign post_date = post.date | date: "%s" %}
-   
+   {{ post_date }} < {{ today }}
       {% if post.categories contains "weekly" or post_date < today %}
       {%- if post.categories contains "daily" -%}
         
