@@ -1,7 +1,7 @@
 ---
 layout: sharing
 date: 2019-01-08
-title: "每日靈修(ZL)：與神相交"
+title: "每日靈修：與神相交"
 categories: sharing, Zhuolin
 weekNum: 51
 dayNum: 2
