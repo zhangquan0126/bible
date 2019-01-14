@@ -1,7 +1,7 @@
 ---
 layout: sharing
 date: 2019-01-11
-title: "每日靈修(ZL)：Keep yourself from idols（遠避偶像）"
+title: "每日靈修：Keep yourself from idols（遠避偶像）"
 categories: sharing, Zhuolin
 weekNum: 51
 dayNum: 5
