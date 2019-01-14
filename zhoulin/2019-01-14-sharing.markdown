@@ -1,7 +1,7 @@
 ---
 layout: sharing
 date: 2019-01-14
-title: "每日靈修(ZL)："
+title: "每日靈修(ZL)：1/14"
 categories: sharing_zhuolin
 weekNum: 52
 dayNum: 1
