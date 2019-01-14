@@ -2,10 +2,11 @@
 layout: sharing
 date: 2019-01-10
 title: "每日靈修(ZL)：誰屬神？"
-categories: sharing_zhuolin
+categories: sharing, Zhuolin
 weekNum: 51
 dayNum: 4
 permalink: /sharing/zhuolin/2019-01-10-sharing.html
+author: Zhuolin
 ---
 這個世界聲音太多了！尤其是互聯網，每天各樣的信息和聲音包圍我們，即便是同在基督信仰上，也有很多讓我們困惑的不同聲音。
 
