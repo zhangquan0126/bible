@@ -13,26 +13,27 @@ language: "Chinese"
 
     {%- assign today = site.time | date: "%Y-%m-%d"  -%}
     {%- assign chnPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
-    {%- assign showPosts = chnPosts | where_exp: "item", "item.date <= today" -%}
    
-    {%- for post in showPosts limit:15 -%}
-      {%- if post.categories contains "daily" -%}
-        
-        {%- assign postDate = post.date | date: "%Y-%m-%d"  -%}
-        {%- if today >= postDate -%}
-          {%- if today == postDate -%}
-            {%- assign todayPost = post -%} 
-          {%- endif -%}
-          <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-          <p></p>
-        {%- endif -%}
-
+    {%- for post in chnPosts limit:15 -%}
+      
+      {%- if post.categories contains "weekly" -%}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
       {%- else -%}
-        <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-           
-      {%- endif -%}
+        {%- assign postDate = post.date | date: "%Y-%m-%d"  -%}
+        
+        {%- if today >= postDate -%}
+           <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+          
+           {%- if post.categories contains "daily" -%}
+            {%- if today == postDate -%}
+              {%- assign todayPost = post -%} 
+            {%- endif -%}
+            <p></p>
+          {%- endif -%}
 
-    {%- endfor -%} </ul>
+        {%- endif -%}
+      {%- endif -%}
+   {%- endfor -%} </ul>
  
  <p></p>
  <h1>分類文章</h1>
