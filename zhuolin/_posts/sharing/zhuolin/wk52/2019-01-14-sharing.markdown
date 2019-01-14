@@ -1,14 +1,15 @@
 ---
 layout: sharing
 date: 2019-01-14
-title: "每日靈修(ZL)："
-categories: sharing_zhuolin
+title: "每日靈修："
+categories: sharing Zhuolin
 weekNum: 52
 dayNum: 1
 permalink: /sharing/zhuolin/2019-01-14-sharing.html
 ---
 
+【內容將在當日早上更新】
 
 `Zhuolin`
 
-_posts/sharing/zhuolin/wk52/2019-01-14-sharing.markdown
+
