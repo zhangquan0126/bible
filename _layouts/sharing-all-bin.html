@@ -16,7 +16,7 @@ title: {{ site.name }}
 {%- assign bgLink = "https://www.biblegateway.com/passage/?search=" -%}
 
 {%- for post in weeklyPosts  -%}
-
+  {%- unless post.categories contains "Zhuolin" -%}
   {%- assign weekNum = post.weekNum -%}
   {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" -%}
   
@@ -53,5 +53,5 @@ title: {{ site.name }}
   
 
   {%- endif -%}
-  
+  {%- endunless -%}
 {%- endfor -%}
