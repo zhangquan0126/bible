@@ -26,7 +26,7 @@ language: "Chinese"
 
       {%- else -%}
         {%- if post.categories contains "sharing" -%}
-           {%- assign author = post.author -%}
+           {%- assign author = post.author -%} <code>{{ author }}1</code>
            {%- if author == null -%}
              {%- assign author = "小钱" -%}
            {%- endif -%}
