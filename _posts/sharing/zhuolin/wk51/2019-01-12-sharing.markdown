@@ -2,7 +2,7 @@
 layout: sharing
 date: 2019-01-12
 title: "每日靈修：在真理與愛心中不接待"
-categories: Sharing Zhuolin
+categories: sharing Zhuolin
 weekNum: 51
 dayNum: 6
 permalink: /sharing/zhuolin/2019-01-12-sharing.html
