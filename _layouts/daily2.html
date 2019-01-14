@@ -62,14 +62,19 @@ title: {{ site.name }}
 
 {%- assign pageDate = page.date | "%Y-%m-%d" -%}
 {%- assign sharings = site.posts | where: "categories", "sharing" -%}
-<ul>
-{%- for post in sharings -%}
+{%- assign sharingsThisWeek = sharings | where: "weekNum", page.weekNum -%} 
+
+  <ul>
+{%- for post in sharingsThisWeek -%}
   {%- if post.date == pageDate and post.title != "每日靈修：【待更新】" -%}
-  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {%- if post.categories contains "Zhuolin" -%}
+      {%- assign showWordPress = 1 -%}
+    {%- endif -%}
   {%- endif -%}
 {%- endfor -%}
   
-{%- if page.dayNum < 7 -%}
+{%- if showWordPress == 1 -%}
   <li><a href="https://zhuolindailydevotion.wordpress.com/{{ page.date | date: '%Y' }}/{{ page.date | date: '%m' }}/{{ page.date | date: '%d' }}/">每日靈修（ZL@WordPress.com）</a></li>
 {%- endif -%}
 </ul>
