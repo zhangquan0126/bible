@@ -7,7 +7,7 @@ title: {{ site.name }}
 
 <a href="/">返回主頁</a>
 
-<h2>讀經分享</h2>
+<h2>讀經分享</h2> by 小錢
 
 {%- assign allPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
 {%- assign weeklyPosts = allPosts | where: "categories", "weekly" | sort: "date" -%}
