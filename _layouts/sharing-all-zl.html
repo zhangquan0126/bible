@@ -18,7 +18,7 @@ title: {{ site.name }}
 {%- for post in weeklyPosts  -%}
 
   {%- assign weekNum = post.weekNum -%}
-  {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" -%}
+  {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" | reverse -%}
   
   {%- if thisWeek.size > 0 -%}
   <details><summary style="cursor: pointer;"> 讀經分享 ：第 {{weekNum}} 週 </summary>    
