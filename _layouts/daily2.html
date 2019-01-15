@@ -66,7 +66,8 @@ title: {{ site.name }}
 
   <ul>
 {%- for post in sharingsThisWeek -%}
-  {%- if post.date == pageDate and post.title != "每日靈修：【待更新】" -%}
+  {%- assign isTemp = post.title | slice: -4,3 -%}
+  {%- if post.date == pageDate and isTemp != "待更新" -%}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {%- if post.categories contains "Zhuolin" -%}
       {%- assign showWordPress = 1 -%}
