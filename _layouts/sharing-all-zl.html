@@ -7,10 +7,10 @@ title: {{ site.name }}
 
 <a href="/">返回主頁</a>
 
-<h2>每日靈修 by Zhuolin</h2>
+<h2>每日靈修</h2>  by Zhuolin
 
 {%- assign allPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
-{%- assign weeklyPosts = allPosts | where: "categories", "weekly" | sort: "date" -%}
+{%- assign weeklyPosts = allPosts | where: "categories", "weekly" | sort: "date" | reverse -%}
 {%- assign sharingPosts = allPosts | where: "categories", "Zhuolin" -%}
 
 {%- assign bgLink = "https://www.biblegateway.com/passage/?search=" -%}
@@ -18,7 +18,7 @@ title: {{ site.name }}
 {%- for post in weeklyPosts  -%}
 
   {%- assign weekNum = post.weekNum -%}
-  {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" | reverse -%}
+  {%- assign thisWeek = sharingPosts | where: "weekNum", weekNum | sort: "date" -%}
   
   {%- if thisWeek.size > 0 -%}
   <details><summary style="cursor: pointer;"> 讀經分享 ：第 {{weekNum}} 週 </summary>    
