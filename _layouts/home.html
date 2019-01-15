@@ -24,8 +24,9 @@ language: "Chinese"
         {%- assign postDate = post.date | date: "%Y-%m-%d"  -%}
         
         {%- if today >= postDate and showPosts <= 10 -%}
-           {%- unless post.title == "每日靈修：【待更新】" -%}
-            <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+            {%- assign isTemp = slice(post.title, -4,3) -%}
+            {%- unless isTemp == "待更新" -%}
+             <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
             {%- assign showPosts = showPosts | plus: 1 -%}
  
             {%- if post.categories contains "daily" -%}
