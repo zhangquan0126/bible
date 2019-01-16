@@ -9,6 +9,7 @@ language: "Chinese"
   <div id="today"></div>
   {%- assign today = site.time | date: "%Y-%m-%d"  -%}
   {%- assign chnPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
+  {%- assign showPosts = 0 -%}
   {%- for post in chnPosts limit:16 -%}
   {%- assign postDate = post.date | date: "%Y-%m-%d"  -%}
   {%- if today == postDate -%}
@@ -68,7 +69,7 @@ language: "Chinese"
   <li><a href="/bible/all.html">導讀文章</a></li>
   <li><a href="/bible/sharing.html">讀經分享 <code>小錢</code></a></li>
   <li><a href="/bible/sharing-zl.html">每日靈修 <code>Zhuolin</code></a></li>
-  </ul>
+ </ul>
 </div>
 
 
