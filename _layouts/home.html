@@ -11,9 +11,11 @@ language: "Chinese"
   {%- assign chnPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
   {%- assign showPosts = 0 -%}
   {%- for post in chnPosts limit:16 -%}
+  {%- if post.categories contains "daily" -%}
   {%- assign postDate = post.date | date: "%Y-%m-%d"  -%}
   {%- if today == postDate -%}
     {%- assign todayPost = post -%}
+  {%- endif -%}
   {%- endif -%}
   {%- endfor -%}
   <h1>今日讀經内容</h1>
