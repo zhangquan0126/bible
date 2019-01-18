@@ -11,15 +11,15 @@ title: {{ site.name }}
   <tr>
     {%- assign pageExists = site.posts | where: "url", page.prevDay | size -%}
     {%- if pageExists > 0 -%}
-      <th><a href="/bible{{ page.prevDay }}">《上一日</a></th>
+      <th><a href="bible/{{ page.prevDay }}">《上一日</a></th>
     {%- endif -%}
     {%- assign pageExists = site.posts | where: "url", page.weekly | size -%}
     {%- if pageExists > 0 -%}
-      <th><a href="/bible{{ page.weekly }}">本周</a></th>
+      <th><a href="bible/{{ page.weekly }}">本周</a></th>
     {%- endif -%}
     {%- assign pageExists = site.posts | where: "url", page.nextDay | size -%}
     {%- if pageExists > 0 -%}
-      <th><a href="/bible{{ page.nextDay }}">下一日》</a></th>
+      <th><a href="bible/{{ page.nextDay }}">下一日》</a></th>
     {%- endif -%}
   </tr>
   </thead>
@@ -39,7 +39,7 @@ title: {{ site.name }}
 <ul>
 {%- for post in sharings -%}
   {%- if post.date == pageDate -%}
-  <li><a href="{{ post.url }} | relative_url">{{ post.title }}</a></li>
+  <li><a href="bible/{{ post.url }}">{{ post.title }}</a></li>
   {%- endif -%}
 {%- endfor -%}
 </ul>
