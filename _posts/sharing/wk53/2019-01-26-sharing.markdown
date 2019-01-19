@@ -1,1 +1,13 @@
-6
+---
+layout: sharing
+date: 2019-01-26
+title: "讀經分享：【待更新】"
+categories: sharing
+weekNum: 53
+dayNum: 6
+permalink: /sharing/2019-01-26-sharing.html
+---
+
+【內容將稍后更新】
+
+`小錢`
