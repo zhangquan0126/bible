@@ -22,13 +22,13 @@ language: Chinese
   <tr>
     {%- assign pageExists = site.posts | where: "url", lastLink | size -%}
     {%- if pageExists > 0 -%}
-      <th colspan="2"><a href="{{ lastLink | append: '#top' }}">《上週</a></th>
+      <th colspan="2"><a href="/bible{{ lastLink | append: '#top' }}">《上週</a></th>
     {%- else -%}
       <th colspan="2">《上週</th>
     {%- endif -%}
     {%- assign pageExists = site.posts | where: "url", nextLink | size -%}
     {%- if pageExists > 0 -%}
-      <th colspan="2"><a href="{{ nextLink | append: '#top' }}">下週》</a></th>
+      <th colspan="2"><a href="/bible{{ nextLink | append: '#top' }}">下週》</a></th>
     {%- else -%}
       <th colspan="2">下週》</th>
     {%- endif -%}
@@ -81,7 +81,7 @@ language: Chinese
   {%- assign dayString = 'day' | append: day -%}
 <div id="{{ dayString }}"></div>
 <h2> 
-  <a href="{{ onePage.url }}">{{ onePage.title }}</a> {{ link }}
+  <a href="/bible{{ onePage.url }}">{{ onePage.title }}</a> {{ link }}
 </h2>
 {%- assign dayString = dayString | prepend: 'id="' | append: 'Content"' -%}
 {{ onePage.content | replace: 'id="top"', dayString }}

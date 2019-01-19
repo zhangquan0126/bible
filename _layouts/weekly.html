@@ -18,12 +18,12 @@ title: {{ site.name }}
   <tr>
     {%- assign pageExists = site.posts | where: "url", lastLink | size -%}
     {%- if pageExists > 0 -%}
-    <th><a href="{{ lastLink | append: '#top' }}">《上週</a></th>
+    <th><a href="/bible{{ lastLink | append: '#top' }}">《上週</a></th>
     {%- endif -%}
-    <th><a href="/">主页</a></th>
+    <th><a href="/bible">主页</a></th>
     {%- assign pageExists = site.posts | where: "url", nextLink | size -%}
     {%- if pageExists > 0 -%}
-    <th><a href="{{ nextLink | append: '#top' }}">下週》</a></th>
+    <th><a href="/bible{{ nextLink | append: '#top' }}">下週》</a></th>
     {%- endif -%}
     <th></th>
   </tr>
