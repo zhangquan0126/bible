@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第53周第6天 "
+title: "第53周第6天 【待更新】"
 date: 2019-01-26
 categories: daily
 permalink: /daily/wk53-day6-daily.html
