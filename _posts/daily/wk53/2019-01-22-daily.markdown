@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第53周第2天 "
+title: "第53周第2天 【待更新】"
 date: 2019-01-22
 categories: daily
 permalink: /daily/wk53-day2-daily.html
