@@ -3,7 +3,7 @@ layout: daily2
 title: "第53周第1天 【待更新】"
 date: 2019-01-21
 categories: daily
-permalink: /daily/wk52-day1-daily.html
+permalink: /daily/wk53-day1-daily.html
 weekNum: 53
 dayNum: 1
 ---
