@@ -1,7 +1,7 @@
 ---
 layout: sharing
 date: 2019-01-18
-title: "讀經分享：離開"
+title: "讀經分享：【離開】"
 categories: sharing
 weekNum: 52
 dayNum: 5
