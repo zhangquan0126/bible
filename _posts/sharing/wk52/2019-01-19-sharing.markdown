@@ -1,7 +1,7 @@
 ---
 layout: sharing
 date: 2019-01-19
-title: "讀經分享：賠罪"
+title: "讀經分享：【賠罪】"
 categories: sharing
 weekNum: 52
 dayNum: 6
