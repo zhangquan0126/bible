@@ -1,0 +1,8 @@
+---
+layout: weekly2
+title:  "讀經向導：第 53 週"
+date:   2019-01-27
+categories: weekly guide
+permalink: "/guide/wk53.html"
+weekNum: 53
+---
