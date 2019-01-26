@@ -8,7 +8,7 @@ weekNum: 53
 dayNum: 6
 ---
 
-### 問題：
+### 問題：為什麼掃羅會懼怕,並想殺害大衛？
 
 {%- include BibleLinks.html -%}
 
