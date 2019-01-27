@@ -1,1 +1,23 @@
-1
+---
+layout: daily2
+title: "第54周第1天 "
+date: 2019-01-28
+categories: daily
+permalink: /daily/wk54-day1-daily.html
+weekNum: 54
+dayNum: 1
+---
+
+### 本周引言：
+
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
+
+### 默想：我的故事
+
+### 祷告：
+
+### 笔记与回应：
