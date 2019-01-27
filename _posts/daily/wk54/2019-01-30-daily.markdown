@@ -4,7 +4,7 @@ title: "第54周第3天 "
 date: 2019-01-30
 categories: daily
 permalink: /daily/wk54-day3-daily.html
-weekNum: 53
+weekNum: 54
 dayNum: 1
 ---
 
