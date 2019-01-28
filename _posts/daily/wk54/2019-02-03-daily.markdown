@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第54周第7天 補漏拾遺"
+title: "第54週第7天 補漏拾遺"
 date: 2019-02-03
 categories: daily
 permalink: /daily/wk54-day7-daily.html
