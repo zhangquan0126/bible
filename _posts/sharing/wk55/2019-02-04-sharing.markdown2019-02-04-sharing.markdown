@@ -5,7 +5,7 @@ title: "讀經分享：【待更新】"
 categories: sharing
 weekNum: 55
 dayNum: 1
-permalink: /sharing/2019-02-04-sharing.html
+permalink: /sharing/day1-wk55-sharing.html
 ---
 
 
