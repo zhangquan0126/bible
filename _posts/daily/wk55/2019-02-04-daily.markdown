@@ -10,7 +10,7 @@ dayNum: 1
 
 ### 本週引言：
 
-### 問題：掃羅懼怕大衛的真正原因是什麼？
+### 問題：
 
 {%- include BibleLinks.html -%}
 
