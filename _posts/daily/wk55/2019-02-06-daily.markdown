@@ -1,1 +1,21 @@
-3
+---
+layout: daily2
+title: "第55週第3天 "
+date: 2019-02-06
+categories: daily
+permalink: /daily/wk55-day3-daily.html
+weekNum: 55
+dayNum: 3
+---
+
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
+
+### 默想：我的故事
+
+### 祷告：
+
+### 笔记与回应：
