@@ -1,1 +1,12 @@
-4
+---
+layout: sharing
+date: 2019-02-07
+title: "讀經分享：【待更新】"
+categories: sharing
+weekNum: 55
+dayNum: 4
+permalink: /sharing/day4-wk55-sharing.html
+---
+
+
+`小錢`
