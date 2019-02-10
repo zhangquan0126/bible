@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第55週第1天 "
+title: "第56週第1天 "
 date: 2019-02-11
 categories: daily
 permalink: /daily/wk56-day1-daily.html
