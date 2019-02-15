@@ -1,7 +1,7 @@
 ---
 layout: sharing
 date: 2019-02-15
-title: "每日靈修：【待更新】"
+title: "每日靈修：合神心意的生命"
 categories: sharing Zhuolin
 weekNum: 56
 dayNum: 5
