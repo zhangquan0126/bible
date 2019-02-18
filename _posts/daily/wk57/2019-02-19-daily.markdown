@@ -1,1 +1,21 @@
-2
+---
+layout: daily2
+title: "第57週第2天 "
+date: 2019-02-19
+categories: daily
+permalink: /daily/wk57-day2-daily.html
+weekNum: 57
+dayNum: 2
+---
+
+### 問題：
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
+
+### 默想：我的故事
+
+### 祷告：
+
+### 笔记与回应：
