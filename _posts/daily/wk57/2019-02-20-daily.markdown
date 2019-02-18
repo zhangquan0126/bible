@@ -1,11 +1,11 @@
 ---
 layout: daily2
-title: "第57週第3天 "
-date: 2019-02-20
+title: "第57週第4天 "
+date: 2019-02-21
 categories: daily
-permalink: /daily/wk57-day3-daily.html
+permalink: /daily/wk57-day4-daily.html
 weekNum: 57
-dayNum: 3
+dayNum: 4
 ---
 
 ### 問題：
