@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第57週第1天 "
+title: "第57週第1天 勇士名錄"
 date: 2019-02-18
 categories: daily
 permalink: /daily/wk57-day1-daily.html
