@@ -3,7 +3,7 @@ layout: sharing
 date: 2019-02-25
 title: "讀經分享：【待更新】"
 categories: sharing
-weekNum: 57
+weekNum: 58
 dayNum: 1
 permalink: /sharing/day1-wk58-sharing.html
 ---
