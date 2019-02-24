@@ -1,1 +1,10 @@
-4
+---
+layout: sharing
+date: 2019-02-28
+title: "每日靈修：【待更新】"
+categories: sharing Zhuolin
+weekNum: 58
+dayNum: 4
+permalink: /sharing/zhuolin/day4-wk58-sharing.html
+---
+
