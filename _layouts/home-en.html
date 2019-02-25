@@ -22,7 +22,7 @@ language: "English"
           {%- endif -%}
     
           {%- assign splitTitles = post.title | split:": " -%}
-          <li><span style="display:inline-block;">{{ post.date | date: "%b %d" }} {{ splitTitles[0] }}</span>
+          <li><span style="display:inline-block;">{{ post.date | date: "%m/%d" }} {{ splitTitles[0] }}</span>
             <a href="{{ site.baseurl }}{{ post.url }}">{{ splitTitles[1] }}</a></li>
         {%- endif -%}
 
