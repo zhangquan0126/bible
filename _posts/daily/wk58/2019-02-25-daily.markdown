@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第58周第1天 "
+title: "第58周第1天 【待更新】"
 date: 2019-02-25
 categories: daily
 permalink: /daily/wk58-day1-daily.html
