@@ -36,16 +36,25 @@ language: English
     {%- assign pageExists = site.posts | where: "url", prevDay | size -%}
     {%- if pageExists > 0 -%}
     <th><a href="{{ prevDay | append: '#top' }}">&#171; Prev</a></th>
+    {%- else -%}
+    <th>&#171; Prev</th>
     {%- endif -%}
+
     {%- assign pageExists = site.posts | where: "url", weekly | size -%}
     {%- if pageExists > 0 -%}
     <th><a href="{{ weekly | append: '#top' }}">Weekly</a></th>
+    {%- else -%}
+    <th>Weekly</th>
     {%- endif -%}
+
     {%- assign pageExists = site.posts | where: "url", nextDay | size -%}
     {%- if pageExists > 0 -%}
-    <th><a href="{{ nextDay | append: '#top' }}">Next &#187;</a></th>
+    <th><a href="{{ nextDay | append: '#op' }}">Next &#187;</a></th>
+    {%- else -%}
+    <th>Next &#187;</th>
     {%- endif -%}
 {%- endcapture -%}
+
 <p>
 <table style="display: table;">
   <thead>
@@ -79,8 +88,6 @@ language: English
 
 <p>
 </div>
-
-{%- include disqus.html -%}
 
 <table>
   <thead>
