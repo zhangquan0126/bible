@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第59周第7天 "
+title: "第59周第7天 補漏拾遺"
 date: 2019-03-10
 categories: daily
 permalink: /daily/wk59-day7-daily.html
