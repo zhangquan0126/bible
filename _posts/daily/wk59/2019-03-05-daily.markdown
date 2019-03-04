@@ -1,0 +1,24 @@
+---
+layout: daily2
+title: "第59周第2天 "
+date: 2019-03-05
+categories: daily
+permalink: /daily/wk59-day2-daily.html
+weekNum: 59
+dayNum: 2
+---
+
+### 問題：聖殿完工後所羅門如何向神獻殿？
+
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事 
++ 
+
+### 默想：我的故事
+
++
+
+### 祷告：
+
+### 笔记与回应：
