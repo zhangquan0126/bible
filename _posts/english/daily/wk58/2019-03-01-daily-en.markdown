@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 58 Day 5: Change of Dynasties"
-date: 2019-3-1 
+date: 2019-3-1
 categories: daily
 permalink: /en/daily/wk58-day5-daily.html
 weekNum: 58
