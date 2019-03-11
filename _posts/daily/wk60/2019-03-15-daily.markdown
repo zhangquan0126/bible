@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第60周第5天 猶大行惡"
+title: "第60週第5天 猶大行惡"
 date: 2019-03-15
 categories: daily
 permalink: /daily/wk60-day5-daily.html
