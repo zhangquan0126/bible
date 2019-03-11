@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第60周第1天 亞蘭逃離"
+title: "第60週第1天 亞蘭逃離"
 date: 2019-03-11
 categories: daily
 permalink: /daily/wk60-day1-daily.html
@@ -8,7 +8,7 @@ weekNum: 60
 dayNum: 1
 ---
 
-### 本周引言：
+### 本週引言：
 我們本週將繼續列王紀下的讀經。  
 願弟兄姐妹在神的話語中日日更新！
 
