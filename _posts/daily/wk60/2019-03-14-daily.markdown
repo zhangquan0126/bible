@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第60周第4天 代代相傳"
+title: "第60週第4天 代代相傳"
 date: 2019-03-14
 categories: daily
 permalink: /daily/wk60-day4-daily.html
