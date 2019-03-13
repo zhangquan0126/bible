@@ -4895,10 +4895,10 @@ plan:
       titleEn: 1 Chronicles.29
       verseBG: 1 Chronicles.29
       verseYV: 1CH.29
-    - titleCh: 詩篇 1
-      titleEn: Psalms 1
-      verseBG: Psalms.1
-      verseYV: PSA.1
+    - titleCh: 傳道書  1
+      titleEn: Ecclesiastes 1
+      verseBG: Ecclesiastes.1
+      verseYV: ECC.1
 
   - index: 446
     verses:
@@ -4906,10 +4906,10 @@ plan:
       titleEn: 2 Chronicles.1-2
       verseBG: 2 Chronicles.1-2
       verseYV: 2CH.1
-    - titleCh: 詩篇 2
-      titleEn: Psalms 2
-      verseBG: Psalms.2
-      verseYV: PSA.2
+    - titleCh: 傳道書  2
+      titleEn: Ecclesiastes 2
+      verseBG: Ecclesiastes.2
+      verseYV: ECC.2
 
   - index: 447
     verses:
@@ -4917,10 +4917,10 @@ plan:
       titleEn: 2 Chronicles.3.1-5.1
       verseBG: 2 Chronicles.3.1-5.1
       verseYV: 2CH.3
-    - titleCh: 詩篇 3
-      titleEn: Psalms 3
-      verseBG: Psalms.3
-      verseYV: PSA.3
+    - titleCh: 傳道書  3
+      titleEn: Ecclesiastes 3
+      verseBG: Ecclesiastes.3
+      verseYV: ECC.3
 
   - index: 448
     verses:
@@ -4928,10 +4928,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 4
-      titleEn: Psalms 4
-      verseBG: Psalms.4
-      verseYV: PSA.4
+    - titleCh: 傳道書  4
+      titleEn: Ecclesiastes 4
+      verseBG: Ecclesiastes.4
+      verseYV: ECC.4
 
   - index: 449
     verses:
@@ -4939,10 +4939,10 @@ plan:
       titleEn: 2 Chronicles.5.2-6.42
       verseBG: 2 Chronicles.5.2-6.42
       verseYV: 2CH.5
-    - titleCh: 詩篇 5
-      titleEn: Psalms 5
-      verseBG: Psalms.5
-      verseYV: PSA.5
+    - titleCh: 傳道書  5
+      titleEn: Ecclesiastes 5
+      verseBG: Ecclesiastes.5
+      verseYV: ECC.5
 
   - index: 450
     verses:
@@ -4950,10 +4950,10 @@ plan:
       titleEn: 2 Chronicles.7
       verseBG: 2 Chronicles.7
       verseYV: 2CH.7
-    - titleCh: 詩篇 6
-      titleEn: Psalms 6
-      verseBG: Psalms.6
-      verseYV: PSA.6
+    - titleCh: 傳道書  6
+      titleEn: Ecclesiastes 6
+      verseBG: Ecclesiastes.6
+      verseYV: ECC.6
 
   - index: 451
     verses:
@@ -4961,10 +4961,10 @@ plan:
       titleEn: 2 Chronicles.8
       verseBG: 2 Chronicles.8
       verseYV: 2CH.8
-    - titleCh: 詩篇 7
-      titleEn: Psalms 7
-      verseBG: Psalms.7
-      verseYV: PSA.7
+    - titleCh: 傳道書  7
+      titleEn: Ecclesiastes 7
+      verseBG: Ecclesiastes.7
+      verseYV: ECC.7
 
   - index: 452
     verses:
@@ -4972,10 +4972,10 @@ plan:
       titleEn: 2 Chronicles.9
       verseBG: 2 Chronicles.9
       verseYV: 2CH.9
-    - titleCh: 詩篇 8
-      titleEn: Psalms 8
-      verseBG: Psalms.8
-      verseYV: PSA.8
+    - titleCh: 傳道書  8
+      titleEn: Ecclesiastes 8
+      verseBG: Ecclesiastes.8
+      verseYV: ECC.8
 
   - index: 453
     verses:
@@ -4983,10 +4983,10 @@ plan:
       titleEn: 2 Chronicles.10-12
       verseBG: 2 Chronicles.10-12
       verseYV: 2CH.10
-    - titleCh: 詩篇 9
-      titleEn: Psalms 9
-      verseBG: Psalms.9
-      verseYV: PSA.9
+    - titleCh: 傳道書  9
+      titleEn: Ecclesiastes 9
+      verseBG: Ecclesiastes.9
+      verseYV: ECC.9
 
   - index: 454
     verses:
@@ -4994,10 +4994,10 @@ plan:
       titleEn: 2 Chronicles.13
       verseBG: 2 Chronicles.13
       verseYV: 2CH.13
-    - titleCh: 詩篇 10
-      titleEn: Psalms 10
-      verseBG: Psalms.10
-      verseYV: PSA.10
+    - titleCh: 傳道書  10
+      titleEn: Ecclesiastes 10
+      verseBG: Ecclesiastes.10
+      verseYV: ECC.10
 
   - index: 455
     verses:
@@ -5005,10 +5005,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 11
-      titleEn: Psalms 11
-      verseBG: Psalms.11
-      verseYV: PSA.11
+    - titleCh: 傳道書  11
+      titleEn: Ecclesiastes 11
+      verseBG: Ecclesiastes.11
+      verseYV: ECC.11
 
   - index: 456
     verses:
@@ -5016,10 +5016,10 @@ plan:
       titleEn: 2 Chronicles.14-16
       verseBG: 2 Chronicles.14-16
       verseYV: 2CH.14
-    - titleCh: 詩篇 12
-      titleEn: Psalms 12
-      verseBG: Psalms.12
-      verseYV: PSA.12
+    - titleCh: 傳道書  12
+      titleEn: Ecclesiastes 12
+      verseBG: Ecclesiastes.12
+      verseYV: ECC.12
 
   - index: 457
     verses:
