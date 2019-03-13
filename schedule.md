@@ -5027,10 +5027,10 @@ plan:
       titleEn: 2 Chronicles.17-18
       verseBG: 2 Chronicles.17-18
       verseYV: 2CH.17
-    - titleCh: 詩篇 1
-      titleEn: Psalms 1
-      verseBG: Psalms.1
-      verseYV: PSA.1
+    - titleCh: 雅歌 1
+      titleEn: The Song of Songs 1
+      verseBG: Songs.1
+      verseYV: SON.1
 
   - index: 458
     verses:
@@ -5038,10 +5038,10 @@ plan:
       titleEn: 2 Chronicles.19-20
       verseBG: 2 Chronicles.19-20
       verseYV: 2CH.19
-    - titleCh: 詩篇 2
-      titleEn: Psalms 2
-      verseBG: Psalms.2
-      verseYV: PSA.2
+    - titleCh: 雅歌 2
+      titleEn: The Song of Songs 2
+      verseBG: Songs.2
+      verseYV: SON.2
 
   - index: 459
     verses:
@@ -5049,10 +5049,10 @@ plan:
       titleEn: 2 Chronicles.21-22
       verseBG: 2 Chronicles.21-22
       verseYV: 2CH.21
-    - titleCh: 詩篇 3
-      titleEn: Psalms 3
-      verseBG: Psalms.3
-      verseYV: PSA.3
+    - titleCh: 雅歌 3
+      titleEn: The Song of Songs 3
+      verseBG: Songs.3
+      verseYV: SON.3
 
   - index: 460
     verses:
@@ -5060,10 +5060,10 @@ plan:
       titleEn: 2 Chronicles.23-24
       verseBG: 2 Chronicles.23-24
       verseYV: 2CH.23
-    - titleCh: 詩篇 4
-      titleEn: Psalms 4
-      verseBG: Psalms.4
-      verseYV: PSA.4
+    - titleCh: 雅歌 4
+      titleEn: The Song of Songs 4
+      verseBG: Songs.4
+      verseYV: SON.4
 
   - index: 461
     verses:
@@ -5071,10 +5071,10 @@ plan:
       titleEn: 2 Chronicles.25-26
       verseBG: 2 Chronicles.25-26
       verseYV: 2CH.25
-    - titleCh: 詩篇 5
-      titleEn: Psalms 5
-      verseBG: Psalms.5
-      verseYV: PSA.5
+    - titleCh: 雅歌 5
+      titleEn: The Song of Songs 5
+      verseBG: Songs.5
+      verseYV: SON.5
 
   - index: 462
     verses:
@@ -5082,10 +5082,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 6
-      titleEn: Psalms 6
-      verseBG: Psalms.6
-      verseYV: PSA.6
+    - titleCh: 雅歌 6
+      titleEn: The Song of Songs 6
+      verseBG: Songs.6
+      verseYV: SON.6
 
   - index: 463
     verses:
@@ -5093,10 +5093,10 @@ plan:
       titleEn: 2 Chronicles.27-28
       verseBG: 2 Chronicles.27-28
       verseYV: 2CH.27
-    - titleCh: 詩篇 7
-      titleEn: Psalms 7
-      verseBG: Psalms.7
-      verseYV: PSA.7
+    - titleCh: 雅歌 7
+      titleEn: The Song of Songs 7
+      verseBG: Songs.7
+      verseYV: SON.7
 
   - index: 464
     verses:
@@ -5104,10 +5104,10 @@ plan:
       titleEn: 2 Chronicles.29-30
       verseBG: 2 Chronicles.29-30
       verseYV: 2CH.29
-    - titleCh: 詩篇 8
-      titleEn: Psalms 8
-      verseBG: Psalms.8
-      verseYV: PSA.8
+    - titleCh: 雅歌 8
+      titleEn: The Song of Songs 8
+      verseBG: Songs.8
+      verseYV: SON.8
 
   - index: 465
     verses:
@@ -5115,10 +5115,10 @@ plan:
       titleEn: 2 Chronicles.31-32
       verseBG: 2 Chronicles.31-32
       verseYV: 2CH.31
-    - titleCh: 詩篇 1
-      titleEn: Psalms 1
-      verseBG: Psalms.1
-      verseYV: PSA.1
+    - titleCh: 約伯記 1
+      titleEn: Job 1
+      verseBG: Job.1
+      verseYV: JOB.1
 
   - index: 466
     verses:
@@ -5126,10 +5126,10 @@ plan:
       titleEn: 2 Chronicles.33-34
       verseBG: 2 Chronicles.33-34
       verseYV: 2CH.33
-    - titleCh: 詩篇 2
-      titleEn: Psalms 2
-      verseBG: Psalms.2
-      verseYV: PSA.2
+    - titleCh: 約伯記 2
+      titleEn: Job 2
+      verseBG: Job.2
+      verseYV: JOB.2
 
   - index: 467
     verses:
@@ -5137,10 +5137,10 @@ plan:
       titleEn: 2 Chronicles.35-36
       verseBG: 2 Chronicles.35-36
       verseYV: 2CH.35
-    - titleCh: 詩篇 3
-      titleEn: Psalms 3
-      verseBG: Psalms.3
-      verseYV: PSA.3
+    - titleCh: 約伯記 3
+      titleEn: Job 3
+      verseBG: Job.3
+      verseYV: JOB.3
 
   - index: 468
     verses:
@@ -5148,10 +5148,10 @@ plan:
       titleEn: Ezra.1-2
       verseBG: Ezra.1-2
       verseYV: EZR.1
-    - titleCh: 詩篇 4
-      titleEn: Psalms 4
-      verseBG: Psalms.4
-      verseYV: PSA.4
+    - titleCh: 約伯記 4
+      titleEn: Job 4
+      verseBG: Job.4
+      verseYV: JOB.4
 
   - index: 469
     verses:
@@ -5159,10 +5159,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 5
-      titleEn: Psalms 5
-      verseBG: Psalms.5
-      verseYV: PSA.5
+    - titleCh: 約伯記 5
+      titleEn: Job 5
+      verseBG: Job.5
+      verseYV: JOB.5
 
   - index: 470
     verses:
@@ -5170,10 +5170,10 @@ plan:
       titleEn: Ezra.3-4
       verseBG: Ezra.3-4
       verseYV: EZR.3
-    - titleCh: 詩篇 6
-      titleEn: Psalms 6
-      verseBG: Psalms.6
-      verseYV: PSA.6
+    - titleCh: 約伯記 6
+      titleEn: Job 6
+      verseBG: Job.6
+      verseYV: JOB.6
 
   - index: 471
     verses:
@@ -5181,10 +5181,10 @@ plan:
       titleEn: Ezra.5-6
       verseBG: Ezra.5-6
       verseYV: EZR.5
-    - titleCh: 詩篇 7
-      titleEn: Psalms 7
-      verseBG: Psalms.7
-      verseYV: PSA.7
+    - titleCh: 約伯記 7
+      titleEn: Job 7
+      verseBG: Job.7
+      verseYV: JOB.7
 
   - index: 472
     verses:
@@ -5192,10 +5192,10 @@ plan:
       titleEn: Ezra.7-8
       verseBG: Ezra.7-8
       verseYV: EZR.7
-    - titleCh: 詩篇 8
-      titleEn: Psalms 8
-      verseBG: Psalms.8
-      verseYV: PSA.8
+    - titleCh: 約伯記 8
+      titleEn: Job 8
+      verseBG: Job.8
+      verseYV: JOB.8
 
   - index: 473
     verses:
@@ -5203,10 +5203,10 @@ plan:
       titleEn: Ezra.9-10
       verseBG: Ezra.9-10
       verseYV: EZR.9
-    - titleCh: 詩篇 9
-      titleEn: Psalms 9
-      verseBG: Psalms.9
-      verseYV: PSA.9
+    - titleCh: 約伯記 9
+      titleEn: Job 9
+      verseBG: Job.9
+      verseYV: JOB.9
 
   - index: 474
     verses:
@@ -5214,10 +5214,10 @@ plan:
       titleEn: Nehemiah.1-2
       verseBG: Nehemiah.1-2
       verseYV: NEH.1
-    - titleCh: 詩篇 10
-      titleEn: Psalms 10
-      verseBG: Psalms.10
-      verseYV: PSA.10
+    - titleCh: 約伯記 10
+      titleEn: Job 10
+      verseBG: Job.10
+      verseYV: JOB.10
 
   - index: 475
     verses:
@@ -5225,10 +5225,10 @@ plan:
       titleEn: Nehemiah.3-4
       verseBG: Nehemiah.3-4
       verseYV: NEH.3
-    - titleCh: 詩篇 11
-      titleEn: Psalms 11
-      verseBG: Psalms.11
-      verseYV: PSA.11
+    - titleCh: 約伯記 11
+      titleEn: Job 11
+      verseBG: Job.11
+      verseYV: JOB.11
 
   - index: 476
     verses:
@@ -5236,10 +5236,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 12
-      titleEn: Psalms 12
-      verseBG: Psalms.12
-      verseYV: PSA.12
+    - titleCh: 約伯記 12
+      titleEn: Job 12
+      verseBG: Job.12
+      verseYV: JOB.12
 
   - index: 477
     verses:
@@ -5247,10 +5247,10 @@ plan:
       titleEn: Nehemiah.5-6
       verseBG: Nehemiah.5-6
       verseYV: NEH.5
-    - titleCh: 詩篇 13
-      titleEn: Psalms 13
-      verseBG: Psalms.13
-      verseYV: PSA.13
+    - titleCh: 約伯記 13
+      titleEn: Job 13
+      verseBG: Job.13
+      verseYV: JOB.13
 
   - index: 478
     verses:
@@ -5258,10 +5258,10 @@ plan:
       titleEn: Nehemiah.7
       verseBG: Nehemiah.7
       verseYV: NEH.7
-    - titleCh: 詩篇 14
-      titleEn: Psalms 14
-      verseBG: Psalms.14
-      verseYV: PSA.14
+    - titleCh: 約伯記 14
+      titleEn: Job 14
+      verseBG: Job.14
+      verseYV: JOB.14
 
   - index: 479
     verses:
@@ -5269,10 +5269,10 @@ plan:
       titleEn: Nehemiah.8
       verseBG: Nehemiah.8
       verseYV: NEH.8
-    - titleCh: 詩篇 15
-      titleEn: Psalms 15
-      verseBG: Psalms.15
-      verseYV: PSA.15
+    - titleCh: 約伯記 15
+      titleEn: Job 15
+      verseBG: Job.15
+      verseYV: JOB.15
 
   - index: 480
     verses:
@@ -5280,10 +5280,10 @@ plan:
       titleEn: Nehemiah.9
       verseBG: Nehemiah.9
       verseYV: NEH.9
-    - titleCh: 詩篇 16
-      titleEn: Psalms 16
-      verseBG: Psalms.16
-      verseYV: PSA.16
+    - titleCh: 約伯記 16
+      titleEn: Job 16
+      verseBG: Job.16
+      verseYV: JOB.16
 
   - index: 481
     verses:
@@ -5291,10 +5291,10 @@ plan:
       titleEn: Nehemiah.10
       verseBG: Nehemiah.10
       verseYV: NEH.10
-    - titleCh: 詩篇 17
-      titleEn: Psalms 17
-      verseBG: Psalms.17
-      verseYV: PSA.17
+    - titleCh: 約伯記 17
+      titleEn: Job 17
+      verseBG: Job.17
+      verseYV: JOB.17
 
   - index: 482
     verses:
@@ -5302,10 +5302,10 @@ plan:
       titleEn: Nehemiah.11-12
       verseBG: Nehemiah.11-12
       verseYV: NEH.11
-    - titleCh: 詩篇 18
-      titleEn: Psalms 18
-      verseBG: Psalms.18
-      verseYV: PSA.18
+    - titleCh: 約伯記 18
+      titleEn: Job 18
+      verseBG: Job.18
+      verseYV: JOB.18
 
   - index: 483
     verses:
@@ -5313,10 +5313,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 19
-      titleEn: Psalms 19
-      verseBG: Psalms.19
-      verseYV: PSA.19
+    - titleCh: 約伯記 19
+      titleEn: Job 19
+      verseBG: Job.19
+      verseYV: JOB.19
 
   - index: 484
     verses:
@@ -5324,10 +5324,10 @@ plan:
       titleEn: Nehemiah.13
       verseBG: Nehemiah.13
       verseYV: NEH.13
-    - titleCh: 詩篇 20
-      titleEn: Psalms 20
-      verseBG: Psalms.20
-      verseYV: PSA.20
+    - titleCh: 約伯記 20
+      titleEn: Job 20
+      verseBG: Job.20
+      verseYV: JOB.20
 
   - index: 485
     verses:
@@ -5335,10 +5335,10 @@ plan:
       titleEn: Esther.1.1-2.18
       verseBG: Esther.1.1-2.18
       verseYV: EST.1
-    - titleCh: 詩篇 21
-      titleEn: Psalms 21
-      verseBG: Psalms.21
-      verseYV: PSA.21
+    - titleCh: 約伯記 21
+      titleEn: Job 21
+      verseBG: Job.21
+      verseYV: JOB.21
 
   - index: 486
     verses:
@@ -5346,10 +5346,10 @@ plan:
       titleEn: Esther.2.19-3.15
       verseBG: Esther.2.19-3.15
       verseYV: EST.2
-    - titleCh: 詩篇 22
-      titleEn: Psalms 22
-      verseBG: Psalms.22
-      verseYV: PSA.22
+    - titleCh: 約伯記 22
+      titleEn: Job 22
+      verseBG: Job.22
+      verseYV: JOB.22
 
   - index: 487
     verses:
@@ -5357,10 +5357,10 @@ plan:
       titleEn: Esther.4-5
       verseBG: Esther.4-5
       verseYV: EST.4
-    - titleCh: 詩篇 23
-      titleEn: Psalms 23
-      verseBG: Psalms.23
-      verseYV: PSA.23
+    - titleCh: 約伯記 23
+      titleEn: Job 23
+      verseBG: Job.23
+      verseYV: JOB.23
 
   - index: 488
     verses:
@@ -5368,10 +5368,10 @@ plan:
       titleEn: Esther.6-7
       verseBG: Esther.6-7
       verseYV: EST.6
-    - titleCh: 詩篇 24
-      titleEn: Psalms 24
-      verseBG: Psalms.24
-      verseYV: PSA.24
+    - titleCh: 約伯記 24
+      titleEn: Job 24
+      verseBG: Job.24
+      verseYV: JOB.24
 
   - index: 489
     verses:
@@ -5379,10 +5379,10 @@ plan:
       titleEn: Esther.8
       verseBG: Esther.8
       verseYV: EST.8
-    - titleCh: 詩篇 25
-      titleEn: Psalms 25
-      verseBG: Psalms.25
-      verseYV: PSA.25
+    - titleCh: 約伯記 25
+      titleEn: Job 25
+      verseBG: Job.25
+      verseYV: JOB.25
 
   - index: 490
     verses:
@@ -5390,10 +5390,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 26
-      titleEn: Psalms 26
-      verseBG: Psalms.26
-      verseYV: PSA.26
+    - titleCh: 約伯記 26
+      titleEn: Job 26
+      verseBG: Job.26
+      verseYV: JOB.26
 
   - index: 491
     verses:
@@ -5401,10 +5401,10 @@ plan:
       titleEn: Esther.9-10
       verseBG: Esther.9-10
       verseYV: EST.9
-    - titleCh: 詩篇 27
-      titleEn: Psalms 27
-      verseBG: Psalms.27
-      verseYV: PSA.27
+    - titleCh: 約伯記 27
+      titleEn: Job 27
+      verseBG: Job.27
+      verseYV: JOB.27
 
   - index: 492
     verses:
@@ -5412,10 +5412,10 @@ plan:
       titleEn: Isaiah.1.1-2.5
       verseBG: Isaiah.1.1-2.5
       verseYV: ISA.1
-    - titleCh: 詩篇 28
-      titleEn: Psalms 28
-      verseBG: Psalms.28
-      verseYV: PSA.28
+    - titleCh: 約伯記 28
+      titleEn: Job 28
+      verseBG: Job.28
+      verseYV: JOB.28
 
   - index: 493
     verses:
@@ -5423,10 +5423,10 @@ plan:
       titleEn: Isaiah.2.6-4.1
       verseBG: Isaiah.2.6-4.1
       verseYV: ISA.2
-    - titleCh: 詩篇 29
-      titleEn: Psalms 29
-      verseBG: Psalms.29
-      verseYV: PSA.29
+    - titleCh: 約伯記 29
+      titleEn: Job 29
+      verseBG: Job.29
+      verseYV: JOB.29
 
   - index: 494
     verses:
@@ -5434,10 +5434,10 @@ plan:
       titleEn: Isaiah.4.2-5.30
       verseBG: Isaiah.4.2-5.30
       verseYV: ISA.4
-    - titleCh: 詩篇 30
-      titleEn: Psalms 30
-      verseBG: Psalms.30
-      verseYV: PSA.30
+    - titleCh: 約伯記 30
+      titleEn: Job 30
+      verseBG: Job.30
+      verseYV: JOB.30
 
   - index: 495
     verses:
@@ -5445,10 +5445,10 @@ plan:
       titleEn: Isaiah.6
       verseBG: Isaiah.6
       verseYV: ISA.6
-    - titleCh: 詩篇 31
-      titleEn: Psalms 31
-      verseBG: Psalms.31
-      verseYV: PSA.31
+    - titleCh: 約伯記 31
+      titleEn: Job 31
+      verseBG: Job.31
+      verseYV: JOB.31
 
   - index: 496
     verses:
@@ -5456,10 +5456,10 @@ plan:
       titleEn: Isaiah.7-8
       verseBG: Isaiah.7-8
       verseYV: ISA.7
-    - titleCh: 詩篇 32
-      titleEn: Psalms 32
-      verseBG: Psalms.32
-      verseYV: PSA.32
+    - titleCh: 約伯記 32
+      titleEn: Job 32
+      verseBG: Job.32
+      verseYV: JOB.32
 
   - index: 497
     verses:
@@ -5467,10 +5467,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 33
-      titleEn: Psalms 33
-      verseBG: Psalms.33
-      verseYV: PSA.33
+    - titleCh: 約伯記 33
+      titleEn: Job 33
+      verseBG: Job.33
+      verseYV: JOB.33
 
   - index: 498
     verses:
@@ -5478,10 +5478,10 @@ plan:
       titleEn: Isaiah.9-10
       verseBG: Isaiah.9-10
       verseYV: ISA.9
-    - titleCh: 詩篇 34
-      titleEn: Psalms 34
-      verseBG: Psalms.34
-      verseYV: PSA.34
+    - titleCh: 約伯記 34
+      titleEn: Job 34
+      verseBG: Job.34
+      verseYV: JOB.34
 
   - index: 499
     verses:
@@ -5489,10 +5489,10 @@ plan:
       titleEn: Isaiah.11-12
       verseBG: Isaiah.11-12
       verseYV: ISA.11
-    - titleCh: 詩篇 35
-      titleEn: Psalms 35
-      verseBG: Psalms.35
-      verseYV: PSA.35
+    - titleCh: 約伯記 35
+      titleEn: Job 35
+      verseBG: Job.35
+      verseYV: JOB.35
 
   - index: 500
     verses:
@@ -5500,10 +5500,10 @@ plan:
       titleEn: Isaiah.13.1-14.27
       verseBG: Isaiah.13.1-14.27
       verseYV: ISA.13
-    - titleCh: 詩篇 36
-      titleEn: Psalms 36
-      verseBG: Psalms.36
-      verseYV: PSA.36
+    - titleCh: 約伯記 36
+      titleEn: Job 36
+      verseBG: Job.36
+      verseYV: JOB.36
 
   - index: 501
     verses:
@@ -5511,10 +5511,10 @@ plan:
       titleEn: Isaiah.14.28-17.14
       verseBG: Isaiah.14.28-17.14
       verseYV: ISA.14
-    - titleCh: 詩篇 37
-      titleEn: Psalms 37
-      verseBG: Psalms.37
-      verseYV: PSA.37
+    - titleCh: 約伯記 37
+      titleEn: Job 37
+      verseBG: Job.37
+      verseYV: JOB.37
 
   - index: 502
     verses:
@@ -5522,10 +5522,10 @@ plan:
       titleEn: Isaiah.18-20
       verseBG: Isaiah.18-20
       verseYV: ISA.18
-    - titleCh: 詩篇 38
-      titleEn: Psalms 38
-      verseBG: Psalms.38
-      verseYV: PSA.38
+    - titleCh: 約伯記 38
+      titleEn: Job 38
+      verseBG: Job.38
+      verseYV: JOB.38
 
   - index: 503
     verses:
@@ -5533,10 +5533,10 @@ plan:
       titleEn: Isaiah.21-23
       verseBG: Isaiah.21-23
       verseYV: ISA.21
-    - titleCh: 詩篇 39
-      titleEn: Psalms 39
-      verseBG: Psalms.39
-      verseYV: PSA.39
+    - titleCh: 約伯記 39
+      titleEn: Job 39
+      verseBG: Job.39
+      verseYV: JOB.39
 
   - index: 504
     verses:
@@ -5544,9 +5544,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 40
-      titleEn: Psalms 40
-      verseBG: Psalms.40
+    - titleCh: 約伯記 40
+      titleEn: Job 40
+      verseBG: Job.40
+      verseYV: JOB.40
 
   - index: 505
     verses:
@@ -5554,10 +5555,10 @@ plan:
       titleEn: Isaiah.24-25
       verseBG: Isaiah.24-25
       verseYV: ISA.24
-    - titleCh: 詩篇 41
-      titleEn: Psalms 41
-      verseBG: Psalms.41
-      verseYV: PSA.41
+    - titleCh: 約伯記 41
+      titleEn: Job 41
+      verseBG: Job.41
+      verseYV: JOB.41
 
   - index: 506
     verses:
@@ -5565,10 +5566,10 @@ plan:
       titleEn: Isaiah.26-27
       verseBG: Isaiah.26-27
       verseYV: ISA.26
-    - titleCh: 詩篇 42
-      titleEn: Psalms 42
-      verseBG: Psalms.42
-      verseYV: PSA.42
+    - titleCh: 約伯記 42
+      titleEn: Job 42
+      verseBG: Job.42
+      verseYV: JOB.42
 
   - index: 507
     verses:
