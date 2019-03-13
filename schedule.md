@@ -4554,10 +4554,10 @@ plan:
       titleEn: 2 Kings.7-8
       verseBG: 2 Kings.7-8
       verseYV: 2KI.7
-    - titleCh: 詩篇 1
-      titleEn: Psalms 1
-      verseBG: Psalms.1
-      verseYV: PSA.1
+    - titleCh: 箴言 1
+      titleEn: Proverbs 1
+      verseBG: Proverbs.1
+      verseYV: PRO.1
 
   - index: 415
     verses:
@@ -4565,10 +4565,10 @@ plan:
       titleEn: 2 Kings.9-10
       verseBG: 2 Kings.9-10
       verseYV: 2KI.9
-    - titleCh: 詩篇 2
-      titleEn: Psalms 2
-      verseBG: Psalms.2
-      verseYV: PSA.2
+    - titleCh: 箴言 2
+      titleEn: Proverbs 2
+      verseBG: Proverbs.2
+      verseYV: PRO.2
 
   - index: 416
     verses:
@@ -4576,10 +4576,10 @@ plan:
       titleEn: 2 Kings.11-12
       verseBG: 2 Kings.11-12
       verseYV: 2KI.11
-    - titleCh: 詩篇 3
-      titleEn: Psalms 3
-      verseBG: Psalms.3
-      verseYV: PSA.3
+    - titleCh: 箴言 3
+      titleEn: Proverbs 3
+      verseBG: Proverbs.3
+      verseYV: PRO.3
 
   - index: 417
     verses:
@@ -4598,10 +4598,10 @@ plan:
       titleEn: 2 Kings.15-16
       verseBG: 2 Kings.15-16
       verseYV: 2KI.15
-    - titleCh: 詩篇 5
-      titleEn: Psalms 5
-      verseBG: Psalms.5
-      verseYV: PSA.5
+    - titleCh: 箴言 5
+      titleEn: Proverbs 5
+      verseBG: Proverbs.5
+      verseYV: PRO.5
 
   - index: 419
     verses:
@@ -4609,10 +4609,10 @@ plan:
       titleEn: 2 Kings.17
       verseBG: 2 Kings.17
       verseYV: 2KI.17
-    - titleCh: 詩篇 6
-      titleEn: Psalms 6
-      verseBG: Psalms.6
-      verseYV: PSA.6
+    - titleCh: 箴言 6
+      titleEn: Proverbs 6
+      verseBG: Proverbs.6
+      verseYV: PRO.6
 
   - index: 420
     verses:
@@ -4620,10 +4620,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 7
-      titleEn: Psalms 7
-      verseBG: Psalms.7
-      verseYV: PSA.7
+    - titleCh: 箴言 7
+      titleEn: Proverbs 7
+      verseBG: Proverbs.7
+      verseYV: PRO.7
 
   - index: 421
     verses:
