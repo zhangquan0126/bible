@@ -4587,10 +4587,10 @@ plan:
       titleEn: 2 Kings.13-14
       verseBG: 2 Kings.13-14
       verseYV: 2KI.13
-    - titleCh: 詩篇 4
-      titleEn: Psalms 4
-      verseBG: Psalms.4
-      verseYV: PSA.4
+    - titleCh: 箴言 4
+      titleEn: Proverbs 4
+      verseBG: Proverbs.4
+      verseYV: PRO.4
 
   - index: 418
     verses:
@@ -4631,10 +4631,10 @@ plan:
       titleEn: 2 Kings.18
       verseBG: 2 Kings.18
       verseYV: 2KI.18
-    - titleCh: 詩篇 8
-      titleEn: Psalms 8
-      verseBG: Psalms.8
-      verseYV: PSA.8
+    - titleCh: 箴言 8
+      titleEn: Proverbs 8
+      verseBG: Proverbs.8
+      verseYV: PRO.8
 
   - index: 422
     verses:
@@ -4642,10 +4642,10 @@ plan:
       titleEn: 2 Kings.19-20
       verseBG: 2 Kings.19-20
       verseYV: 2KI.19
-    - titleCh: 詩篇 9
-      titleEn: Psalms 9
-      verseBG: Psalms.9
-      verseYV: PSA.9
+    - titleCh: 箴言 9
+      titleEn: Proverbs 9
+      verseBG: Proverbs.9
+      verseYV: PRO.9
 
   - index: 423
     verses:
@@ -4653,10 +4653,10 @@ plan:
       titleEn: 2 Kings.21
       verseBG: 2 Kings.21
       verseYV: 2KI.21
-    - titleCh: 詩篇 10
-      titleEn: Psalms 10
-      verseBG: Psalms.10
-      verseYV: PSA.10
+    - titleCh: 箴言 10
+      titleEn: Proverbs 10
+      verseBG: Proverbs.10
+      verseYV: PRO.10
 
   - index: 424
     verses:
@@ -4664,10 +4664,10 @@ plan:
       titleEn: 2 Kings.22.1-23.35
       verseBG: 2 Kings.22.1-23.35
       verseYV: 2KI.22
-    - titleCh: 詩篇 11
-      titleEn: Psalms 11
-      verseBG: Psalms.11
-      verseYV: PSA.11
+    - titleCh: 箴言 11
+      titleEn: Proverbs 11
+      verseBG: Proverbs.11
+      verseYV: PRO.11
 
   - index: 425
     verses:
@@ -4675,10 +4675,10 @@ plan:
       titleEn: 2 Kings.23.36-25.3
       verseBG: 2 Kings.23.36-25.3
       verseYV: 2KI.23
-    - titleCh: 詩篇 12
-      titleEn: Psalms 12
-      verseBG: Psalms.12
-      verseYV: PSA.12
+    - titleCh: 箴言 12
+      titleEn: Proverbs 12
+      verseBG: Proverbs.12
+      verseYV: PRO.12
 
   - index: 426
     verses:
@@ -4686,10 +4686,10 @@ plan:
       titleEn: 1 Chronicles.1-2
       verseBG: 1 Chronicles.1-2
       verseYV: 1CH.1
-    - titleCh: 詩篇 13
-      titleEn: Psalms 13
-      verseBG: Psalms.13
-      verseYV: PSA.13
+    - titleCh: 箴言 13
+      titleEn: Proverbs 13
+      verseBG: Proverbs.13
+      verseYV: PRO.13
 
   - index: 427
     verses:
@@ -4697,10 +4697,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 14
-      titleEn: Psalms 14
-      verseBG: Psalms.14
-      verseYV: PSA.14
+    - titleCh: 箴言 14
+      titleEn: Proverbs 14
+      verseBG: Proverbs.14
+      verseYV: PRO.14
 
   - index: 428
     verses:
@@ -4708,10 +4708,10 @@ plan:
       titleEn: 1 Chronicles.3-4
       verseBG: 1 Chronicles.3-4
       verseYV: 1CH.3
-    - titleCh: 詩篇 15
-      titleEn: Psalms 15
-      verseBG: Psalms.15
-      verseYV: PSA.15
+    - titleCh: 箴言 15
+      titleEn: Proverbs 15
+      verseBG: Proverbs.15
+      verseYV: PRO.15
 
   - index: 429
     verses:
@@ -4719,10 +4719,10 @@ plan:
       titleEn: 1 Chronicles.5-6
       verseBG: 1 Chronicles.5-6
       verseYV: 1CH.5
-    - titleCh: 詩篇 16
-      titleEn: Psalms 16
-      verseBG: Psalms.16
-      verseYV: PSA.16
+    - titleCh: 箴言 16
+      titleEn: Proverbs 16
+      verseBG: Proverbs.16
+      verseYV: PRO.16
 
   - index: 430
     verses:
@@ -4730,10 +4730,10 @@ plan:
       titleEn: 1 Chronicles.7-8
       verseBG: 1 Chronicles.7-8
       verseYV: 1CH.7
-    - titleCh: 詩篇 17
-      titleEn: Psalms 17
-      verseBG: Psalms.17
-      verseYV: PSA.17
+    - titleCh: 箴言 17
+      titleEn: Proverbs 17
+      verseBG: Proverbs.17
+      verseYV: PRO.17
 
   - index: 431
     verses:
@@ -4741,10 +4741,10 @@ plan:
       titleEn: 1 Chronicles.9
       verseBG: 1 Chronicles.9
       verseYV: 1CH.9
-    - titleCh: 詩篇 18
-      titleEn: Psalms 18
-      verseBG: Psalms.18
-      verseYV: PSA.18
+    - titleCh: 箴言 18
+      titleEn: Proverbs 18
+      verseBG: Proverbs.18
+      verseYV: PRO.18
 
   - index: 432
     verses:
@@ -4752,10 +4752,10 @@ plan:
       titleEn: 1 Chronicles.10
       verseBG: 1 Chronicles.10
       verseYV: 1CH.10
-    - titleCh: 詩篇 19
-      titleEn: Psalms 19
-      verseBG: Psalms.19
-      verseYV: PSA.19
+    - titleCh: 箴言 19
+      titleEn: Proverbs 19
+      verseBG: Proverbs.19
+      verseYV: PRO.19
 
   - index: 433
     verses:
@@ -4763,10 +4763,10 @@ plan:
       titleEn: 1 Chronicles.11-12
       verseBG: 1 Chronicles.11-12
       verseYV: 1CH.11
-    - titleCh: 詩篇 20
-      titleEn: Psalms 20
-      verseBG: Psalms.20
-      verseYV: PSA.20
+    - titleCh: 箴言 20
+      titleEn: Proverbs 20
+      verseBG: Proverbs.20
+      verseYV: PRO.20
 
   - index: 434
     verses:
@@ -4774,10 +4774,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 21
-      titleEn: Psalms 21
-      verseBG: Psalms.21
-      verseYV: PSA.21
+    - titleCh: 箴言 21
+      titleEn: Proverbs 21
+      verseBG: Proverbs.21
+      verseYV: PRO.21
 
   - index: 435
     verses:
@@ -4785,10 +4785,10 @@ plan:
       titleEn: 1 Chronicles.13-14
       verseBG: 1 Chronicles.13-14
       verseYV: 1CH.13
-    - titleCh: 詩篇 22
-      titleEn: Psalms 22
-      verseBG: Psalms.22
-      verseYV: PSA.22
+    - titleCh: 箴言 22
+      titleEn: Proverbs 22
+      verseBG: Proverbs.22
+      verseYV: PRO.22
 
   - index: 436
     verses:
@@ -4796,10 +4796,10 @@ plan:
       titleEn: 1 Chronicles.15-16
       verseBG: 1 Chronicles.15-16
       verseYV: 1CH.15
-    - titleCh: 詩篇 23
-      titleEn: Psalms 23
-      verseBG: Psalms.23
-      verseYV: PSA.23
+    - titleCh: 箴言 23
+      titleEn: Proverbs 23
+      verseBG: Proverbs.23
+      verseYV: PRO.23
 
   - index: 437
     verses:
@@ -4807,10 +4807,10 @@ plan:
       titleEn: 1 Chronicles.17
       verseBG: 1 Chronicles.17
       verseYV: 1CH.17
-    - titleCh: 詩篇 24
-      titleEn: Psalms 24
-      verseBG: Psalms.24
-      verseYV: PSA.24
+    - titleCh: 箴言 24
+      titleEn: Proverbs 24
+      verseBG: Proverbs.24
+      verseYV: PRO.24
 
   - index: 438
     verses:
@@ -4818,10 +4818,10 @@ plan:
       titleEn: 1 Chronicles.18-19
       verseBG: 1 Chronicles.18-19
       verseYV: 1CH.18
-    - titleCh: 詩篇 25
-      titleEn: Psalms 25
-      verseBG: Psalms.25
-      verseYV: PSA.25
+    - titleCh: 箴言 25
+      titleEn: Proverbs 25
+      verseBG: Proverbs.25
+      verseYV: PRO.25
 
   - index: 439
     verses:
@@ -4829,10 +4829,10 @@ plan:
       titleEn: 1 Chronicles.20.1-22.1
       verseBG: 1 Chronicles.20.1-22.1
       verseYV: 1CH.20
-    - titleCh: 詩篇 26
-      titleEn: Psalms 26
-      verseBG: Psalms.26
-      verseYV: PSA.26
+    - titleCh: 箴言 26
+      titleEn: Proverbs 26
+      verseBG: Proverbs.26
+      verseYV: PRO.26
 
   - index: 440
     verses:
@@ -4840,10 +4840,10 @@ plan:
       titleEn: 1 Chronicles.22.2-19
       verseBG: 1 Chronicles.22.2-19
       verseYV: 1CH.22
-    - titleCh: 詩篇 27
-      titleEn: Psalms 27
-      verseBG: Psalms.27
-      verseYV: PSA.27
+    - titleCh: 箴言 27
+      titleEn: Proverbs 27
+      verseBG: Proverbs.27
+      verseYV: PRO.27
 
   - index: 441
     verses:
@@ -4851,10 +4851,10 @@ plan:
       titleEn: 
       verseBG: 
       verseYV: 
-    - titleCh: 詩篇 28
-      titleEn: Psalms 28
-      verseBG: Psalms.28
-      verseYV: PSA.28
+    - titleCh: 箴言 28
+      titleEn: Proverbs 28
+      verseBG: Proverbs.28
+      verseYV: PRO.28
 
   - index: 442
     verses:
@@ -4862,10 +4862,10 @@ plan:
       titleEn: 1 Chronicles.23-24
       verseBG: 1 Chronicles.23-24
       verseYV: 1CH.23
-    - titleCh: 詩篇 29
-      titleEn: Psalms 29
-      verseBG: Psalms.29
-      verseYV: PSA.29
+    - titleCh: 箴言 29
+      titleEn: Proverbs 29
+      verseBG: Proverbs.29
+      verseYV: PRO.29
 
   - index: 443
     verses:
@@ -4873,10 +4873,10 @@ plan:
       titleEn: 1 Chronicles.25-26
       verseBG: 1 Chronicles.25-26
       verseYV: 1CH.25
-    - titleCh: 詩篇 30
-      titleEn: Psalms 30
-      verseBG: Psalms.30
-      verseYV: PSA.30
+    - titleCh: 箴言 30
+      titleEn: Proverbs 30
+      verseBG: Proverbs.30
+      verseYV: PRO.30
 
   - index: 444
     verses:
@@ -4884,10 +4884,10 @@ plan:
       titleEn: 1 Chronicles.27-28
       verseBG: 1 Chronicles.27-28
       verseYV: 1CH.27
-    - titleCh: 詩篇 31
-      titleEn: Psalms 31
-      verseBG: Psalms.31
-      verseYV: PSA.31
+    - titleCh: 箴言 31
+      titleEn: Proverbs 31
+      verseBG: Proverbs.31
+      verseYV: PRO.31
 
   - index: 445
     verses:
