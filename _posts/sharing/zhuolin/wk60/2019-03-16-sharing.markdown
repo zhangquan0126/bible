@@ -1,18 +1,16 @@
 ---
 layout: sharing
 date: 2019-03-16
-title: "每日靈修：【待更新】"
+title: "每日靈修：滅亡的緣由"
 categories: sharing Zhuolin
 weekNum: 60
 dayNum: 6
 permalink: /sharing/zhuolin/day6-wk60-sharing.html
 ---
-3/16/2019 滅亡的緣由
-列王記下17
 
 北國以色列滅亡了。剝去政治外交政策這些表面的外衣，列王記的作者在17：7-23列出北國滅亡的真正緣由。
 
-這一段可以分成三個段落：
+這一段可以分成三個段落：  
 7-8 以色列的滅亡是因為百姓背約
 9-17 以色列百姓的背約和不悔改
 18-23 以色列的滅亡是神的審判
