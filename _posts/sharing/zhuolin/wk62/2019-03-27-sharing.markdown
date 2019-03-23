@@ -1,0 +1,9 @@
+---
+layout: sharing
+date: 2019-03-27
+title: "每日靈修：【待更新】"
+categories: sharing Zhuolin
+weekNum: 62
+dayNum: 3
+permalink: /sharing/zhuolin/day3-wk62-sharing.html
+---
