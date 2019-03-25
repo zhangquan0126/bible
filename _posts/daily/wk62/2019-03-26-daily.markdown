@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第62週第2天 解圍亞述"
+title: "第62週第2天 "
 date: 2019-03-26
 categories: daily
 permalink: /daily/wk62-day2-daily.html
