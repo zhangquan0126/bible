@@ -1,7 +1,7 @@
 ---
 layout: daily2
 title: "第62週第7天 補漏拾遺"
-date: 2019-04-01
+date: 2019-03-31
 categories: daily
 permalink: /daily/wk62-day7-daily.html
 weekNum: 62
