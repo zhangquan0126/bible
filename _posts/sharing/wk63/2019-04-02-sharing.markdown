@@ -1,9 +1,9 @@
 ---
 layout: sharing
-date: 2019-03-30
+date: 2019-04-02
 title: "讀經分享：【待更新】"
 categories: sharing
-weekNum: 62
-dayNum: 6
-permalink: /sharing/day6-wk62-sharing.html
+weekNum: 63
+dayNum: 2
+permalink: /sharing/day2-wk63-sharing.html
 ---
