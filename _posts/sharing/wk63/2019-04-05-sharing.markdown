@@ -5,5 +5,5 @@ title: "讀經分享：【待更新】"
 categories: sharing
 weekNum: 63
 dayNum: 5
-permalink: /sharing/day5-wk62-sharing.html
+permalink: /sharing/day5-wk63-sharing.html
 ---
