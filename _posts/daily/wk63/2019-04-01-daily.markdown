@@ -14,7 +14,7 @@ dayNum: 1
  
 {%- include BibleLinks.html -%}
 
-3## 默想事 
+## 默想：神的故事
 + 
 
 ### 默想：我的故事
