@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 63 Day 4: Defeat Everyone Everywhere"
-date: 2018-4-4 
+date: 2019-4-4 
 categories: daily
 permalink: /en/daily/wk63-day4-daily.html
 weekNum: 63
