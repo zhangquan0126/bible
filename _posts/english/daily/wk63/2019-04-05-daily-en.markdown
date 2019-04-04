@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 63 Day 5: Taking a Census"
-date: 2018-4-5 
+date: 2019-4-5 
 categories: daily
 permalink: /en/daily/wk63-day5-daily.html
 weekNum: 63
