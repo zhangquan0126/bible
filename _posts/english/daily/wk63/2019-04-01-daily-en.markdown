@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 63 Day 1: Start being King"
-date: 2018-4-1 
+date: 2019-4-1 
 categories: daily
 permalink: /en/daily/wk63-day1-daily.html
 weekNum: 63
