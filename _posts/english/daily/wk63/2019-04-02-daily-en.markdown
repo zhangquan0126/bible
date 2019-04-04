@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 63 Day 2: Bringing the Ark"
-date: 2018-4-2 
+date: 2019-4-2 
 categories: daily
 permalink: /en/daily/wk63-day2-daily.html
 weekNum: 63
