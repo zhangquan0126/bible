@@ -1,7 +1,7 @@
 ---
 layout: daily-en
 title: "Week 63 Day 3: David's Temple Wish"
-date: 2018-4-3 
+date: 2019-4-3 
 categories: daily
 permalink: /en/daily/wk63-day3-daily.html
 weekNum: 63
