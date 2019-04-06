@@ -4836,7 +4836,7 @@ plan:
 
   - index: 440
     verses:
-    - titleCh: 歷代志上 22.2-19
+    - titleCh: 歷代志上 22.1-18
       titleEn: 1 Chronicles.22.2-19
       verseBG: 1 Chronicles.22.2-19
       verseYV: 1CH.22
