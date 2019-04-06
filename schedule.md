@@ -4825,9 +4825,9 @@ plan:
 
   - index: 439
     verses:
-    - titleCh: 歷代志上 20.1-22.1
+    - titleCh: 歷代志上 20-21
       titleEn: 1 Chronicles.20.1-22.1
-      verseBG: 1 Chronicles.20.1-22.1
+      verseBG: 1 Chronicles.20-21
       verseYV: 1CH.20
     - titleCh: 箴言 26
       titleEn: Proverbs 26
@@ -4836,9 +4836,9 @@ plan:
 
   - index: 440
     verses:
-    - titleCh: 歷代志上 22.1-18
+    - titleCh: 歷代志上 22
       titleEn: 1 Chronicles.22.2-19
-      verseBG: 1 Chronicles.22.2-19
+      verseBG: 1 Chronicles.22
       verseYV: 1CH.22
     - titleCh: 箴言 27
       titleEn: Proverbs 27
