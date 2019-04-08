@@ -1,0 +1,21 @@
+---
+layout: daily2
+title: "第64週第5天 "
+date: 2019-04-12
+categories: daily
+permalink: /daily/wk64-day5-daily.html
+weekNum: 64
+dayNum: 5
+---
+
+### 問題：
+ 
+{%- include BibleLinks.html -%}
+
+## 默想：神的故事
+
+### 默想：我的故事
+
+### 祷告：
+
+### 笔记与回应：
