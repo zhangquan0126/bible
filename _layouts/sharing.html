@@ -13,5 +13,6 @@ title: {{ site.name }}
 {%- include BibleLinks.html -%}
 
 <h3>{{ page.title }}</h3>
+<p class="meta">{{ page.date | date: "%B %d, %Y" }}</p>
 
 {{ page.content }}
