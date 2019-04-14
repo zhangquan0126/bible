@@ -1,0 +1,9 @@
+---
+layout: sharing
+date: 2019-04-19
+title: "每日靈修：【待更新】"
+categories: sharing Zhuolin
+weekNum: 65
+dayNum: 5
+permalink: /sharing/zhuolin/day5-wk65-sharing.html
+--- 
