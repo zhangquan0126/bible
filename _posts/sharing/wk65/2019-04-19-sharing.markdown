@@ -1,6 +1,6 @@
 ---
 layout: sharing
-date: 2019-04-15
+date: 2019-04-19
 title: "讀經分享：【待更新】"
 categories: sharing
 weekNum: 65
