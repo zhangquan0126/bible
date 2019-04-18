@@ -4,7 +4,7 @@ date: 2019-04-18
 title: "每日靈修：南方女王"
 categories: sharing Zhuolin
 weekNum: 65
-dayNum: 8
+dayNum: 4
 permalink: /sharing/zhuolin/day4-wk65-sharing.html
 --- 
 
