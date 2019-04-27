@@ -1,0 +1,21 @@
+---
+layout: daily2
+title: "第67週第6天 "
+date: 2019-05-04
+categories: daily
+permalink: /daily/wk67-day6-daily.html
+weekNum: 67
+dayNum: 6
+---
+
+### 問題：
+ 
+{%- include BibleLinks.html -%}
+
+## 默想：神的故事
+
+### 默想：我的故事
+
+### 禱告：
+
+### 筆記與回應：
