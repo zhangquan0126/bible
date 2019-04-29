@@ -8,7 +8,7 @@ weekNum: 67
 dayNum: 1
 ---
 
-### 問題：約坦和亞哈斯兩個王有和異同？
+### 問題：約坦和亞哈斯兩個王有何異同？
  
 {%- include BibleLinks.html -%}
 
