@@ -8,7 +8,7 @@ weekNum: 68
 dayNum: 4
 ---
 
-### 問題：問題:以斯拉如何帶領以色列人認罪悔改?
+### 問題：以斯拉如何帶領以色列人認罪悔改?
  
 {%- include BibleLinks.html -%}
 
