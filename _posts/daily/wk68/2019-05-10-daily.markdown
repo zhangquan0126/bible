@@ -8,7 +8,7 @@ weekNum: 68
 dayNum: 5
 ---
 
-### 問題：問題:尼希米如何開始重建城墻?
+### 問題：尼希米如何開始重建城墻?
  
 {%- include BibleLinks.html -%}
 
