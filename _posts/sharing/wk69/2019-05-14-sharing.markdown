@@ -1,0 +1,9 @@
+---
+layout: sharing
+date: 2019-05-14
+title: "讀經分享：【待更新】"
+categories: sharing
+weekNum: 69
+dayNum: 2
+permalink: /sharing/day2-wk69-sharing.html
+---
