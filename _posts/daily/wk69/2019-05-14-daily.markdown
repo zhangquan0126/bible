@@ -8,7 +8,7 @@ weekNum: 69
 dayNum: 2
 ---
 
-### 問題：問題:城墻完成後尼希米做了什麼?
+### 問題：城墻完成後尼希米做了什麼？
  
 {%- include BibleLinks.html -%}
 
