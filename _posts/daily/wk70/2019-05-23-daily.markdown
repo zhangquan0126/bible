@@ -8,7 +8,7 @@ weekNum: 70
 dayNum: 4
 ---
 
-### 問題：以斯帖與王的關係如何？
+### 問題：是誰能改變猶大人的命運？
  
 {%- include BibleLinks.html -%}
 
