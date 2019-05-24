@@ -1,6 +1,6 @@
 ---
 layout: daily2
-title: "第71週第2天 "
+title: "第71週第3天 "
 date: 2019-05-29
 categories: daily
 permalink: /daily/wk71-day3-daily.html
