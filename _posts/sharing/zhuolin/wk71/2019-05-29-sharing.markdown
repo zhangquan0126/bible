@@ -1,7 +1,7 @@
 ---
 layout: sharing
 date: 2019-05-29
-title: "每日靈修：到那日In that day"
+title: "每日靈修：到那日 In that day"
 categories: sharing Zhuolin
 weekNum: 71
 dayNum: 3
