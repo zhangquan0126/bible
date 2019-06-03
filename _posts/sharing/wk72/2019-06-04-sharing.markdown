@@ -1,7 +1,7 @@
 ---
 layout: sharing
 date: 2019-06-04
-title: "讀經分享：【標準】"
+title: "讀經分享：【待更新】"
 categories: sharing
 weekNum: 72
 dayNum: 2
