@@ -1,0 +1,21 @@
+---
+layout: daily2
+title: "第74週第5天 "
+date: 2019-06-21
+categories: daily
+permalink: /daily/wk74-day5-daily.html
+weekNum: 74
+dayNum: 5
+---
+
+### 問題：
+ 
+{%- include BibleLinks.html -%}
+
+### 默想：神的故事
+
+### 默想：我的故事
+
+### 禱告：
+
+### 筆記與回應：
