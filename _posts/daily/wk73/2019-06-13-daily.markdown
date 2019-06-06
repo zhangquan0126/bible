@@ -3,7 +3,7 @@ layout: daily2
 title: "第73週第4天 "
 date: 2019-06-13
 categories: daily
-permalink: /daily/wk72-day4-daily.html
+permalink: /daily/wk73-day4-daily.html
 weekNum: 73
 dayNum: 4
 ---
