@@ -12,7 +12,7 @@ language: "Chinese"
   <ul class="posts">
 
     {%- assign today = site.time | date: "%Y-%m-%d"  -%}
-    {%- assign chnPosts = site.posts | where_exp: "item", "item.language ！= 'English'" -%}
+    {%- assign chnPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
     {%- assign showPosts = 0 -%}
    
     {%- for post in chnPosts limit:30 -%}
