@@ -15,7 +15,7 @@ language: "Chinese"
     {%- assign chnPosts = site.posts | where_exp: "item", "item.language != 'English'" -%}
     {%- assign showPosts = 0 -%}
    
-    {%- for post in chnPosts limit:25 -%}
+    {%- for post in chnPosts limit:30 -%}
       
       {%- if post.categories contains "weekly" -%}
         <li><span>{{ post.date | date: "%m/%d" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
