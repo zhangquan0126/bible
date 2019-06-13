@@ -1,0 +1,10 @@
+---
+layout: sharing
+date: 2019-01-05
+title: "每日靈修："
+categories: sharing Zhuolin
+weekNum: 50
+dayNum: 6
+permalink: /sharing/zhuolin/2019-01-05-sharing.html
+author: Zhuolin
+---
