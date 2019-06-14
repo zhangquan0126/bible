@@ -1,0 +1,9 @@
+---
+layout: sharing
+date: 2019-06-22
+title: "讀經分享：【待更新】"
+categories: sharing
+weekNum: 74
+dayNum: 6
+permalink: /sharing/day6-wk74-sharing.html
+---
