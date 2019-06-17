@@ -7,7 +7,7 @@ permalink: /daily/wk74-day1-daily.html
 weekNum: 74
 dayNum: 1
 ---
-### 本週導言：
+### 本週引言：
 
 ### 問題：
  
