@@ -1,10 +1,11 @@
 ---
+layout: daily2
 title: 第 74 週第 1 天 因驕致禍
 date: 2019-6-17
 categories: daily
 permalink: /daily/wk74-day1-daily.html
 weekNum: 74
-date: 1
+dayNum: 1
 ---
 
 ### 問題：亞述王的驕傲的後果是什麼？
