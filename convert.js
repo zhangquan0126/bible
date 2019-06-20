@@ -14,7 +14,7 @@ function convert()
         myStories: [ ]
     };
     
-    var day1 = new Date(2018, 1, 21);
+    var day1 = new Date(2018, 0, 21);
     var tmpStr = ""; 
     var tmpPos = -1;
     var question = "";
@@ -53,7 +53,7 @@ function convert()
                 var newDate = day1.getTime();
                 newDate += ((markup.weekNum-1)*7+(markup.dayNum-1))*24*60*60*1000;
                 day1.setTime(newDate);
-                markup.date =day1.getFullYear() + "-" + day1.getMonth() + "-" + day1.getDate();   
+                markup.date =day1.getFullYear() + "-" + (day1.getMonth()+1) + "-" + (day1.getDate()+1);   
             }
         }
         //Question: e.g. 問題:約坦和亞哈斯兩個王有和異同?
@@ -181,12 +181,13 @@ function generateMarkup(markup){
     ---
     */
     outputMarkup[lineNum++] = "---";
-    outputMarkup[lineNum++] = "title: \"第 " + markup.weekNum + " 週第 " + markup.dayNum + " 天 " + markup.title; 
+    outputMarkup[lineNum++] = "layout: daily2";
+    outputMarkup[lineNum++] = "title: 第" + markup.weekNum + "週第" + markup.dayNum + "天 " + markup.title; 
     outputMarkup[lineNum++] = "date: " + markup.date; 
     outputMarkup[lineNum++] = "categories: daily"; 
     outputMarkup[lineNum++] = "permalink: " + markup.url; 
     outputMarkup[lineNum++] = "weekNum: " + markup.weekNum; 
-    outputMarkup[lineNum++] = "date: " + markup.dayNum; 
+    outputMarkup[lineNum++] = "dayNum: " + markup.dayNum; 
     outputMarkup[lineNum++] = "---"; 
     outputMarkup[lineNum++] = ""; 
 
