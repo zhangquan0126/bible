@@ -14,7 +14,7 @@ function convert()
         myStories: [ ]
     };
     
-
+    var day1 = new Date(2018, 1, 21);
     var tmpStr = ""; 
     var tmpPos = -1;
     var question = "";
@@ -50,7 +50,10 @@ function convert()
                 markup.dayNum = text.slice(tmpPos+2, text.search("天"));
                 markup.title = text.slice(text.search("天")+1);
                 markup.url = "/daily/wk" + markup.weekNum + "-day" + markup.dayNum + "-daily.html";
-                console.log("week " + markup.weekNum + " day " + markup.dayNum + " " + markup.title);
+                var newDate = day1.getTime();
+                newDate += ((markup.weekNum-1)*7+(markup.dayNum-1))*24*60*60*1000;
+                day1.setTime(newDate);
+                markup.date =day1.getFullYear() + "-" + day1.getMonth() + "-" + day1.getDate();   
             }
         }
         //Question: e.g. 問題:約坦和亞哈斯兩個王有和異同?
@@ -178,8 +181,8 @@ function generateMarkup(markup){
     ---
     */
     outputMarkup[lineNum++] = "---";
-    outputMarkup[lineNum++] = "title: \"第 " + markup.weekNum + " 週 第 " + markup.dayNum + "天 " + markup.title; 
-    outputMarkup[lineNum++] = "date: "; 
+    outputMarkup[lineNum++] = "title: \"第 " + markup.weekNum + " 週第 " + markup.dayNum + " 天 " + markup.title; 
+    outputMarkup[lineNum++] = "date: " + markup.date; 
     outputMarkup[lineNum++] = "categories: daily"; 
     outputMarkup[lineNum++] = "permalink: " + markup.url; 
     outputMarkup[lineNum++] = "weekNum: " + markup.weekNum; 
@@ -202,7 +205,7 @@ function generateMarkup(markup){
     //+ 希西家王十四年，亚述王西拿基立上来攻击犹大的一切坚固城，将城攻取。
     outputMarkup[lineNum++] = "### " + markup.GodStories[0];
     for (i = 1; i<markup.GodStories.length; i++){
-        outputMarkup[lineNum++] = "+ " + markup.GodStories[i];
+        outputMarkup[lineNum++] = markup.GodStories[i].replace("•", "+");
         outputMarkup[lineNum++] = "";
     }
     outputMarkup[lineNum++] = "";
@@ -212,7 +215,7 @@ function generateMarkup(markup){
     //+ 【价值定位】耶和华说让人记得祂早先所做的，古时所立的，以至于敬畏祂。我们从圣经中可以知道神的作为，也可以纪念耶和华在我们身上的作为而知道神是如何的爱我们。默想神的作为，并向神献上感恩。
     outputMarkup[lineNum++] = "### " + markup.myStories[0];
     for (i = 1; i<markup.myStories.length; i++){
-        outputMarkup[lineNum++] = "+ " + markup.myStories[i];
+        outputMarkup[lineNum++] = markup.myStories[i].replace("•", "+");
         outputMarkup[lineNum++] = "";
     }
     outputMarkup[lineNum++] = "";
