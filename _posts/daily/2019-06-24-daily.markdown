@@ -3,7 +3,7 @@ layout: daily2
 title: 第74週第1天 因驕致禍
 date: 2019-6-17
 categories: daily
-permalink: /daily/wk74-day1-daily.html
+permalink: /daily/wk74-day1-daily2.html
 weekNum: 74
 dayNum: 1
 ---
