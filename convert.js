@@ -224,9 +224,9 @@ function generateMarkup(markup){
     //The Rest
     //### 祷告：
     //### 笔记与回应：
-    outputMarkup[lineNum++] = "### 祷告：";
+    outputMarkup[lineNum++] = "### 禱告：";
     outputMarkup[lineNum++] = "";
-    outputMarkup[lineNum++] = "### 笔记与回应：";
+    outputMarkup[lineNum++] = "### 筆記與生活回應：";
     outputMarkup[lineNum++] = "";
 
     //Display converted markup text
