@@ -34,7 +34,9 @@ function convert()
         text = text.replace(/,/g, "，");
         text = text.replace(/[?]/g, "？");
         text = text.replace(/:/g, "：");
-
+        text = text.replace(/!/g, "！");
+        text = text.replace(/「/g, "`「");
+        text = text.replace(/」/g, "」`");
 
 
         //== log: write back to the output
@@ -87,19 +89,6 @@ function convert()
 
         }
 
-        if (readingGodStories == 1) {
-            //Add a new line
-            if (text.indexOf("•",0) == 0){
-                tmpPos = markup.GodStories.length;
-                markup.GodStories[tmpPos] = text;
-            }
-            //Append current line
-            else {
-                tmpPos = markup.GodStories.length - 1;
-                markup.GodStories[tmpPos] += text;
-            }
-        }
-
         //My Stories: e.g. 
         //默想:我的故事
         //• 【價值我定位】約坦在耶和華他神面前行正道,以致日漸強盛。我們如何看待自己所
@@ -111,6 +100,19 @@ function convert()
                 readingMyStories = 1;
                 readingGodStories = 0;
                 markup.myStories[0] = "";
+            }
+        }
+
+        if (readingGodStories == 1) {
+            //Add a new line
+            if (text.indexOf("•",0) == 0){
+                tmpPos = markup.GodStories.length;
+                markup.GodStories[tmpPos] = text;
+            }
+            //Append current line
+            else {
+                tmpPos = markup.GodStories.length - 1;
+                markup.GodStories[tmpPos] += text;
             }
         }
 
