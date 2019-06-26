@@ -3,7 +3,7 @@ layout: daily2
 title: 第75週第1天 興起拯救
 date: 2019-7-24
 categories: daily
-permalink: /daily/wk77-day1-daily.html
+permalink: /daily/wk177-day1-daily.html
 weekNum: 75
 dayNum: 1
 ---
