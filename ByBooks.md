@@ -3,7 +3,7 @@ markdown: CommonMarkGhPages
 ---
 # 聖經 - 各書卷
 
-<details><summary>耶利米書</summary>  
+<details markdown=1><summary>耶利米書</summary>  
  <details>
   <summary>蒙神差遣 <a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">耶利米書 1</a></summary>
   <ul>
