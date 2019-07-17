@@ -1,4 +1,5 @@
 ---
+layout: all
 permalink: /ByBooks.html
 ---
 <details><summary>耶利米書</summary>  
