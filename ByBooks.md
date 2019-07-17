@@ -1,7 +1,7 @@
 ---
 permalink: /ByBooks.html
 ---
-<details><summary>耶利米書</summary>
+<details><summary>耶利米書</summary>  
  <details><summary>[背信棄義 - 耶利米書 1](https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT)</summary>
  + 約西亞在位十三年，耶和華的話臨到耶利米。
  + 耶和華未將耶利米造在腹中，就已曉得他。祂已派他做列國的先知。
