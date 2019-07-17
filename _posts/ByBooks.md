@@ -3,7 +3,8 @@ layout: all
 permalink: /ByBooks.html
 ---
 <details><summary>耶利米書</summary>  
- <details><summary><a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">背信棄義 - 耶利米書 1</a></summary>
+ <details>
+  <summary>蒙神差遣 <a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">耶利米書 1</a></summary>
   <ul>
    <li>約西亞在位十三年，耶和華的話臨到耶利米。</li>
    <li>耶和華未將耶利米造在腹中，就已曉得他。祂已派他做列國的先知。</li>
@@ -12,7 +13,8 @@ permalink: /ByBooks.html
    <li>耶和華差遣耶利米束腰，起來將祂所吩咐的一切話告訴他們。</li>
    </ul>
  </details>
- <details><summary>[背信棄義 - 耶利米書 2:1-3:5](https://www.biblegateway.com/passage/?search=Jeremiah2.1-3.5&version=CUVMPT)</summary>
+ <details>
+  <summary>背信棄義 <a href="https://www.biblegateway.com/passage/?search=Jeremiah2.1-3.5&version=CUVMPT">耶利米書 2:1-3:5</a></summary>
   <ul>
    <li>以色列曾經歸耶和華為聖，作為土產初熟的果子。</li>
    <li>但以色列的列祖遠離神，隨從虛無的神，自己成為虛妄。</li>
