@@ -1,5 +1,5 @@
 ---
-permalink: /ByBooks.md
+permalink: /ByBooks.html
 ---
 
 <details><summary>[背信棄義 - 耶利米書 2:1-3:5](https://www.biblegateway.com/passage/?search=Jeremiah.2.1-3.5&version=CUVMPT)</summary>
