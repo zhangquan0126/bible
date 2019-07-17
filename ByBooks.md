@@ -1,3 +1,6 @@
+---
+markdown: CommonMarkGhPages
+---
 # 聖經 - 各書卷
 
 <details><summary>耶利米書</summary>  
