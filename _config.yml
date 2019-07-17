@@ -9,6 +9,9 @@ repository: bibleplan/bibleplan.github.io
 repo: https://github.com/bibleplan/bibleplan.github.io
 lang: zh-Hant
 
+github:
+  is_project_page: true
+  
 # Build settings
 markdown: kramdown
 
