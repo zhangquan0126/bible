@@ -1,6 +1,5 @@
----
-permalink: /ByBooks.html
----
+# 聖經 - 書卷
+
 <details><summary>耶利米書</summary>  
  <details>
   <summary>蒙神差遣 <a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">耶利米書 1</a></summary>
