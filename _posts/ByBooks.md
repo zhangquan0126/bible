@@ -3,8 +3,8 @@ layout: all
 permalink: /ByBooks.html
 ---
 <details><summary>耶利米書</summary>  
- <details><summary>[背信棄義 - 耶利米書 1](https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT)</summary>
- + 約西亞在位十三年，耶和華的話臨到耶利米。
+ <details><summary><a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">背信棄義 - 耶利米書 1</a></summary>
+  <ul>約西亞在位十三年，耶和華的話臨到耶利米。</ul>
  + 耶和華未將耶利米造在腹中，就已曉得他。祂已派他做列國的先知。
  + 耶利米看見一根杏樹枝，又看見一個燒開的鍋，從北而傾。
  + 必有災禍從北方發出，臨到這地的一切居民。
