@@ -2,6 +2,56 @@
 markdown: CommonMarkGhPages
 ---
 # 聖經 - 各書卷
+<details><summary>以賽亞書 - <a href="https://bibleplan.github.io/daily/wk71-day2-daily.html">導讀 第71週第2天</a></summary>  
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書1.1-2.5&qs_version=CUVMPT">以賽亞書 1.1-2.5</a> - 先知預言</summary>
+  <ul>
+   <li>當烏西雅、約坦、亞哈斯、希西家做猶大王的時候，以賽亞得默示，論到猶大和耶路撒冷。</li>
+   <li>以賽亞責備百姓離棄耶和華，藐視以色列的聖者，與他生疏，往後退步。</li>
+   <li>耶和華不喜悅獻虛浮的供物，恨惡做罪孽又守嚴肅會。</li>
+   <li>勉勵百姓洗濯，自潔，除掉惡行，學習行善，尋求公平。</li>
+   <li>聖城敗壞，有凶手居住。但錫安必因公平得蒙救贖，但悖逆的和犯罪的必一同敗亡。</li>
+   <li>末後的日子，耶和華殿的山必堅立超乎諸山，萬民都要流歸這山。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書2.6-4.1&qs_version=CUVMPT">以賽亞書 2.6-4.1</a> - 降罰之日</summary>
+  <ul>
+   <li>耶和華離棄雅各家，是因他們充滿了東方的風俗，與外邦人擊掌。</li>
+   <li>耶和華降罰的日子要臨到驕傲狂妄的，一切自高的都必降為卑，偶像必全然廢棄，除掉眾人所倚靠的、所仗賴的。</li>
+   <li>耶和華審判眾民，責備長老和首領，降災給狂傲的女子。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書4.2-5.30&qs_version=CUVMPT">以賽亞書 4.2-5.30</a> - 選民之禍</summary>
+  <ul>
+   <li>審判之後，耶和華發生的苗必華美尊榮，公義的靈將錫安女子的汙穢洗去。</li>
+   <li>葡萄園在肥美的山岡上，指望結好葡萄，反倒結了野葡萄。耶和華的葡萄園就是以色列家，他所喜愛的樹就是猶大人。他指望的是公平，誰知倒有暴虐。</li>
+   <li>那些不留餘地，只顧自己獨居境內的有禍了。那些以虛假之細繩牽罪孽的人有禍了。</li>
+   <li>耶和華要召遠方的國民從地極而來，擄掠百姓。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書6&qs_version=CUVMPT">以賽亞書 6</a> - 蒙主差遣</summary>
+  <ul>
+   <li>當烏西雅王崩的那年，以賽亞見主坐在高高的寶座上，其上有撒拉弗侍立敬拜。</li>
+   <li>以賽亞自認有禍、滅亡，因為知道自己的嘴唇不潔，又住在嘴唇不潔的民中。</li>
+   <li>撒拉弗飛到以賽亞跟前，拿紅炭沾他的口，除掉他的罪孽。</li>
+   <li>以賽亞回應主的差遣。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書7-8&qs_version=CUVMPT">以賽亞書 7-8</a> - 兩王被棄</summary>
+  <ul>
+   <li>猶大王亞哈斯在位的時候，亞蘭王利汛和以色列王比加，上來攻打耶路撒冷。</li>
+   <li>耶和華讓以賽亞和他的兒子施亞雅述去對亞哈斯說：你要謹慎安靜，不要膽怯。</li>
+   <li>耶和華曉諭亞哈斯，「`必有童女懷孕生子，給他起名叫以馬內利`」，作為亞蘭、以色列兩王被棄的兆頭。</li>
+   <li>耶和華預言大馬士革的財寶和撒馬利亞的擄物必在亞述王面前搬了去。</li>
+   <li>耶和華曉瑜以賽亞要尊萬軍之耶和華為聖，以他為你們所當怕的，所當畏懼的。耶和華必向以色列兩家做絆腳的石頭。</li>
+   <li>百姓當求問自己的神，而不是交鬼的和行巫術的。</li>
+  </ul>
+ </details>
+</details>
 
 <details><summary>耶利米書 - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">導讀 第77週第3天</a></summary>  
  <details>
