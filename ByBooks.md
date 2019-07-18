@@ -51,6 +51,66 @@ markdown: CommonMarkGhPages
    <li>百姓當求問自己的神，而不是交鬼的和行巫術的。</li>
   </ul>
  </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書9-10&qs_version=CUVMPT">以賽亞書 9-10</a> - 擊打百姓</summary>
+  <ul>
+   <li>從前神使西布倫地和拿弗他利地被藐視，末後得著榮耀。</li>
+   <li>因有一嬰孩為我們而生，有一子賜給我們。</li>
+   <li>以法蓮和撒馬利亞的居民驕傲自大。因此，耶和華要高舉利汛的敵人來攻擊以色列。</li>
+   <li>但百姓沒有歸向擊打他們的主。萬軍之耶和華的烈怒使地都燒遍。災禍從遠方臨到。</li>
+   <li>神以亞述為怒氣的棍，攻擊褻瀆的國民。但耶和華終必使亞述的肥壯變為瘦弱。</li>
+   <li>以色列的餘民要誠實倚靠耶和華。亞述王的重擔必離開他們的肩頭。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書11-12&qs_version=CUVMPT">以賽亞書 11-12</a> - 伸手拯救</summary>
+  <ul>
+   <li>從耶西的本必發一條，耶和華的靈必住在他身上。</li>
+   <li>耶西的根立做萬民的大旗，外邦人必尋求他。</li>
+   <li>主必二次伸手救回自己百姓中所餘剩的。</li>
+   <li>以色列民要稱謝耶和華。因為神是他們的拯救。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書13.1-14.27&qs_version=CUVMPT">以賽亞書 13.1-14.27</a> - 論巴比倫</summary>
+  <ul>
+   <li>亞摩斯的兒子以賽亞得默示論巴比倫。</li>
+   <li>耶和華的日子臨近，要毀滅巴比倫全地。</li>
+   <li>瑪代人要來攻擊巴比倫，必像神所傾覆的所多瑪、蛾摩拉一樣。</li>
+   <li>耶和華再揀選以色列，將他們安置在本地，寄居的必與他們聯合，緊貼雅各家。</li>
+   <li>以色列必作詩歌論巴比倫王。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書14.28-17.14&qs_version=CUVMPT">以賽亞書 14.28-17.14</a> - 斥責列邦</summary>
+  <ul>
+   <li>亞哈斯王崩的那年神的默示。</li>
+   <li>非利士全地之重災，必有饑荒，所餘剩的人必被殺戮。</li>
+   <li>摩押必覆亡。一夜之間變為荒廢，歸於無有。</li>
+   <li>勸摩押納貢於錫安之君。摩押人必為摩押哀號，極其憂傷。</li>
+   <li>大馬士革必被廢棄，不再為城，必變做亂堆。</li>
+   <li>以色列的遺民歸主。</li>
+   <li>神斥責列邦，是擄掠之人所得的份，搶奪之人的報應。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書18-20&qs_version=CUVMPT">以賽亞書 18-20</a> - 古實埃及</summary>
+  <ul>
+   <li>古實之民英勇可畏。他們必將禮物奉給萬軍之耶和華，奉到錫安山。</li>
+   <li>耶和華臨到埃及。埃及的偶像在他面前戰兢，瑣安的首領極其愚昧，法老大有智慧的謀士所籌劃的成為愚謀。</li>
+   <li>在埃及地中必有為耶和華築的一座壇。埃及人因為受人的欺壓哀求耶和華，他就差遣一位救主，做護衛者，拯救他們。</li>
+   <li>亞述王擄去埃及人，掠去古實人。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書21-23&qs_version=CUVMPT">以賽亞書 21-23</a> - 巴比倫滅</summary>
+  <ul>
+   <li>先知在異象中得睹巴比倫被滅。巴比倫傾倒了！她一切雕刻的神像都打碎於地。</li>
+   <li>論度瑪的默示。論阿拉伯之預言。</li>
+   <li>為耶路撒冷哀哭，因其將遭毀滅，這罪孽直到你們死，斷不得赦免。</li>
+   <li>推羅變為荒場。七十年後，耶和華必眷顧推羅。</li>
+  </ul>
+ </details>
 </details>
 
 <details><summary>耶利米書 - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">導讀 第77週第3天</a></summary>  
