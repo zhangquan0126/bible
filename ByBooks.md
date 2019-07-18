@@ -25,12 +25,13 @@ markdown: CommonMarkGhPages
   </ul>
  </details>
 <details>
-  <summary>回轉歸神 [耶利米書 3:6-4:4](https://www.biblegateway.com/passage/?search=Jeremiah3:6-4:4&version=CUVMPT)</summary>
-   + 背道的以色列之後，奸詐的妹妹猶大也看見，還不懼怕，也去行淫。
-   + 耶和華呼喚背道的以色列回來，因為祂是慈愛的，必不永遠存怒。
-   + 以色列人哭泣懇求，因他們走彎曲之道，忘記耶和華他們的神。
-   + 以色列來到神這裡，因祂是耶和華神。
-   + 以色列若回來歸向神，就不被遷移。
+  <summary>回轉歸神 <a href="https://www.biblegateway.com/passage/?search=Jeremiah3:6-4:4&version=CUVMPT>耶利米書 3:6-4:4</a></summary>
+   <ul>
+    <li>背道的以色列之後，奸詐的妹妹猶大也看見，還不懼怕，也去行淫。</li>
+    <li>耶和華呼喚背道的以色列回來，因為祂是慈愛的，必不永遠存怒。</li>
+    <li>以色列人哭泣懇求，因他們走彎曲之道，忘記耶和華他們的神。</li>
+    <li>以色列來到神這裡，因祂是耶和華神。</li>
+    <li>以色列若回來歸向神，就不被遷移。</li>
   </ul>
  </details>
 </details>
