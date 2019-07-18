@@ -1,6 +1,3 @@
----
-markdown: CommonMarkGhPages
----
 # 聖經 - 各書卷
 <details><summary>以賽亞書 - <a href="https://bibleplan.github.io/daily/wk71-day2-daily.html">導讀 第71週第2天</a></summary>  
  <details>
