@@ -3,7 +3,7 @@ markdown: CommonMarkGhPages
 ---
 # 聖經 - 各書卷
 
-<details><summary>耶利米書 - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">導讀</a></summary>  
+<details><summary>耶利米書 - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">導讀 第77週第3天</a></summary>  
  <details>
   <summary>1. <a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">耶利米書 1</a> - 蒙神差遣</summary>
   <ul>
