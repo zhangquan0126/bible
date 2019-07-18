@@ -5,7 +5,7 @@ markdown: CommonMarkGhPages
 
 <details><summary>耶利米書 - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">導讀</a></summary>  
  <details>
-  <summary>1. 蒙神差遣 <a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">耶利米書 1</a></summary>
+  <summary>1. <a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">耶利米書 1</a> - 蒙神差遣</summary>
   <ul>
    <li>約西亞在位十三年，耶和華的話臨到耶利米。</li>
    <li>耶和華未將耶利米造在腹中，就已曉得他。祂已派他做列國的先知。</li>
@@ -15,7 +15,7 @@ markdown: CommonMarkGhPages
   </ul>
  </details>
  <details>
-  <summary>2. 背信棄義 <a href="https://www.biblegateway.com/passage/?search=Jeremiah2.1-3.5&version=CUVMPT">耶利米書 2:1-3:5</a></summary>
+  <summary>2. <a href="https://www.biblegateway.com/passage/?search=Jeremiah2.1-3.5&version=CUVMPT">耶利米書 2:1-3:5</a> - 背信棄義</summary>
   <ul>
    <li>以色列曾經歸耶和華為聖，作為土產初熟的果子。</li>
    <li>但以色列的列祖遠離神，隨從虛無的神，自己成為虛妄。</li>
@@ -25,7 +25,7 @@ markdown: CommonMarkGhPages
   </ul>
  </details>
 <details>
-  <summary>3. 回轉歸神 <a href="https://www.biblegateway.com/passage/?search=Jeremiah3:6-4:4&version=CUVMPT">耶利米書 3:6-4:4</a></summary>
+  <summary>3. <a href="https://www.biblegateway.com/passage/?search=Jeremiah3:6-4:4&version=CUVMPT">耶利米書 3:6-4:4</a> - 回轉歸神</summary>
   <ul>
    <li>背道的以色列之後，奸詐的妹妹猶大也看見，還不懼怕，也去行淫。</li>
    <li>耶和華呼喚背道的以色列回來，因為祂是慈愛的，必不永遠存怒。</li>
@@ -35,7 +35,7 @@ markdown: CommonMarkGhPages
  </ul>
  </details>
  <details>
-  <summary>4. 災禍降臨 <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書4.5-5.31&qs_version=CUVMPT">耶利米書 4.5-5.31</a></summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書4.5-5.31&qs_version=CUVMPT">耶利米書 4.5-5.31</a> - 災禍降臨</summary>
   <ul>
    <li>耶和華的葡萄園就是以色列家，他所喜愛的樹就是猶大人。他指望的是公平，誰知倒有暴虐；指望的是公義，誰知倒有冤聲。</li>
    <li>百姓因無知就被擄去，他們的尊貴人甚是飢餓，群眾極其乾渴。</li>
@@ -44,7 +44,7 @@ markdown: CommonMarkGhPages
   </ul>
  </details>
  <details>
-  <summary>5. 當罰之城 <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書6&qs_version=CUVMPT">耶利米書 6</a></summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書6&qs_version=CUVMPT">耶利米書 6</a> - 當罰之城</summary>
   <ul>
    <li>警告便雅憫人當逃出耶路撒冷，因為有災禍與大毀滅從北方張望。</li>
    <li>耶和華稱耶路撒冷為該罰的城，其中盡是欺壓。耶路撒冷當受教。</li>
@@ -53,7 +53,7 @@ markdown: CommonMarkGhPages
   </ul>
  </details>
  <details>
-  <summary>6. 呼喚悔改 <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 7.1-8.17&qs_version=CUVMPT">耶利米書 7.1-8.17</a></summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 7.1-8.17&qs_version=CUVMPT">耶利米書 7.1-8.17</a> - 呼喚悔改</summary>
   <ul>
    <li>耶和華要猶大人改正行動作為，就使他們在這地方仍然居住。</li>
    <li>耶和華要向這應許之地施行的，像從前向示羅所行的一樣。</li>
@@ -63,7 +63,7 @@ markdown: CommonMarkGhPages
   </ul>
  </details>
  <details>
-  <summary>7. 刑罰罪人 <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 8.18-10.25&qs_version=CUVMPT">耶利米書 8.18-10.25</a></summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 8.18-10.25&qs_version=CUVMPT">耶利米書 8.18-10.25</a> - 刑罰罪人</summary>
   <ul>
    <li>先知為百姓中被殺的人晝夜哭泣！為山嶺哭泣悲哀，為曠野的草場揚聲哀號。</li>
    <li>因為百姓離棄律法，隨從自己頑梗的心行事，所以耶和華要把他們散在列邦中。</li>
@@ -71,7 +71,7 @@ markdown: CommonMarkGhPages
   </ul>
  </details>
  <details>
-  <summary>8. 災禍臨到 <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 11-12&qs_version=CUVMPT">耶利米書 11-12</a></summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 11-12&qs_version=CUVMPT">耶利米書 11-12</a> - 災禍臨到</summary>
   <ul>
    <li>耶和華要耶利米告訴猶大人和耶路撒冷的居民，不聽從這約之話的人必受咒詛。</li>
    <li>要在猶大城邑中和耶路撒冷街市上宣告，你們當聽從遵行這約的話。</li>
@@ -82,7 +82,7 @@ markdown: CommonMarkGhPages
   </ul>
  </details>
  <details>
-  <summary>9. 敗壞驕傲 <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 13&qs_version=CUVMPT">耶利米書 13</a></summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 13&qs_version=CUVMPT">耶利米書 13</a> - 敗壞驕傲</summary>
   <ul>
    <li>耶和華必敗壞猶大的驕傲和耶路撒冷的大驕傲。</li>
    <li>惡民不肯聽耶和華的話，按自己頑梗的心而行。</li>
@@ -92,7 +92,7 @@ markdown: CommonMarkGhPages
   </ul>
  </details>
  <details>
-  <summary>10. 回歸安息 <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 14-15&qs_version=CUVMPT">耶利米書 14-15</a></summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 14-15&qs_version=CUVMPT">耶利米書 14-15</a> - 回歸安息</summary>
   <ul>
    <li>耶和華必再揀選以色列，將他們安置在本地。</li>
    <li>耶和華讓人得享安息的日子，先知必題詩歌說，耶和華折斷了惡人的杖，轄制人的圭。</li>
