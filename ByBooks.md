@@ -199,12 +199,15 @@
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 14-15&qs_version=CUVMPT">耶利米書 14-15</a> - 回歸安息</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 14-15&qs_version=CUVMPT">耶利米書 14-15</a> - 反復懇求</summary>
   <ul>
-   <li>耶和華必再揀選以色列，將他們安置在本地。</li>
-   <li>耶和華讓人得享安息的日子，先知必題詩歌說，耶和華折斷了惡人的杖，轄制人的圭。</li>
-   <li>非利士全地必以饑荒治死，你所餘剩的人必被殺戮。</li>
-   <li>一夜之間，摩押的亞珥和摩押的基珥變為荒廢，歸於無有。</li>
+   <li>耶和華論到乾旱之災的話臨到耶利米。</li>
+   <li>耶利米認罪祈禱,但耶和華不允,要他不要為這百姓祈禱求好處。</li>
+   <li>耶利米控告假先知假託主名而妄言平安。</li>
+   <li>耶利米為人們遭災而悲傷哀求。</li>
+   <li>耶和華棄絕猶大,讓耶利米將他們從祂眼前趕出。</li>
+   <li>先知自言有禍,被人人咒罵。耶和華卻應許堅固他,使他得好處。</li>
+   <li>耶利米求耶和華記念、眷顧。</li>
   </ul>
  </details>
 </details>
