@@ -82,40 +82,62 @@
 <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音9.51-11.13&qs_version=CUVMPT">路加福音 9.51-11.13</a> - 各城傳道</summary>
   <ul>
-    <li>耶穌說「`人子來不是要滅人的性命，是要救人的性命`」。</li>
+    <li>耶穌說「人子來不是要滅人的性命，是要救人的性命」。</li>
     <li>耶穌差遣七十個門徒出去傳道，他們歡歡喜喜地回來，耶穌為他們感恩。</li>
     <li>耶穌以好撒瑪利亞人的故事來說明愛人的誡命。馬大和馬利亞的比較而說明愛神的誡命。</li>
     <li>耶穌教導門徒如何禱告。</li>
   </ul>
 </details>
 <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音11.14-54&qs_version=CUVMPT">路加福音 11.14-54</a> - 真正敬虔</summary>
   <ul>
+    <li>耶穌是靠著神的能力趕鬼。</li>
+    <li>聽上帝之道而遵守的人有福了。</li>
+    <li>耶穌在這世代所行的神跡乃是約拿的神跡。</li>
+    <li>法利賽人的假冒偽善不是神所喜悅的敬虔。</li>
   </ul>
 </details>
 <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音12.1-13.9&qs_version=CUVMPT">路加福音 12.1-13.9</a> - 天國價值</summary>
   <ul>
+    <li>耶穌講論天國的價值觀。要提防法利賽人的酵。不要懼怕世界，要敬畏神。</li>
+    <li>不要為自己積財，而要追求在神裡面的富足。</li>
+    <li>不要為明天憂慮，要先求神的國和神的義。</li>
+    <li>忠心服事，警醒等待神子的再來。</li>
   </ul>
 </details>
 <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音13.10-35&qs_version=CUVMPT">路加福音 13.10-35</a> - 當進窄門</summary>
   <ul>
+    <li>耶穌講論安息日的意義。</li>
+    <li>天國的比喻。跟隨主的人當努力進窄門。</li>
+    <li>耶穌為耶路撒冷而哀哭。</li>
   </ul>
 </details>
 <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音14-15&qs_version=CUVMPT">路加福音 14-15</a> - 浪子回頭</summary>
   <ul>
+    <li>應當謙卑，不要坐宴席的首位。</li>
+    <li>有很多人拒絕了天國的宴席。</li>
+    <li>做門徒的代價。</li>
+    <li>神尋找靈魂失喪的人。</li>
   </ul>
 </details>
 <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音16.1-17.10&qs_version=CUVMPT">路加福音 16.1-17.10</a> - 對誰忠心</summary>
   <ul>
+    <li>耶穌教導我們在最小的事上忠心，在大事上也忠心。</li>
+    <li>在世上享福的財主和貧窮的拉撒路的不同結局。</li>
+    <li>芥菜種的信心。</li>
   </ul>
 </details>
 <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音17.11-18.30&qs_version=CUVMPT">路加福音 17.11-18.30</a> - 持守到底</summary>
   <ul>
+    <li>耶穌治好十個長大麻風的。</li>
+    <li>耶穌教導神的國來到的時候的情形。</li>
+    <li>應該在神面前如何禱告。</li>
+    <li>跟隨神當付的代價。</li>
   </ul>
 </details>
 <details>
