@@ -89,7 +89,7 @@
   </ul>
 </details>
 <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音11.14-54&qs_version=CUVMPT">路加福音 11.14-54</a> - [真正敬虔<a href="https://bibleplan.github.io/daily/wk30-day6-daily.html"></a></summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音11.14-54&qs_version=CUVMPT">路加福音 11.14-54</a> - <a href="https://bibleplan.github.io/daily/wk30-day6-daily.html">真正敬虔</a></summary>
   <ul>
     <li>耶穌是靠著神的能力趕鬼。</li>
     <li>聽上帝之道而遵守的人有福了。</li>
@@ -98,7 +98,7 @@
   </ul>
 </details>
 <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音12.1-13.9&qs_version=CUVMPT">路加福音 12.1-13.9</a> - [天國價值<a href="https://bibleplan.github.io/daily/wk31-day1-daily.html"></a></summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音12.1-13.9&qs_version=CUVMPT">路加福音 12.1-13.9</a> - <a href="https://bibleplan.github.io/daily/wk31-day1-daily.html">天國價值</a></summary>
   <ul>
     <li>耶穌講論天國的價值觀。要提防法利賽人的酵。不要懼怕世界，要敬畏神。</li>
     <li>不要為自己積財，而要追求在神裡面的富足。</li>
@@ -107,7 +107,7 @@
   </ul>
 </details>
 <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音13.10-35&qs_version=CUVMPT">路加福音 13.10-35</a> - [當進窄門<a href="https://bibleplan.github.io/daily/wk31-day2-daily.html"></a></summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音13.10-35&qs_version=CUVMPT">路加福音 13.10-35</a> - <a href="https://bibleplan.github.io/daily/wk31-day2-daily.html">當進窄門</a></summary>
   <ul>
     <li>耶穌講論安息日的意義。</li>
     <li>天國的比喻。跟隨主的人當努力進窄門。</li>
@@ -115,7 +115,7 @@
   </ul>
 </details>
 <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音14-15&qs_version=CUVMPT">路加福音 14-15</a> - [浪子回頭<a href="https://bibleplan.github.io/daily/wk31-day3-daily.html"></a></summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音14-15&qs_version=CUVMPT">路加福音 14-15</a> - [<a href="https://bibleplan.github.io/daily/wk31-day3-daily.html">浪子回頭</a></summary>
   <ul>
     <li>應當謙卑，不要坐宴席的首位。</li>
     <li>有很多人拒絕了天國的宴席。</li>
@@ -124,7 +124,7 @@
   </ul>
 </details>
 <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音16.1-17.10&qs_version=CUVMPT">路加福音 16.1-17.10</a> - [對誰忠心<a href="https://bibleplan.github.io/daily/wk31-day4-daily.html"></a></summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音16.1-17.10&qs_version=CUVMPT">路加福音 16.1-17.10</a> - [<a href="https://bibleplan.github.io/daily/wk31-day4-daily.html">對誰忠心</a></summary>
   <ul>
     <li>耶穌教導我們在最小的事上忠心，在大事上也忠心。</li>
     <li>在世上享福的財主和貧窮的拉撒路的不同結局。</li>
@@ -132,7 +132,7 @@
   </ul>
 </details>
 <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音17.11-18.30&qs_version=CUVMPT">路加福音 17.11-18.30</a> - [持守到底<a href="https://bibleplan.github.io/daily/wk31-day5-daily.html"></a></summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音17.11-18.30&qs_version=CUVMPT">路加福音 17.11-18.30</a> - [<a href="https://bibleplan.github.io/daily/wk31-day5-daily.html">持守到底</a></summary>
   <ul>
     <li>耶穌治好十個長大麻風的。</li>
     <li>耶穌教導神的國來到的時候的情形。</li>
@@ -141,7 +141,7 @@
   </ul>
 </details>
 <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音18.31-19.44&qs_version=CUVMPT">路加福音 18.31-19.44</a> - [預言受難<a href="https://bibleplan.github.io/daily/wk31-day6-daily.html"></a></summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音18.31-19.44&qs_version=CUVMPT">路加福音 18.31-19.44</a> - [<a href="https://bibleplan.github.io/daily/wk31-day6-daily.html">預言受難</a></summary>
   <ul>
     <li>耶穌預言祂的受難；使瞎子看見。</li>
     <li>藉著稅吏撒該的故事說明人子來，為要尋找、拯救失喪的人。</li>
@@ -150,7 +150,7 @@
   </ul>
 </details>
 <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音19.45-21.38&qs_version=CUVMPT">路加福音 19.45-21.38</a> - [聖殿衝突<a href="https://bibleplan.github.io/daily/wk32-day1-daily.html"></a></summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音19.45-21.38&qs_version=CUVMPT">路加福音 19.45-21.38</a> - [<a href="https://bibleplan.github.io/daily/wk32-day1-daily.html">聖殿衝突</a></summary>
   <ul>
     <li>耶穌潔淨聖殿 </li>
     <li>耶穌以凶惡園戶的比喻來說明以色列的祝福的失去。 </li>
@@ -159,7 +159,7 @@
   </ul>
 </details>
 <details>
-  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音22&qs_version=CUVMPT">路加福音 22</a> - [最後晚餐<a href="https://bibleplan.github.io/daily/wk32-day2-daily.html"></a></summary>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音22&qs_version=CUVMPT">路加福音 22</a> - [<a href="https://bibleplan.github.io/daily/wk32-day2-daily.html">最後晚餐</a></summary>
   <ul>
     <li>耶穌與門徒共享逾越節的宴席； </li>
     <li>門徒爭論誰為大，但耶穌預言彼得將三次不認主； </li>
@@ -167,7 +167,7 @@
   </ul>
 </details>
 <details>
-  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音23&qs_version=CUVMPT">路加福音 23</a> - [十架流血<a href="https://bibleplan.github.io/daily/wk32-day3-daily.html"></a></summary>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音23&qs_version=CUVMPT">路加福音 23</a> - [<a href="https://bibleplan.github.io/daily/wk32-day3-daily.html">十架流血</a></summary>
   <ul>
     <li>耶穌被帶到彼拉多面前受審； </li>
     <li>眾人願意除掉耶穌而釋放巴拉巴；耶穌被釘十字架； </li>
@@ -175,7 +175,7 @@
   </ul>
 </details>
 <details>
-  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音24&qs_version=CUVMPT">路加福音 24</a> - [死裡復活<a href="https://bibleplan.github.io/daily/wk32-day4-daily.html"></a></summary>
+  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音24&qs_version=CUVMPT">路加福音 24</a> - [<a href="https://bibleplan.github.io/daily/wk32-day4-daily.html">死裡復活</a></summary>
   <ul>
     <li>耶穌從死裡復活，在路上向兩個門徒顯現； </li>
     <li>顯現在以馬忤斯、耶路撒冷； </li>
