@@ -141,63 +141,44 @@
   </ul>
 </details>
 <details>
-  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音18.31-19.44&qs_version=CUVMPT">路加福音 18.31-19.44</a> - 預言受難</summary>
   <ul>
+    <li>耶穌預言祂的受難；使瞎子看見。</li>
+    <li>藉著稅吏撒該的故事說明人子來，為要尋找、拯救失喪的人。</li>
+    <li>忠心僕人的比喻告訴我們如何看待自己的恩賜。</li>
+    <li>主騎驢進耶路撒冷；為耶路撒冷哀哭。</li>
   </ul>
 </details>
 <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音19.45-21.38&qs_version=CUVMPT">路加福音 19.45-21.38</a> - 聖殿衝突</summary>
   <ul>
+    <li>耶穌潔淨聖殿 </li>
+    <li>耶穌以凶惡園戶的比喻來說明以色列的祝福的失去。 </li>
+    <li>耶穌回答納稅給愷撒的問題，解釋信仰與政權的關係。 </li>
+    <li>預言聖殿將被毀滅，但忍受艱難的必要得救。</li>
   </ul>
 </details>
 <details>
-  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音22&qs_version=CUVMPT">路加福音 22</a> - 最後晚餐</summary>
   <ul>
+    <li>耶穌與門徒共享逾越節的宴席； </li>
+    <li>門徒爭論誰為大，但耶穌預言彼得將三次不認主； </li>
+    <li>在客西馬尼園中耶穌被逮捕，在公會受審。</li>
   </ul>
 </details>
 <details>
-  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音23&qs_version=CUVMPT">路加福音 23</a> - 十架流血</summary>
   <ul>
+    <li>耶穌被帶到彼拉多面前受審； </li>
+    <li>眾人願意除掉耶穌而釋放巴拉巴；耶穌被釘十字架； </li>
+    <li>耶穌被埋葬在新的墳墓。</li>
   </ul>
 </details>
 <details>
-  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音24&qs_version=CUVMPT">路加福音 24</a> - 死裡復活</summary>
   <ul>
+    <li>耶穌從死裡復活，在路上向兩個門徒顯現； </li>
+    <li>顯現在以馬忤斯、耶路撒冷； </li>
+    <li>對門徒頒布使命，升入天上。</li>
   </ul>
 </details>
-<details>
-  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
-  <ul>
-  </ul>
-</details>
-<details>
-  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
-  <ul>
-  </ul>
-</details>
-<details>
-  <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
-  <ul>
-  </ul>
-</details>
-<details>
-  <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
-  <ul>
-  </ul>
-</details>
-<details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
-  <ul>
-  </ul>
-</details>
-<details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
-  <ul>
-  </ul>
-</details>
-<details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
-  <ul>
-  </ul>
-</details>
- 
