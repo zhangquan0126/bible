@@ -12,7 +12,7 @@
   </ul>
 </details>
 <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音2&qs_version=CUVMPT">路加福音 2</a> - <a href="https://bibleplan.github.io/daily/wk29-day4-daily.html">耶穌降生</a>/summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音2&qs_version=CUVMPT">路加福音 2</a> - <a href="https://bibleplan.github.io/daily/wk29-day4-daily.html">耶穌降生</a></summary>
   <ul>
     <li>耶穌出生在伯利恆的馬槽中。天使向牧羊人報喜信。</li>
     <li>西面和女先知亞拿見證耶穌的身份，歸榮耀與神。</li>
@@ -20,7 +20,7 @@
   </ul>
 </details>
 <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音3.1-4.13&qs_version=CUVMPT">路加福音 3.1-4.13</a> - <a href="https://bibleplan.github.io/daily/wk29-day5-daily.html">耶穌家譜</a>/summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音3.1-4.13&qs_version=CUVMPT">路加福音 3.1-4.13</a> - <a href="https://bibleplan.github.io/daily/wk29-day5-daily.html">耶穌家譜</a></summary>
   <ul>
     <li>施洗約翰在曠野傳道，施行洗禮，被希律監禁。</li>
     <li>從亞當以下，耶穌的家譜。</li>
@@ -28,7 +28,7 @@
   </ul>
 </details>
 <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音4.14-44&qs_version=CUVMPT">路加福音 4.14-44</a> - <a href="https://bibleplan.github.io/daily/wk29-day6-daily.html">開始傳道</a>/summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音4.14-44&qs_version=CUVMPT">路加福音 4.14-44</a> - <a href="https://bibleplan.github.io/daily/wk29-day6-daily.html">開始傳道</a></summary>
   <ul>
     <li>耶穌在自己的家鄉拿撒勒傳道卻被拒絕。</li>
     <li>耶穌在迦百農驅除污鬼、治病，在加利利傳道。</li>
