@@ -43,37 +43,138 @@
   </ul>
 </details>
 <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音6.12-49&qs_version=CUVMPT">路加福音 6.12-49</a> - 平原講道</summary>
+  <ul>
+    <li>耶穌揀選十二人，並稱他們為使徒。</li>
+    <li>耶穌在平原講道，論禍福、愛仇敵。</li>
+    <li>耶穌教導要先去掉自己眼中的梁木，再去掉弟兄眼中的刺。</li>
+    <li>兩種果樹，兩種根基。</li>
+  </ul>
+</details>
+<details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音7&qs_version=CUVMPT">路加福音 7</a> - 何為信心</summary>
+  <ul>
+    <li>百夫長的信心讓耶穌稀奇，治好百夫長的僕人。</li>
+    <li>耶穌叫拿因城寡婦之子從死裡復活。</li>
+    <li>施洗約翰對耶穌的疑問和耶穌的答復說明耶穌的身份。</li>
+    <li>有罪的女人因信而罪得赦免。</li>
+  </ul>
+</details>
+<details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音8&qs_version=CUVMPT">路加福音 8</a> - 聽道行道</summary>
+  <ul>
+    <li>耶穌用撒種的比喻來說明人對神的真理的不同回應。</li>
+    <li>耶穌回答說:「`聽了神之道而遵行的人，就是我的母親、我的弟兄了。`」</li>
+    <li>耶穌平靜風和海。把鬼趕入豬群。</li>
+    <li>患血漏的女人因信心而得醫治。睚魯的女兒因信心而死裡復活。</li>
+  </ul>
+</details>
+<details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音9.1-50&qs_version=CUVMPT">路加福音 9.1-50</a> - 門徒之道</summary>
+  <ul>
+    <li>耶穌差遣十二門徒出去傳道。</li>
+    <li>耶穌用五餅二魚餵飽五千人。</li>
+    <li>彼得認耶穌為基督。耶穌預言祂的死與復活，並勉勵門徒背起十字架跟隨祂。</li>
+    <li>耶穌登山變像。雲彩中有聲音稱祂為神的兒子。</li>
+    <li>門徒爭論誰為大。</li>
+  </ul>
+</details>
+<details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音9.51-11.13&qs_version=CUVMPT">路加福音 9.51-11.13</a> - 各城傳道</summary>
+  <ul>
+    <li>耶穌說「`人子來不是要滅人的性命，是要救人的性命`」。</li>
+    <li>耶穌差遣七十個門徒出去傳道，他們歡歡喜喜地回來，耶穌為他們感恩。</li>
+    <li>耶穌以好撒瑪利亞人的故事來說明愛人的誡命。馬大和馬利亞的比較而說明愛神的誡命。</li>
+    <li>耶穌教導門徒如何禱告。</li>
+  </ul>
+</details>
+<details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
   <ul>
   </ul>
 </details>
 <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
   <ul>
   </ul>
 </details>
 <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
   <ul>
   </ul>
 </details>
 <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
   <ul>
   </ul>
 </details>
 <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
   <ul>
   </ul>
 </details>
 <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
   <ul>
   </ul>
 </details>
 <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <ul>
+  </ul>
+</details>
+<details>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <ul>
+  </ul>
+</details>
+<details>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <ul>
+  </ul>
+</details>
+<details>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <ul>
+  </ul>
+</details>
+<details>
+  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <ul>
+  </ul>
+</details>
+<details>
+  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <ul>
+  </ul>
+</details>
+<details>
+  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <ul>
+  </ul>
+</details>
+<details>
+  <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <ul>
+  </ul>
+</details>
+<details>
+  <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <ul>
+  </ul>
+</details>
+<details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <ul>
+  </ul>
+</details>
+<details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
+  <ul>
+  </ul>
+</details>
+<details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - 施洗約翰</summary>
   <ul>
   </ul>
 </details>
