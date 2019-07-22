@@ -3,7 +3,7 @@
 # 聖經 - 各書卷
 <details><summary>以賽亞書 - <a href="https://bibleplan.github.io/daily/wk71-day2-daily.html">導讀 第71週第2天</a></summary>  
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書1.1-2.5&qs_version=CUVMPT">以賽亞書 1.1-2.5</a> - 先知預言</summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書1.1-2.5&qs_version=CUVMPT">以賽亞書 1.1-2.5</a> - <a href="https://bibleplan.github.io/daily/wk71-day2-daily.html">先知預言</a></summary>
   <ul>
    <li>當烏西雅、約坦、亞哈斯、希西家做猶大王的時候，以賽亞得默示，論到猶大和耶路撒冷。</li>
    <li>以賽亞責備百姓離棄耶和華，藐視以色列的聖者，與他生疏，往後退步。</li>
@@ -14,7 +14,7 @@
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書2.6-4.1&qs_version=CUVMPT">以賽亞書 2.6-4.1</a> - 降罰之日</summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書2.6-4.1&qs_version=CUVMPT">以賽亞書 2.6-4.1</a> - <a href="https://bibleplan.github.io/daily/wk71-day3-daily.html">降罰之日</a></summary>
   <ul>
    <li>耶和華離棄雅各家，是因他們充滿了東方的風俗，與外邦人擊掌。</li>
    <li>耶和華降罰的日子要臨到驕傲狂妄的，一切自高的都必降為卑，偶像必全然廢棄，除掉眾人所倚靠的、所仗賴的。</li>
@@ -22,7 +22,7 @@
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書4.2-5.30&qs_version=CUVMPT">以賽亞書 4.2-5.30</a> - 選民之禍</summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書4.2-5.30&qs_version=CUVMPT">以賽亞書 4.2-5.30</a> - <a href="https://bibleplan.github.io/daily/wk71-day4-daily.html">選民之禍</a></summary>
   <ul>
    <li>審判之後，耶和華發生的苗必華美尊榮，公義的靈將錫安女子的汙穢洗去。</li>
    <li>葡萄園在肥美的山岡上，指望結好葡萄，反倒結了野葡萄。耶和華的葡萄園就是以色列家，他所喜愛的樹就是猶大人。他指望的是公平，誰知倒有暴虐。</li>
@@ -31,7 +31,7 @@
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書6&qs_version=CUVMPT">以賽亞書 6</a> - 蒙主差遣</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書6&qs_version=CUVMPT">以賽亞書 6</a> - <a href="https://bibleplan.github.io/daily/wk71-day5-daily.html">蒙主差遣</a></summary>
   <ul>
    <li>當烏西雅王崩的那年，以賽亞見主坐在高高的寶座上，其上有撒拉弗侍立敬拜。</li>
    <li>以賽亞自認有禍、滅亡，因為知道自己的嘴唇不潔，又住在嘴唇不潔的民中。</li>
@@ -40,7 +40,7 @@
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書7-8&qs_version=CUVMPT">以賽亞書 7-8</a> - 兩王被棄</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書7-8&qs_version=CUVMPT">以賽亞書 7-8</a> - <a href="https://bibleplan.github.io/daily/wk71-day6-daily.html">兩王被棄</a></summary>
   <ul>
    <li>猶大王亞哈斯在位的時候，亞蘭王利汛和以色列王比加，上來攻打耶路撒冷。</li>
    <li>耶和華讓以賽亞和他的兒子施亞雅述去對亞哈斯說：你要謹慎安靜，不要膽怯。</li>
@@ -51,7 +51,7 @@
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書9-10&qs_version=CUVMPT">以賽亞書 9-10</a> - 擊打百姓</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書9-10&qs_version=CUVMPT">以賽亞書 9-10</a> - <a href="https://bibleplan.github.io/daily/wk72-day1-daily.html">擊打百姓</a></summary>
   <ul>
    <li>從前神使西布倫地和拿弗他利地被藐視，末後得著榮耀。</li>
    <li>因有一嬰孩為我們而生，有一子賜給我們。</li>
@@ -62,7 +62,7 @@
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書11-12&qs_version=CUVMPT">以賽亞書 11-12</a> - 伸手拯救</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書11-12&qs_version=CUVMPT">以賽亞書 11-12</a> - <a href="https://bibleplan.github.io/daily/wk72-day2-daily.html">伸手拯救</a></summary>
   <ul>
    <li>從耶西的本必發一條，耶和華的靈必住在他身上。</li>
    <li>耶西的根立做萬民的大旗，外邦人必尋求他。</li>
@@ -71,7 +71,7 @@
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書13.1-14.27&qs_version=CUVMPT">以賽亞書 13.1-14.27</a> - 論巴比倫</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書13.1-14.27&qs_version=CUVMPT">以賽亞書 13.1-14.27</a> - <a href="https://bibleplan.github.io/daily/wk72-day3-daily.html">論巴比倫</a></summary>
   <ul>
    <li>亞摩斯的兒子以賽亞得默示論巴比倫。</li>
    <li>耶和華的日子臨近，要毀滅巴比倫全地。</li>
@@ -81,7 +81,7 @@
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書14.28-17.14&qs_version=CUVMPT">以賽亞書 14.28-17.14</a> - 斥責列邦</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書14.28-17.14&qs_version=CUVMPT">以賽亞書 14.28-17.14</a> - <a href="https://bibleplan.github.io/daily/wk72-day4-daily.html">斥責列邦</a></summary>
   <ul>
    <li>亞哈斯王崩的那年神的默示。</li>
    <li>非利士全地之重災，必有饑荒，所餘剩的人必被殺戮。</li>
@@ -93,7 +93,7 @@
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書18-20&qs_version=CUVMPT">以賽亞書 18-20</a> - 古實埃及</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書18-20&qs_version=CUVMPT">以賽亞書 18-20</a> - <a href="https://bibleplan.github.io/daily/wk72-day5-daily.html">古實埃及</a></summary>
   <ul>
    <li>古實之民英勇可畏。他們必將禮物奉給萬軍之耶和華，奉到錫安山。</li>
    <li>耶和華臨到埃及。埃及的偶像在他面前戰兢，瑣安的首領極其愚昧，法老大有智慧的謀士所籌劃的成為愚謀。</li>
@@ -102,7 +102,7 @@
   </ul>
  </details>
  <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書21-23&qs_version=CUVMPT">以賽亞書 21-23</a> - 巴比倫滅</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書21-23&qs_version=CUVMPT">以賽亞書 21-23</a> - <a href="https://bibleplan.github.io/daily/wk72-day6-daily.html">巴比倫滅</a></summary>
   <ul>
    <li>先知在異象中得睹巴比倫被滅。巴比倫傾倒了！她一切雕刻的神像都打碎於地。</li>
    <li>論度瑪的默示。論阿拉伯之預言。</li>
@@ -114,7 +114,7 @@
 
 <details><summary>耶利米書 - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">導讀 第77週第3天</a></summary>  
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">耶利米書 1</a> - 蒙神差遣</summary>
+  <summary>1. <a href="https://www.biblegateway.com/passage/?search=Jeremiah1&version=CUVMPT">耶利米書 1</a> - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">蒙神差遣</a></summary>
   <ul>
    <li>約西亞在位十三年，耶和華的話臨到耶利米。</li>
    <li>耶和華未將耶利米造在腹中，就已曉得他。祂已派他做列國的先知。</li>
@@ -124,7 +124,7 @@
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/passage/?search=Jeremiah2.1-3.5&version=CUVMPT">耶利米書 2:1-3:5</a> - 背信棄義</summary>
+  <summary>2. <a href="https://www.biblegateway.com/passage/?search=Jeremiah2.1-3.5&version=CUVMPT">耶利米書 2:1-3:5</a> - <a href="https://bibleplan.github.io/daily/wk77-day4-daily.html">背信棄義</a></summary>
   <ul>
    <li>以色列曾經歸耶和華為聖，作為土產初熟的果子。</li>
    <li>但以色列的列祖遠離神，隨從虛無的神，自己成為虛妄。</li>
@@ -134,7 +134,7 @@
   </ul>
  </details>
 <details>
-  <summary>3. <a href="https://www.biblegateway.com/passage/?search=Jeremiah3:6-4:4&version=CUVMPT">耶利米書 3:6-4:4</a> - 回轉歸神</summary>
+  <summary>3. <a href="https://www.biblegateway.com/passage/?search=Jeremiah3:6-4:4&version=CUVMPT">耶利米書 3:6-4:4</a> - <a href="https://bibleplan.github.io/daily/wk77-day5-daily.html">回轉歸神</a></summary>
   <ul>
    <li>背道的以色列之後，奸詐的妹妹猶大也看見，還不懼怕，也去行淫。</li>
    <li>耶和華呼喚背道的以色列回來，因為祂是慈愛的，必不永遠存怒。</li>
@@ -144,7 +144,7 @@
  </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書4.5-5.31&qs_version=CUVMPT">耶利米書 4.5-5.31</a> - 災禍降臨</summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書4.5-5.31&qs_version=CUVMPT">耶利米書 4.5-5.31</a> - <a href="https://bibleplan.github.io/daily/wk77-day6-daily.html">災禍降臨</a></summary>
   <ul>
    <li>耶和華的葡萄園就是以色列家，他所喜愛的樹就是猶大人。他指望的是公平，誰知倒有暴虐；指望的是公義，誰知倒有冤聲。</li>
    <li>百姓因無知就被擄去，他們的尊貴人甚是飢餓，群眾極其乾渴。</li>
@@ -153,7 +153,7 @@
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書6&qs_version=CUVMPT">耶利米書 6</a> - 當罰之城</summary>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書6&qs_version=CUVMPT">耶利米書 6</a> - <a href="https://bibleplan.github.io/daily/wk78-day1-daily.html">當罰之城</a></summary>
   <ul>
    <li>警告便雅憫人當逃出耶路撒冷，因為有災禍與大毀滅從北方張望。</li>
    <li>耶和華稱耶路撒冷為該罰的城，其中盡是欺壓。耶路撒冷當受教。</li>
@@ -162,7 +162,7 @@
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 7.1-8.17&qs_version=CUVMPT">耶利米書 7.1-8.17</a> - 呼喚悔改</summary>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 7.1-8.17&qs_version=CUVMPT">耶利米書 7.1-8.17</a> - <a href="https://bibleplan.github.io/daily/wk78-day2-daily.html">呼喚悔改</a></summary>
   <ul>
    <li>耶和華要猶大人改正行動作為，就使他們在這地方仍然居住。</li>
    <li>耶和華要向這應許之地施行的，像從前向示羅所行的一樣。</li>
@@ -172,7 +172,7 @@
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 8.18-10.25&qs_version=CUVMPT">耶利米書 8.18-10.25</a> - 刑罰罪人</summary>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 8.18-10.25&qs_version=CUVMPT">耶利米書 8.18-10.25</a> - <a href="https://bibleplan.github.io/daily/wk78-day3-daily.html">刑罰罪人</a></summary>
   <ul>
    <li>先知為百姓中被殺的人晝夜哭泣！為山嶺哭泣悲哀，為曠野的草場揚聲哀號。</li>
    <li>因為百姓離棄律法，隨從自己頑梗的心行事，所以耶和華要把他們散在列邦中。</li>
@@ -180,7 +180,7 @@
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 11-12&qs_version=CUVMPT">耶利米書 11-12</a> - 災禍臨到</summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 11-12&qs_version=CUVMPT">耶利米書 11-12</a> - <a href="https://bibleplan.github.io/daily/wk78-day4-daily.html">災禍臨到</a></summary>
   <ul>
    <li>耶和華要耶利米告訴猶大人和耶路撒冷的居民，不聽從這約之話的人必受咒詛。</li>
    <li>要在猶大城邑中和耶路撒冷街市上宣告，你們當聽從遵行這約的話。</li>
@@ -191,7 +191,7 @@
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 13&qs_version=CUVMPT">耶利米書 13</a> - 敗壞驕傲</summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 13&qs_version=CUVMPT">耶利米書 13</a> - <a href="https://bibleplan.github.io/daily/wk78-day5-daily.html">敗壞驕傲</a></summary>
   <ul>
    <li>耶和華必敗壞猶大的驕傲和耶路撒冷的大驕傲。</li>
    <li>惡民不肯聽耶和華的話，按自己頑梗的心而行。</li>
@@ -201,7 +201,7 @@
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 14-15&qs_version=CUVMPT">耶利米書 14-15</a> - 反復懇求</summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書 14-15&qs_version=CUVMPT">耶利米書 14-15</a> - <a href="https://bibleplan.github.io/daily/wk78-day5-daily.html">反復懇求</a></summary>
   <ul>
    <li>耶和華論到乾旱之災的話臨到耶利米。</li>
    <li>耶利米認罪祈禱,但耶和華不允,要他不要為這百姓祈禱求好處。</li>
@@ -213,7 +213,7 @@
   </ul>
  </details>
 <details>
-  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書16-17&qs_version=CUVMPT">耶利米書 16-17</a> - 此地必滅</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書16-17&qs_version=CUVMPT">耶利米書 16-17</a> - <a href="https://bibleplan.github.io/daily/wk79-day1-daily.html">此地必滅</a></summary>
   <ul>
     <li>耶和華要先知不可娶妻，生兒養女，因他們必死得甚苦，無人哀哭。</li>
     <li>耶和華說：因為百姓的列祖離棄我，所以我必將你們從這地趕出。</li>
@@ -227,7 +227,7 @@
   </ul>
  </details>
 <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書18-19&qs_version=CUVMPT">耶利米書 18-19</a> - 擊打破碎</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書18-19&qs_version=CUVMPT">耶利米書 18-19</a> - <a href="https://bibleplan.github.io/daily/wk79-day2-daily.html">擊打破碎</a></summary>
   <ul>
     <li>耶和華讓先知下到窯匠的家裡去。耶和華以色列如這窯匠弄泥。泥在窯匠的手中怎樣，你們在我的手中也怎樣。</li>
     <li>耶和華造出災禍攻擊以色列。各人當回頭離開所行的惡道，改正行動作為。</li>
@@ -236,7 +236,7 @@
   </ul>
  </details>
 <details>
-  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書20&qs_version=CUVMPT">耶利米書 20</a> - 先知被嘲
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書20&qs_version=CUVMPT">耶利米書 20</a> - <a href="https://bibleplan.github.io/daily/wk79-day3-daily.html">先知被嘲</a>
 </summary>
   <ul>
     <li>巴施戶珥做耶和華殿的總管，聽見耶利米的預言，就打先知，並將他枷在殿中，次日開枷釋放。</li>
@@ -247,7 +247,7 @@
   </ul>
  </details>
 <details>
-  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書21-22&qs_version=CUVMPT">耶利米書 21-22</a> - 聖城被圍
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書21-22&qs_version=CUVMPT">耶利米書 21-22</a> - <a href="https://bibleplan.github.io/daily/wk79-day4-daily.html">聖城被圍</a>
 </summary>
   <ul>
     <li>因巴比倫王尼布甲尼撒來攻擊，西底家王求耶利米向耶和華代求。</li>
@@ -260,7 +260,7 @@
   </ul>
  </details>
  <details>
-  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書23-24&qs_version=CUVMPT">耶利米書 23-24</a> - 一線曙光</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書23-24&qs_version=CUVMPT">耶利米書 23-24</a> - <a href="https://bibleplan.github.io/daily/wk79-day5-daily.html">一線曙光</a></summary>
   <ul>
     <li>預言那些殘害神的群羊的牧人有禍了。</li>
     <li>大衛的後裔中要興起公義的苗裔。</li>
@@ -270,7 +270,7 @@
   </ul>
  </details>
  <details>
-  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書25&qs_version=CUVMPT">耶利米書 25</a> - 預言被擄
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書25&qs_version=CUVMPT">耶利米書 25</a> - <a href="https://bibleplan.github.io/daily/wk79-day6-daily.html">預言被擄</a>
 </summary>
   <ul>
     <li>先知責備猶大人在二十三年之內，不聽從耶和華的話。</li>
