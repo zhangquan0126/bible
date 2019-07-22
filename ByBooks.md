@@ -213,7 +213,7 @@
   </ul>
  </details>
 <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書16-17&qs_version=CUVMPT">耶利米書 16-17</a> - 此地必滅</summary>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書16-17&qs_version=CUVMPT">耶利米書 16-17</a> - 此地必滅</summary>
   <ul>
     <li>耶和華要先知不可娶妻，生兒養女，因他們必死得甚苦，無人哀哭。</li>
     <li>耶和華說：因為百姓的列祖離棄我，所以我必將你們從這地趕出。</li>
@@ -227,7 +227,7 @@
   </ul>
  </details>
 <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書16-17&qs_version=CUVMPT">耶利米書 16-17</a> - 擊打破碎</summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書18-19&qs_version=CUVMPT">耶利米書 18-19</a> - 擊打破碎</summary>
   <ul>
     <li>耶和華讓先知下到窯匠的家裡去。耶和華以色列如這窯匠弄泥。泥在窯匠的手中怎樣，你們在我的手中也怎樣。</li>
     <li>耶和華造出災禍攻擊以色列。各人當回頭離開所行的惡道，改正行動作為。</li>
@@ -236,7 +236,7 @@
   </ul>
  </details>
 <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書20&qs_version=CUVMPT">耶利米書 20</a> - 先知被嘲
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書20&qs_version=CUVMPT">耶利米書 20</a> - 先知被嘲
 </summary>
   <ul>
     <li>巴施戶珥做耶和華殿的總管，聽見耶利米的預言，就打先知，並將他枷在殿中，次日開枷釋放。</li>
@@ -247,7 +247,7 @@
   </ul>
  </details>
 <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書21-22&qs_version=CUVMPT">耶利米書 21-22</a> - 聖城被圍
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書21-22&qs_version=CUVMPT">耶利米書 21-22</a> - 聖城被圍
 </summary>
   <ul>
     <li>因巴比倫王尼布甲尼撒來攻擊，西底家王求耶利米向耶和華代求。</li>
@@ -260,7 +260,7 @@
   </ul>
  </details>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書23-24&qs_version=CUVMPT">耶利米書 23-24</a> - 一線曙光</summary>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書23-24&qs_version=CUVMPT">耶利米書 23-24</a> - 一線曙光</summary>
   <ul>
     <li>預言那些殘害神的群羊的牧人有禍了。</li>
     <li>大衛的後裔中要興起公義的苗裔。</li>
@@ -270,7 +270,7 @@
   </ul>
  </details>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書25&qs_version=CUVMPT">耶利米書 25</a> - 預言被擄
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書25&qs_version=CUVMPT">耶利米書 25</a> - 預言被擄
 </summary>
   <ul>
     <li>先知責備猶大人在二十三年之內，不聽從耶和華的話。</li>
