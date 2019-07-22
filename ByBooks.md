@@ -212,4 +212,72 @@
    <li>耶利米求耶和華記念、眷顧。</li>
   </ul>
  </details>
+<details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書16-17&qs_version=CUVMPT">耶利米書 16-17</a> - 此地必滅</summary>
+  <ul>
+    <li>耶和華要先知不可娶妻，生兒養女，因他們必死得甚苦，無人哀哭。</li>
+    <li>耶和華說：因為百姓的列祖離棄我，所以我必將你們從這地趕出。</li>
+    <li>耶和華說：日子將到，我要領他們再入我從前賜給他們列祖之地。</li>
+    <li>耶和華是力量和保障，在苦難之日是我的避難所。</li>
+    <li>猶大的罪是用鐵筆、用金鋼鑽記錄的，銘刻在他們的心版上和壇角上。</li>
+    <li>倚靠人血肉的膀臂，心中離棄耶和華的，那人有禍了！倚靠耶和華，以耶和華為可靠的，那人有福了！</li>
+    <li>人心比萬物都詭詐，壞到極處，誰能識透呢？耶和華鑒察人心。</li>
+    <li>百姓不信預言，說：`「耶和華的話在哪裡呢？叫這話應驗吧！」`</li>
+    <li>安息日為聖日，在那日無論何工都不做。</li>
+  </ul>
+ </details>
+<details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書16-17&qs_version=CUVMPT">耶利米書 16-17</a> - 擊打破碎</summary>
+  <ul>
+    <li>耶和華讓先知下到窯匠的家裡去。耶和華以色列如這窯匠弄泥。泥在窯匠的手中怎樣，你們在我的手中也怎樣。</li>
+    <li>耶和華造出災禍攻擊以色列。各人當回頭離開所行的惡道，改正行動作為。</li>
+    <li>先知求耶和華拯救他離開那些要設計謀害耶利米之人的陷阱。</li>
+    <li>耶和華打發先知去買窯匠的瓦瓶，宣告神的話：…祂必使災禍臨到這地方，凡聽見的人都必耳鳴。並在同去的人眼前打碎那瓶，說：耶和華要照樣打碎這民和這城，正如人打碎窯匠的瓦器，以致不能再囫圇。</li>
+  </ul>
+ </details>
+<details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書20&qs_version=CUVMPT">耶利米書 20</a> - 先知被嘲
+</summary>
+  <ul>
+    <li>巴施戶珥做耶和華殿的總管，聽見耶利米的預言，就打先知，並將他枷在殿中，次日開枷釋放。</li>
+    <li>耶利米預言巴施戶珥必自覺驚嚇，也必使眾朋友驚嚇。</li>
+    <li>先知哀求自己終日成為笑話，被人人戲弄，並聽見了許多人的讒謗，四圍都是驚嚇。</li>
+    <li>先知堅定知道耶和華與他同在，逼迫他的必都絆跌，不能得勝。</li>
+    <li>先知願自己生的那日受咒詛，因他勞碌愁苦，因羞愧消滅。</li>
+  </ul>
+ </details>
+<details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書21-22&qs_version=CUVMPT">耶利米書 21-22</a> - 聖城被圍
+</summary>
+  <ul>
+    <li>因巴比倫王尼布甲尼撒來攻擊，西底家王求耶利米向耶和華代求。</li>
+    <li>耶利米預言耶和華要在怒中用伸出來的手並大能的膀臂親自攻擊耶路撒冷，並勸百姓出去歸降迦勒底人。</li>
+    <li>先知訓責猶大王的家，當聽耶和華的話，施行公平，拯救被搶奪的。</li>
+    <li>先知警勸猶大王和百姓，要施行公平和公義，拯救被搶奪的。</li>
+    <li>預言猶大王約西亞的兒子沙龍要死在被擄去的地方。</li>
+    <li>預言約雅敬有禍了。</li>
+    <li>預言哥尼雅將被交給巴比倫王尼布甲尼撒和迦勒底人的手中。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書23-24&qs_version=CUVMPT">耶利米書 23-24</a> - 一線曙光</summary>
+  <ul>
+    <li>預言那些殘害神的群羊的牧人有禍了。</li>
+    <li>大衛的後裔中要興起公義的苗裔。</li>
+    <li>論偽先知之惡和他們將要受到的懲罰。</li>
+    <li>譏誚先知的人必受刑罰。</li>
+    <li>耶和華以極好的無花果比喻被擄去的猶大人中得蒙看顧，得好處的；用極壞的無花果比喻猶大王和其他人民，在天下萬國中拋來拋去，遭遇災禍，被神趕逐。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書25&qs_version=CUVMPT">耶利米書 25</a> - 預言被擄
+</summary>
+  <ul>
+    <li>先知責備猶大人在二十三年之內，不聽從耶和華的話。</li>
+    <li>預言巴比倫將擄掠猶大人七十年。</li>
+    <li>七十年滿了以後，巴比倫並迦勒底人之地因罪孽將永遠荒涼。</li>
+    <li>以一杯憤怒的酒比喻神的審判。</li>
+    <li>牧人當為人民哀號、呼喊。</li>
+  </ul>
+ </details>
 </details>
