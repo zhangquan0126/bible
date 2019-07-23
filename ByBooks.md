@@ -169,6 +169,69 @@
     <li>耶和華救贖的民必歸回，歌唱來到錫安，必得著歡喜快樂，憂愁嘆息盡都逃避。</li>
   </ul>
  </details>
+ <details>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書36-37&qs_version=CUVMPT">以賽亞書 36-37</a> - <a href="https://bibleplan.github.io/daily/wk74-day1-daily.html">因驕致禍</a></summary>
+  <ul>
+    <li>希西家王十四年，亞述王西拿基立上來攻擊猶大的一切堅固城，將城攻取。</li>
+    <li>亞述王從拉吉差遣拉伯沙基率領大軍往耶路撒冷，拉伯沙基對猶大人狂語。</li>
+    <li>希西家王聽見，就撕裂衣服，進了耶和華的殿，並差遣人去見以賽亞。</li>
+    <li>以賽亞安慰希西家王的臣僕。</li>
+    <li>希西家向耶和華禱告。</li>
+    <li>以賽亞預言亞述王因驕致禍。耶和華的使者在亞述營中殺了十八萬五千人。</li>
+    <li>亞述王為子所弑。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書38-39&qs_version=CUVMPT">以賽亞書 38-39</a> - <a href="https://bibleplan.github.io/daily/wk74-day2-daily.html">病而痊愈</a></summary>
+  <ul>
+    <li>希西家病得要死，轉臉朝牆，向耶和華禱告。</li>
+    <li>耶和華的話臨到以賽亞，讓他告訴希西家，神必加增他十五年的壽數，也要保護這城。</li>
+    <li>希西家患病痊癒，就作感恩之歌。</li>
+    <li>巴比倫王聽見希西家病而痊癒，就送書信和禮物給他。希西家把自己寶庫的一切都給使者看。</li>
+    <li>以賽亞預言希西家被擄到巴比倫去。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書40.1-11&qs_version=CUVMPT">以賽亞書 40.1-11</a> - <a href="https://bibleplan.github.io/daily/wk74-day3-daily.html">主為牧人</a></summary>
+  <ul>
+    <li>神安慰百姓，對耶路撒冷說安慰的話。</li>
+    <li>在曠野預備耶和華的路，在沙漠地修平我們神的道。</li>
+    <li>耶和華的榮耀必然顯現，凡有血氣的必一同看見。</li>
+    <li>主耶和華必像大能者臨到，必像牧人牧養自己的羊群。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書40.12-41.29&qs_version=CUVMPT">以賽亞書 40.12-41.29</a> - <a href="https://bibleplan.github.io/daily/wk74-day4-daily.html">無人可比</a></summary>
+  <ul>
+    <li>神是無人可比，沒有什麼形象可比較。</li>
+    <li>神創造萬象，按數目領出。</li>
+    <li>神必帶領以色列。疲乏的，他賜能力；軟弱的，他加力量。</li>
+    <li>神對以色列說:『你是我的僕人，我揀選你並不棄絕你。』你不要害怕，因為我與你同在；不要驚惶，因為我是你的神。我必堅固你，我必幫助你，我必用我公義的右手扶持你。</li>
+    <li>假神都屬乎虛無，他們的作為也屬乎虛空，那選擇他們的是可憎惡的。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書42-43&qs_version=CUVMPT">以賽亞書 42-43</a> - <a href="https://bibleplan.github.io/daily/wk74-day5-daily.html">獨一救主</a></summary>
+  <ul>
+    <li>耶和華已揀選僕人，他必將公理傳給外邦。</li>
+    <li>耶和華憑公義召他，使他做眾民的中保，做外邦人的光。</li>
+    <li>萬國將榮耀歸給耶和華，在海島中傳揚他的頌讚。</li>
+    <li>責備人民看見許多事卻不領會，耳朵開通卻不聽見。</li>
+    <li>鼓勵以色列不要害怕。明白在耶和華以前沒有真神，以後也必沒有。除耶和華以外沒有救主。</li>
+    <li>預言巴比倫的傾覆。</li>
+    <li>耶和華要做一件新事。</li>
+    <li>耶和華有赦罪之恩，必塗抹以色列的過犯，也不記念他們罪惡。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書44.1-23&qs_version=CUVMPT">以賽亞書 44.1-23</a> - <a href="https://bibleplan.github.io/daily/wk74-day6-daily.html">諸天頌揚</a></summary>
+  <ul>
+    <li>耶和華以色列的君是首先的，是末後的，除祂以外，再沒有真神。</li>
+    <li>勸以色列不要恐懼，也不要害怕！因他們是耶和華的見證。</li>
+    <li>製造雕刻偶像的盡都虛空，他們所喜悅的都無益處。</li>
+    <li>諸天應當歌唱！因為耶和華救贖了雅各，並要因以色列榮耀自己。</li>
+  </ul>
+ </details>
 </details>
 
 <details><summary>耶利米書 - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">導讀 第77週第3天</a></summary>  
