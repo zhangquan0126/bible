@@ -110,6 +110,65 @@
    <li>推羅變為荒場。七十年後，耶和華必眷顧推羅。</li>
   </ul>
  </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書24-25&qs_version=CUVMPT">以賽亞書 24-25</a> - <a href="https://bibleplan.github.io/daily/wk73-day1-daily.html">頌讚主名</a></summary>
+  <ul>
+    <li>地被居民汙穢，因為他們犯了律法，背了永約。所以地被咒詛吞滅。 </li>
+    <li>人要為耶和華的威嚴歡呼，從地極有人歌唱說：「榮耀歸於義人！」 </li>
+    <li>耶和華必在耶路撒冷做王，在敬畏他的長老面前必有榮耀。 </li>
+    <li>先知因神的公義、恩典和救恩而頌讚主名。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書26-27&qs_version=CUVMPT">以賽亞書 26-27</a> - <a href="https://bibleplan.github.io/daily/wk73-day2-daily.html">聚集餘民</a></summary>
+  <ul>
+    <li>猶大地人唱歌，勸人當倚靠耶和華，直到永遠，因為耶和華是永久的磐石。</li>
+    <li>百姓要進入內室，關上門，隱藏片時，等到憤怒過去。</li>
+    <li>耶和華看守葡萄園，必時刻澆灌，晝夜看守，免得有人損害。</li>
+    <li>到那日耶和華必將以色列人收集。</li>
+    <li>當那日，必大發角聲，餘民在耶路撒冷聖山上敬拜耶和華。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書28-29&qs_version=CUVMPT">以賽亞書 28-29</a> - <a href="https://bibleplan.github.io/daily/wk73-day3-daily.html">不可褻慢</a></summary>
+  <ul>
+    <li>以法蓮心裡高傲，猶如將殘之花。</li>
+    <li>到那日，耶和華必做他餘剩之民的榮冠華冕。</li>
+    <li>主耶和華在錫安放一塊石頭作為根基，是穩固根基，寶貴的房角石，信靠的人必不著急。</li>
+    <li>先知勸人不可褻慢，恐怕捆你們的綁索更結實了。</li>
+    <li>百姓用嘴唇尊敬耶和華，心卻遠離祂。他們敬畏，不過是領受人的吩咐。</li>
+    <li>謙卑人必因耶和華增添歡喜，人間貧窮的必因以色列的聖者快樂。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書30-31&qs_version=CUVMPT">以賽亞書 30-31</a> - <a href="https://bibleplan.github.io/daily/wk73-day4-daily.html">悖逆兒女</a></summary>
+  <ul>
+    <li>耶和華責備悖逆的兒女下埃及去，靠法老的力量。</li>
+    <li>責備人民悖逆不聽訓言。</li>
+    <li>仰望耶和華者必蒙福祉，凡等候他的，都是有福的！</li>
+    <li>亞述人必因耶和華的聲音驚惶，耶和華必用杖擊打他。</li>
+    <li>以色列人要歸向耶和華。</li>
+    <li>亞述人必倒在刀下，必逃避這刀，他的少年人必成為服苦的。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書32-33&qs_version=CUVMPT">以賽亞書 32-33</a> - <a href="https://bibleplan.github.io/daily/wk73-day5-daily.html">復興應許</a></summary>
+  <ul>
+    <li>必有一王憑公義行政，必有首領藉公平掌權。</li>
+    <li>預言猶大國之荒廢，直等到聖靈從上澆灌我們。</li>
+    <li>毀滅人的必被毀滅；行詭詐的，人必以詭詐待你。</li>
+    <li>行事公義，說話正直的必居高處，他的保障是磐石的堅壘。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書34-35&qs_version=CUVMPT">以賽亞書 34-35</a> - <a href="https://bibleplan.github.io/daily/wk73-day6-daily.html">復仇申冤</a></summary>
+  <ul>
+    <li>耶和華向萬國發憤恨，將他們滅盡，因耶和華有報仇之日。</li>
+    <li>曠野和乾旱之地必然歡喜。人必看見耶和華的榮耀，我們神的華美。</li>
+    <li>那時瞎子的眼必睜開，聾子的耳必開通。</li>
+    <li>耶和華救贖的民必歸回，歌唱來到錫安，必得著歡喜快樂，憂愁嘆息盡都逃避。</li>
+  </ul>
+ </details>
 </details>
 
 <details><summary>耶利米書 - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">導讀 第77週第3天</a></summary>  
