@@ -232,6 +232,70 @@
     <li>諸天應當歌唱！因為耶和華救贖了雅各，並要因以色列榮耀自己。</li>
   </ul>
  </details>
+ <details>
+  <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書44.24-45.25&qs_version=CUVMPT">以賽亞書 44.24-45.25</a> - <a href="https://bibleplan.github.io/daily/wk75-day1-daily.html">興起拯救</a></summary>
+  <ul>
+    <li>耶和華是創造萬物的，是獨自鋪張諸天、鋪開大地的。</li>
+    <li>耶和華膏居魯士，攙扶他的右手，使列國降伏在他面前。</li>
+    <li>耶和華憑公義興起居魯士。他必建造我的城，釋放我被擄的民。</li>
+    <li>地極的人都當仰望耶和華，就必得救，因為祂是神，再沒有別神。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書46-47&qs_version=CUVMPT">以賽亞書 46-47</a> - <a href="https://bibleplan.github.io/daily/wk75-day2-daily.html">公義臨到</a></summary>
+  <ul>
+    <li>巴比倫的偶像不能被保全，將要被擄去。</li>
+    <li>耶和華已造做以色列，也必保抱；祂必懷抱，也必拯救。</li>
+    <li>誰可與耶和華相比，與祂同等呢？</li>
+    <li>神從起初指明末後的事，從古時言明未成的事，祂的籌算必立定。</li>
+    <li>巴比倫必將敗落。因它毫不憐憫以色列的百姓，把極重的軛加在老年人身上。</li>
+    <li>巴比倫專好宴樂，安然居住的，以為除他們以外再沒有別的，且素來倚仗自己的惡行，因此，禍患要臨到他們。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書48&qs_version=CUVMPT">以賽亞書 48</a> - <a href="https://bibleplan.github.io/daily/wk75-day3-daily.html">呼喚悔改</a></summary>
+  <ul>
+    <li>責備雅各家指著耶和華的名起誓，卻不憑誠實，不憑公義。</li>
+    <li>責備雅各家行事極其詭詐，自從出胎以來便稱為悖逆的。</li>
+    <li>但耶和華為祂的名暫且忍怒，為祂的頌讚容忍。</li>
+    <li>呼喚雅各家當聽聖言！他們要從巴比倫出來，從迦勒底人中逃脫，以歡呼的聲音傳揚說：「耶和華救贖了他的僕人雅各!」你們要將這事宣揚到地極。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書49-50&qs_version=CUVMPT">以賽亞書 49-50</a> - <a href="https://bibleplan.github.io/daily/wk75-day4-daily.html">神的僕人</a></summary>
+  <ul>
+    <li>自我出胎，耶和華就選召我;雖然勞碌是徒然，然而我的賞賜必在我神那裡。</li>
+    <li>耶和華從我出胎造就我做他的僕人，要使雅各歸向他，我的神也成為我的力量。</li>
+    <li>神要祂的僕人不僅使雅各眾支派復興，還要做外邦人的光，施行救恩，直到地極。</li>
+    <li>耶和華要保護祂的僕人，做眾民的中保，復興遍地。</li>
+    <li>婦人焉能忘記她吃奶的嬰孩？耶和華將祂的子民銘刻在掌上。</li>
+    <li>神的僕人任人凌辱，但耶和華必幫助，所以不抱愧，不蒙羞。</li>
+    <li>當倚靠耶和華的名，仗賴自己的神。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書51.1-52.12&qs_version=CUVMPT">以賽亞書 51.1-52.12</a> - <a href="https://bibleplan.github.io/daily/wk75-day5-daily.html">救恩臨到</a></summary>
+  <ul>
+    <li>追求公義、尋求耶和華的，要追想神的選召和賜福。</li>
+    <li>耶和華已經安慰錫安，在其中必有歡喜、快樂、感謝和歌唱的聲音。</li>
+    <li>百姓要留心而聽，因為訓誨必從神而出，祂的膀臂要審判萬民，海島都要等候祂，倚賴祂的膀臂。</li>
+    <li>耶和華救贖的民必歸回，歌唱來到錫安，憂愁嘆息盡都逃避。</li>
+    <li>耶路撒冷要抖下塵土，起來坐在位上!錫安被擄的居民要解開頸項的鎖鏈！</li>
+    <li>耶路撒冷的荒場啊要發起歡聲，一同歌唱！耶和華在萬國眼前露出聖臂，地極的人都看見我們神的救恩了。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書52.13-53.12&qs_version=CUVMPT">以賽亞書 52.13-53.12</a> - <a href="https://bibleplan.github.io/daily/wk75-day6-daily.html">代贖罪孽</a></summary>
+  <ul>
+    <li>神的僕人面貌比別人憔悴，形容比世人枯槁，但行事卻有智慧，必被高舉上升，且成為至高。</li>
+    <li>神的僕人無佳形美容，也無美貌使人羨慕。</li>
+    <li>他被藐視，被人厭棄，多受痛苦，常經憂患。我們也不尊重他。</li>
+    <li>他誠然擔當我們的憂患，背負我們的痛苦，我們卻以為他受責罰，被神擊打苦待了。哪知他為我們的過犯受害，為我們的罪孽壓傷。因他受的刑罰我們得平安，因他受的鞭傷我們得醫治。</li>
+    <li>他被欺壓，在受苦的時候卻不開口。</li>
+    <li>耶和華定意將他壓傷，使他受痛苦。耶和華以他為贖罪祭。耶和華所喜悅的事必在他手中亨通。</li>
+    <li>他必看見自己勞苦的功效，便心滿意足。有許多人因認識我的義僕得稱為義，並且他要擔當他們的罪孽。</li>
+  </ul>
+ </details>
 </details>
 
 <details><summary>耶利米書 - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">導讀 第77週第3天</a></summary>  
