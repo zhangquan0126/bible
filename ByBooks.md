@@ -296,6 +296,69 @@
     <li>他必看見自己勞苦的功效，便心滿意足。有許多人因認識我的義僕得稱為義，並且他要擔當他們的罪孽。</li>
   </ul>
  </details>
+ <details>
+  <summary>30. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書54-55&qs_version=CUVMPT">以賽亞書 54-55</a> - <a href="https://bibleplan.github.io/daily/wk76-day6-daily.html">擴張帳幕</a></summary>
+  <ul>
+    <li>要擴張你帳幕之地,你的後裔必得多國為業。</li>
+    <li>不要懼怕,因你必不致蒙羞.</li>
+    <li>神的怒氣漲溢,頃刻之間向你掩面,卻要以永遠的慈愛憐恤你。</li>
+    <li>神的慈愛必不離開你,神平安的約也不遷移。</li>
+    <li>你必因公義得堅立,必遠離欺壓,不致害怕。</li>
+    <li>你們當就近神來,側耳而聽,就必得活。神必與你們立永約。</li>
+    <li>當趁耶和華可尋找的時候尋找他,惡人當離棄自己的道路,神必廣行赦免。</li>
+    <li>耶和華的道路高過你們的道路,祂的意念高過你們的意念。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>31. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書56-57&qs_version=CUVMPT">以賽亞書 56-57</a> - <a href="https://bibleplan.github.io/daily/wk76-day2-daily.html">至高至聖</a></summary>
+  <ul>
+    <li>當謹守安息日而不干犯，禁止己手而不作惡。</li>
+    <li>耶和華的殿必稱為萬民禱告的殿。</li>
+    <li>嚴責猶大人悖逆詭詐，但那投靠耶和華的必得地土。</li>
+    <li>耶和華住在至高至聖的所在，也與心靈痛悔、謙卑的人同居。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>32. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書58-59&qs_version=CUVMPT">以賽亞書 58-59</a> - <a href="https://bibleplan.github.io/daily/wk76-day3-daily.html">拯救罪人</a></summary>
+  <ul>
+    <li>神要先知向百姓說明他們的過犯，向雅各家說明他們的罪惡。</li>
+    <li>若禁食的日子仍求利益，互相爭競，這樣禁食，豈是神所揀選，使人刻苦己心的日子嗎？</li>
+    <li>人若在安息日掉轉腳步，不辦自己的私事，就以耶和華為樂。</li>
+    <li>耶和華的膀臂並非縮短不能拯救，但罪孽使你們與神隔絕。</li>
+    <li>耶和華看見無人拯救，無人代求，就用自己的膀臂施行拯救，以公義扶持自己。</li>
+    <li>必有一位救贖主來到錫安，雅各族中轉離過犯的人那裡。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>33. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書60-61&qs_version=CUVMPT">以賽亞書 60-61</a> - <a href="https://bibleplan.github.io/daily/wk76-day4-daily.html">興起發光</a></summary>
+  <ul>
+    <li>興起發光，耶和華的榮耀發現照耀你，萬國要來就你的光。</li>
+    <li>眾人都聚集來到你這裡。哪一邦哪一國不侍奉你，就必滅亡。</li>
+    <li>你雖然被撇棄被厭惡，耶和華卻使你變為永遠的榮華，成為累代的喜樂。</li>
+    <li>耶和華卻要做你永遠的光。</li>
+    <li>主耶和華的靈在受膏者身上，要傳好信息給謙卑的人，報告耶和華的恩年。</li>
+    <li>他們必修造已久的荒場，建立先前淒涼之處，重修歷代荒涼之城。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>34. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書62.1-63.6&qs_version=CUVMPT">以賽亞書 62.1-63.6</a> - <a href="https://bibleplan.github.io/daily/wk76-day5-daily.html">直到地極</a></summary>
+  <ul>
+    <li>先知因錫安必不靜默，直到公義如光輝發出。</li>
+    <li>你必不再稱為「撇棄的」，卻要稱為「我所喜悅的」，因為耶和華喜悅你，你的地也必歸他。</li>
+    <li>耶和華曾宣告到地極，對錫安的居民說：「你的拯救者來到！他的賞賜在他那裡，他的報應在他面前。」</li>
+    <li>憑公義說話，以大能施行拯救的神將敵人踐踏。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>35. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書63.7-64.12&qs_version=CUVMPT">以賽亞書 63.7-64.12</a> - <a href="https://bibleplan.github.io/daily/wk76-day6-daily.html">裂天而降</a></summary>
+  <ul>
+    <li>受膏者與人同受苦難，並以慈愛和憐憫救贖他們。</li>
+    <li>當人悖逆，使主的聖靈擔憂，他就轉做他們的仇敵，親自攻擊他們。</li>
+    <li>神引導百姓，要建立自己榮耀的名。求你從天上垂顧。</li>
+    <li>願你裂天而降，願山在你面前震動，使你敵人知道你的名。</li>
+    <li>耶和華仍是我們的父！我們是泥，你是窯匠，我們都是你手的工作。</li>
+  </ul>
+ </details>
 </details>
 
 <details><summary>耶利米書 - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">導讀 第77週第3天</a></summary>  
