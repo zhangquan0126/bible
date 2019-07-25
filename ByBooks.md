@@ -359,6 +359,27 @@
     <li>耶和華仍是我們的父！我們是泥，你是窯匠，我們都是你手的工作。</li>
   </ul>
  </details>
+<details>
+  <summary>36. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書65.1-16&qs_version=CUVMPT">以賽亞書 65.1-16</a> - <a href="https://bibleplan.github.io/daily/wk77-day1-daily.html">遺民得福</a></summary>
+  <ul>
+    <li>素來沒有尋找耶和華的，會叫他們遇見，並稱為神的名下。</li>
+    <li>猶大因不信而被神所棄，神必不靜默，必施行報應。</li>
+    <li>耶和華必從雅各中領出後裔，承受眾山。</li>
+    <li>在地上為自己求福的，必憑真實的神求福。因為從前的患難已經忘記。</li>
+  </ul>
+ </details>
+<details>
+  <summary>37. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書65.17-66.24&qs_version=CUVMPT">以賽亞書 65.17-66.24</a> - <a href="https://bibleplan.github.io/daily/wk77-day2-daily.html">新天新地</a></summary>
+  <ul>
+    <li>耶和華造新天新地，從前的事不再被記念。當因神所造的永遠歡喜快樂。</li>
+    <li>天是神的座位，地是神的腳凳。但神所看顧的就是虛心、痛悔的人。</li>
+    <li>因耶和華的名趕出你們的必定蒙羞。</li>
+    <li>愛慕耶路撒冷的，都要與她一同歡喜快樂。</li>
+    <li>耶和華必在火中降臨，施行報應。</li>
+    <li>耶和華必將萬民萬族聚來，看見祂的榮耀。</li>
+    <li>選民的後裔和名字必長存。</li>
+  </ul>
+ </details>
 </details>
 
 <details><summary>耶利米書 - <a href="https://bibleplan.github.io/daily/wk77-day3-daily.html">導讀 第77週第3天</a></summary>  
