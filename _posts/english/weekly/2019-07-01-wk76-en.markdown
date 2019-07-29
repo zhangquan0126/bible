@@ -1,7 +1,7 @@
 ---
 layout: weekly-en
 title: "Weekly Guide：Week 76"
-date: 2019-07-01
+date: 2019-07-08
 categories: weekly guide
 permalink: "/en/guide/wk76.html"
 weekNum: 76
