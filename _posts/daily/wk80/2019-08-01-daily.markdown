@@ -1,7 +1,7 @@
 ---
 layout: daily2
 title: 第80週第4天 應許歸回
-date: 2019-7-32
+date: 2019-8-1
 categories: daily
 permalink: /daily/wk80-day4-daily.html
 weekNum: 80
