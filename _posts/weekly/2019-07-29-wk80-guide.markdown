@@ -6,3 +6,4 @@ categories: weekly guide
 permalink: "/guide/wk80.html"
 weekNum: 80
 ---
+
