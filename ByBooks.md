@@ -550,4 +550,77 @@
     <li>牧人當為人民哀號、呼喊。</li>
   </ul>
  </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書26&qs_version=CUVMPT">耶利米書 26</a> - <a href="https://bibleplan.github.io/daily/wk80-day1-daily.html">受命被抓</a>
+</summary>
+  <ul>
+    <li>耶利米說完後，祭司、先知與眾民都來抓住他，說：你必要死。</li>
+    <li>耶利米自辯是受耶和華差遣，預言攻擊這殿和這城。</li>
+    <li>首領和眾民就對祭司、先知說：這人是不該死的，是奉耶和華的名說話。</li>
+    <li>烏利亞照耶利米的話說預言，約雅敬王用刀殺了他。</li>
+    <li>亞希甘保護耶利米，不交在百姓的手中治死他。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書27-28&qs_version=CUVMPT">耶利米書 27-28</a> - <a href="https://bibleplan.github.io/daily/wk80-day2-daily.html">頸項負軛</a>
+</summary>
+  <ul>
+    <li>約雅敬登基的時候，耶和華差遣耶利米做繩索與軛，加在自己的頸項上。</li>
+    <li>耶利米預言無論哪邦哪國，不肯服侍巴比倫王的，必被刀劍、饑荒、瘟疫刑罰。</li>
+    <li>耶利米勸西底家把頸項放在巴比倫王的軛下，服侍他和他的百姓，便得存活。</li>
+    <li>耶利米預言聖殿器物必遷於巴比倫。</li>
+    <li>哈拿尼雅妄言聖器與民會很快返回。</li>
+    <li>耶利米對哈拿尼雅說：願耶和華成就你所預言的話。</li>
+    <li>哈拿尼雅將先知耶利米頸項上的軛取下來折斷，並預言列國人的頸項上折斷巴比倫王的軛。</li>
+    <li>耶利米預言哈拿尼雅折斷木軛，卻換了鐵軛。哈拿尼雅使百姓倚靠假預言，所以當年必死。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書29&qs_version=CUVMPT">耶利米書 29</a> - <a href="https://bibleplan.github.io/daily/wk80-day3-daily.html">真假預言</a>
+</summary>
+  <ul>
+    <li>耶利米從耶路撒冷寄信於被擄的祭司、先知和眾民，要他們為那城求平安，為那城禱告耶和華。</li>
+    <li>不要被假先知和占卜的誘惑，也不要聽信自己所做的夢。</li>
+    <li>為巴比倫所定的七十年滿了以後，耶和華要眷顧，使他們仍回耶路撒冷。</li>
+    <li>耶和華論到亞哈並西底家說：他們是說假預言的，必被交在巴比倫王尼布甲尼撒的手中。</li>
+    <li>示瑪雅說假預言，所以耶和華必刑罰。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書30-31&qs_version=CUVMPT">耶利米書 30-31</a> - <a href="https://bibleplan.github.io/daily/wk80-day4-daily.html">應許歸回</a>
+</summary>
+  <ul>
+    <li>耶和華的話臨到耶利米說：日子將到，我要使我的百姓以色列和猶大被擄的人歸回。</li>
+    <li>耶和華說：到那日，頸項上的軛必備折斷，以色列要侍奉耶和華。</li>
+    <li>耶和華安慰以色列不要驚惶。</li>
+    <li>耶和華必使雅各被擄去的帳篷歸回。凡欺壓他們的，耶和華必刑罰。</li>
+    <li>耶和華必做以色列各家的神，他們必做祂的子民。</li>
+    <li>列國要傳揚耶和華的作為。</li>
+    <li>耶和華要與以色列家和猶大家另立新約：律法放在他們裡面，寫在他們心上；我要做他們的神，他們要做我的子民。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書32-33&qs_version=CUVMPT">耶利米書 32-33</a> - <a href="https://bibleplan.github.io/daily/wk80-day5-daily.html">堅定應許</a>
+</summary>
+  <ul>
+    <li>巴比倫王的軍隊圍困耶路撒冷，耶利米囚在護衛兵的院內，預言哈拿篾必來見他，求他買來在亞拿突的那塊地。</li>
+    <li>耶利米照例按規所立的買契，交給巴錄。</li>
+    <li>耶利米禱告耶和華說，在祂沒有難成的事。</li>
+    <li>耶和華日後必將以色列招聚出來，領他們回到此地，使他們安然居住。</li>
+    <li>耶利米還囚在護衛兵的院內，耶和華的話第二次臨到他。</li>
+    <li>荒廢無人民、無牲畜的猶大城邑和耶路撒冷的街上，必再聽見有歡喜和快樂的聲音。</li>
+    <li>耶和華說：日子將到，我應許以色列家和猶大家的恩言必然成就。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書34-35&qs_version=CUVMPT">耶利米書 34-35</a> - <a href="https://bibleplan.github.io/daily/wk80-day6-daily.html">審判眾民</a>
+</summary>
+  <ul>
+    <li>尼布甲尼撒率領全軍攻打耶路撒冷。耶和華的話臨到耶利米說：我要將這城交付巴比倫王的手，他必用火焚燒。</li>
+    <li>西底家王與耶路撒冷的眾民立約，要向他們宣告自由。但所有立約的首領和眾民又反悔，叫自由的僕人婢女回來為僕婢。</li>
+    <li>所以耶和華說：你們沒有聽從我，你們將於刀劍、饑荒、瘟疫之下，在天下萬國中拋來拋去。</li>
+    <li>耶和華以利甲人聽命而責備以色列人不受教訓，不聽從神的話。</li>
+    <li>利甲族的人因聽從先祖的吩咐，所以利甲的兒子約拿達必永不缺人侍立在神面前。</li>
+  </ul>
+ </details>
 </details>
