@@ -613,6 +613,7 @@
 彼前 2:10 你們從前算不得子民，現在卻做了神的子民；從前未曾蒙憐恤，現在卻蒙了憐恤。
 
 約壹 2:20 你們從那聖者受了恩膏，並且知道這一切的事。27 你們從主所受的恩膏常存在你們心裡，並不用人教訓你們，自有主的恩膏在凡事上教訓你們。這恩膏是真的，不是假的。你們要按這恩膏的教訓住在主裡面。
+   </details>
  </details>
  <details>
   <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書32-33&qs_version=CUVMPT">耶利米書 32-33</a> - <a href="https://bibleplan.github.io/daily/wk80-day5-daily.html">堅定應許</a>
