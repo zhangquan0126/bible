@@ -1,6 +1,7 @@
 [主頁](https://bibleplan.github.io)
 
 # 聖經 - 各書卷
+<details><summary>創世記 - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html>導讀 第1週第1天</a></summary></details>
 <details><summary>以賽亞書 - <a href="https://bibleplan.github.io/daily/wk71-day2-daily.html">導讀 第71週第2天</a></summary>  
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以賽亞書1.1-2.5&qs_version=CUVMPT">以賽亞書 1.1-2.5</a> - <a href="https://bibleplan.github.io/daily/wk71-day2-daily.html">先知預言</a></summary>
