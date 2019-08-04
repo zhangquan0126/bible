@@ -40,8 +40,13 @@
 <details><summary>列王紀下 - <a href="https://bibleplan.github.io/daily/wk59-day4-daily.html">導讀 第59週第4天</a></summary></details>
 <details><summary>歷代志上 - <a href="https://bibleplan.github.io/daily/wk61-day6-daily.html">導讀 第61週第6天</a></summary></details>
 <details><summary>歷代志下 - <a href="https://bibleplan.github.io/daily/wk64-day5-daily.html">導讀 第64週第5天</a></summary></details>
-<details><summary>創世記 - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">導讀 第1週第1天</a></summary></details>
-<details><summary>創世記 - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">導讀 第1週第1天</a></summary></details>
+<details><summary>以斯拉記 - <a href="https://bibleplan.github.io/daily/wk67-day6-daily.html">導讀 第67週第6天</a></summary></details>
+<details><summary>尼希米記 - <a href="https://bibleplan.github.io/daily/wk68-day5-daily.html">導讀 第68週第5天</a></summary></details>
+<details><summary>以斯帖記 - <a href="https://bibleplan.github.io/daily/wk70-day2-daily.html">導讀 第70週第2天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記1.1-2.18&qs_version=CUVMPT">以斯帖記 1.1-2.18</a> - <a href="https://bibleplan.github.io/daily/wk70-day2-daily.html">被選為后</a></summary>
+ </details>
+</details>
 
 <details><summary>以賽亞書 - <a href="https://bibleplan.github.io/daily/wk71-day2-daily.html">導讀 第71週第2天</a></summary>  
  <details>
