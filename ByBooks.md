@@ -2,6 +2,46 @@
 
 # 聖經 - 各書卷
 <details><summary>創世記 - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">導讀 第1週第1天</a></summary></details>
+<details><summary>出埃及記 - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">導讀 第5週第6天</a></summary></details>
+<details><summary>利未記 - <a href="https://bibleplan.github.io/daily/wk9-day5-daily.html">導讀 第9週第5天</a></summary></details>
+<details><summary>民數記 - <a href="https://bibleplan.github.io/daily/wk12-day4-daily.html">導讀 第12週第4天</a></summary></details>
+<details><summary>申命記 - <a href="https://bibleplan.github.io/daily/wk15-day6-daily.html">導讀 第15週第6天</a></summary></details>
+<details><summary>約書亞記 - <a href="https://bibleplan.github.io/daily/wk19-day2-daily.html">導讀 第19週第2天</a></summary></details>
+<details><summary>士師記 - <a href="https://bibleplan.github.io/daily/wk21-day4-daily.html">導讀 第21週第4天</a></summary></details>
+<details><summary>路得記 - <a href="https://bibleplan.github.io/daily/wk23-day4-daily.html">導讀 第23週第4天</a></summary></details>
+<details><summary>馬太福音 - <a href="https://bibleplan.github.io/daily/wk24-day2-daily.html">導讀 第24週第2天</a></summary></details>
+<details><summary>馬可福音 - <a href="https://bibleplan.github.io/daily/wk27-day2-daily.html">導讀 第27週第2天</a></summary></details>
+<details><summary>路加福音 - <a href="https://bibleplan.github.io/daily/wk29-day3-daily.html">導讀 第29週第3天</a></summary></details>
+<details><summary>使徒行傳 - <a href="https://bibleplan.github.io/daily/wk32-day6-daily.html">導讀 第32週第6天</a></summary></details>
+<details><summary>羅馬書 - <a href="https://bibleplan.github.io/daily/wk35-day6-daily.html">導讀 第35週第6天</a></summary></details>
+<details><summary>哥林多前書 - <a href="https://bibleplan.github.io/daily/wk38-day1-daily.html">導讀 第38週第1天</a></summary></details>
+<details><summary>哥林多後書 - <a href="https://bibleplan.github.io/daily/wk39-day5-daily.html">導讀 第39週第5天</a></summary></details>
+<details><summary>加拉太書 - <a href="https://bibleplan.github.io/daily/wk41-day1-daily.html">導讀 第41週第1天</a></summary></details>
+<details><summary>以弗所書 - <a href="https://bibleplan.github.io/daily/wk41-day5-daily.html">導讀 第41週第5天</a></summary></details>
+<details><summary>腓立比書 - <a href="https://bibleplan.github.io/daily/wk42-day4-daily.html">導讀 第42週第4天</a></summary></details>
+<details><summary>歌羅西書 - <a href="https://bibleplan.github.io/daily/wk43-day2-daily.html">導讀 第43週第2天</a></summary></details>
+<details><summary>帖撒羅尼迦前書 - <a href="https://bibleplan.github.io/daily/wk43-day5-daily.html">導讀 第1週第1天</a></summary></details>
+<details><summary>帖撒羅尼迦後書 - <a href="https://bibleplan.github.io/daily/wk44-day5-daily.html">導讀 第44週第5天</a></summary></details>
+<details><summary>提摩太前書 - <a href="https://bibleplan.github.io/daily/wk45-day2-daily.html">導讀 第45週第2天</a></summary></details>
+<details><summary>提摩太後書 - <a href="https://bibleplan.github.io/daily/wk46-day2-daily.html">導讀 第46週第2天</a></summary></details>
+<details><summary>提多書 - <a href="https://bibleplan.github.io/daily/wk46-day5-daily.html">導讀 第46週第5天</a></summary></details>
+<details><summary>腓利門書 - <a href="https://bibleplan.github.io/daily/wk47-day1-daily.html">導讀 第47週第1天</a></summary></details>
+<details><summary>希伯來書 - <a href="https://bibleplan.github.io/daily/wk47-day2-daily.html">導讀 第47週第2天</a></summary></details>
+<details><summary>雅各書 - <a href="https://bibleplan.github.io/daily/wk49-day1-daily.html">導讀 第49週第1天</a></summary></details>
+<details><summary>彼得前書 - <a href="https://bibleplan.github.io/daily/wk49-day5-daily.html">導讀 第49週第5天</a></summary></details>
+<details><summary>彼得後書 - <a href="https://bibleplan.github.io/daily/wk50-day4-daily.html">導讀 第50週第4天</a></summary></details>
+<details><summary>約翰一書 - <a href="https://bibleplan.github.io/daily/wk51-day1-daily.html">導讀 第51週第1天</a></summary></details>
+<details><summary>約翰二書 - <a href="https://bibleplan.github.io/daily/wk51-day6-daily.html">導讀 第51週第6天</a></summary></details>
+<details><summary>約翰三書 - <a href="https://bibleplan.github.io/daily/wk52-day1-daily.html">導讀 第52週第1天</a></summary></details>
+<details><summary>猶大書 - <a href="https://bibleplan.github.io/daily/wk52-day2-daily.html">導讀 第52週第2天</a></summary></details>
+<details><summary>撒母耳記上 - <a href="https://bibleplan.github.io/daily/wk52-day3-daily.html">導讀 第52週第3天</a></summary></details>
+<details><summary>撒母耳記下 - <a href="https://bibleplan.github.io/daily/wk55-day1-daily.html">導讀 第55週第1天</a></summary></details>
+<details><summary>列王紀上 - <a href="https://bibleplan.github.io/daily/wk57-day3-daily.html">導讀 第57週第3天</a></summary></details>
+<details><summary>列王紀下 - <a href="https://bibleplan.github.io/daily/wk59-day4-daily.html">導讀 第59週第4天</a></summary></details>
+<details><summary>歷代志上 - <a href="https://bibleplan.github.io/daily/wk61-day6-daily.html">導讀 第61週第6天</a></summary></details>
+<details><summary>歷代志下 - <a href="https://bibleplan.github.io/daily/wk64-day5-daily.html">導讀 第64週第5天</a></summary></details>
+<details><summary>創世記 - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">導讀 第1週第1天</a></summary></details>
+<details><summary>創世記 - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">導讀 第1週第1天</a></summary></details>
 
 <details><summary>以賽亞書 - <a href="https://bibleplan.github.io/daily/wk71-day2-daily.html">導讀 第71週第2天</a></summary>  
  <details>
