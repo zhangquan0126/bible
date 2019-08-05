@@ -11,7 +11,7 @@
 <details><summary>路得記 - <a href="https://bibleplan.github.io/daily/wk23-day4-daily.html">導讀 第23週第4天</a></summary></details>
 <details><summary>馬太福音 - <a href="https://bibleplan.github.io/daily/wk24-day2-daily.html">導讀 第24週第2天</a></summary></details>
 <details><summary>馬可福音 - <a href="https://bibleplan.github.io/daily/wk27-day2-daily.html">導讀 第27週第2天</a></summary></details>
-<details><summary>路加福音 - <a href="https://bibleplan.github.io/daily/wk29-day3-daily.html">導讀 第29週第3天</a></summary></details>
+<details><summary>路加福音 - <a href="https://bibleplan.github.io/daily/wk29-day3-daily.html">導讀 第29週第3天</a></summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - <a href="https://bibleplan.github.io/daily/wk29-day3-daily.html">施洗約翰</a></summary>
    <ul>
@@ -192,6 +192,7 @@
      <li>對門徒頒布使命，升入天上。</li>
    </ul>
  </details>
+</details>
 <details><summary>使徒行傳 - <a href="https://bibleplan.github.io/daily/wk32-day6-daily.html">導讀 第32週第6天</a></summary></details>
 <details><summary>羅馬書 - <a href="https://bibleplan.github.io/daily/wk35-day6-daily.html">導讀 第35週第6天</a></summary></details>
 <details><summary>哥林多前書 - <a href="https://bibleplan.github.io/daily/wk38-day1-daily.html">導讀 第38週第1天</a></summary></details>
