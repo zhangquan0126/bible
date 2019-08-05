@@ -686,4 +686,81 @@
     <li>利甲族的人因聽從先祖的吩咐，所以利甲的兒子約拿達必永不缺人侍立在神面前。</li>
   </ul>
  </details>
+ <details>
+  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書36&qs_version=CUVMPT">耶利米書 36</a> - <a href="https://bibleplan.github.io/daily/wk81-day1-daily.html">書卷預言</a>
+</summary>
+   <ul>
+    <li>耶和華要耶利米取一書卷，把神攻擊以色列和猶大並各國的預言都寫在其上。</li>
+    <li>耶利米召巴錄來，將耶和華的話寫在書卷上，並吩咐巴錄去念給百姓聽。</li>
+    <li>米該亞聽見書上耶和華的話，就對眾首領述說巴錄向百姓念的書。</li>
+    <li>眾首領讓巴錄念給他們聽，並要巴錄和耶利米去藏起來。</li>
+    <li>眾首領去見王。王聽猶底念這書卷，就將書卷割破，扔在火盆中燒盡。王和聽見這一切話的臣僕都不懼怕，也不撕裂衣服。</li>
+    <li>耶和華命令耶利米再寫書卷，並預言猶大王約雅敬被殺。</li>
+   </ul>
+ </details>
+ <details>
+  <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書37-38&qs_version=CUVMPT">耶利米書 37-38</a> - <a href="https://bibleplan.github.io/daily/wk81-day2-daily.html">牢獄之災</a>
+</summary>
+   <ul>
+    <li>巴比倫王尼布甲尼撒立西底家在猶大地做王。西底家不聽從耶和華藉先知耶利米所說的話。</li>
+    <li>西底家王打發西番雅去見耶利米，說：`「求你為我們禱告耶和華我們的神。」`</li>
+    <li>法老的軍隊從埃及出來，圍困耶路撒冷的迦勒底人就拔營離開耶路撒冷去了。</li>
+    <li>耶利米預言法老的軍隊必回埃及本國去，迦勒底人必再來攻打這城，並要攻取，用火焚燒。</li>
+    <li>耶利米出離耶路撒冷，要往便雅憫地去。守門官耶利米，將他囚在約拿單的房屋中。</li>
+    <li>耶利米在獄中囚了多日。西底家王私下問他耶和華的話。耶利米預言西底家必交在巴比倫王手中。</li>
+    <li>耶利米求西底家王不要使他回到文約拿單的房屋中。於是西底家王把耶利米交在護衛兵的院中。但他們拿住耶利米，下在牢獄裡。</li>
+    <li>太監古實人以伯米勒帶領人將耶利米從牢獄裡拉上來。耶利米仍在護衛兵的院中。</li>
+    <li>西底家王再次問先知耶利米。耶利米勸西底家出去歸降巴比倫王的首領。</li>
+    <li>西底家讓耶利米不要使人知道這些話，你就不至於死。</li>
+   </ul>
+ </details>
+ <details>
+  <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書39:1-41:15&qs_version=CUVMPT">耶利米書 39:1-41:15</a> - <a href="https://bibleplan.github.io/daily/wk81-day3-daily.html">城破被擄</a>
+</summary>
+   <ul>
+    <li>西底家第九年，巴比倫王尼布甲尼撒圍困耶路撒冷。西底家十一年，城被攻破。</li>
+    <li>巴比倫王在西底家眼前殺了他的眾子，並且剜西底家的眼睛，用銅鏈鎖著帶到巴比倫去。</li>
+    <li>迦勒底人用火焚燒王宮和百姓的房屋，又拆毀耶路撒冷的城牆，將城裡百姓都擄到巴比倫去。</li>
+    <li>巴比倫王尼布甲尼撒囑咐護衛長不可害耶利米，並聽耶利米的話。</li>
+    <li>耶和華預言拯救古實人以伯米勒。</li>
+    <li>護衛長將耶利米從拉瑪釋放，讓他回到猶大城邑的省長基大利那裡去。</li>
+    <li>耶利米就到米斯巴見基大利，在他那裡住在境內剩下的民中。</li>
+    <li>基大利要百姓起誓服侍迦勒底人，就可以得福。</li>
+    <li>約哈難警告基大利說亞捫人的王打發以實瑪利來要他的命，基大利卻不信他們的話。</li>
+    <li>以實瑪利用刀殺了基大利。</li>
+    <li>約哈難要和以實瑪利爭戰，救下以實瑪利擄去的眾人。</li>
+    <li>以實瑪利脫離約哈難的手，逃往亞捫人那裡去了。</li>
+   </ul>
+ </details>
+ <details>
+  <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書41:16-43:13&qs_version=CUVMPT">耶利米書 41:16-43:13</a> - <a href="https://bibleplan.github.io/daily/wk81-day4-daily.html">逃到埃及</a>
+</summary>
+   <ul>
+    <li>約哈難和百姓求先知耶利米，願耶和華指示當走的路，當做的事。</li>
+    <li>耶和華要餘下的百姓住在這地，就建立他們必不拆毀，栽植他們並不拔出。</li>
+    <li>但他們若進入埃及，他們所懼怕的刀劍在埃及地必追上他們，必死在那裡。</li>
+    <li>約哈難和百姓指責耶利米說謊。於是約哈難和一切軍長並眾百姓，不聽從耶和華的話住在猶大地，卻進入埃及地。</li>
+    <li>耶和華的話臨到耶利米，預言巴比倫王尼布甲尼撒攻擊埃及地。</li>
+   </ul>
+ </details>
+ <details>
+  <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書44-45&qs_version=CUVMPT">耶利米書 44-45</a> - <a href="https://bibleplan.github.io/daily/wk81-day5-daily.html">餘民犯罪</a>
+</summary>
+   <ul>
+    <li>耶和華責備眾民在所去寄居的埃及地向別神燒香，惹神發怒，使他們被剪除。</li>
+    <li>耶和華必向餘下的百姓變臉降災，剪除定意進入埃及地在那裡寄居的剩下的猶大人。</li>
+    <li>住在埃及地巴忒羅的對耶利米說：他們不聽從耶和華，而向天后燒香，澆奠祭。</li>
+    <li>耶利米警告眾人，耶和華因他們所做的惡不能再容忍。</li>
+   </ul>
+ </details>
+ <details>
+  <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書46&qs_version=CUVMPT">耶利米書 46</a> - <a href="https://bibleplan.github.io/daily/wk81-day6-daily.html">埃及兵敗</a>
+</summary>
+   <ul>
+    <li>預言埃及王法老尼哥的軍隊，曾被巴比倫王尼布甲尼撒在猶大王約雅敬第四年打敗，他們會驚惶轉身退後，被打敗，急忙逃跑。</li>
+    <li>耶和華對先知耶利米所說的話論到巴比倫王尼布甲尼撒要來攻擊埃及地。</li>
+    <li>要傳揚在埃及，做準備，因為刀劍在你四圍施行吞滅的事。</li>
+    <li>勉勵以色列餘民不要驚惶！因耶和華要從遠方拯救。</li>
+   </ul>
+ </details>
 </details>
