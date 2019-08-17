@@ -1040,6 +1040,10 @@
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌1&qs_version=CUVMPT">耶利米哀歌 1</a> - <a href="https://bibleplan.github.io/daily/wk82-day6-daily.html">無人安慰</a>
 </summary>
   <ul>
+   <li>耶利米哀嘆錫安居民被擄，先前滿有人民的城，現在竟獨坐！她夜間痛哭，淚流滿腮。她的朋友都以詭詐待她，成為她的仇敵。</li>
+   <li>耶路撒冷自述她的痛苦無人可比，就是耶和華在他發烈怒的日子使她所受的苦。</li>
+   <li>耶路撒冷承認耶和華是公義的，他這樣待她，是因她違背他的命令。</li>
+   <li>耶路撒冷求耶和華觀看，因為她在急難中，無人安慰。</li>
   </ul>
  </details>
  <details>
