@@ -1035,7 +1035,7 @@
  </details>
 </details>
 <details>
- <summary>耶利米哀歌 <a href="https://bibleplan.github.io/daily/wk82-day6-daily.html">導讀 第82週第6天</a>
+ <summary>耶利米哀歌 <a href="https://bibleplan.github.io/daily/wk82-day6-daily.html">導讀 第82週第6天</a></summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌1&qs_version=CUVMPT">耶利米哀歌 1</a> - <a href="https://bibleplan.github.io/daily/wk82-day6-daily.html">無人安慰</a>
 </summary>
