@@ -973,4 +973,98 @@
    <li>勉勵以色列餘民不要驚惶！因耶和華要從遠方拯救。</li>
   </ul>
  </details>
+ <details>
+  <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書47-48&qs_version=CUVMPT">耶利米書 47-48</a> - <a href="https://bibleplan.github.io/daily/wk82-day1-daily.html">摩押受罰</a>
+</summary>
+  <ul>
+   <li>耶利米預言非利士人必滅，剪除幫助推羅、西頓所剩下的人。</li>
+   <li>預言摩押必受懲罰。尼波有禍了，基列亭蒙羞被攻取，米斯迦蒙羞被毀壞。</li>
+   <li>摩押必因基抹羞愧，像以色列家從前倚靠伯特利的神羞愧一樣。</li>
+   <li>因摩押向耶和華誇大，並嗤笑以色列，自高自傲，並且狂妄，居心自大。</li>
+   <li>被擄的摩押人必要歸回。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>30. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書49&qs_version=CUVMPT">耶利米書 49</a> - <a href="https://bibleplan.github.io/daily/wk82-day2-daily.html">各國之災</a>
+</summary>
+  <ul>
+   <li>預言亞捫人必受懲罰，亞捫人拉巴要成為亂堆。</li>
+   <li>耶和華要使被擄的亞捫人歸回。</li>
+   <li>耶和華向以掃追討的時候，必使災殃臨到他。以東必令人驚駭。</li>
+   <li>大馬士革發軟，轉身逃跑。戰兢將她捉住，痛苦憂愁將她抓住。</li>
+   <li>基達和夏瑣的諸國也將被擄掠。</li>
+   <li>以攔人將被分散四方，末後要歸回。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>31. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書50&qs_version=CUVMPT">耶利米書 50</a> - <a href="https://bibleplan.github.io/daily/wk82-day3-daily.html">巴比倫滅</a>
+</summary>
+  <ul>
+   <li>巴比倫必受懲罰，被攻取，彼勒蒙羞，米羅達驚惶。</li>
+   <li>以色列人要和猶大人同來，隨走隨哭，尋求耶和華他們的神。</li>
+   <li>申言巴比倫遭報，再言巴比倫遭報。</li>
+   <li>耶和華說以色列人和猶大人一同受欺壓，凡擄掠他們的都緊緊抓住他們，不肯釋放。</li>
+   <li>有刀劍臨到迦勒底人和巴比倫的居民，並她的首領與智慧人。</li>
+   <li>仇敵定要將他們群眾微弱的拉去，定要使他們的居所荒涼。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>32. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書51&qs_version=CUVMPT">耶利米書 51</a> - <a href="https://bibleplan.github.io/daily/wk82-day4-daily.html">復仇毀滅</a>
+</summary>
+  <ul>
+   <li>耶和華必降重災於巴比倫，以報其虐待以色列人之仇。</li>
+   <li>耶和華必使毀滅的風颳起，攻擊巴比倫和住在立加米的人。</li>
+   <li>以色列和猶大沒有被萬軍之耶和華丟棄。你們要從巴比倫中逃奔，各救自己的性命。</li>
+   <li>耶和華定意攻擊巴比倫，將她毀滅，所以激動了瑪代君王的心。</li>
+   <li>耶和華必使巴比倫的海枯竭，使她的泉源乾涸。巴比倫必成為亂堆，無人居住。</li>
+   <li>耶利米將一切要臨到巴比倫的災禍寫在書上。耶利米讓西萊雅務要念這書上的話。</li>
+   <li>念完了這書，就把一塊石頭拴在書上，扔在幼發拉底河中。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>33. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米書52&qs_version=CUVMPT">耶利米書 52</a> - <a href="https://bibleplan.github.io/daily/wk82-day5-daily.html">圍城被擄</a>
+</summary>
+  <ul>
+   <li>西底家登基，在耶路撒冷做王十一年。西底家行耶和華眼中看為惡的事。</li>
+   <li>西底家背叛巴比倫王。耶路撒冷城被圍困，直到西底家王十一年。兵丁在夜間從靠近王園兩城中間的門出城逃跑。</li>
+   <li>巴比倫王在西底家眼前殺了他的眾子，和猶大的一切首領。並且剜了西底家的眼睛，用銅鏈鎖著他，帶到巴比倫去。</li>
+   <li>巴比倫王尼布甲尼撒進入耶路撒冷，用火焚燒耶和華的殿和王宮，和各大戶家的房屋。</li>
+   <li>耶和華殿的銅柱並殿內的盆座和銅海，迦勒底人都打碎了，無論金的銀的，護衛長也都帶去了。</li>
+   <li>護衛長拿住大祭司西萊雅、副祭司西番亞等人。巴比倫王就把他們擊殺在哈馬地的利比拉。</li>
+  </ul>
+ </details>
 </details>
+<details>
+ <summary>耶利米哀歌 <a href="https://bibleplan.github.io/daily/wk82-day6-daily.html">導讀 第82週第6天</a>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌1&qs_version=CUVMPT">耶利米哀歌 1</a> - <a href="https://bibleplan.github.io/daily/wk82-day6-daily.html">無人安慰</a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌2&qs_version=CUVMPT">耶利米哀歌 2</a> - <a href="https://bibleplan.github.io/daily/wk83-day1-daily.html"></a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌3&qs_version=CUVMPT">耶利米哀歌 3</a> - <a href="https://bibleplan.github.io/daily/wk83-day2-daily.html"></a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌4&qs_version=CUVMPT">耶利米哀歌 4</a> - <a href="https://bibleplan.github.io/daily/wk83-day3-daily.html"></a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌5&qs_version=CUVMPT">耶利米哀歌 5</a> - <a href="https://bibleplan.github.io/daily/wk83-day4-daily.html"></a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+
