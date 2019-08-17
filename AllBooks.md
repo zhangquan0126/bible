@@ -1071,4 +1071,18 @@
   </ul>
  </details>
 </details>
+<details><summary>以西結書 - <a href="https://bibleplan.github.io/daily/wk83-day5-daily.html">導讀 第83週第5天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書1&qs_version=CUVMPT">以西結書 1</a> - <a href="https://bibleplan.github.io/daily/wk83-day5-daily.html"></a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk83-day6-daily.html"></a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 
