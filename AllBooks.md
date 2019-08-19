@@ -1047,27 +1047,40 @@
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌2&qs_version=CUVMPT">耶利米哀歌 2</a> - <a href="https://bibleplan.github.io/daily/wk83-day1-daily.html"></a>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌2&qs_version=CUVMPT">耶利米哀歌 2</a> - <a href="https://bibleplan.github.io/daily/wk83-day1-daily.html">烈火傾覆</a>
 </summary>
   <ul>
+   <li>耶路撒冷訴說神的怒火審判，從城池到百姓，無一倖免。</li>
+   <li>耶路撒冷的先知，沒有顯露她的罪孽，卻顯示虛假的異象，以至於她被趕出。</li>
+   <li>耶路撒冷的仇敌因她受苦而嗤笑夸耀。</li>
+   <li>百姓們當向神舉手禱告，流淚痛悔，在神面前傾心如水。</li>
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌3&qs_version=CUVMPT">耶利米哀歌 3</a> - <a href="https://bibleplan.github.io/daily/wk83-day2-daily.html"></a>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌3&qs_version=CUVMPT">耶利米哀歌 3</a> - <a href="https://bibleplan.github.io/daily/wk83-day2-daily.html">困苦艱難</a>
 </summary>
   <ul>
+   <li>耶路撒冷訴說她的困苦，好似走到絕處毫無指望。</li>
+   <li>當她思想到神的慈愛的時候，就找到盼望的源頭。</li>
+   <li>當仰望神，等候神，在神面前深深考察自己的行為，再歸向耶和華，誠心向神舉手禱告。</li>
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌4&qs_version=CUVMPT">耶利米哀歌 4</a> - <a href="https://bibleplan.github.io/daily/wk83-day3-daily.html"></a>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌4&qs_version=CUVMPT">耶利米哀歌 4</a> - <a href="https://bibleplan.github.io/daily/wk83-day3-daily.html">變色失光</a>
 </summary>
   <ul>
+   <li>耶路撒冷的民從尊貴變為低賤，從受愛護變為被欺淩，從主人變成寄居的奴僕，恩慈的人因為困苦而變得殘忍。</li>
+   <li>耶路撒冷希求人的幫助，但是都是枉然。百姓所依靠的王（受膏者）也被擄走，自身難保。</li>
+   <li>但是神的拯救終會臨到，逼迫神的子民的必然受罰。</li>
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌5&qs_version=CUVMPT">耶利米哀歌 5</a> - <a href="https://bibleplan.github.io/daily/wk83-day4-daily.html"></a>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=耶利米哀歌5&qs_version=CUVMPT">耶利米哀歌 5</a> - <a href="https://bibleplan.github.io/daily/wk83-day4-daily.html">禱告懇求</a>
 </summary>
   <ul>
+   <li>禱告者在神面前細細傾訴所遭遇的一切患難。</li>
+   <li>禱告者承認這是自己犯罪的結果。</li>
+   <li>禱告者求神使自己回轉歸向神，求神複新自己如同古時一樣。</li>
   </ul>
  </details>
 </details>
@@ -1080,6 +1093,42 @@
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk83-day6-daily.html"></a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk84-day1-daily.html"></a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk84-day2-daily.html"></a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk84-day3-daily.html"></a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk84-day4-daily.html"></a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk84-day5-daily.html"></a>
+</summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk84-day5-daily.html"></a>
 </summary>
   <ul>
   </ul>
