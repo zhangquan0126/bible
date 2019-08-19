@@ -1098,37 +1098,37 @@
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk84-day1-daily.html"></a>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書4&qs_version=CUVMPT">以西結書 4</a> - <a href="https://bibleplan.github.io/daily/wk84-day1-daily.html"></a>
 </summary>
   <ul>
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk84-day2-daily.html"></a>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書5-7&qs_version=CUVMPT">以西結書 5-7</a> - <a href="https://bibleplan.github.io/daily/wk84-day2-daily.html"></a>
 </summary>
   <ul>
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk84-day3-daily.html"></a>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書8&qs_version=CUVMPT">以西結書 8</a> - <a href="https://bibleplan.github.io/daily/wk84-day3-daily.html"></a>
 </summary>
   <ul>
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk84-day4-daily.html"></a>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書9-10&qs_version=CUVMPT">以西結書 9-10</a> - <a href="https://bibleplan.github.io/daily/wk84-day4-daily.html"></a>
 </summary>
   <ul>
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk84-day5-daily.html"></a>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書11.1-12.20&qs_version=CUVMPT">以西結書 11.1-12.20</a> - <a href="https://bibleplan.github.io/daily/wk84-day5-daily.html"></a>
 </summary>
   <ul>
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk84-day5-daily.html"></a>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書12.21-13.23&qs_version=CUVMPT">以西結書 12.21-13.23</a> - <a href="https://bibleplan.github.io/daily/wk84-day5-daily.html"></a>
 </summary>
   <ul>
   </ul>
