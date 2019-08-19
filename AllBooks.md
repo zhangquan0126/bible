@@ -1086,15 +1086,23 @@
 </details>
 <details><summary>以西結書 - <a href="https://bibleplan.github.io/daily/wk83-day5-daily.html">導讀 第83週第5天</a></summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書1&qs_version=CUVMPT">以西結書 1</a> - <a href="https://bibleplan.github.io/daily/wk83-day5-daily.html"></a>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書1&qs_version=CUVMPT">以西結書 1</a> - <a href="https://bibleplan.github.io/daily/wk83-day5-daily.html">得見榮耀</a>
 </summary>
   <ul>
+   <li>耶和華的靈降在先知以西結身上，使他得見天開了，神的異象向他顯現。</li>
+   <li>先知在異象中看見狂風颳來一朵周圍有光輝、裡面有好像光耀精金的大雲，雲中顯出四個活物。活物的頭以上有穹蒼的形象，穹蒼之上有寶座的形象。</li>
+   <li>寶座上是耶和華榮耀的形象。寶座上有彷彿人的形狀，腰以上有彷彿光耀的精金，周圍和腰以下有彷彿火的形狀，周圍有彷彿彩虹的光輝。</li>
+   <li>先知一看見耶和華的榮耀就俯伏在地。</li>
   </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk83-day6-daily.html"></a>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書2-3&qs_version=CUVMPT">以西結書 2-3</a> - <a href="https://bibleplan.github.io/daily/wk83-day6-daily.html">為民守望</a>
 </summary>
   <ul>
+   <li>神的靈進到先知的裡面，差他去向悖逆的國民以色列人傳講神的話。聽的可以聽，不聽的任他不聽，因為他們是悖逆之家。</li>
+   <li>先知依從神，吃下寫滿哀號、嘆息、悲痛話語的書，好去對以色列家講說，書在口中覺得其甜如蜜。</li>
+   <li>雖然以色列人額堅心硬，神使先知的額像金鋼鑽，比火石更硬。在震動轟轟當中，神的靈將先知舉起，使先知身上大有能力。</li>
+   <li>先知在被擄的人那裡憂悶地坐了七日。神在七日後被立先知作以色列家的守望，要警戒惡人也要警戒犯罪的義人，否則先知要擔他們的罪。</li>
   </ul>
  </details>
  <details>
