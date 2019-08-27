@@ -1106,9 +1106,12 @@
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書4&qs_version=CUVMPT">以西結書 4</a> - <a href="https://bibleplan.github.io/daily/wk84-day1-daily.html"></a>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書4&qs_version=CUVMPT">以西結書 4</a> - <a href="https://bibleplan.github.io/daily/wk84-day1-daily.html">降罰預兆</a>
 </summary>
   <ul>
+   <li>耶和華命以西結畫耶路撒冷被圍困之圖，做以色列家之預兆。</li>
+   <li>耶和華命以西結向左側臥，承當以色列家的罪孽。向右側臥，擔當猶大家的罪孽。</li>
+   <li>耶和華命以西結為自己做餅，按側臥的日子吃餅、喝水，預兆以色列家缺糧缺水，彼此驚惶。</li>
   </ul>
  </details>
  <details>
