@@ -1162,7 +1162,7 @@
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書12.21-13.23&qs_version=CUVMPT">以西結書 12.21-13.23</a> - <a href="https://bibleplan.github.io/daily/wk84-day5-daily.html">虛假先知</a>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書12.21-13.23&qs_version=CUVMPT">以西結書 12.21-13.23</a> - <a href="https://bibleplan.github.io/daily/wk84-day6-daily.html">虛假先知</a>
 </summary>
   <ul>
    <li>耶和華斥責以色列俗語『日子遲延，一切異象都落了空』。祂必使這俗語止息，因日子臨近，一切的異象必都應驗。</li>
