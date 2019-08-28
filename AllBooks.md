@@ -1,10 +1,129 @@
 [主頁](https://bibleplan.github.io)
 
 # 聖經 - 各書卷
-<details><summary>創世記 - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">導讀 第1週第1天</a></summary></details>
-<details><summary>出埃及記 - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">導讀 第5週第6天</a></summary></details>
-<details><summary>利未記 - <a href="https://bibleplan.github.io/daily/wk9-day5-daily.html">導讀 第9週第5天</a></summary></details>
-<details><summary>民數記 - <a href="https://bibleplan.github.io/daily/wk12-day4-daily.html">導讀 第12週第4天</a></summary></details>
+<details><summary>創世記 - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">導讀 第1週第1天</a></summary>
+ <details>
+   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記1.1-2.3&qs_version=CUVMPT">創世記 1.1-2.3</a> - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">開天闢地</a></summary>
+   <ul>
+   </ul>
+ </details>
+</details>
+<details><summary>出埃及記 - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">導讀 第5週第6天</a></summary>
+ <details>
+   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記1-2&qs_version=CUVMPT">出埃及記 1-2</a> - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">救贖預備</a></summary>
+   <ul>
+   </ul>
+ </details>
+</details>
+<details><summary>利未記 - <a href="https://bibleplan.github.io/daily/wk9-day5-daily.html">導讀 第9週第5天</a></summary>
+ <details>
+   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記1-2&qs_version=CUVMPT">利未記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk9-day5-daily.html">燔祭素祭</a></summary>
+   <ul>
+   </ul>
+ </details>
+</details>
+<details><summary>民數記 - <a href="https://bibleplan.github.io/daily/wk12-day4-daily.html">導讀 第12週第4天</a></summary>
+ <details>
+   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記1-2&qs_version=CUVMPT">民數記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk12-day4-daily.html">數點安營</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記3-4&qs_version=CUVMPT">民數記 3-4</a> - <a href="https://bibleplan.github.io/daily/wk12-day5-daily.html">祭司國度</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記5-6&qs_version=CUVMPT">民數記 5-6</a> - <a href="https://bibleplan.github.io/daily/wk12-day6-daily.html">聖潔國民</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記7&qs_version=CUVMPT">民數記 7</a> - <a href="https://bibleplan.github.io/daily/wk13-day1-daily.html">全心奉獻</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記8:1-9:14&qs_version=CUVMPT">民數記 8:1-9:14</a> - <a href="https://bibleplan.github.io/daily/wk13-day2-daily.html">潔淨歸主</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記9:15-10:36&qs_version=CUVMPT">民數記 9:15-10:36</a> - <a href="https://bibleplan.github.io/daily/wk13-day3-daily.html">令行禁止</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記11-12&qs_version=CUVMPT">民數記 11-12</a> - <a href="https://bibleplan.github.io/daily/wk13-day4-daily.html">抱怨毀謗</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記13-14&qs_version=CUVMPT">民數記 13-14</a> - <a href="https://bibleplan.github.io/daily/wk13-day5-daily.html">惡信藐視</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記15&qs_version=CUVMPT">民數記 15</a> - <a href="https://bibleplan.github.io/daily/wk13-day6-daily.html">恩典信實</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記16-17&qs_version=CUVMPT">民數記 16-17</a> - <a href="https://bibleplan.github.io/daily/wk14-day1-daily.html">可拉叛亂</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記18-19&qs_version=CUVMPT">民數記 18-19</a> - <a href="https://bibleplan.github.io/daily/wk14-day2-daily.html">祭司利未</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記20-21&qs_version=CUVMPT">民數記 20-21</a> - <a href="https://bibleplan.github.io/daily/wk14-day3-daily.html">流浪末年</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記22-24&qs_version=CUVMPT">民數記 22-24</a> - <a href="https://bibleplan.github.io/daily/wk14-day4-daily.html">咒詛祝福</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記25&qs_version=CUVMPT">民數記 25</a> - <a href="https://bibleplan.github.io/daily/wk14-day5-daily.html">從內敗壞</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記26-27&qs_version=CUVMPT">民數記 26-27</a> - <a href="https://bibleplan.github.io/daily/wk14-day6-daily.html">二次數點</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記28-29&qs_version=CUVMPT">民數記 28-29</a> - <a href="https://bibleplan.github.io/daily/wk15-day1-daily.html">日日獻祭</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記30-31&qs_version=CUVMPT">民數記 30-31</a> - <a href="https://bibleplan.github.io/daily/wk15-day2-daily.html">米甸之役</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記32-33&qs_version=CUVMPT">民數記 32-33</a> - <a href="https://bibleplan.github.io/daily/wk15-day3-daily.html">漂流之地</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記34-35&qs_version=CUVMPT">民數記 34-35</a> - <a href="https://bibleplan.github.io/daily/wk15-day4-daily.html">迦南地界</a></summary>
+   <ul>
+   </ul>
+ </details>
+ <details>
+   <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記36&qs_version=CUVMPT">民數記 36</a> - <a href="https://bibleplan.github.io/daily/wk15-day5-daily.html">繼承產業</a></summary>
+   <ul>
+   </ul>
+ </details>
+</details>
 <details><summary>申命記 - <a href="https://bibleplan.github.io/daily/wk15-day6-daily.html">導讀 第15週第6天</a></summary></details>
 <details><summary>約書亞記 - <a href="https://bibleplan.github.io/daily/wk19-day2-daily.html">導讀 第19週第2天</a></summary></details>
 <details><summary>士師記 - <a href="https://bibleplan.github.io/daily/wk21-day4-daily.html">導讀 第21週第4天</a></summary></details>
