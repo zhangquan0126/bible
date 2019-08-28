@@ -1115,33 +1115,61 @@
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書5-7&qs_version=CUVMPT">以西結書 5-7</a> - <a href="https://bibleplan.github.io/daily/wk84-day2-daily.html"></a>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書5-7&qs_version=CUVMPT">以西結書 5-7</a> - <a href="https://bibleplan.github.io/daily/wk84-day2-daily.html">預言被擄</a>
 </summary>
   <ul>
+   <li>耶和華命以西結以剃髮為喻，以示耶路撒冷背律受罰。</li>
+   <li>耶和華命以西結向以色列的眾山說預言，必有刀劍臨到。</li>
+   <li>以色列分散在各國的時候，耶和華必使他們有剩下脫離刀劍的人，悔改，記念神。</li>
+   <li>耶和華命以西結對以色列預言，必按他們的行為審判、刑罰。</li>
+   <li>因以色列在聖殿製造可憎的偶像，所以這殿如汙穢之物，被交付外邦人為掠物。</li>
+   <li>耶和華命以西結製造鎖鏈預兆以色列被擄。</li>
   </ul>
  </details>
  <details>
-  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書8&qs_version=CUVMPT">以西結書 8</a> - <a href="https://bibleplan.github.io/daily/wk84-day3-daily.html"></a>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書8&qs_version=CUVMPT">以西結書 8</a> - <a href="https://bibleplan.github.io/daily/wk84-day3-daily.html">可憎之事</a>
 </summary>
   <ul>
+   <li>第六年六月初五日，耶和華的靈降在以西結身上。</li>
+   <li>在神的異象中，以西結到耶路撒冷朝北的內院門口，在那裡有觸動主怒偶像的座位。</li>
+   <li>內院四面牆上畫著各樣爬物和可憎的走獸，並以色列家一切的偶像。</li>
+   <li>外院朝北的門口有婦女坐著為搭模斯哭泣。</li>
+   <li>內院耶和華的殿門口，約有二十五個人背向耶和華的殿，面向東方拜日頭。</li>
+   <li>因此，神以憤怒必不顧惜他們。</li>
   </ul>
  </details>
  <details>
-  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書9-10&qs_version=CUVMPT">以西結書 9-10</a> - <a href="https://bibleplan.github.io/daily/wk84-day4-daily.html"></a>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書9-10&qs_version=CUVMPT">以西結書 9-10</a> - <a href="https://bibleplan.github.io/daily/wk84-day4-daily.html">榮耀降臨</a>
 </summary>
   <ul>
+   <li>耶和華命監管耶路撒冷的人手中各拿滅命的兵器前來。</li>
+   <li>神的榮耀升到殿的門檻，命人去走遍耶路撒冷全城，畫記號在哀哭歎息的人額上，但擊殺其餘的人。</li>
+   <li>耶和華命人從基路伯中間將火炭取滿兩手，撒在城上。</li>
+   <li>耶和華的榮耀從殿的門檻那裡出去，停在基路伯以上。四個輪也在他們的旁邊。</li>
   </ul>
  </details>
  <details>
-  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書11.1-12.20&qs_version=CUVMPT">以西結書 11.1-12.20</a> - <a href="https://bibleplan.github.io/daily/wk84-day5-daily.html"></a>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書11.1-12.20&qs_version=CUVMPT">以西結書 11.1-12.20</a> - <a href="https://bibleplan.github.io/daily/wk84-day5-daily.html">救贖計劃</a>
 </summary>
   <ul>
+   <li>民間的首領、圖謀罪孽的人被殺。</li>
+   <li>耶和華必將以色列交在外邦人的手中，且要在你們中間施行審判。</li>
+   <li>耶和華雖將以色列全家遠遠遷移到列國中，但還要在他們所到的列邦暫做他們的聖所。</li>
+   <li>耶和華要使他們有合一的心，也要將新靈放在他們裡面，他們要做神的子民。</li>
+   <li>耶和華的榮耀從城中上升，停在城東的那座山上。神的靈將以西結帶進迦勒底地，到被擄的人那裡。</li>
+   <li>耶和華命以西結遷徙，以預兆耶路撒冷的君王被擄。</li>
+   <li>耶和華論耶路撒冷和以色列地的居民如此說：他們吃飯必憂慮，喝水必驚惶。</li>
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書12.21-13.23&qs_version=CUVMPT">以西結書 12.21-13.23</a> - <a href="https://bibleplan.github.io/daily/wk84-day5-daily.html"></a>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書12.21-13.23&qs_version=CUVMPT">以西結書 12.21-13.23</a> - <a href="https://bibleplan.github.io/daily/wk84-day5-daily.html">虛假先知</a>
 </summary>
   <ul>
+   <li>耶和華斥責以色列俗語『日子遲延，一切異象都落了空』。祂必使這俗語止息，因日子臨近，一切的異象必都應驗。</li>
+   <li>耶和華的話沒有一句再耽延的，所說的必定成就。</li>
+   <li>耶和華命令以西結說預言攻擊以色列的先知。愚頑的先知有禍了。他們隨從自己的心意，卻一無所見。</li>
+   <li>耶和華的手必攻擊那見虛假異象，用謊詐占卜的先知。</li>
+   <li>耶和華命以西結說預言攻擊從己心發預言的女子，因他們以謊話使義人傷心，又堅固惡人的手，使他不回頭離開惡道得以救活。</li>
   </ul>
  </details>
 </details>
