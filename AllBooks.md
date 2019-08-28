@@ -265,7 +265,7 @@
 </details>
 <details><summary>尼希米記 - <a href="https://bibleplan.github.io/daily/wk68-day5-daily.html">導讀 第68週第5天</a></summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記1-2&qs_version=CUVMPT">尼希米記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk58-day5-daily.html">重建城墻</a></summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記1-2&qs_version=CUVMPT">尼希米記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk68-day5-daily.html">重建城墻</a></summary>
  </details>
 </details>
 <details><summary>以斯帖記 - <a href="https://bibleplan.github.io/daily/wk70-day2-daily.html">導讀 第70週第2天</a></summary>
