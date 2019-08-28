@@ -248,10 +248,26 @@
 <details><summary>撒母耳記下 - <a href="https://bibleplan.github.io/daily/wk55-day1-daily.html">導讀 第55週第1天</a></summary></details>
 <details><summary>列王紀上 - <a href="https://bibleplan.github.io/daily/wk57-day3-daily.html">導讀 第57週第3天</a></summary></details>
 <details><summary>列王紀下 - <a href="https://bibleplan.github.io/daily/wk59-day4-daily.html">導讀 第59週第4天</a></summary></details>
-<details><summary>歷代志上 - <a href="https://bibleplan.github.io/daily/wk61-day6-daily.html">導讀 第61週第6天</a></summary></details>
-<details><summary>歷代志下 - <a href="https://bibleplan.github.io/daily/wk64-day5-daily.html">導讀 第64週第5天</a></summary></details>
-<details><summary>以斯拉記 - <a href="https://bibleplan.github.io/daily/wk67-day6-daily.html">導讀 第67週第6天</a></summary></details>
-<details><summary>尼希米記 - <a href="https://bibleplan.github.io/daily/wk68-day5-daily.html">導讀 第68週第5天</a></summary></details>
+<details><summary>歷代志上 - <a href="https://bibleplan.github.io/daily/wk61-day6-daily.html">導讀 第61週第6天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上&qs_version=CUVMPT">歷代志上 1-2</a> - <a href="https://bibleplan.github.io/daily/wk61-day6-daily.html">家譜族系</a></summary>
+ </details>
+</details>
+<details><summary>歷代志下 - <a href="https://bibleplan.github.io/daily/wk64-day5-daily.html">導讀 第64週第5天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下1-2&qs_version=CUVMPT">歷代志下 1-2</a> - <a href="https://bibleplan.github.io/daily/wk64-day5-daily.html">所羅門王</a></summary>
+ </details>
+</details>
+<details><summary>以斯拉記 - <a href="https://bibleplan.github.io/daily/wk67-day6-daily.html">導讀 第67週第6天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記1-2&qs_version=CUVMPT">以斯拉記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk67-day6-daily.html">被擄回歸</a></summary>
+ </details>
+</details>
+<details><summary>尼希米記 - <a href="https://bibleplan.github.io/daily/wk68-day5-daily.html">導讀 第68週第5天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記1-2&qs_version=CUVMPT">尼希米記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk58-day5-daily.html">重建城墻</a></summary>
+ </details>
+</details>
 <details><summary>以斯帖記 - <a href="https://bibleplan.github.io/daily/wk70-day2-daily.html">導讀 第70週第2天</a></summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯帖記1.1-2.18&qs_version=CUVMPT">以斯帖記 1.1-2.18</a> - <a href="https://bibleplan.github.io/daily/wk70-day2-daily.html">被選為后</a></summary>
