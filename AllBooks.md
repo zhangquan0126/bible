@@ -3,7 +3,7 @@
 # 聖經 - 各書卷
 <details><summary>創世記 - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">導讀 第1週第1天</a></summary>
  <details>
-   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記1.1-2.3&qs_version=CUVMPT">創世記 1.1-2.3</a> - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">開天闢地</a></summary>
+   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記1:1-2.3&qs_version=CUVMPT">創世記1:1-2:3</a> - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">開天闢地</a></summary>
    <ul>
    </ul>
  </details>
