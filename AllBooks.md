@@ -17,6 +17,21 @@
   <ul>
   </ul>
  </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記6:9-9:29&qs_version=CUVMPT">創世記6:9-9:29</a> - <a href="https://bibleplan.github.io/daily/wk1-day4-daily.html">洪水滔天</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記10:1-11:9&qs_version=CUVMPT">創世記10:1-11:9</a> - <a href="https://bibleplan.github.io/daily/wk1-day5-daily.html">分邦立國</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記11:10-26&qs_version=CUVMPT">創世記11:10-26</a> - <a href="https://bibleplan.github.io/daily/wk1-day6-daily.html">曙光初現</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
 <details><summary>出埃及記 - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">導讀 第5週第6天</a></summary>
  <details>
