@@ -92,6 +92,36 @@
   <ul>
   </ul>
  </details>
+ <details>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記29-31&qs_version=CUVMPT">創世記29-31</a> - <a href="https://bibleplan.github.io/daily/2018-02-12-daily.html">雅各家族</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記32-33&qs_version=CUVMPT">創世記32-33</a> - <a href="https://bibleplan.github.io/daily/2018-02-13-daily.html">與神摔跤</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記34-35&qs_version=CUVMPT">創世記34-35</a> - <a href="https://bibleplan.github.io/daily/2018-02-14-daily.html">雅各眾子</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記36:1-37:1&qs_version=CUVMPT">創世記36:1-37:1</a> - <a href="https://bibleplan.github.io/daily/2018-02-15-daily.html">以掃後裔</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記37:2-38:30&qs_version=CUVMPT">創世記37:2-38:30</a> - <a href="https://bibleplan.github.io/daily/2018-02-16-daily.html">約瑟被賣</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記39-40&qs_version=CUVMPT">創世記39-40</a> - <a href="https://bibleplan.github.io/daily/2018-02-17-daily.html">被囚埃及</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
 <details><summary>出埃及記 - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">導讀 第5週第6天</a></summary>
  <details>
