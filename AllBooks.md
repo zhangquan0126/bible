@@ -8,14 +8,16 @@
    </ul>
  </details>
  <details>
-  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記2:4-4:26&qs_version=CUVMPT"></a> - <a href="https://bibleplan.github.io/daily/wk1-day2-daily.html">人類始祖</a></summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記2:4-4:26&qs_version=CUVMPT">創世記2:4-4:26</a> - <a href="https://bibleplan.github.io/daily/wk1-day2-daily.html">人類始祖</a></summary>
   <ul>
   </ul>
- </details> <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記5:1-6:8&qs_version=CUVMPT"></a> - <a href="https://bibleplan.github.io/daily/wk1-day3-daily.html">賽特家族</a></summary>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記5:1-6:8&qs_version=CUVMPT">創世記5:1-6:8</a> - <a href="https://bibleplan.github.io/daily/wk1-day3-daily.html">賽特家族</a></summary>
   <ul>
   </ul>
- </details></details>
+ </details>
+</details>
 <details><summary>出埃及記 - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">導讀 第5週第6天</a></summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記1-2&qs_version=CUVMPT">出埃及記 1-2</a> - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">救贖預備</a></summary>
