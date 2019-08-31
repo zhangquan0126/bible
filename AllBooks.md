@@ -122,6 +122,31 @@
   <ul>
   </ul>
  </details>
+ <details>
+  <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記41-42&qs_version=CUVMPT">創世記41-42</a> - <a href="https://bibleplan.github.io/daily/2018-02-19-daily.html">平步青雲</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記43-44&qs_version=CUVMPT">創世記43-44</a> - <a href="https://bibleplan.github.io/daily/2018-02-20-daily.html">約瑟眾兄</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記45-46&qs_version=CUVMPT">創世記45-46</a> - <a href="https://bibleplan.github.io/daily/2018-02-21-daily.html">兄弟相認</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記47-48&qs_version=CUVMPT">創世記47-48</a> - <a href="https://bibleplan.github.io/daily/2018-02-22-daily.html">定居埃及</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記49-50&qs_version=CUVMPT">創世記49-50</a> - <a href="https://bibleplan.github.io/daily/2018-02-23-daily.html">祝福眾子</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
 <details><summary>出埃及記 - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">導讀 第5週第6天</a></summary>
  <details>
