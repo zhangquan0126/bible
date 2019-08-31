@@ -32,6 +32,66 @@
   <ul>
   </ul>
  </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記11:27-12:20&qs_version=CUVMPT">創世記11:27-12:20</a> - <a href="https://bibleplan.github.io/daily/2018-01-29-daily.html">呼召應許</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記13-14&qs_version=CUVMPT">創世記13-14</a> - <a href="https://bibleplan.github.io/daily/2018-01-30-daily.html">祝福地土</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記15-16&qs_version=CUVMPT">創世記15-16</a> - <a href="https://bibleplan.github.io/daily/2018-01-31-daily.html">應許後裔</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記17&qs_version=CUVMPT">創世記17</a> - <a href="https://bibleplan.github.io/daily/2018-02-01-daily.html">割禮之約</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記18:1-15&qs_version=CUVMPT">創世記18:1-15</a> - <a href="https://bibleplan.github.io/daily/2018-02-02-daily.html">堅固應許</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記18:16-19:38&qs_version=CUVMPT">創世記18:16-19:38</a> - <a href="https://bibleplan.github.io/daily/2018-02-03-daily.html">罪惡之地</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記20-21&qs_version=CUVMPT">創世記20-21</a> - <a href="https://bibleplan.github.io/daily/2018-02-05-daily.html">應許之子</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記22-23&qs_version=CUVMPT">創世記22-23</a> - <a href="https://bibleplan.github.io/daily/2018-02-06-daily.html">信心試驗</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記24-25:11&qs_version=CUVMPT">創世記24-25:11</a> - <a href="https://bibleplan.github.io/daily/2018-02-07-daily.html">歸回列祖</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記25:12-18&qs_version=CUVMPT">創世記25:12-18</a> - <a href="https://bibleplan.github.io/daily/2018-02-08-daily.html">以實瑪利</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記25:19-26:35&qs_version=CUVMPT">創世記25:19-26:35</a> - <a href="https://bibleplan.github.io/daily/2018-02-09-daily.html">以撒家族</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記27-28&qs_version=CUVMPT">創世記27-28</a> - <a href="https://bibleplan.github.io/daily/2018-02-10-daily.html">雅各逃亡</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
 <details><summary>出埃及記 - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">導讀 第5週第6天</a></summary>
  <details>
