@@ -214,6 +214,61 @@
   <ul>
   </ul>
  </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記24:12-25:40&qs_version=CUVMPT">出埃及記24:12-25:40</a> - <a href="https://bibleplan.github.io/daily/wk8-day1-daily.html">奉獻聖所</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記26-27&qs_version=CUVMPT">出埃及記26-27</a> - <a href="https://bibleplan.github.io/daily/wk8-day2-daily.html">製作會幕</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記28-29&qs_version=CUVMPT">出埃及記28-29</a> - <a href="https://bibleplan.github.io/daily/wk8-day3-daily.html">祭司制度</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記30-31&qs_version=CUVMPT">出埃及記30-31</a> - <a href="https://bibleplan.github.io/daily/wk8-day4-daily.html">其他條例</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記32-33&qs_version=CUVMPT">出埃及記32-33</a> - <a href="https://bibleplan.github.io/daily/wk8-day5-daily.html">造金牛犢</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記34&qs_version=CUVMPT">出埃及記34</a> - <a href="https://bibleplan.github.io/daily/wk8-day6-daily.html">重新立約</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記35-36&qs_version=CUVMPT">出埃及記35-36</a> - <a href="https://bibleplan.github.io/daily/wk9-day1-daily.html">建造會幕</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記37-38&qs_version=CUVMPT">出埃及記37-38</a> - <a href="https://bibleplan.github.io/daily/wk9-day2-daily.html">會幕內外</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記39&qs_version=CUVMPT">出埃及記39</a> - <a href="https://bibleplan.github.io/daily/wk9-day3-daily.html">祭司聖服</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記40&qs_version=CUVMPT">出埃及記40</a> - <a href="https://bibleplan.github.io/daily/wk9-day4-daily.html">奉獻會幕</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=undefined&qs_version=CUVMPT">undefined</a> - <a href="https://bibleplan.github.io/daily/undefined-daily.html">undefined</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
 <details><summary>利未記 - <a href="https://bibleplan.github.io/daily/wk9-day5-daily.html">導讀 第9週第5天</a></summary>
  <details>
