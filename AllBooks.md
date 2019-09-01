@@ -264,11 +264,6 @@
   <ul>
   </ul>
  </details>
- <details>
-  <summary>. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=undefined&qs_version=CUVMPT">undefined</a> - <a href="https://bibleplan.github.io/daily/undefined-daily.html">undefined</a></summary>
-  <ul>
-  </ul>
- </details>
 </details>
 <details><summary>利未記 - <a href="https://bibleplan.github.io/daily/wk9-day5-daily.html">導讀 第9週第5天</a></summary>
  <details>
