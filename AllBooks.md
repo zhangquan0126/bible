@@ -271,6 +271,86 @@
    <ul>
    </ul>
  </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未记3&qs_version=CUVMPT">利未记3</a> - <a href="https://bibleplan.github.io/daily/wk9-day6-daily.html">獻平安祭</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記4:1-5:13&qs_version=CUVMPT">利未記4:1-5:13</a> - <a href="https://bibleplan.github.io/daily/wk10-day1-daily.html">贖罪之祭</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記5:14-6:7&qs_version=CUVMPT">利未記5:14-6:7</a> - <a href="https://bibleplan.github.io/daily/wk10-day2-daily.html">贖愆之祭</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記6:8-7:38&qs_version=CUVMPT">利未記6:8-7:38</a> - <a href="https://bibleplan.github.io/daily/wk10-day3-daily.html">祭司職責</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記8-9&qs_version=CUVMPT">利未記8-9</a> - <a href="https://bibleplan.github.io/daily/wk10-day4-daily.html">膏立祭司</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記10&qs_version=CUVMPT">利未記10</a> - <a href="https://bibleplan.github.io/daily/wk10-day5-daily.html">祭司犯罪</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記11-12&qs_version=CUVMPT">利未記11-12</a> - <a href="https://bibleplan.github.io/daily/wk10-day6-daily.html">潔淨條例</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記13-14&qs_version=CUVMPT">利未記13-14</a> - <a href="https://bibleplan.github.io/daily/wk11-day1-daily.html">皮膚潔淨</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記15-16&qs_version=CUVMPT">利未記15-16</a> - <a href="https://bibleplan.github.io/daily/wk11-day2-daily.html">贖罪之日</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記17-18&qs_version=CUVMPT">利未記17-18</a> - <a href="https://bibleplan.github.io/daily/wk11-day3-daily.html">聖潔行為</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記19-20&qs_version=CUVMPT">利未記19-20</a> - <a href="https://bibleplan.github.io/daily/wk11-day4-daily.html">戒民條例</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記21-22&qs_version=CUVMPT">利未記21-22</a> - <a href="https://bibleplan.github.io/daily/wk11-day5-daily.html">聖潔祭司</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記23:1-24:9&qs_version=CUVMPT">利未記23:1-24:9</a> - <a href="https://bibleplan.github.io/daily/wk11-day6-daily.html">節期條例</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記24:10-25:55&qs_version=CUVMPT">利未記24:10-25:55</a> - <a href="https://bibleplan.github.io/daily/wk12-day1-daily.html">安息之年</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記26&qs_version=CUVMPT">利未記26</a> - <a href="https://bibleplan.github.io/daily/wk12-day2-daily.html">守約背約</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記27&qs_version=CUVMPT">利未記27</a> - <a href="https://bibleplan.github.io/daily/wk12-day3-daily.html">許願之例</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
 <details><summary>民數記 - <a href="https://bibleplan.github.io/daily/wk12-day4-daily.html">導讀 第12週第4天</a></summary>
  <details>
