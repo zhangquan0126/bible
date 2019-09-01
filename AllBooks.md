@@ -154,6 +154,66 @@
    <ul>
    </ul>
  </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記3-4&qs_version=CUVMPT">出埃及記3-4</a> - <a href="https://bibleplan.github.io/daily/2018-02-26-daily.html">荊棘異象</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記5:1-6:27&qs_version=CUVMPT">出埃及記5:1-6:27</a> - <a href="https://bibleplan.github.io/daily/2018-02-27-daily.html">初見法老</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記6:28-9:35&qs_version=CUVMPT">出埃及記6:28-9:35</a> - <a href="https://bibleplan.github.io/daily/2018-02-28-daily.html">神顯權能</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記10-11&qs_version=CUVMPT">出埃及記10-11</a> - <a href="https://bibleplan.github.io/daily/2018-03-01-daily.html">最後警告</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記12:1-30&qs_version=CUVMPT">出埃及記12:1-30</a> - <a href="https://bibleplan.github.io/daily/2018-03-02-daily.html">守逾越節</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記12:31-14:31&qs_version=CUVMPT">出埃及記12:31-14:31</a> - <a href="https://bibleplan.github.io/daily/2018-03-03-daily.html">離開埃及</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記15:1-21&qs_version=CUVMPT">出埃及記15:1-21</a> - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">讚美主恩</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記15:22-17:7&qs_version=CUVMPT">出埃及記15:22-17:7</a> - <a href="https://bibleplan.github.io/daily/wk7-day2-daily.html">曠野供應</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記17:8-18:27&qs_version=CUVMPT">出埃及記17:8-18:27</a> - <a href="https://bibleplan.github.io/daily/wk7-day3-daily.html">建立團隊</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記&qs_version=CUVMPT">出埃及記</a> - <a href="https://bibleplan.github.io/daily/wk7-day4-daily.html">盟約律法</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記21-23&qs_version=CUVMPT">出埃及記21-23</a> - <a href="https://bibleplan.github.io/daily/wk7-day5-daily.html">民事條例</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記24:1-11&qs_version=CUVMPT">出埃及記24:1-11</a> - <a href="https://bibleplan.github.io/daily/wk7-day6-daily.html">確立盟約</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
 <details><summary>利未記 - <a href="https://bibleplan.github.io/daily/wk9-day5-daily.html">導讀 第9週第5天</a></summary>
  <details>
