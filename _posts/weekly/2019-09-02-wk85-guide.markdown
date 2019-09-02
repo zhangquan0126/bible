@@ -1,0 +1,8 @@
+---
+layout: weekly2
+title:  "讀經向導：第 85 週"
+date:   2019-09-08
+categories: weekly guide
+permalink: "/guide/wk85.html"
+weekNum: 85
+---
