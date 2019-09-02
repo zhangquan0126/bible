@@ -1969,5 +1969,74 @@
    <li>耶和華命以西結說預言攻擊從己心發預言的女子，因他們以謊話使義人傷心，又堅固惡人的手，使他不回頭離開惡道得以救活。</li>
   </ul>
  </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書14&qs_version=CUVMPT">以西結書14</a> - <a href="https://bibleplan.github.io/daily/wk85-day1-daily.html">四樣大災</a></summary>
+  <ul>
+   <li>以色列家的人中，凡將他的假神接到心裡，耶和華在他所求的事上，必按他眾多的假神回答他。</li>
+   <li>耶和華勸以色列回頭離開他們的偶像，轉臉莫從他們一切可憎的事。</li>
+   <li>若有一國犯罪干犯耶和華，耶和華必斷絕他們的糧，使饑荒臨到那地。</li>
+   <li>其中雖有挪亞、但以理、約伯這三人，他們只能因他們的義救自己的性命。</li>
+   <li>主耶和華將四樣大災，就是刀劍、饑荒、惡獸、瘟疫降在耶路撒冷，將人與牲畜從其中剪除。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書15-16&qs_version=CUVMPT">以西結書15-16</a> - <a href="https://bibleplan.github.io/daily/wk85-day2-daily.html">邪淫之事</a></summary>
+  <ul>
+   <li>主耶和華如此說：眾樹以內的葡萄樹，我怎樣使它在火中當柴，也必照樣待耶路撒冷的居民。</li>
+   <li>耶和華命令以西結要使耶路撒冷知道她那些可憎的事。</li>
+   <li>耶和華對耶路撒冷說：`「你雖在血中，仍可存活」`</li>
+   <li>耶路撒冷仗著自己的美貌名聲，就行邪淫。</li>
+   <li>行一切惡事之後，又為自己建造圓頂花樓，在各街上做了高臺。</li>
+   <li>耶和華要將耶路撒冷一切相歡相愛的和一切所恨的，都聚集來，從四圍攻擊。</li>
+   <li>耶和華對輕看誓言、背棄盟約的，必照所行的來對待。</li>
+   <li>然而耶和華要追念在耶路撒冷幼年時與之所立的約，也要與之立定永約，並堅定所立的約。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書17-18&qs_version=CUVMPT">以西結書17-18</a> - <a href="https://bibleplan.github.io/daily/wk85-day3-daily.html">公義審判</a></summary>
+  <ul>
+   <li>耶和華以二鷹二葡萄樹為喻，表明對以色列背叛巴比倫王的審判。</li>
+   <li>遵行耶和華的律例典章，按誠實行事，這人是公義的，必定存活。</li>
+   <li>父義子惡，子必不能存活。</li>
+   <li>子善父惡，子就不因父親的罪孽死亡，而父親必因自己的罪孽死亡。</li>
+   <li>兒子必不擔當父親的罪孽，父親也不擔當兒子的罪孽。義人的善果必歸自己，惡人的惡報也必歸自己。</li>
+   <li>惡人若回頭離開所做的一切罪惡，謹守神一切的律例，行正直與合理的事，他必定存活，不致死亡。</li>
+   <li>義人若轉離義行而做罪孽，照著惡人所行一切可憎的事而行，必不能存活。</li>
+   <li>耶和華的道乃是公平。祂必按各人所行的審判。當回頭離開所犯的一切罪過，才不使你們敗亡。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書19&qs_version=CUVMPT">以西結書19</a> - <a href="https://bibleplan.github.io/daily/wk85-day4-daily.html">被擄被毀</a></summary>
+  <ul>
+   <li>以獅子落入陷阱，比喻猶大王被擄到巴比倫。</li>
+   <li>以葡萄樹被拔出，比喻耶路撒冷被傾毀。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書20&qs_version=CUVMPT">以西結書20</a> - <a href="https://bibleplan.github.io/daily/wk85-day5-daily.html">悖逆歷史</a></summary>
+  <ul>
+   <li>以色列的長老來求問耶和華，耶和華卻不被他們求問，卻要審問他們，使他們知道自己列祖那些可憎的事。</li>
+   <li>以色列在埃及悖逆耶和華，不拋棄偶像。</li>
+   <li>以色列家在曠野悖逆耶和華，不順從律例典章。</li>
+   <li>以色列的兒女也在曠野悖逆神，不順從祂的律例典章。</li>
+   <li>以色列在應許之地各高山祭拜偶像，惹神發怒。</li>
+   <li>故此，耶和華用大能的手和伸出來的膀臂，並傾出來的憤怒，治理他們。</li>
+   <li>耶和華又要從萬民中領以色列出來，從分散的列國內聚集他們，在外邦人眼前，在他們身上顯為聖。</li>
+   <li>耶和華以樹木見焚比喻以色列要遭的攻擊。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書21-22&qs_version=CUVMPT">以西結書21-22</a> - <a href="https://bibleplan.github.io/daily/wk85-day6-daily.html">拔刀出鞘</a></summary>
+  <ul>
+   <li>耶和華拔刀出鞘，在以色列中將義人和惡人一併剪除。</li>
+   <li>耶和華預言有刀臨於以色列的百姓和以色列一切的首領。</li>
+   <li>預言巴比倫王必攻擊拉巴及耶路撒冷。</li>
+   <li>受死傷行惡的以色列王罪孽的盡頭到了，受報的日子已到。</li>
+   <li>亞捫人的罪孽到了盡頭，受報的日子已到。</li>
+   <li>耶路撒冷有流人血的事在其中，受報的日期來到。</li>
+   <li>以色列家被看為爐中的渣滓，神的怒氣和憤怒在城中熔化他們。</li>
+   <li>耶和華的審判要臨到褻慢神的先知和祭司。</li>
+  </ul>
+ </details>
 </details>
 
