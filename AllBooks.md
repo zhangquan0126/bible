@@ -496,12 +496,12 @@
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記14.3-16.17&qs_version=CUVMPT">申命記14.3-16.17</a> - <a href="https://bibleplan.github.io/daily/wk17-day2-daily.html">放手信靠</a></summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記14:3-16:17&qs_version=CUVMPT">申命記14:3-16:17</a> - <a href="https://bibleplan.github.io/daily/wk17-day2-daily.html">放手信靠</a></summary>
   <ul>
   </ul>
  </details>
  <details>
-  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記16.18-18.22&qs_version=CUVMPT">申命記16.18-18.22</a> - <a href="https://bibleplan.github.io/daily/wk17-day3-daily.html">公義正直</a></summary>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記16:18-18:22&qs_version=CUVMPT">申命記16:18-18:22</a> - <a href="https://bibleplan.github.io/daily/wk17-day3-daily.html">公義正直</a></summary>
   <ul>
   </ul>
  </details>
@@ -541,12 +541,12 @@
   </ul>
  </details>
  <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記31.1-29&qs_version=CUVMPT">申命記31.1-29</a> - <a href="https://bibleplan.github.io/daily/wk18-day5-daily.html">最後叮囑</a></summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記31:1-29&qs_version=CUVMPT">申命記31:1-29</a> - <a href="https://bibleplan.github.io/daily/wk18-day5-daily.html">最後叮囑</a></summary>
   <ul>
   </ul>
  </details>
  <details>
-  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記31.30-33.29&qs_version=CUVMPT">申命記31.30-33.29</a> - <a href="https://bibleplan.github.io/daily/wk18-day6-daily.html">臨別詩歌</a></summary>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記31:30-33:29&qs_version=CUVMPT">申命記31:30-33:29</a> - <a href="https://bibleplan.github.io/daily/wk18-day6-daily.html">臨別詩歌</a></summary>
   <ul>
   </ul>
  </details>
@@ -568,12 +568,12 @@
   </ul>
  </details>
  <details>
-  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記3.1-5.12&qs_version=CUVMPT">約書亞記3.1-5.12</a> - <a href="https://bibleplan.github.io/daily/wk19-day4-daily.html">過約旦河</a></summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記3:1-5:12&qs_version=CUVMPT">約書亞記3:1-5:12</a> - <a href="https://bibleplan.github.io/daily/wk19-day4-daily.html">過約旦河</a></summary>
   <ul>
   </ul>
  </details>
  <details>
-  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記5.13-7.26&qs_version=CUVMPT">約書亞記5.13-7.26</a> - <a href="https://bibleplan.github.io/daily/wk19-day5-daily.html">耶利哥城</a></summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記5:13-7:26&qs_version=CUVMPT">約書亞記5:13-7:26</a> - <a href="https://bibleplan.github.io/daily/wk19-day5-daily.html">耶利哥城</a></summary>
   <ul>
   </ul>
  </details>
@@ -686,11 +686,6 @@
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記20-21&qs_version=CUVMPT">士師記20-21</a> - <a href="https://bibleplan.github.io/daily/wk23-day3-daily.html">大加討伐</a></summary>
-  <ul>
-  </ul>
- </details>
- <details>
-  <summary>. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=undefined&qs_version=CUVMPT">undefined</a> - <a href="https://bibleplan.github.io/daily/undefined-daily.html">undefined</a></summary>
   <ul>
   </ul>
  </details>
