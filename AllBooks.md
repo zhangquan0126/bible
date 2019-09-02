@@ -628,7 +628,73 @@
   </ul>
  </details>
 </details>
-<details><summary>士師記 - <a href="https://bibleplan.github.io/daily/wk21-day4-daily.html">導讀 第21週第4天</a></summary></details>
+<details><summary>士師記 - <a href="https://bibleplan.github.io/daily/wk21-day4-daily.html">導讀 第21週第4天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記1:1-2:5&qs_version=CUVMPT">士師記1:1-2:5</a> - <a href="https://bibleplan.github.io/daily/wk21-day4-daily.html">漸入網羅</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記2:6-3:6&qs_version=CUVMPT">士師記2:6-3:6</a> - <a href="https://bibleplan.github.io/daily/wk21-day5-daily.html">傷癒忘痛</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記3:7-5:31&qs_version=CUVMPT">士師記3:7-5:31</a> - <a href="https://bibleplan.github.io/daily/wk21-day6-daily.html">士師初興</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記6-7&qs_version=CUVMPT">士師記6-7</a> - <a href="https://bibleplan.github.io/daily/wk22-day1-daily.html">以弱勝強</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記8&qs_version=CUVMPT">士師記8</a> - <a href="https://bibleplan.github.io/daily/wk22-day2-daily.html">紀念勝利</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記9:1-10:5&qs_version=CUVMPT">士師記9:1-10:5</a> - <a href="https://bibleplan.github.io/daily/wk22-day3-daily.html">自立為王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記10:6-12:15&qs_version=CUVMPT">士師記10:6-12:15</a> - <a href="https://bibleplan.github.io/daily/wk22-day4-daily.html">許願還願</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記13-14&qs_version=CUVMPT">士師記13-14</a> - <a href="https://bibleplan.github.io/daily/wk22-day5-daily.html">神勇不羈</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記15-16&qs_version=CUVMPT">士師記15-16</a> - <a href="https://bibleplan.github.io/daily/wk22-day6-daily.html">同歸於盡</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記17-18&qs_version=CUVMPT">士師記17-18</a> - <a href="https://bibleplan.github.io/daily/wk23-day1-daily.html">私設聖所</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記19&qs_version=CUVMPT">士師記19</a> - <a href="https://bibleplan.github.io/daily/wk23-day2-daily.html">匪徒暴虐</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記20-21&qs_version=CUVMPT">士師記20-21</a> - <a href="https://bibleplan.github.io/daily/wk23-day3-daily.html">大加討伐</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=undefined&qs_version=CUVMPT">undefined</a> - <a href="https://bibleplan.github.io/daily/undefined-daily.html">undefined</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>路得記 - <a href="https://bibleplan.github.io/daily/wk23-day4-daily.html">導讀 第23週第4天</a></summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路得記1&qs_version=CUVMPT">路得記 1</a> - <a href="https://bibleplan.github.io/daily/wk23-day4-daily.html">由甜至苦</a></summary>
