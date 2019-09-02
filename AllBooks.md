@@ -556,6 +556,108 @@
   </ul>
  </details>
 </details>
+<details><summary>申命記 - <a href="https://bibleplan.github.io/daily/wk15-day6-daily.html">導讀 第15週第6天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記1&qs_version=CUVMPT">申命記1</a> - <a href="https://bibleplan.github.io/daily/wk15-day6-daily.html">悖逆失敗</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記2-3&qs_version=CUVMPT">申命記2-3</a> - <a href="https://bibleplan.github.io/daily/wk16-day1-daily.html">北上得地</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記4:1-43&qs_version=CUVMPT">申命記4:1-43</a> - <a href="https://bibleplan.github.io/daily/wk16-day2-daily.html">呼天喚地</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記4:44-5:33&qs_version=CUVMPT">申命記4:44-5:33</a> - <a href="https://bibleplan.github.io/daily/wk16-day3-daily.html">十條誡命</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記6-7&qs_version=CUVMPT">申命記6-7</a> - <a href="https://bibleplan.github.io/daily/wk16-day4-daily.html">竭誠愛主</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記8-9&qs_version=CUVMPT">申命記8-9</a> - <a href="https://bibleplan.github.io/daily/wk16-day5-daily.html">牢記真神</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記10-11&qs_version=CUVMPT">申命記10-11</a> - <a href="https://bibleplan.github.io/daily/wk16-day6-daily.html">神要祝福</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記12:1-14:2&qs_version=CUVMPT">申命記12:1-14:2</a> - <a href="https://bibleplan.github.io/daily/wk17-day1-daily.html">遠離網羅</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記14.3-16.17&qs_version=CUVMPT">申命記14.3-16.17</a> - <a href="https://bibleplan.github.io/daily/wk17-day2-daily.html">放手信靠</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記16.18-18.22&qs_version=CUVMPT">申命記16.18-18.22</a> - <a href="https://bibleplan.github.io/daily/wk17-day3-daily.html">公義正直</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記19-20&qs_version=CUVMPT">申命記19-20</a> - <a href="https://bibleplan.github.io/daily/wk17-day4-daily.html">寬容諒解</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記21-22&qs_version=CUVMPT">申命記21-22</a> - <a href="https://bibleplan.github.io/daily/wk17-day5-daily.html">公正清潔</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記23&qs_version=CUVMPT">申命記23</a> - <a href="https://bibleplan.github.io/daily/wk17-day6-daily.html">聖潔憐憫</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記24-25&qs_version=CUVMPT">申命記24-25</a> - <a href="https://bibleplan.github.io/daily/wk18-day1-daily.html">體恤行義</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記26&qs_version=CUVMPT">申命記26</a> - <a href="https://bibleplan.github.io/daily/wk18-day2-daily.html">獻上初熟</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記27-28&qs_version=CUVMPT">申命記27-28</a> - <a href="https://bibleplan.github.io/daily/wk18-day3-daily.html">祝福咒詛</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記29-30&qs_version=CUVMPT">申命記29-30</a> - <a href="https://bibleplan.github.io/daily/wk18-day4-daily.html">福禍自取</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記31.1-29&qs_version=CUVMPT">申命記31.1-29</a> - <a href="https://bibleplan.github.io/daily/wk18-day5-daily.html">最後叮囑</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記31.30-33.29&qs_version=CUVMPT">申命記31.30-33.29</a> - <a href="https://bibleplan.github.io/daily/wk18-day6-daily.html">臨別詩歌</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記34&qs_version=CUVMPT">申命記34</a> - <a href="https://bibleplan.github.io/daily/wk19-day1-daily.html">摩西之死</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>約書亞記 - <a href="https://bibleplan.github.io/daily/wk19-day2-daily.html">導讀 第19週第2天</a></summary></details>
 <details><summary>士師記 - <a href="https://bibleplan.github.io/daily/wk21-day4-daily.html">導讀 第21週第4天</a></summary></details>
 <details><summary>路得記 - <a href="https://bibleplan.github.io/daily/wk23-day4-daily.html">導讀 第23週第4天</a></summary>
