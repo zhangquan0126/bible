@@ -556,7 +556,78 @@
   </ul>
  </details>
 </details>
-<details><summary>約書亞記 - <a href="https://bibleplan.github.io/daily/wk19-day2-daily.html">導讀 第19週第2天</a></summary></details>
+<details><summary>約書亞記 - <a href="https://bibleplan.github.io/daily/wk19-day2-daily.html">導讀 第19週第2天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記1&qs_version=CUVMPT">約書亞記1</a> - <a href="https://bibleplan.github.io/daily/wk19-day2-daily.html">剛強壯膽</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記2&qs_version=CUVMPT">約書亞記2</a> - <a href="https://bibleplan.github.io/daily/wk19-day3-daily.html">妓女喇合</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記3.1-5.12&qs_version=CUVMPT">約書亞記3.1-5.12</a> - <a href="https://bibleplan.github.io/daily/wk19-day4-daily.html">過約旦河</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記5.13-7.26&qs_version=CUVMPT">約書亞記5.13-7.26</a> - <a href="https://bibleplan.github.io/daily/wk19-day5-daily.html">耶利哥城</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記8&qs_version=CUVMPT">約書亞記8</a> - <a href="https://bibleplan.github.io/daily/wk19-day6-daily.html">艾城之役</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記9-10&qs_version=CUVMPT">約書亞記9-10</a> - <a href="https://bibleplan.github.io/daily/wk20-day1-daily.html">南地之戰</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記11-12&qs_version=CUVMPT">約書亞記11-12</a> - <a href="https://bibleplan.github.io/daily/wk20-day2-daily.html">北地之戰</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記13&qs_version=CUVMPT">約書亞記13</a> - <a href="https://bibleplan.github.io/daily/wk20-day3-daily.html">河東之地</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記14-15&qs_version=CUVMPT">約書亞記14-15</a> - <a href="https://bibleplan.github.io/daily/wk20-day4-daily.html">猶大支派</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記16-17&qs_version=CUVMPT">約書亞記16-17</a> - <a href="https://bibleplan.github.io/daily/wk20-day5-daily.html">約瑟支派</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記18-19&qs_version=CUVMPT">約書亞記18-19</a> - <a href="https://bibleplan.github.io/daily/wk20-day6-daily.html">其他支派</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記0-21&qs_version=CUVMPT">約書亞記0-21</a> - <a href="https://bibleplan.github.io/daily/wk21-day1-daily.html">利未支派</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記22-23&qs_version=CUVMPT">約書亞記22-23</a> - <a href="https://bibleplan.github.io/daily/wk21-day2-daily.html">歸回河東</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記24&qs_version=CUVMPT">約書亞記24</a> - <a href="https://bibleplan.github.io/daily/wk21-day3-daily.html">臨終勸勉</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>士師記 - <a href="https://bibleplan.github.io/daily/wk21-day4-daily.html">導讀 第21週第4天</a></summary></details>
 <details><summary>路得記 - <a href="https://bibleplan.github.io/daily/wk23-day4-daily.html">導讀 第23週第4天</a></summary>
  <details>
