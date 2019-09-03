@@ -807,7 +807,7 @@
   </ul>
  </details>
  <details>
-  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音28&qs_version=CUVMPT">馬太福音28</a> - <a href="https://bibleplan.github.io/daily/wk26-day1-daily.html">死裡復活</a></summary>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音28&qs_version=CUVMPT">馬太福音28</a> - <a href="https://bibleplan.github.io/daily/wk27-day1-daily.html">死裡復活</a></summary>
   <ul>
   </ul>
  </details>
