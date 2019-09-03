@@ -812,7 +812,73 @@
   </ul>
  </details>
 </details>
-<details><summary>馬可福音 - <a href="https://bibleplan.github.io/daily/wk27-day2-daily.html">導讀 第27週第2天</a></summary></details>
+<details><summary>馬可福音 - <a href="https://bibleplan.github.io/daily/wk27-day2-daily.html">導讀 第27週第2天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音1&qs_version=CUVMPT">馬可福音1</a> - <a href="https://bibleplan.github.io/daily/wk27-day2-daily.html">福音起頭</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音2:1-3:6&qs_version=CUVMPT">馬可福音2:1-3:6</a> - <a href="https://bibleplan.github.io/daily/wk27-day3-daily.html">初現大能</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音3:7-4:34&qs_version=CUVMPT">馬可福音3:7-4:34</a> - <a href="https://bibleplan.github.io/daily/wk27-day4-daily.html">聽道行道</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音4:35-6:6a&qs_version=CUVMPT">馬可福音4:35-6:6a</a> - <a href="https://bibleplan.github.io/daily/wk27-day5-daily.html">天地主宰</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音6:6b-8:21&qs_version=CUVMPT">馬可福音6:6b-8:21</a> - <a href="https://bibleplan.github.io/daily/wk27-day6-daily.html">不解不信</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音8:22-9:29&qs_version=CUVMPT">馬可福音8:22-9:29</a> - <a href="https://bibleplan.github.io/daily/wk28-day1-daily.html">你是基督</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音9:30-10:45&qs_version=CUVMPT">馬可福音9:30-10:45</a> - <a href="https://bibleplan.github.io/daily/wk28-day2-daily.html">積財在天</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音10:46-11:26&qs_version=CUVMPT">馬可福音10:46-11:26</a> - <a href="https://bibleplan.github.io/daily/wk28-day3-daily.html">騎驢進城</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音11:27-12:40&qs_version=CUVMPT">馬可福音11:27-12:40</a> - <a href="https://bibleplan.github.io/daily/wk28-day4-daily.html">聖殿辯論</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音12:41-13:37&qs_version=CUVMPT">馬可福音12:41-13:37</a> - <a href="https://bibleplan.github.io/daily/wk28-day5-daily.html">末日預兆</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音14&qs_version=CUVMPT">馬可福音14</a> - <a href="https://bibleplan.github.io/daily/wk28-day6-daily.html">耶穌被賣</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音15&qs_version=CUVMPT">馬可福音15</a> - <a href="https://bibleplan.github.io/daily/wk29-day1-daily.html">救主之死</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音16&qs_version=CUVMPT">馬可福音16</a> - <a href="https://bibleplan.github.io/daily/wk29-day2-daily.html">死裡復活</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>路加福音 - <a href="https://bibleplan.github.io/daily/wk29-day3-daily.html">導讀 第29週第3天</a></summary>
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音1&qs_version=CUVMPT">路加福音 1</a> - <a href="https://bibleplan.github.io/daily/wk29-day3-daily.html">施洗約翰</a></summary>
