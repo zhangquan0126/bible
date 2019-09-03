@@ -1061,7 +1061,98 @@
    </ul>
  </details>
 </details>
-<details><summary>使徒行傳 - <a href="https://bibleplan.github.io/daily/wk32-day6-daily.html">導讀 第32週第6天</a></summary></details>
+<details><summary>使徒行傳 - <a href="https://bibleplan.github.io/daily/wk32-day6-daily.html">導讀 第32週第6天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳1&qs_version=CUVMPT">使徒行傳1</a> - <a href="https://bibleplan.github.io/daily/wk32-day6-daily.html">等候聖靈</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳2&qs_version=CUVMPT">使徒行傳2</a> - <a href="https://bibleplan.github.io/daily/wk33-day1-daily.html">聖靈大能</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳3-4&qs_version=CUVMPT">使徒行傳3-4</a> - <a href="https://bibleplan.github.io/daily/wk33-day2-daily.html">放膽傳講</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳5:1-6:7&qs_version=CUVMPT">使徒行傳5:1-6:7</a> - <a href="https://bibleplan.github.io/daily/wk33-day3-daily.html">不可阻擋</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳6:8-7:60&qs_version=CUVMPT">使徒行傳6:8-7:60</a> - <a href="https://bibleplan.github.io/daily/wk33-day4-daily.html">天使面貌</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳8:1-9:31&qs_version=CUVMPT">使徒行傳8:1-9:31</a> - <a href="https://bibleplan.github.io/daily/wk33-day5-daily.html">分散傳道</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳9:32-10:48&qs_version=CUVMPT">使徒行傳9:32-10:48</a> - <a href="https://bibleplan.github.io/daily/wk33-day6-daily.html">臨到外邦</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳11:1-12:24&qs_version=CUVMPT">使徒行傳11:1-12:24</a> - <a href="https://bibleplan.github.io/daily/wk34-day1-daily.html">真道興旺</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳12:25-13:52&qs_version=CUVMPT">使徒行傳12:25-13:52</a> - <a href="https://bibleplan.github.io/daily/wk34-day2-daily.html">宣教啟程</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳14:1-16:5&qs_version=CUVMPT">使徒行傳14:1-16:5</a> - <a href="https://bibleplan.github.io/daily/wk34-day3-daily.html">得救在恩</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳16:6-17:34&qs_version=CUVMPT">使徒行傳16:6-17:34</a> - <a href="https://bibleplan.github.io/daily/wk34-day4-daily.html">傳向歐洲</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳18:1-19:20&qs_version=CUVMPT">使徒行傳18:1-19:20</a> - <a href="https://bibleplan.github.io/daily/wk34-day5-daily.html">許多百姓</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳19:21-20:38&qs_version=CUVMPT">使徒行傳19:21-20:38</a> - <a href="https://bibleplan.github.io/daily/wk34-day6-daily.html">不顧性命</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳21:1-22:29&qs_version=CUVMPT">使徒行傳21:1-22:29</a> - <a href="https://bibleplan.github.io/daily/wk35-day1-daily.html">耶城陳情</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳22:30-24:27&qs_version=CUVMPT">使徒行傳22:30-24:27</a> - <a href="https://bibleplan.github.io/daily/wk35-day2-daily.html">據理力爭</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳25-26&qs_version=CUVMPT">使徒行傳25-26</a> - <a href="https://bibleplan.github.io/daily/wk35-day3-daily.html">講解真道</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳27:1-28:16&qs_version=CUVMPT">使徒行傳27:1-28:16</a> - <a href="https://bibleplan.github.io/daily/wk35-day4-daily.html">遭遇海難</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳28:17-30&qs_version=CUVMPT">使徒行傳28:17-30</a> - <a href="https://bibleplan.github.io/daily/wk35-day5-daily.html">放膽傳講</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>羅馬書 - <a href="https://bibleplan.github.io/daily/wk35-day6-daily.html">導讀 第35週第6天</a></summary></details>
 <details><summary>哥林多前書 - <a href="https://bibleplan.github.io/daily/wk38-day1-daily.html">導讀 第38週第1天</a></summary></details>
 <details><summary>哥林多後書 - <a href="https://bibleplan.github.io/daily/wk39-day5-daily.html">導讀 第39週第5天</a></summary></details>
