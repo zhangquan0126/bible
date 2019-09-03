@@ -720,7 +720,98 @@
    </ul>
  </details>
 </details>
-<details><summary>馬太福音 - <a href="https://bibleplan.github.io/daily/wk24-day2-daily.html">導讀 第24週第2天</a></summary></details>
+<details><summary>馬太福音 - <a href="https://bibleplan.github.io/daily/wk24-day2-daily.html">導讀 第24週第2天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音1-2&qs_version=CUVMPT">馬太福音1-2</a> - <a href="https://bibleplan.github.io/daily/wk24-day2-daily.html">耶穌是王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音3:1-4:11&qs_version=CUVMPT">馬太福音3:1-4:11</a> - <a href="https://bibleplan.github.io/daily/wk24-day3-daily.html">勝過試探</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音4:12-6:18&qs_version=CUVMPT">馬太福音4:12-6:18</a> - <a href="https://bibleplan.github.io/daily/wk24-day4-daily.html">登山寶訓</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音6:19-7:29&qs_version=CUVMPT">馬太福音6:19-7:29</a> - <a href="https://bibleplan.github.io/daily/wk24-day5-daily.html">登山寶訓2</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音8-9&qs_version=CUVMPT">馬太福音8-9</a> - <a href="https://bibleplan.github.io/daily/wk24-day6-daily.html">耶穌大能</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音10&qs_version=CUVMPT">馬太福音10</a> - <a href="https://bibleplan.github.io/daily/wk25-day1-daily.html">天國使命</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音11-12&qs_version=CUVMPT">馬太福音11-12</a> - <a href="https://bibleplan.github.io/daily/wk25-day2-daily.html">安息之主</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音13:1-52&qs_version=CUVMPT">馬太福音13:1-52</a> - <a href="https://bibleplan.github.io/daily/wk25-day3-daily.html">天國奧秘</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音13:53-15:39&qs_version=CUVMPT">馬太福音13:53-15:39</a> - <a href="https://bibleplan.github.io/daily/wk25-day4-daily.html">神的兒子</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音16-17&qs_version=CUVMPT">馬太福音16-17</a> - <a href="https://bibleplan.github.io/daily/wk25-day5-daily.html">神的形象</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音18&qs_version=CUVMPT">馬太福音18</a> - <a href="https://bibleplan.github.io/daily/wk25-day6-daily.html">天國子民</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音19-20&qs_version=CUVMPT">馬太福音19-20</a> - <a href="https://bibleplan.github.io/daily/wk26-day1-daily.html">誰大誰小</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音21-22&qs_version=CUVMPT">馬太福音21-22</a> - <a href="https://bibleplan.github.io/daily/wk26-day2-daily.html">耶路撒冷</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音23-24&qs_version=CUVMPT">馬太福音23-24</a> - <a href="https://bibleplan.github.io/daily/wk26-day3-daily.html">末世將近</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音25&qs_version=CUVMPT">馬太福音25</a> - <a href="https://bibleplan.github.io/daily/wk26-day4-daily.html">警醒等候</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音26&qs_version=CUVMPT">馬太福音26</a> - <a href="https://bibleplan.github.io/daily/wk26-day5-daily.html">耶穌被賣</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音27&qs_version=CUVMPT">馬太福音27</a> - <a href="https://bibleplan.github.io/daily/wk26-day6-daily.html">被釘十架</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音28&qs_version=CUVMPT">馬太福音28</a> - <a href="https://bibleplan.github.io/daily/wk26-day1-daily.html">死裡復活</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>馬可福音 - <a href="https://bibleplan.github.io/daily/wk27-day2-daily.html">導讀 第27週第2天</a></summary></details>
 <details><summary>路加福音 - <a href="https://bibleplan.github.io/daily/wk29-day3-daily.html">導讀 第29週第3天</a></summary>
  <details>
