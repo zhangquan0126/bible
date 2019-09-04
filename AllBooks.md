@@ -1363,7 +1363,28 @@
   </ul>
  </details>
 </details>
-<details><summary>腓立比書 - <a href="https://bibleplan.github.io/daily/wk42-day4-daily.html">導讀 第42週第4天</a></summary></details>
+<details><summary>腓立比書 - <a href="https://bibleplan.github.io/daily/wk42-day4-daily.html">導讀 第42週第4天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書1:1-26&qs_version=CUVMPT">腓立比書1:1-26</a> - <a href="https://bibleplan.github.io/daily/wk42-day4-daily.html">興旺福音</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書1:27-2:30&qs_version=CUVMPT">腓立比書1:27-2:30</a> - <a href="https://bibleplan.github.io/daily/wk42-day5-daily.html">行事為人</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書3:1-4:3&qs_version=CUVMPT">腓立比書3:1-4:3</a> - <a href="https://bibleplan.github.io/daily/wk42-day6-daily.html">耶穌至寶</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書4:4-23&qs_version=CUVMPT">腓立比書4:4-23</a> - <a href="https://bibleplan.github.io/daily/wk43-day1-daily.html">常常喜樂</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>歌羅西書 - <a href="https://bibleplan.github.io/daily/wk43-day2-daily.html">導讀 第43週第2天</a></summary></details>
 <details><summary>帖撒羅尼迦前書 - <a href="https://bibleplan.github.io/daily/wk43-day5-daily.html">導讀 第1週第1天</a></summary></details>
 <details><summary>帖撒羅尼迦後書 - <a href="https://bibleplan.github.io/daily/wk44-day5-daily.html">導讀 第44週第5天</a></summary></details>
