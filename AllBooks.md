@@ -1314,7 +1314,28 @@
   </ul>
  </details>
 </details>
-<details><summary>加拉太書 - <a href="https://bibleplan.github.io/daily/wk41-day1-daily.html">導讀 第41週第1天</a></summary></details>
+<details><summary>加拉太書 - <a href="https://bibleplan.github.io/daily/wk41-day1-daily.html">導讀 第41週第1天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書1-2&qs_version=CUVMPT">加拉太書1-2</a> - <a href="https://bibleplan.github.io/daily/wk41-day1-daily.html">福音真源</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書3:1-4:20&qs_version=CUVMPT">加拉太書3:1-4:20</a> - <a href="https://bibleplan.github.io/daily/wk41-day2-daily.html">因信稱義</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書4:21-5:12&qs_version=CUVMPT">加拉太書4:21-5:12</a> - <a href="https://bibleplan.github.io/daily/wk41-day3-daily.html">珍惜自由</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書5:13-6:18&qs_version=CUVMPT">加拉太書5:13-6:18</a> - <a href="https://bibleplan.github.io/daily/wk41-day4-daily.html">不要放縱</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>以弗所書 - <a href="https://bibleplan.github.io/daily/wk41-day5-daily.html">導讀 第41週第5天</a></summary></details>
 <details><summary>腓立比書 - <a href="https://bibleplan.github.io/daily/wk42-day4-daily.html">導讀 第42週第4天</a></summary></details>
 <details><summary>歌羅西書 - <a href="https://bibleplan.github.io/daily/wk43-day2-daily.html">導讀 第43週第2天</a></summary></details>
