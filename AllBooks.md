@@ -1272,7 +1272,48 @@
   </ul>
  </details>
 </details>
-<details><summary>哥林多後書 - <a href="https://bibleplan.github.io/daily/wk39-day5-daily.html">導讀 第39週第5天</a></summary></details>
+<details><summary>哥林多後書 - <a href="https://bibleplan.github.io/daily/wk39-day5-daily.html">導讀 第39週第5天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書1:1-2:13&qs_version=CUVMPT">哥林多後書1:1-2:13</a> - <a href="https://bibleplan.github.io/daily/wk39-day5-daily.html">患難與憂愁</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書2:14-4:6&qs_version=CUVMPT">哥林多後書2:14-4:6</a> - <a href="https://bibleplan.github.io/daily/wk39-day6-daily.html">香氣與榮光</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書4:7-5:1&qs_version=CUVMPT">哥林多後書4:7-5:1</a> - <a href="https://bibleplan.github.io/daily/wk40-day1-daily.html">暫時與永恆</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書5:11-7:4&qs_version=CUVMPT">哥林多後書5:11-7:4</a> - <a href="https://bibleplan.github.io/daily/wk40-day2-daily.html">和好與悅納</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書7:5-16&qs_version=CUVMPT">哥林多後書7:5-16</a> - <a href="https://bibleplan.github.io/daily/wk40-day3-daily.html">依神的意思</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書8-9&qs_version=CUVMPT">哥林多後書8-9</a> - <a href="https://bibleplan.github.io/daily/wk40-day4-daily.html">甘心的捐助</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書10-11&qs_version=CUVMPT">哥林多後書10-11</a> - <a href="https://bibleplan.github.io/daily/wk40-day5-daily.html">使徒的權柄</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書12-13&qs_version=CUVMPT">哥林多後書12-13</a> - <a href="https://bibleplan.github.io/daily/wk40-day6-daily.html">保羅的自誇</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>加拉太書 - <a href="https://bibleplan.github.io/daily/wk41-day1-daily.html">導讀 第41週第1天</a></summary></details>
 <details><summary>以弗所書 - <a href="https://bibleplan.github.io/daily/wk41-day5-daily.html">導讀 第41週第5天</a></summary></details>
 <details><summary>腓立比書 - <a href="https://bibleplan.github.io/daily/wk42-day4-daily.html">導讀 第42週第4天</a></summary></details>
