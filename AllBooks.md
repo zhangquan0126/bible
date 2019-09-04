@@ -1336,7 +1336,33 @@
   </ul>
  </details>
 </details>
-<details><summary>以弗所書 - <a href="https://bibleplan.github.io/daily/wk41-day5-daily.html">導讀 第41週第5天</a></summary></details>
+<details><summary>以弗所書 - <a href="https://bibleplan.github.io/daily/wk41-day5-daily.html">導讀 第41週第5天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書1&qs_version=CUVMPT">以弗所書1</a> - <a href="https://bibleplan.github.io/daily/wk41-day5-daily.html">屬靈基業</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書2&qs_version=CUVMPT">以弗所書2</a> - <a href="https://bibleplan.github.io/daily/wk41-day6-daily.html">主里合一</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書3:1-4:16&qs_version=CUVMPT">以弗所書3:1-4:16</a> - <a href="https://bibleplan.github.io/daily/wk42-day1-daily.html">各盡其職</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書4:17-6:9&qs_version=CUVMPT">以弗所書4:17-6:9</a> - <a href="https://bibleplan.github.io/daily/wk42-day2-daily.html">生活更新</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書6:10-24&qs_version=CUVMPT">以弗所書6:10-24</a> - <a href="https://bibleplan.github.io/daily/wk42-day3-daily.html">爭戰得勝</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>腓立比書 - <a href="https://bibleplan.github.io/daily/wk42-day4-daily.html">導讀 第42週第4天</a></summary></details>
 <details><summary>歌羅西書 - <a href="https://bibleplan.github.io/daily/wk43-day2-daily.html">導讀 第43週第2天</a></summary></details>
 <details><summary>帖撒羅尼迦前書 - <a href="https://bibleplan.github.io/daily/wk43-day5-daily.html">導讀 第1週第1天</a></summary></details>
