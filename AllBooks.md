@@ -1321,17 +1321,17 @@
   </ul>
  </details>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書3:1-4:20&qs_version=CUVMPT">加拉太書3:1-4:20</a> - <a href="https://bibleplan.github.io/daily/wk41-day2-daily.html">因信稱義</a></summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書3:1-4:20&qs_version=CUVMPT">加拉太書3:1-4:20</a> - <a href="https://bibleplan.github.io/daily/wk41-day2-daily.html">因信稱義</a></summary>
   <ul>
   </ul>
  </details>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書4:21-5:12&qs_version=CUVMPT">加拉太書4:21-5:12</a> - <a href="https://bibleplan.github.io/daily/wk41-day3-daily.html">珍惜自由</a></summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書4:21-5:12&qs_version=CUVMPT">加拉太書4:21-5:12</a> - <a href="https://bibleplan.github.io/daily/wk41-day3-daily.html">珍惜自由</a></summary>
   <ul>
   </ul>
  </details>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書5:13-6:18&qs_version=CUVMPT">加拉太書5:13-6:18</a> - <a href="https://bibleplan.github.io/daily/wk41-day4-daily.html">不要放縱</a></summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書5:13-6:18&qs_version=CUVMPT">加拉太書5:13-6:18</a> - <a href="https://bibleplan.github.io/daily/wk41-day4-daily.html">不要放縱</a></summary>
   <ul>
   </ul>
  </details>
