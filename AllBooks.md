@@ -1386,7 +1386,7 @@
  </details>
 </details>
 <details><summary>歌羅西書 - <a href="https://bibleplan.github.io/daily/wk43-day2-daily.html">導讀 第43週第2天</a></summary></details>
-<details><summary>帖撒羅尼迦前書 - <a href="https://bibleplan.github.io/daily/wk43-day5-daily.html">導讀 第1週第1天</a></summary></details>
+<details><summary>帖撒羅尼迦前書 - <a href="https://bibleplan.github.io/daily/wk43-day5-daily.html">導讀 第43週第1天</a></summary></details>
 <details><summary>帖撒羅尼迦後書 - <a href="https://bibleplan.github.io/daily/wk44-day5-daily.html">導讀 第44週第5天</a></summary></details>
 <details><summary>提摩太前書 - <a href="https://bibleplan.github.io/daily/wk45-day2-daily.html">導讀 第45週第2天</a></summary></details>
 <details><summary>提摩太後書 - <a href="https://bibleplan.github.io/daily/wk46-day2-daily.html">導讀 第46週第2天</a></summary></details>
