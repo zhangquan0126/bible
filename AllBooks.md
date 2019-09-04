@@ -1220,7 +1220,58 @@
   </ul>
  </details>
 </details>
-<details><summary>哥林多前書 - <a href="https://bibleplan.github.io/daily/wk38-day1-daily.html">導讀 第38週第1天</a></summary></details>
+<details><summary>哥林多前書 - <a href="https://bibleplan.github.io/daily/wk38-day1-daily.html">導讀 第38週第1天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書1:1-3:4&qs_version=CUVMPT">哥林多前書1:1-3:4</a> - <a href="https://bibleplan.github.io/daily/wk38-day1-daily.html">神的智慧</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書3:5-4:21&qs_version=CUVMPT">哥林多前書3:5-4:21</a> - <a href="https://bibleplan.github.io/daily/wk38-day2-daily.html">教會根基</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書5-6&qs_version=CUVMPT">哥林多前書5-6</a> - <a href="https://bibleplan.github.io/daily/wk38-day3-daily.html">避免淫行</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書7&qs_version=CUVMPT">哥林多前書7</a> - <a href="https://bibleplan.github.io/daily/wk38-day4-daily.html">嫁娶之事</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書8-9&qs_version=CUVMPT">哥林多前書8-9</a> - <a href="https://bibleplan.github.io/daily/wk38-day5-daily.html">真的自由</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書10:1-11:1&qs_version=CUVMPT">哥林多前書10:1-11:1</a> - <a href="https://bibleplan.github.io/daily/wk38-day6-daily.html">逃避偶像</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書11:2-34&qs_version=CUVMPT">哥林多前書11:2-34</a> - <a href="https://bibleplan.github.io/daily/wk39-day1-daily.html">蒙頭與聖餐</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書12-14&qs_version=CUVMPT">哥林多前書12-14</a> - <a href="https://bibleplan.github.io/daily/wk39-day2-daily.html">屬靈的恩賜</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書15&qs_version=CUVMPT">哥林多前書15</a> - <a href="https://bibleplan.github.io/daily/wk39-day3-daily.html">得救的憑據</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書16&qs_version=CUVMPT">哥林多前書16</a> - <a href="https://bibleplan.github.io/daily/wk39-day4-daily.html">捐項與勸勉</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>哥林多後書 - <a href="https://bibleplan.github.io/daily/wk39-day5-daily.html">導讀 第39週第5天</a></summary></details>
 <details><summary>加拉太書 - <a href="https://bibleplan.github.io/daily/wk41-day1-daily.html">導讀 第41週第1天</a></summary></details>
 <details><summary>以弗所書 - <a href="https://bibleplan.github.io/daily/wk41-day5-daily.html">導讀 第41週第5天</a></summary></details>
