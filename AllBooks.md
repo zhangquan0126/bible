@@ -1385,14 +1385,197 @@
   </ul>
  </details>
 </details>
-<details><summary>歌羅西書 - <a href="https://bibleplan.github.io/daily/wk43-day2-daily.html">導讀 第43週第2天</a></summary></details>
-<details><summary>帖撒羅尼迦前書 - <a href="https://bibleplan.github.io/daily/wk43-day5-daily.html">導讀 第43週第5天</a></summary></details>
-<details><summary>帖撒羅尼迦後書 - <a href="https://bibleplan.github.io/daily/wk44-day5-daily.html">導讀 第44週第5天</a></summary></details>
-<details><summary>提摩太前書 - <a href="https://bibleplan.github.io/daily/wk45-day2-daily.html">導讀 第45週第2天</a></summary></details>
-<details><summary>提摩太後書 - <a href="https://bibleplan.github.io/daily/wk46-day2-daily.html">導讀 第46週第2天</a></summary></details>
-<details><summary>提多書 - <a href="https://bibleplan.github.io/daily/wk46-day5-daily.html">導讀 第46週第5天</a></summary></details>
-<details><summary>腓利門書 - <a href="https://bibleplan.github.io/daily/wk47-day1-daily.html">導讀 第47週第1天</a></summary></details>
-<details><summary>希伯來書 - <a href="https://bibleplan.github.io/daily/wk47-day2-daily.html">導讀 第47週第2天</a></summary></details>
+<details><summary>歌羅西書 - <a href="https://bibleplan.github.io/daily/wk43-day2-daily.html">導讀 第43週第2天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書1:1-2:5&qs_version=CUVMPT">歌羅西書1:1-2:5</a> - <a href="https://bibleplan.github.io/daily/wk43-day2-daily.html">神的奥秘</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書2:6-3:11&qs_version=CUVMPT">歌羅西書2:6-3:11</a> - <a href="https://bibleplan.github.io/daily/wk43-day3-daily.html">提防小学</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書3:12-4:18&qs_version=CUVMPT">歌羅西書3:12-4:18</a> - <a href="https://bibleplan.github.io/daily/wk43-day4-daily.html">愛心聯絡</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>帖撒羅尼迦前書 - <a href="https://bibleplan.github.io/daily/wk43-day5-daily.html">導讀 第43週第5天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書1&qs_version=CUVMPT">帖撒羅尼迦前書1</a> - <a href="https://bibleplan.github.io/daily/wk43-day5-daily.html">信心根基</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書2:1-16&qs_version=CUVMPT">帖撒羅尼迦前書2:1-16</a> - <a href="https://bibleplan.github.io/daily/wk43-day6-daily.html">信心榜樣</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書2:17-3:13&qs_version=CUVMPT">帖撒羅尼迦前書2:17-3:13</a> - <a href="https://bibleplan.github.io/daily/wk44-day1-daily.html">榮耀冠冕</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書4:1-12&qs_version=CUVMPT">帖撒羅尼迦前書4:1-12</a> - <a href="https://bibleplan.github.io/daily/wk44-day2-daily.html">義的行為</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書4:13-5:11&qs_version=CUVMPT">帖撒羅尼迦前書4:13-5:11</a> - <a href="https://bibleplan.github.io/daily/wk44-day3-daily.html">驚醒謹守</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書5:12-28&qs_version=CUVMPT">帖撒羅尼迦前書5:12-28</a> - <a href="https://bibleplan.github.io/daily/wk44-day4-daily.html">全然成聖</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>帖撒羅尼迦後書 - <a href="https://bibleplan.github.io/daily/wk44-day5-daily.html">導讀 第44週第5天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書1&qs_version=CUVMPT">帖撒羅尼迦後書1</a> - <a href="https://bibleplan.github.io/daily/wk44-day5-daily.html">公義審判</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書2:1-12&qs_version=CUVMPT">帖撒羅尼迦後書2:1-12</a> - <a href="https://bibleplan.github.io/daily/wk44-day6-daily.html">滅絕不法</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書2:13-3:18&qs_version=CUVMPT">帖撒羅尼迦後書2:13-3:18</a> - <a href="https://bibleplan.github.io/daily/wk45-day1-daily.html">安靜做工</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>提摩太前書 - <a href="https://bibleplan.github.io/daily/wk45-day2-daily.html">導讀 第45週第2天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書1&qs_version=CUVMPT">提摩太前書1</a> - <a href="https://bibleplan.github.io/daily/wk45-day2-daily.html">命令總歸</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書2&qs_version=CUVMPT">提摩太前書2</a> - <a href="https://bibleplan.github.io/daily/wk45-day3-daily.html">為人禱告</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書3:1-13&qs_version=CUVMPT">提摩太前書3:1-13</a> - <a href="https://bibleplan.github.io/daily/wk45-day4-daily.html">監督執事</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書3:14-4:16&qs_version=CUVMPT">提摩太前書3:14-4:16</a> - <a href="https://bibleplan.github.io/daily/wk45-day5-daily.html">操練敬虔</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書5:1-6:2b&qs_version=CUVMPT">提摩太前書5:1-6:2b</a> - <a href="https://bibleplan.github.io/daily/wk45-day6-daily.html">敬虔度日</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書6:2c-21&qs_version=CUVMPT">提摩太前書6:2c-21</a> - <a href="https://bibleplan.github.io/daily/wk46-day1-daily.html">敬虔知足</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>提摩太後書 - <a href="https://bibleplan.github.io/daily/wk46-day2-daily.html">導讀 第46週第2天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書1:1-2:13&qs_version=CUVMPT">提摩太後書1:1-2:13</a> - <a href="https://bibleplan.github.io/daily/wk46-day2-daily.html">恩賜的火</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書2:14-3:9&qs_version=CUVMPT">提摩太後書2:14-3:9</a> - <a href="https://bibleplan.github.io/daily/wk46-day3-daily.html">無愧工人</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書3:10-4:22&qs_version=CUVMPT">提摩太後書3:10-4:22</a> - <a href="https://bibleplan.github.io/daily/wk46-day4-daily.html">務要傳道</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>提多書 - <a href="https://bibleplan.github.io/daily/wk46-day5-daily.html">導讀 第46週第5天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提多書1-2&qs_version=CUVMPT">提多書1-2</a> - <a href="https://bibleplan.github.io/daily/wk46-day5-daily.html">敬虔真理</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提多書3&qs_version=CUVMPT">提多書3</a> - <a href="https://bibleplan.github.io/daily/wk46-day6-daily.html">預備行善</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>腓利門書 - <a href="https://bibleplan.github.io/daily/wk47-day1-daily.html">導讀 第47週第1天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓利門書1&qs_version=CUVMPT">腓利門書1</a> - <a href="https://bibleplan.github.io/daily/wk47-day1-daily.html">面對過去</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>希伯來書 - <a href="https://bibleplan.github.io/daily/wk47-day2-daily.html">導讀 第47週第2天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書1&qs_version=CUVMPT">希伯來書1</a> - <a href="https://bibleplan.github.io/daily/wk47-day2-daily.html">遠超天使</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書2&qs_version=CUVMPT">希伯來書2</a> - <a href="https://bibleplan.github.io/daily/wk47-day3-daily.html">偉大救恩</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書3:1-4:13&qs_version=CUVMPT">希伯來書3:1-4:13</a> - <a href="https://bibleplan.github.io/daily/wk47-day4-daily.html">進入安息</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書4:14-6:20&qs_version=CUVMPT">希伯來書4:14-6:20</a> - <a href="https://bibleplan.github.io/daily/wk47-day5-daily.html">祭司耶穌</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書7&qs_version=CUVMPT">希伯來書7</a> - <a href="https://bibleplan.github.io/daily/wk47-day6-daily.html">耶稣中保</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書8&qs_version=CUVMPT">希伯來書8</a> - <a href="https://bibleplan.github.io/daily/wk48-day1-daily.html">更美之約</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書9:1-10:18&qs_version=CUVMPT">希伯來書9:1-10:18</a> - <a href="https://bibleplan.github.io/daily/wk48-day2-daily.html">信實守約</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書10:19-39&qs_version=CUVMPT">希伯來書10:19-39</a> - <a href="https://bibleplan.github.io/daily/wk48-day3-daily.html">新的生命</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書11&qs_version=CUVMPT">希伯來書11</a> - <a href="https://bibleplan.github.io/daily/wk48-day4-daily.html">信心偉人</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書12&qs_version=CUVMPT">希伯來書12</a> - <a href="https://bibleplan.github.io/daily/wk48-day5-daily.html">神的管教</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書13&qs_version=CUVMPT">希伯來書13</a> - <a href="https://bibleplan.github.io/daily/wk48-day6-daily.html">弟兄相愛</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>雅各書 - <a href="https://bibleplan.github.io/daily/wk49-day1-daily.html">導讀 第49週第1天</a></summary></details>
 <details><summary>彼得前書 - <a href="https://bibleplan.github.io/daily/wk49-day5-daily.html">導讀 第49週第5天</a></summary></details>
 <details><summary>彼得後書 - <a href="https://bibleplan.github.io/daily/wk50-day4-daily.html">導讀 第50週第4天</a></summary></details>
