@@ -3108,5 +3108,25 @@
    <li>耶和華的審判要臨到褻慢神的先知和祭司。</li>
   </ul>
  </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書23-24&qs_version=CUVMPT">以西結書23-24</a> - <a href="https://bibleplan.github.io/daily/wk86-day1-daily.html">背離上帝</a></summary>
+  <ul>
+   <li>以兩個婦人比喻撒馬利亞與耶路撒冷崇拜淫邪，背離上帝。</li>
+   <li>阿荷利巴必被先愛而後生疏的人攻擊。</li>
+   <li>審問阿荷拉與阿荷利巴，指出她們所行可憎的事。必有義人照審判淫婦和流人血的婦人之例審判她們。</li>
+   <li>以火上裝著肥美肉塊的鍋比喻耶路撒冷。</li>
+   <li>耶和華命以西結不要為妻子死去而哀哭，以此比喻以色列人受苦而不暇悲傷。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書25&qs_version=CUVMPT">以西結書25</a> - <a href="https://bibleplan.github.io/daily/wk86-day2-daily.html">審判列國</a></summary>
+  <ul>
+   <li>預言亞捫人因為喜悅以色列遘災而必定受到攻擊。</li>
+   <li>因摩押和西珥人說『看哪，猶大家與列國無異』，所以要破開摩押邊界上的城邑。</li>
+   <li>因為以東報仇雪恨，攻擊猶大家，所以主耶和華如此說：我必伸手攻擊。</li>
+   <li>非利士人向猶大人報仇，就是以恨惡的心報仇雪恨。</li>
+   <li>但昔日富庶繁榮的推羅城，竟逃不過滅亡的厄運。歷史上無數輝煌的古邦、帝國也已湮滅或衰落。今天，你嚮往的是世間的繁華，還是神永恆的國度？</li>
+  </ul>
+ </details>
 </details>
 
