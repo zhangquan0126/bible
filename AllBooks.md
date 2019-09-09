@@ -1769,7 +1769,78 @@
   </ul>
  </details>
 </details>
-<details><summary>撒母耳記下 - <a href="https://bibleplan.github.io/daily/wk55-day1-daily.html">導讀 第55週第1天</a></summary></details>
+<details><summary>撒母耳記下 - <a href="https://bibleplan.github.io/daily/wk55-day1-daily.html">導讀 第55週第1天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下1-2&qs_version=CUVMPT">撒母耳記下1-2</a> - <a href="https://bibleplan.github.io/daily/wk55-day1-daily.html">再次膏立</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下3-4&qs_version=CUVMPT">撒母耳記下3-4</a> - <a href="https://bibleplan.github.io/daily/wk55-day2-daily.html">改朝換代</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下5-7&qs_version=CUVMPT">撒母耳記下5-7</a> - <a href="https://bibleplan.github.io/daily/wk55-day3-daily.html">三次膏立</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下8-9&qs_version=CUVMPT">撒母耳記下8-9</a> - <a href="https://bibleplan.github.io/daily/wk55-day4-daily.html">王國堅立</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下10-11&qs_version=CUVMPT">撒母耳記下10-11</a> - <a href="https://bibleplan.github.io/daily/wk55-day5-daily.html">大衛犯罪</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下12&qs_version=CUVMPT">撒母耳記下12</a> - <a href="https://bibleplan.github.io/daily/wk55-day6-daily.html">大衛悔改</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下13-14&qs_version=CUVMPT">撒母耳記下13-14</a> - <a href="https://bibleplan.github.io/daily/wk56-day1-daily.html">姦淫謀殺</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下15-16&qs_version=CUVMPT">撒母耳記下15-16</a> - <a href="https://bibleplan.github.io/daily/wk56-day2-daily.html">陰謀背叛</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下17-18&qs_version=CUVMPT">撒母耳記下17-18</a> - <a href="https://bibleplan.github.io/daily/wk56-day3-daily.html">定意降禍</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下19-20&qs_version=CUVMPT">撒母耳記下19-20</a> - <a href="https://bibleplan.github.io/daily/wk56-day4-daily.html">恩典歸回</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下21&qs_version=CUVMPT">撒母耳記下21</a> - <a href="https://bibleplan.github.io/daily/wk56-day5-daily.html">舊罪之冤</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下22:1-23:7&qs_version=CUVMPT">撒母耳記下22:1-23:7</a> - <a href="https://bibleplan.github.io/daily/wk56-day6-daily.html">感恩頌讚</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下23:8-39&qs_version=CUVMPT">撒母耳記下23:8-39</a> - <a href="https://bibleplan.github.io/daily/wk57-day1-daily.html">勇士名錄</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下24&qs_version=CUVMPT">撒母耳記下24</a> - <a href="https://bibleplan.github.io/daily/wk57-day2-daily.html">數點百姓</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>列王紀上 - <a href="https://bibleplan.github.io/daily/wk57-day3-daily.html">導讀 第57週第3天</a></summary></details>
 <details><summary>列王紀下 - <a href="https://bibleplan.github.io/daily/wk59-day4-daily.html">導讀 第59週第4天</a></summary></details>
 <details><summary>歷代志上 - <a href="https://bibleplan.github.io/daily/wk61-day6-daily.html">導讀 第61週第6天</a></summary>
