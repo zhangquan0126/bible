@@ -3298,5 +3298,43 @@
    <li>但昔日富庶繁榮的推羅城，竟逃不過滅亡的厄運。歷史上無數輝煌的古邦、帝國也已湮滅或衰落。今天，你嚮往的是世間的繁華，還是神永恆的國度？</li>
   </ul>
  </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書26-27&qs_version=CUVMPT">以西結書26-27</a> - <a href="https://bibleplan.github.io/daily/wk86-day3-daily.html">推羅之亡</a></summary>
+  <ul>
+   <li>因推羅向耶路撒冷自誇，主耶和華必與推羅為敵，使許多國民上來攻擊。</li>
+   <li>主耶和華必使巴比倫王尼布甲尼撒從北方來攻擊推羅。</li>
+   <li>主預言靠海的君王必都發抖，為推羅驚駭。</li>
+   <li>耶和華讓先知為推羅作起哀歌，預言推羅從商賈雲集，貿易豐富，到傾覆淪亡，不復振興。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書28&qs_version=CUVMPT">以西結書28</a> - <a href="https://bibleplan.github.io/daily/wk86-day4-daily.html">驕傲之王</a></summary>
+  <ul>
+   <li>推羅王心裡高傲，居心自比神。因此，神必使列國中的強暴人拔刀砍壞推羅王用智慧得來的美物，必使他下坑，死在海中。</li>
+   <li>耶和華讓先知為推羅王作起哀歌，說他因美麗心中高傲，所以被神摔倒在地。</li>
+   <li>耶和華讓先知向西頓預言攻擊她，耶和華與西頓為敵，在其中施行審判。</li>
+   <li>主耶和華必將分散在萬民中的以色列家招聚回來，向他們在列邦人眼前顯為聖，在賜給雅各之地仍然居住。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書29-30&qs_version=CUVMPT">以西結書29-30</a> - <a href="https://bibleplan.github.io/daily/wk86-day5-daily.html">審判埃及</a></summary>
+  <ul>
+   <li>耶和華讓以西結向埃及王法老預言攻擊他和埃及全地，必使刀劍臨到，埃及地必荒廢淒涼。</li>
+   <li>滿了四十年，耶和華必招聚分散在各國民中的埃及人，使他們歸回本地巴忒羅，在那裡必成為低微的國。</li>
+   <li>耶和華必將埃及地賜給巴比倫王尼布甲尼撒，做他軍兵的酬勞。</li>
+   <li>耶和華必使以色列家的角發生，以西結在他們中間得以開口，讓他們知道耶和華是神。</li>
+   <li>耶和華讓以西結預言必有刀劍臨到埃及，扶助埃及的也必傾倒，神必藉巴比倫王尼布甲尼撒的手除滅埃及眾人，必毀滅偶像，從挪弗除滅神像。必不再有君王出自埃及地。</li>
+   <li>耶和華已打折埃及王法老的膀臂，必使巴比倫王的膀臂有力。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書31-32&qs_version=CUVMPT">以西結書31-32</a> - <a href="https://bibleplan.github.io/daily/wk86-day6-daily.html">悲哀哭號</a></summary>
+  <ul>
+   <li>向法老述亞述王之榮美，但因它高大而心驕氣傲，就被神驅逐。</li>
+   <li>預言埃及王要與亞述一同下到陰府，與被殺的人一同躺臥。</li>
+   <li>要為埃及王法老作哀歌，巴比倫王的刀必臨到他。必使埃及的驕傲歸於無有，埃及的眾民必被滅絕。</li>
+   <li>要為埃及群眾哀號。</li>
+  </ul>
+ </details>
 </details>
 
