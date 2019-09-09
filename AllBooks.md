@@ -1687,7 +1687,88 @@
   <ul>
   </ul>
  </details></details>
-<details><summary>撒母耳記上 - <a href="https://bibleplan.github.io/daily/wk52-day3-daily.html">導讀 第52週第3天</a></summary></details>
+<details><summary>撒母耳記上 - <a href="https://bibleplan.github.io/daily/wk52-day3-daily.html">導讀 第52週第3天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上1:1-2:11&qs_version=CUVMPT">撒母耳記上1:1-2:11</a> - <a href="https://bibleplan.github.io/daily/wk52-day3-daily.html">哈拿禱告</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上2:12-4:1a&qs_version=CUVMPT">撒母耳記上2:12-4:1a</a> - <a href="https://bibleplan.github.io/daily/wk52-day4-daily.html">先知長大</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上4:1b-5:12&qs_version=CUVMPT">撒母耳記上4:1b-5:12</a> - <a href="https://bibleplan.github.io/daily/wk52-day5-daily.html">榮耀離開</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上6-7&qs_version=CUVMPT">撒母耳記上6-7</a> - <a href="https://bibleplan.github.io/daily/wk52-day6-daily.html">屬靈復興</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上8-9&qs_version=CUVMPT">撒母耳記上8-9</a> - <a href="https://bibleplan.github.io/daily/wk53-day1-daily.html">揀選掃羅</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上10-12&qs_version=CUVMPT">撒母耳記上10-12</a> - <a href="https://bibleplan.github.io/daily/wk53-day2-daily.html">膏立掃羅</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上13:1-14:48&qs_version=CUVMPT">撒母耳記上13:1-14:48</a> - <a href="https://bibleplan.github.io/daily/wk53-day3-daily.html">掃羅犯罪</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上14:49-15:35&qs_version=CUVMPT">撒母耳記上14:49-15:35</a> - <a href="https://bibleplan.github.io/daily/wk53-day4-daily.html">掃羅被棄</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上16-17&qs_version=CUVMPT">撒母耳記上16-17</a> - <a href="https://bibleplan.github.io/daily/wk53-day5-daily.html">膏立大衛</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上18-19&qs_version=CUVMPT">撒母耳記上18-19</a> - <a href="https://bibleplan.github.io/daily/wk53-day6-daily.html">嫉妒大衛</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上20-21&qs_version=CUVMPT">撒母耳記上20-21</a> - <a href="https://bibleplan.github.io/daily/wk54-day1-daily.html">大衛逃亡</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上22-23&qs_version=CUVMPT">撒母耳記上22-23</a> - <a href="https://bibleplan.github.io/daily/wk54-day2-daily.html">化妝祝福</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上24-25&qs_version=CUVMPT">撒母耳記上24-25</a> - <a href="https://bibleplan.github.io/daily/wk54-day3-daily.html">靠主饒恕</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上26-27&qs_version=CUVMPT">撒母耳記上26-27</a> - <a href="https://bibleplan.github.io/daily/wk54-day4-daily.html">人的保護</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上28-29&qs_version=CUVMPT">撒母耳記上28-29</a> - <a href="https://bibleplan.github.io/daily/wk54-day5-daily.html">神的保守</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上30-31&qs_version=CUVMPT">撒母耳記上30-31</a> - <a href="https://bibleplan.github.io/daily/wk54-day6-daily.html">痛悔回轉</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
 <details><summary>撒母耳記下 - <a href="https://bibleplan.github.io/daily/wk55-day1-daily.html">導讀 第55週第1天</a></summary></details>
 <details><summary>列王紀上 - <a href="https://bibleplan.github.io/daily/wk57-day3-daily.html">導讀 第57週第3天</a></summary></details>
 <details><summary>列王紀下 - <a href="https://bibleplan.github.io/daily/wk59-day4-daily.html">導讀 第59週第4天</a></summary></details>
