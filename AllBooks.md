@@ -1982,14 +1982,184 @@
 </details>
 <details><summary>歷代志上 - <a href="https://bibleplan.github.io/daily/wk61-day6-daily.html">導讀 第61週第6天</a></summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上&qs_version=CUVMPT">歷代志上 1-2</a> - <a href="https://bibleplan.github.io/daily/wk61-day6-daily.html">家譜族系</a></summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上1-2&qs_version=CUVMPT">歷代志上1-2</a> - <a href="https://bibleplan.github.io/daily/wk61-day6-daily.html">家譜族系</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上3-4&qs_version=CUVMPT">歷代志上3-4</a> - <a href="https://bibleplan.github.io/daily/wk62-day1-daily.html">大衛後裔</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上5-6&qs_version=CUVMPT">歷代志上5-6</a> - <a href="https://bibleplan.github.io/daily/wk62-day2-daily.html">河東之地</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上7-8&qs_version=CUVMPT">歷代志上7-8</a> - <a href="https://bibleplan.github.io/daily/wk62-day3-daily.html">河西之地</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上9&qs_version=CUVMPT">歷代志上9</a> - <a href="https://bibleplan.github.io/daily/wk62-day4-daily.html">耶路撒冷</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上10&qs_version=CUVMPT">歷代志上10</a> - <a href="https://bibleplan.github.io/daily/wk62-day5-daily.html">掃羅被殺</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上11-12&qs_version=CUVMPT">歷代志上11-12</a> - <a href="https://bibleplan.github.io/daily/wk62-day6-daily.html">大衛做王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上13-14&qs_version=CUVMPT">歷代志上13-14</a> - <a href="https://bibleplan.github.io/daily/wk63-day1-daily.html">初為國王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上15-16&qs_version=CUVMPT">歷代志上15-16</a> - <a href="https://bibleplan.github.io/daily/wk63-day2-daily.html">迎來約櫃</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上17&qs_version=CUVMPT">歷代志上17</a> - <a href="https://bibleplan.github.io/daily/wk63-day3-daily.html">建殿心願</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上18-19&qs_version=CUVMPT">歷代志上18-19</a> - <a href="https://bibleplan.github.io/daily/wk63-day4-daily.html">戰無不勝</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上20-21&qs_version=CUVMPT">歷代志上20-21</a> - <a href="https://bibleplan.github.io/daily/wk63-day5-daily.html">數點百姓</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上22&qs_version=CUVMPT">歷代志上22</a> - <a href="https://bibleplan.github.io/daily/wk63-day6-daily.html">預備建殿</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上23-24&qs_version=CUVMPT">歷代志上23-24</a> - <a href="https://bibleplan.github.io/daily/wk64-day1-daily.html">利未職任</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上25-26&qs_version=CUVMPT">歷代志上25-26</a> - <a href="https://bibleplan.github.io/daily/wk64-day2-daily.html">各盡其職</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上27-28&qs_version=CUVMPT">歷代志上27-28</a> - <a href="https://bibleplan.github.io/daily/wk64-day3-daily.html">王的產業</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上29&qs_version=CUVMPT">歷代志上29</a> - <a href="https://bibleplan.github.io/daily/wk64-day4-daily.html">盡力預備</a></summary>
   <ul>
   </ul>
  </details>
 </details>
 <details><summary>歷代志下 - <a href="https://bibleplan.github.io/daily/wk64-day5-daily.html">導讀 第64週第5天</a></summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下1-2&qs_version=CUVMPT">歷代志下 1-2</a> - <a href="https://bibleplan.github.io/daily/wk64-day5-daily.html">所羅門王</a></summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下1-2&qs_version=CUVMPT">歷代志下1-2</a> - <a href="https://bibleplan.github.io/daily/wk64-day5-daily.html">所羅門王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下3:1-5:1&qs_version=CUVMPT">歷代志下3:1-5:1</a> - <a href="https://bibleplan.github.io/daily/wk64-day6-daily.html">建造聖殿</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下5:2-6:42&qs_version=CUVMPT">歷代志下5:2-6:42</a> - <a href="https://bibleplan.github.io/daily/wk65-day1-daily.html">約櫃入殿</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下7&qs_version=CUVMPT">歷代志下7</a> - <a href="https://bibleplan.github.io/daily/wk65-day2-daily.html">上帝顯現</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下8&qs_version=CUVMPT">歷代志下8</a> - <a href="https://bibleplan.github.io/daily/wk65-day3-daily.html">安居樂業</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下9&qs_version=CUVMPT">歷代志下9</a> - <a href="https://bibleplan.github.io/daily/wk65-day4-daily.html">賢明君王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下10-12&qs_version=CUVMPT">歷代志下10-12</a> - <a href="https://bibleplan.github.io/daily/wk65-day5-daily.html">羅波安王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下13&qs_version=CUVMPT">歷代志下13</a> - <a href="https://bibleplan.github.io/daily/wk65-day6-daily.html">亞比雅王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下14-16&qs_version=CUVMPT">歷代志下14-16</a> - <a href="https://bibleplan.github.io/daily/wk66-day1-daily.html">亞撒做王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下17-18&qs_version=CUVMPT">歷代志下17-18</a> - <a href="https://bibleplan.github.io/daily/wk66-day2-daily.html">約沙法王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下19-20&qs_version=CUVMPT">歷代志下19-20</a> - <a href="https://bibleplan.github.io/daily/wk66-day3-daily.html">猶大新政</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下21-22&qs_version=CUVMPT">歷代志下21-22</a> - <a href="https://bibleplan.github.io/daily/wk66-day4-daily.html">壞王約蘭</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下23-24&qs_version=CUVMPT">歷代志下23-24</a> - <a href="https://bibleplan.github.io/daily/wk66-day5-daily.html">約阿施王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下25-26&qs_version=CUVMPT">歷代志下25-26</a> - <a href="https://bibleplan.github.io/daily/wk66-day6-daily.html">亞瑪謝王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下27-28&qs_version=CUVMPT">歷代志下27-28</a> - <a href="https://bibleplan.github.io/daily/wk67-day1-daily.html">亞哈斯王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下29-30&qs_version=CUVMPT">歷代志下29-30</a> - <a href="https://bibleplan.github.io/daily/wk67-day2-daily.html">希西家王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下31-32&qs_version=CUVMPT">歷代志下31-32</a> - <a href="https://bibleplan.github.io/daily/wk67-day3-daily.html">為善為正</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下33-34&qs_version=CUVMPT">歷代志下33-34</a> - <a href="https://bibleplan.github.io/daily/wk67-day4-daily.html">瑪拿西王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下35-36&qs_version=CUVMPT">歷代志下35-36</a> - <a href="https://bibleplan.github.io/daily/wk67-day5-daily.html">猶大被擄</a></summary>
   <ul>
   </ul>
  </details>
