@@ -1576,13 +1576,117 @@
   </ul>
  </details>
 </details>
-<details><summary>雅各書 - <a href="https://bibleplan.github.io/daily/wk49-day1-daily.html">導讀 第49週第1天</a></summary></details>
-<details><summary>彼得前書 - <a href="https://bibleplan.github.io/daily/wk49-day5-daily.html">導讀 第49週第5天</a></summary></details>
-<details><summary>彼得後書 - <a href="https://bibleplan.github.io/daily/wk50-day4-daily.html">導讀 第50週第4天</a></summary></details>
-<details><summary>約翰一書 - <a href="https://bibleplan.github.io/daily/wk51-day1-daily.html">導讀 第51週第1天</a></summary></details>
-<details><summary>約翰二書 - <a href="https://bibleplan.github.io/daily/wk51-day6-daily.html">導讀 第51週第6天</a></summary></details>
-<details><summary>約翰三書 - <a href="https://bibleplan.github.io/daily/wk52-day1-daily.html">導讀 第52週第1天</a></summary></details>
-<details><summary>猶大書 - <a href="https://bibleplan.github.io/daily/wk52-day2-daily.html">導讀 第52週第2天</a></summary></details>
+<details><summary>雅各書 - <a href="https://bibleplan.github.io/daily/wk49-day1-daily.html">導讀 第49週第1天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書1:1-18&qs_version=CUVMPT">雅各書1:1-18</a> - <a href="https://bibleplan.github.io/daily/wk49-day1-daily.html">信心試煉</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書1:19-2:26&qs_version=CUVMPT">雅各書1:19-2:26</a> - <a href="https://bibleplan.github.io/daily/wk49-day2-daily.html">信心行為</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書3:1-4:12&qs_version=CUVMPT">雅各書3:1-4:12</a> - <a href="https://bibleplan.github.io/daily/wk49-day3-daily.html">智慧敬虔</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書4:13-5:20&qs_version=CUVMPT">雅各書4:13-5:20</a> - <a href="https://bibleplan.github.io/daily/wk49-day4-daily.html">忍耐等候</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>彼得前書 - <a href="https://bibleplan.github.io/daily/wk49-day5-daily.html">導讀 第49週第5天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書1:1-12&qs_version=CUVMPT">彼得前書1:1-12</a> - <a href="https://bibleplan.github.io/daily/wk49-day5-daily.html">靈魂救恩</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書1:13-2:10&qs_version=CUVMPT">彼得前書1:13-2:10</a> - <a href="https://bibleplan.github.io/daily/wk49-day6-daily.html">得救生命</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書2:11-3:7&qs_version=CUVMPT">彼得前書2:11-3:7</a> - <a href="https://bibleplan.github.io/daily/wk50-day1-daily.html">為主順服</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書3:8-4:11&qs_version=CUVMPT">彼得前書3:8-4:11</a> - <a href="https://bibleplan.github.io/daily/wk50-day2-daily.html">為義受苦</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書4:12-5:14&qs_version=CUVMPT">彼得前書4:12-5:14</a> - <a href="https://bibleplan.github.io/daily/wk50-day3-daily.html">為信受苦</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>彼得後書 - <a href="https://bibleplan.github.io/daily/wk50-day4-daily.html">導讀 第50週第4天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書1&qs_version=CUVMPT">彼得後書1</a> - <a href="https://bibleplan.github.io/daily/wk50-day4-daily.html">分外殷勤</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書2&qs_version=CUVMPT">彼得後書2</a> - <a href="https://bibleplan.github.io/daily/wk50-day5-daily.html">虛假師傅</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書3&qs_version=CUVMPT">彼得後書3</a> - <a href="https://bibleplan.github.io/daily/wk50-day6-daily.html">主必再來</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>約翰一書 - <a href="https://bibleplan.github.io/daily/wk51-day1-daily.html">導讀 第51週第1天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書1:1-2:2&qs_version=CUVMPT">約翰一書1:1-2:2</a> - <a href="https://bibleplan.github.io/daily/wk51-day1-daily.html">神就是光</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書2:3-27&qs_version=CUVMPT">約翰一書2:3-27</a> - <a href="https://bibleplan.github.io/daily/wk51-day2-daily.html">新的命令</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書2:28-3:24&qs_version=CUVMPT">約翰一書2:28-3:24</a> - <a href="https://bibleplan.github.io/daily/wk51-day3-daily.html">神的兒女</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書4&qs_version=CUVMPT">約翰一書4</a> - <a href="https://bibleplan.github.io/daily/wk51-day4-daily.html">彼此相愛</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書5&qs_version=CUVMPT">約翰一書5</a> - <a href="https://bibleplan.github.io/daily/wk51-day5-daily.html">虛假師傅</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>約翰二書 - <a href="https://bibleplan.github.io/daily/wk51-day6-daily.html">導讀 第51週第6天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰二書1&qs_version=CUVMPT">約翰二書1</a> - <a href="https://bibleplan.github.io/daily/wk51-day6-daily.html">愛與真理</a></summary>
+  <ul>
+  </ul>
+ </details></details>
+<details><summary>約翰三書 - <a href="https://bibleplan.github.io/daily/wk52-day1-daily.html">導讀 第52週第1天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰三書1&qs_version=CUVMPT">約翰三書1</a> - <a href="https://bibleplan.github.io/daily/wk52-day1-daily.html">真理與愛</a></summary>
+  <ul>
+  </ul>
+ </details></details>
+<details><summary>猶大書 - <a href="https://bibleplan.github.io/daily/wk52-day2-daily.html">導讀 第52週第2天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=猶大書1&qs_version=CUVMPT">猶大書1</a> - <a href="https://bibleplan.github.io/daily/wk52-day2-daily.html">竭力爭辯</a></summary>
+  <ul>
+  </ul>
+ </details></details>
 <details><summary>撒母耳記上 - <a href="https://bibleplan.github.io/daily/wk52-day3-daily.html">導讀 第52週第3天</a></summary></details>
 <details><summary>撒母耳記下 - <a href="https://bibleplan.github.io/daily/wk55-day1-daily.html">導讀 第55週第1天</a></summary></details>
 <details><summary>列王紀上 - <a href="https://bibleplan.github.io/daily/wk57-day3-daily.html">導讀 第57週第3天</a></summary></details>
