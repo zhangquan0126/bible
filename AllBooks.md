@@ -2000,6 +2000,26 @@
   <ul>
   </ul>
  </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記3-4&qs_version=CUVMPT">以斯拉記3-4</a> - <a href="https://bibleplan.github.io/daily/wk68-day1-daily.html">重建受阻</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記5-6&qs_version=CUVMPT">以斯拉記5-6</a> - <a href="https://bibleplan.github.io/daily/wk68-day2-daily.html">聖殿完成</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記7-8&qs_version=CUVMPT">以斯拉記7-8</a> - <a href="https://bibleplan.github.io/daily/wk68-day3-daily.html">二次回歸</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記9-10&qs_version=CUVMPT">以斯拉記9-10</a> - <a href="https://bibleplan.github.io/daily/wk68-day4-daily.html">認罪悔改</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
 <details><summary>尼希米記 - <a href="https://bibleplan.github.io/daily/wk68-day5-daily.html">導讀 第68週第5天</a></summary>
  <details>
