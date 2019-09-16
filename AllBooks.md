@@ -2173,21 +2173,39 @@
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記3-4&qs_version=CUVMPT">以斯拉記3-4</a> - <a href="https://bibleplan.github.io/daily/wk68-day1-daily.html">重建受阻</a></summary>
   <ul>
+   <li>回歸耶路撒冷後，以色列人同心合一重建神的祭壇早晚向神獻祭，守耶和華訂的節期。</li>
+   <li>第二年，所羅巴伯帶領眾人興工重建聖殿。根基立定時，眾人歸讚美給耶和華。百姓或哭號或歡呼，聲音傳達遠處。</li>
+   <li>以色列人周圍的仇敵要求一同重建聖殿被拒。於是用各種手段攪亂重建聖殿的計劃。</li>
+   <li>聖殿重建工程停止，直到大利烏王年間才恢復。反對重建的勢力持續到亞哈隨魯王和亞達薛西王年間。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記5-6&qs_version=CUVMPT">以斯拉記5-6</a> - <a href="https://bibleplan.github.io/daily/wk68-day2-daily.html">聖殿完成</a></summary>
   <ul>
+   <li>大利烏王第二年，神興起先知勸勉以色列人重新聖殿重建的工程。</li>
+   <li>所羅巴伯和約書亞重新開始聖殿重建的工程，有神的先知們幫助他們。</li>
+   <li>河西總督達乃將聖殿重建的消息上奏大利烏王。神的眼目看顧以色列人，重建的工程沒有因此停止。</li>
+   <li>大利烏王下旨曉諭達乃不要攔阻聖殿重建的工程，並要達乃供應重建需要的經費和獻祭所需要的祭物。</li>
+   <li>大利烏王第六年，聖殿重建完成，回歸的以色列人守逾越節。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記7-8&qs_version=CUVMPT">以斯拉記7-8</a> - <a href="https://bibleplan.github.io/daily/wk68-day3-daily.html">二次回歸</a></summary>
   <ul>
+   <li>亞達薛西王第7年，以斯拉帶領第二批以色列人回歸耶路撒冷。</li>
+   <li>神與以斯拉同在，使亞達薛西王允許他一切所求的，又奉獻金銀和器皿供聖殿使用，並免去利未人和祭司繳稅的負擔。</li>
+   <li>以斯拉召利未人回歸耶路撒冷，服事神的殿。</li>
+   <li>以斯拉拒絕向亞達薛西王求軍隊保護，禁食祈求神保護路途的平安。</li>
+   <li>神保護他們脫離仇敵和路上埋伏之人的手。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記9-10&qs_version=CUVMPT">以斯拉記9-10</a> - <a href="https://bibleplan.github.io/daily/wk68-day4-daily.html">認罪悔改</a></summary>
   <ul>
+   <li>在耶路撒冷的以色列人，包括祭司和利未人，與周圍外邦女子通婚，偏離神的道。</li>
+   <li>以斯拉聽見這事，心中愁苦驚惶。他撕裂衣服和外袍，拔頭髮和鬍鬚。敬畏神的眾人聚集在以斯拉周圍，向神跪拜舉手哭泣，禱告認罪。</li>
+   <li>他們鼓勵以斯拉起來在神面前立約，凡娶了外邦女子的以色列人應該休妻和棄絕他們所生的子女。眾人與以斯拉起誓必照所說的行。</li>
+   <li>所有以色列人在三天內聚集在耶路撒冷。以斯拉宣告眾人所犯的罪，帶領眾人向神認罪。眾人戰兢認罪，推派首領辦理，直到辦完事，神的怒氣轉離他們。</li>
   </ul>
  </details>
 </details>
@@ -2195,46 +2213,84 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記1-2&qs_version=CUVMPT">尼希米記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk68-day5-daily.html">重建城墻</a></summary>
   <ul>
+   <li>尼希米為故土禁食祈禱。</li>
+   <li>亞達薛西王允許尼希米返回耶路撒冷去建築城垣。</li>
+   <li>尼希米察看耶路撒冷的城牆，見城牆拆毀，城門被火焚燒。</li>
+   <li>尼希米呼籲百姓重建耶路撒冷的城牆。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記3-4&qs_version=CUVMPT">尼希米記 3-4</a> - <a href="https://bibleplan.github.io/daily/wk68-day6-daily.html">依次建門</a></summary>
   <ul>
+   <li>眾人合力依次建造各門。</li>
+   <li>參巴拉聽見我們修造城牆就發怒，大大惱恨，嗤笑猶大人。</li>
+   <li>參巴拉帶多人同謀要來攻擊耶路撒冷，使城內擾亂。</li>
+   <li>仇敵聽見我們知道他們的心意，見神也破壞他們的計謀，就不來了。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記5-6&qs_version=CUVMPT">尼希米記 5-6</a> - <a href="https://bibleplan.github.io/daily/wk69-day1-daily.html">修完城墻</a></summary>
   <ul>
+   <li>百姓因貧苦而大大呼號，埋怨他們的弟兄猶大人。</li>
+   <li>尼希米聽見他們呼號說這些話，便甚發怒。</li>
+   <li>尼希米奉派做猶大地的省長共十二年之久，沒有吃省長的俸祿。</li>
+   <li>仇敵聽見已經修完了城牆，就想害尼希米，想要他懼怕。</li>
+   <li>以祿月二十五日，城牆修完了，共修了五十二天。</li>
+   <li>一切仇敵、四圍的外邦人聽見了便懼怕，愁眉不展，因為見這工作完成是出乎神。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記7&qs_version=CUVMPT">尼希米記 7</a> - <a href="https://bibleplan.github.io/daily/wk69-day2-daily.html">百姓家譜</a></summary>
   <ul>
+   <li>城牆修完，安了門扇，守門的、歌唱的和利未人都已派定。</li>
+   <li>派哈拿尼和營樓的宰官哈拿尼雅管理耶路撒冷，因為哈拿尼雅是忠信的，又敬畏神過於眾人。</li>
+   <li>神感動尼希米的心，招聚貴胄、官長和百姓，照家譜計算。</li>
+   <li>會眾共有四萬二千三百六十名。</li>
+   <li>族長為工程捐助的清單。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記8&qs_version=CUVMPT">尼希米記 8</a> - <a href="https://bibleplan.github.io/daily/wk69-day3-daily.html">讀經守節</a></summary>
   <ul>
+   <li>到了七月，以色列人聚集在水門前，請文士以斯拉將律法書帶到聽了能明白的男女會眾面前，眾民側耳而聽。</li>
+   <li>尼希米和以斯拉對眾民說：今日是我們主的聖日。你們不要憂愁，因靠耶和華而得的喜樂是你們的力量。</li>
+   <li>百姓搭棚，住在棚裡，守節七日，第八日照例有嚴肅會。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記9&qs_version=CUVMPT">尼希米記 9</a> - <a href="https://bibleplan.github.io/daily/wk69-day4-daily.html">認罪立約</a></summary>
   <ul>
+   <li>這月二十四日，以色列人聚集禁食，身穿麻衣，頭蒙灰塵，承認自己的罪惡和列祖的罪孽。</li>
+   <li>利未人稱頌耶和華神，造了天地萬物，拯救以色列。</li>
+   <li>承認是以色列的罪惹動了神的怒氣。</li>
+   <li>因這一切的事，他們立確實的約，寫在冊上，並都簽了名。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記10&qs_version=CUVMPT">尼希米記 10</a> - <a href="https://bibleplan.github.io/daily/wk69-day5-daily.html">眾民歸服</a></summary>
   <ul>
+   <li>在約書上簽名的人的名錄。</li>
+   <li>其餘的民凡歸服神律法的，都發咒起誓，遵行神藉他僕人摩西所傳的律法、誡命、典章、律例。</li>
+   <li>定例每年捐銀為神殿的一切費用。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記11-12&qs_version=CUVMPT">尼希米記 11-12</a> - <a href="https://bibleplan.github.io/daily/wk69-day6-daily.html">分居各城</a></summary>
   <ul>
+   <li>百姓的首領住在耶路撒冷，其餘的百姓掣籤，每十人中使一人來住在聖城耶路撒冷，那九人住在別的城邑。</li>
+   <li>猶大便雅憫人分居莊村和屬莊村的田地。</li>
+   <li>同所羅巴伯做祭司與利未人的記錄。</li>
+   <li>耶路撒冷城牆告成的時候，眾民稱謝、歌唱、歡歡喜喜地行告成之禮。</li>
+   <li>猶大人因祭司和利未人供職，將歌唱的、守門的每日所當得的份供給他們，又給利未人當得的份，利未人又給亞倫的子孫當得的份。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=尼希米記13&qs_version=CUVMPT">尼希米記 13</a> - <a href="https://bibleplan.github.io/daily/wk70-day1-daily.html">潔淨聖殿</a></summary>
   <ul>
+   <li>亞捫人和摩押人永不可入神的會。</li>
+   <li>以利亞實為多比雅在神殿的院內預備屋子，尼希米惱怒，就把多比雅的一切家具從屋裡都拋出去。</li>
+   <li>在猶大見有人在安息日榨酒，並運各樣的擔子在安息日擔入耶路撒冷，尼希米就在他們賣食物的那日警戒他們。</li>
+   <li>尼希米就斥責娶外邦人的人，叫他們指著神起誓，必不將女兒、兒子與外邦人結親。</li>
   </ul>
  </details>
 </details>
