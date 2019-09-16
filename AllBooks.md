@@ -2168,6 +2168,9 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以斯拉記1-2&qs_version=CUVMPT">以斯拉記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk67-day6-daily.html">被擄回歸</a></summary>
   <ul>
+   <li>神激動波斯王古列的心。古列下詔讓以色列人回耶路撒冷重建聖殿，實現神通過先知耶利米所說的話。</li>
+   <li>約5萬個以色列人被神激動跟隨所羅巴伯回耶路撒冷重建聖殿，四圍的人也拿出銀器，金子，財物，牲畜，珍寶幫助他們，甘心為神的殿獻上禮物。</li>
+   <li>古列王將尼布甲尼撒王從聖殿擄走的金銀器皿，全部拿出來按數交給設巴薩帶回耶路撒冷。</li>
   </ul>
  </details>
  <details>
