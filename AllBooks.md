@@ -3335,5 +3335,35 @@
    <li>要為埃及群眾哀號。</li>
   </ul>
  </details>
+ <details>
+  <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書33&qs_version=CUVMPT">以西結書33</a> - <a href="https://bibleplan.github.io/daily/wk87-day1-daily.html">先知守望</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書34&qs_version=CUVMPT">以西結書34</a> - <a href="https://bibleplan.github.io/daily/wk87-day2-daily.html">牧養群羊</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書35.1-36.15&qs_version=CUVMPT">以西結書35.1-36.15</a> - <a href="https://bibleplan.github.io/daily/wk87-day3-daily.html">以色列山</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書36.16-37.28&qs_version=CUVMPT">以西結書36.16-37.28</a> - <a href="https://bibleplan.github.io/daily/wk87-day4-daily.html">枯骨復活</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書38-39&qs_version=CUVMPT">以西結書38-39</a> - <a href="https://bibleplan.github.io/daily/wk87-day5-daily.html">攻擊歌革</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書40&qs_version=CUVMPT">以西結書40</a> - <a href="https://bibleplan.github.io/daily/wk87-day6-daily.html">度量聖城</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
 
