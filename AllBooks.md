@@ -3338,31 +3338,71 @@
  <details>
   <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書33&qs_version=CUVMPT">以西結書33</a> - <a href="https://bibleplan.github.io/daily/wk87-day1-daily.html">先知守望</a></summary>
   <ul>
+   <li>守望的見刀劍臨到那地，若吹角警戒眾民，凡聽見角聲不受警戒的，刀劍若來除滅了他，他的罪就必歸到自己的頭上。</li>
+   <li>耶和華立以西結為守望者。</li>
+   <li>耶和華不喜悅惡人死亡，唯喜悅惡人轉離所行的道而活。</li>
+   <li>義人的義在犯罪之日不能救他。惡人的惡，在他轉離惡行之日也不能使他傾倒。</li>
+   <li>被擄之後十二年十月初五日，有人從耶路撒冷逃到我這裡，說城已攻破。第二天以西結口就開了，不再緘默。</li>
+   <li>耶和華警告妄論先知者必受懲罰。</li>
   </ul>
  </details>
  <details>
   <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書34&qs_version=CUVMPT">以西結書34</a> - <a href="https://bibleplan.github.io/daily/wk87-day2-daily.html">牧養群羊</a></summary>
   <ul>
+   <li>先知向以色列的牧人發預言攻擊他們，因以色列的牧人只知牧養自己。</li>
+   <li>耶和華必與牧人為敵，使他們不再牧放群羊。</li>
+   <li>主耶和華必親自尋找祂的羊，將他們尋見。</li>
+   <li>耶和華必立一牧人照管他們，做他們的牧人，耶和華必做他們的神。</li>
+   <li>必與他們立平安的約，使惡獸從境內斷絕，他們就必安居在曠野，躺臥在林中。</li>
   </ul>
  </details>
  <details>
   <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書35.1-36.15&qs_version=CUVMPT">以西結書35.1-36.15</a> - <a href="https://bibleplan.github.io/daily/wk87-day3-daily.html">以色列山</a></summary>
   <ul>
+   <li>先知要面向西珥山發預言攻擊他，因他永懷仇恨，在以色列人遭災、罪孽到了盡頭的時候，將他們交於刀劍。</li>
+   <li>先知要對以色列山發預言說：因為敵人使你荒涼，四圍吞吃，好叫你歸於其餘的外邦人為業。</li>
+   <li>以色列山必發枝條，為以色列結果子。耶和華是幫助以色列山的，也必向他轉意，使他得以耕種。</li>
   </ul>
  </details>
  <details>
   <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書36.16-37.28&qs_version=CUVMPT">以西結書36.16-37.28</a> - <a href="https://bibleplan.github.io/daily/wk87-day4-daily.html">枯骨復活</a></summary>
   <ul>
+   <li>耶和華因以色列流人的血，以偶像玷汙那地，就將他們分散在列國，懲罰他們。</li>
+   <li>耶和華行這事不是為你們，乃是為祂的聖名。</li>
+   <li>耶和華要賜給以色列一個新心，將新靈放在他們裡面，使他們順從律例。</li>
+   <li>耶和華要加增以色列家的人數。</li>
+   <li>耶和華的靈帶以西結出去，在遍滿骸骨的平原。從骸骨的四圍經過，先知遵命說預言，氣息就進入骸骨，骸骨便活了，並且站起來，成為極大的軍隊。</li>
+   <li>這些骸骨就是以色列全家。耶和華必開他們的墳墓，使他們從墳墓中出來，領他們進入以色列地。</li>
+   <li>耶和華要將約瑟和他同伴以色列支派的杖，就是在以法蓮手中的，與猶大的杖一同接連為一。</li>
+   <li>耶和華要使他們在以色列山上，成為一國。</li>
+   <li>大衛必做他們的王，眾民必歸一個牧人。他們必順從我的典章，謹守遵行我的律例。</li>
   </ul>
  </details>
  <details>
   <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書38-39&qs_version=CUVMPT">以西結書38-39</a> - <a href="https://bibleplan.github.io/daily/wk87-day5-daily.html">攻擊歌革</a></summary>
   <ul>
+   <li>耶和華命先知面向瑪各地的歌革，就是羅施、米設、土巴的王發預言攻擊他。</li>
+   <li>歌革上來攻擊以色列地的時候，耶和華發憤恨和烈怒如火。</li>
+   <li>先知要向歌革發預言攻擊他，耶和華必與羅施、米設、土巴的王歌革為敵。</li>
+   <li>住以色列城邑的人必出去撿器械，當柴燒火，直燒七年。</li>
+   <li>以色列地的谷，賜給歌革為墳地。</li>
+   <li>各類的飛鳥和田野的走獸聚集來，在以色列山上獻大祭之地吃肉喝血。</li>
+   <li>耶和華必顯祂的榮耀在列國中，以色列家必知道祂是耶和華他們的神。</li>
+   <li>主耶和華要使雅各被擄的人歸回，要憐憫以色列全家，將他們從萬民中領回。</li>
   </ul>
  </details>
  <details>
   <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書40&qs_version=CUVMPT">以西結書40</a> - <a href="https://bibleplan.github.io/daily/wk87-day6-daily.html">度量聖城</a></summary>
   <ul>
+   <li>耶路撒冷城攻破後十四年，耶和華的靈降在以西結身上，帶他到以色列地，安置在至高的山上，在山上的南邊有彷彿一座城建立。</li>
+   <li>殿四圍有牆。那人手拿量度的竿，到了朝東的門，就上門的臺階量門。</li>
+   <li>量外院朝北的門，長寬若干。</li>
+   <li>他帶我往南去，見朝南有門。又照先前的尺寸，量門洞的柱子和廊子。</li>
+   <li>他帶我到內院的東面，就照先前的尺寸量東門。</li>
+   <li>他帶我到北門，就照先前的尺寸量那門，就是量衛房和柱子並廊子。</li>
+   <li>門洞的柱旁有屋子和門，祭司在那裡洗燔祭牲。</li>
+   <li>在北門旁，內院裡有屋子，為歌唱的人而設。</li>
+   <li>到殿前的廊子，量廊子的牆柱。</li>
   </ul>
  </details>
 </details>
