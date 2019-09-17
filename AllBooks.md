@@ -1927,56 +1927,111 @@
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下7-8&qs_version=CUVMPT">列王紀下7-8</a> - <a href="https://bibleplan.github.io/daily/wk60-day1-daily.html">亞蘭逃離</a></summary>
   <ul>
+   <li>四個長大痲瘋的人看到亞蘭人逃跑，便與王家報信。</li>
+   <li>亞蘭王便哈達，患病，被哈薛所殺。哈薛篡了他的位。</li>
+   <li>約沙法的兒子約蘭登基做了猶大王，做王八年，行耶和華眼中看為惡的事。</li>
+   <li>猶大王約蘭的兒子亞哈謝登基，在耶路撒冷做王一年，行耶和華眼中看為惡的事。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下9-10&qs_version=CUVMPT">列王紀下9-10</a> - <a href="https://bibleplan.github.io/daily/wk60-day2-daily.html">耶戶絕戶</a></summary>
   <ul>
+   <li>先知以利沙叫門徒去膏寧示的孫子、約沙法的兒子耶戶。 </li>
+   <li>耶戶殺死以色列王約蘭、猶大王亞哈謝、耶洗別。 </li>
+   <li>耶斯列的首領聽耶戶的命令，殺死亞哈的七十個兒子。 </li>
+   <li>耶戶殺死所有亞哈家在耶斯列所剩下的人，並猶大王亞哈謝的弟兄。 </li>
+   <li>耶戶在以色列中滅了巴力，但他還是拜伯特利和但的金牛犢。 </li>
+   <li>耶戶在撒馬利亞做以色列王二十八年。 </li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下11-12&qs_version=CUVMPT">列王紀下11-12</a> - <a href="https://bibleplan.github.io/daily/wk60-day3-daily.html">猶大新王</a></summary>
   <ul>
+   <li>亞哈謝的兒子約阿施藏在耶和華的殿裡六年。亞她利雅篡了國位。 </li>
+   <li>祭司耶何耶大膏約阿施做王。亞她利雅被殺。耶戶第七年，約阿施登基，在耶路撒冷做王四十年。</li>
+   <li>耶何耶大使王和民與耶和華立約，拆毀巴力廟。行耶和華眼中看為正的事。 </li>
+   <li>約阿施修理殿的一切破壞之處。 </li>
+   <li>約阿施將他列祖猶大王分別為聖的物，並耶和華殿與王宮府庫裡所有的金子，都送給亞蘭王哈薛，哈薛就不上耶路撒冷來了。</li>
+   <li>約阿施的臣僕在下悉拉的米羅宮那裡將他殺了。他兒子亞瑪謝接續他做王。 </li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下13-14&qs_version=CUVMPT">列王紀下13-14</a> - <a href="https://bibleplan.github.io/daily/wk60-day4-daily.html">代代相傳</a></summary>
   <ul>
+   <li>耶戶的兒子約哈斯在撒馬利亞登基，做以色列王十七年。約哈斯行耶和華眼中看為惡的事。耶和華將以色列屢次交在亞蘭王哈薛和他兒子便哈達的手裡。</li>
+   <li>約哈斯的兒子約阿施在撒馬利亞登基，做以色列王十六年。他行耶和華眼中看為惡的事。 </li>
+   <li>以利沙得病死了，人將他葬埋。死人在以利沙的墳墓碰著以利沙的骸骨，死人就復活。 </li>
+   <li>猶大王約阿施的兒子亞瑪謝登基，在耶路撒冷做王二十九年，行耶和華眼中看為正的事。亞瑪謝與以色列王約阿施相見於戰場，猶大人敗在以色列人面前。</li>
+   <li>以色列王約阿施的兒子耶羅波安在撒馬利亞登基，做王四十一年，他行耶和華眼中看為惡的事。 </li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下15-16&qs_version=CUVMPT">列王紀下15-16</a> - <a href="https://bibleplan.github.io/daily/wk60-day5-daily.html">猶大行惡</a></summary>
   <ul>
+   <li>猶大王亞瑪謝的兒子亞撒利雅在耶路撒冷做王五十二年。</li>
+   <li>耶羅波安的兒子撒迦利雅在撒馬利亞做以色列王六個月。雅比的兒子沙龍登基，在撒馬利亞做王一個月。迦底的兒子米拿現登基，在撒馬利亞做以色列王十年。</li>
+   <li>猶大王約坦的兒子亞哈斯不像他祖大衛行耶和華他神眼中看為正的事，卻效法以色列諸王所行的。</li>
+   <li>亞蘭王利汛和以色列王利瑪利的兒子比加上來攻打耶路撒冷，圍困亞哈斯，卻不能勝他。</li>
+   <li>亞哈斯求救於亞述王，擅更祭壇祭禮，私移聖殿之器。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下17&qs_version=CUVMPT">列王紀下17</a> - <a href="https://bibleplan.github.io/daily/wk60-day6-daily.html">以色列亡</a></summary>
   <ul>
+   <li>何細亞做以色列王。亞述王攻取撒馬利亞，將以色列人擄到亞述。</li>
+   <li>以色列人得罪耶和華，去敬畏別神，以至從本地被擄到亞述。</li>
+   <li>亞述王從各地遷移人來，安置在撒馬利亞，代替以色列人。有一個從撒馬利亞擄去的祭司，住在伯特利，指教他們怎樣敬畏耶和華。</li>
+   <li>這些民又懼怕耶和華，又侍奉他們的偶像，直到今日。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下18&qs_version=CUVMPT">列王紀下18</a> - <a href="https://bibleplan.github.io/daily/wk61-day1-daily.html">賢明之王</a></summary>
   <ul>
+   <li>猶大王亞哈斯的兒子希西家登基，在耶路撒冷做王二十九年。 </li>
+   <li>希西家倚靠耶和華以色列的神，在他前後的猶大列王中沒有一個及他的。 </li>
+   <li>亞述王西拿基立上來攻擊猶大的一切堅固城，將城攻取。 </li>
+   <li>亞述王派拉伯沙基來對猶大人民說狂妄的話。 </li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下19-20&qs_version=CUVMPT">列王紀下19-20</a> - <a href="https://bibleplan.github.io/daily/wk61-day2-daily.html">解圍亞述</a></summary>
   <ul>
+   <li>希西家使家宰和書記去見先知以賽亞，以賽亞預言耶和華拯救。 </li>
+   <li>耶和華的使者在亞述營中殺了十八萬五千人。 </li>
+   <li>耶和華醫治希西家，加增他十五年的壽數。 </li>
+   <li>希西家給巴比倫王的使者觀看寶庫的財寶。 </li>
+   <li>以賽亞預言猶大被擄到巴比倫去。 </li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下21&qs_version=CUVMPT">列王紀下21</a> - <a href="https://bibleplan.github.io/daily/wk61-day3-daily.html">猶大敗壞</a></summary>
   <ul>
+   <li>瑪拿西在耶路撒冷做王五十五年，行耶和華眼中看為惡的事。</li>
+   <li>耶和華藉先知預言因瑪拿西王的罪，神將降禍於耶路撒冷和猶大。 </li>
+   <li>亞們在耶路撒冷做王二年，行耶和華眼中看為惡的事。  </li>
+   <li>亞們被殺，他兒子約西亞接續他做王。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下22:1-23:35&qs_version=CUVMPT">列王紀下22:1-23:35</a> - <a href="https://bibleplan.github.io/daily/wk61-day4-daily.html">打破偶像</a></summary>
   <ul>
+   <li>約西亞在耶路撒冷做王三十一年，行耶和華眼中看為正的事。 </li>
+   <li>約西亞修理殿的破壞之處。 </li>
+   <li>大祭司希勒家在耶和華殿裡得了律法書。 </li>
+   <li>王念律法書，就除去了偶像及諸惡行。</li>
+   <li>埃及王殺約西亞，約西亞的兒子約哈斯接續他父親做王。 </li>
+   <li>法老尼哥將約哈斯鎖禁，立他的兒子以利亞敬做王，給他改名叫約雅敬。 </li>
   </ul>
  </details>
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下23:36-25:3&qs_version=CUVMPT">列王紀下23:36-25:3</a> - <a href="https://bibleplan.github.io/daily/wk61-day5-daily.html">猶大亡國</a></summary>
   <ul>
+   <li>巴比倫王尼布甲尼撒上到猶大，約雅敬服侍他三年，然後背叛他。 </li>
+   <li>約雅敬兒子約雅斤接續他做王，在耶路撒冷做王三個月。 </li>
+   <li>巴比倫王尼布甲尼撒的軍兵圍困耶路撒冷。約雅斤出城投降巴比倫王。 </li>
+   <li>巴比倫王擄掠聖殿、眾民到巴比倫。 </li>
+   <li>西底家在耶路撒冷做王十一年，然後背叛巴比倫王。巴比倫王尼布甲尼撒率軍圍困耶路撒冷。 </li>
+   <li>耶路撒冷被毀，聖殿被擄。 </li>
   </ul>
  </details>
 </details>
@@ -1984,66 +2039,129 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上1-2&qs_version=CUVMPT">歷代志上1-2</a> - <a href="https://bibleplan.github.io/daily/wk61-day6-daily.html">家譜族系</a></summary>
   <ul>
+   <li>亞當之譜系  </li>
+   <li>亞伯拉罕之後裔  </li>
+   <li>以掃之後裔  </li>
+   <li>西珥之後裔  </li>
+   <li>以東諸王  </li>
+   <li>以色列之後裔  </li>
+   <li>猶大之後裔  </li>
+   <li>希斯崙之後裔  </li>
+   <li>迦勒之後裔。 </li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上3-4&qs_version=CUVMPT">歷代志上3-4</a> - <a href="https://bibleplan.github.io/daily/wk62-day1-daily.html">大衛後裔</a></summary>
   <ul>
+   <li>大衛在希伯崙生六個兒子，在耶路撒冷生十三個兒子，還有他們的妹子她瑪；妃嬪的兒子不在其內。  </li>
+   <li>所羅門的後裔。  </li>
+   <li>再次記載猶大之後裔。  </li>
+   <li>西緬之後裔。  </li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上5-6&qs_version=CUVMPT">歷代志上5-6</a> - <a href="https://bibleplan.github.io/daily/wk62-day2-daily.html">河東之地</a></summary>
   <ul>
+   <li>魯本、迦得之後裔，瑪拿西半支派所居之地。  </li>
+   <li>魯本、迦得、瑪拿西族得神的幫助，戰勝夏甲人和跟隨夏甲的人。  </li>
+   <li>之後這二支派半人違逆神，被擄分散。  </li>
+   <li>利未之後裔。  </li>
+   <li>約櫃安設之後，大衛派人在耶和華殿中管理歌唱的事。  </li>
+   <li>亞倫和他的子孫獻祭燒香,又在至聖所辦理一切的事。  </li>
+   <li>亞倫後裔所住的邑郊。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上7-8&qs_version=CUVMPT">歷代志上7-8</a> - <a href="https://bibleplan.github.io/daily/wk62-day3-daily.html">河西之地</a></summary>
   <ul>
+   <li>以薩迦之後裔  </li>
+   <li>便雅憫之後裔  </li>
+   <li>拿弗他利之後裔  </li>
+   <li>瑪拿西之後裔  </li>
+   <li>以法蓮之後裔  </li>
+   <li>亞設之後裔  </li>
+   <li>便雅憫之後裔的詳細記載</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上9&qs_version=CUVMPT">歷代志上9</a> - <a href="https://bibleplan.github.io/daily/wk62-day4-daily.html">耶路撒冷</a></summary>
   <ul>
+   <li>特別詳細記載居住在耶路撒冷的以色列後裔。 </li>
+   <li>利未人在耶路撒冷的職任。 </li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上10&qs_version=CUVMPT">歷代志上10</a> - <a href="https://bibleplan.github.io/daily/wk62-day5-daily.html">掃羅被殺</a></summary>
   <ul>
+   <li>掃羅和他的兒子被殺的經過。  </li>
+   <li>掃羅的死是因為他干犯耶和華，沒有遵守耶和華的命。又因他求問交鬼的婦人，沒有求問耶和華，所以耶和華使他被殺，把國歸於耶西的兒子大衛。 </li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上11-12&qs_version=CUVMPT">歷代志上11-12</a> - <a href="https://bibleplan.github.io/daily/wk62-day6-daily.html">大衛做王</a></summary>
   <ul>
+   <li>以色列民集於希伯崙膏大衛為王。  </li>
+   <li>大衛攻取錫安保障。  </li>
+   <li>跟隨大衛的勇士的首領，就是奮勇幫助他得國，照著耶和華吩咐以色列人的話與以色列人一同立他做王的人的記載。  </li>
+   <li>戰士們誠心來到希伯崙立大衛做以色列的王。以色列其餘的人也都一心要立大衛做王。  </li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上13-14&qs_version=CUVMPT">歷代志上13-14</a> - <a href="https://bibleplan.github.io/daily/wk63-day1-daily.html">初為國王</a></summary>
   <ul>
+   <li>大衛與一切首領商議，要把神的約櫃運來。</li>
+   <li>他們將神的約櫃從亞比拿達的家裡抬出來，放在新車上，烏撒和亞希約趕車。因為牛失前蹄，烏撒就伸手扶住約櫃，被神擊殺，死在神面前。</li>
+   <li>大衛將約櫃運到迦特人俄別以東的家中三個月，耶和華賜福給俄別以東的家和他一切所有的。</li>
+   <li>大衛在耶路撒冷又立后妃，又生兒女。</li>
+   <li>非利士眾人上來尋索大衛，大衛遵著神所吩咐的攻打非利士人的軍隊，從基遍直到基色。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上15-16&qs_version=CUVMPT">歷代志上15-16</a> - <a href="https://bibleplan.github.io/daily/wk63-day2-daily.html">迎來約櫃</a></summary>
   <ul>
+   <li>大衛在大衛城為自己建造宮殿，又為神的約櫃預備地方，支搭帳幕。  </li>
+   <li>大衛招聚利未子孫用槓，肩抬神的約櫃，照耶和華藉摩西所吩咐的。  </li>
+   <li>大衛吩咐利未人的族長，派他們歌唱的弟兄用琴、瑟和鈸作樂，大聲歌頌。  </li>
+   <li>大衛和以色列人去從俄別以東的家歡歡喜喜地將耶和華的約櫃抬上來。  </li>
+   <li>約櫃進了大衛城的時候，米甲從窗戶裡觀看見大衛王踴躍跳舞，心裡就輕視他。  </li>
+   <li>神的約櫃安放在大衛所搭的帳幕裡，就在神面前獻燔祭和平安祭。  </li>
+   <li>大衛派幾個利未人在耶和華的約櫃前侍奉，頌揚、稱謝、讚美耶和華以色列的神。  </li>
+   <li>大衛藉亞薩和他的弟兄以詩歌稱頌耶和華。  </li>
+   <li>大衛派亞薩和他的弟兄在約櫃前常常侍奉耶和華，一日盡一日的職分。  </li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上17&qs_version=CUVMPT">歷代志上17</a> - <a href="https://bibleplan.github.io/daily/wk63-day3-daily.html">建殿心願</a></summary>
   <ul>
+   <li>大衛希望為耶和華建殿。但耶和華說：你不可建造殿宇給我居住。  </li>
+   <li>耶和華應許大衛的後裔為祂建造殿宇，且必堅定他的國位直到永遠。  </li>
+   <li>大衛對耶和華謙卑祈禱。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上18-19&qs_version=CUVMPT">歷代志上18-19</a> - <a href="https://bibleplan.github.io/daily/wk63-day4-daily.html">戰無不勝</a></summary>
   <ul>
+   <li>大衛制伏非利士人、摩押人、亞蘭人。大衛無論往哪裡去，耶和華都使他得勝。  </li>
+   <li>大衛在以東地設立防營，以東人就都歸服他。  </li>
+   <li>大衛做以色列眾人的王，又向眾民秉公行義。  </li>
+   <li>大衛的臣僕被亞捫人哈嫩羞辱。約押和亞比篩打敗亞蘭人和亞捫人。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上20-21&qs_version=CUVMPT">歷代志上20-21</a> - <a href="https://bibleplan.github.io/daily/wk63-day5-daily.html">數點百姓</a></summary>
   <ul>
+   <li>約押攻取拉巴，大衛奪了亞捫人之王所戴的金冠冕。  </li>
+   <li>大衛的軍隊三次擊敗非利士人。  </li>
+   <li>撒旦激動大衛數點以色列人。大衛悔改，耶和華降瘟疫於他們。  </li>
+   <li>大衛買了阿珥楠一塊地，在那裡為耶和華築了一座壇，獻燔祭和平安祭。耶和華停止災禍。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上22&qs_version=CUVMPT">歷代志上22</a> - <a href="https://bibleplan.github.io/daily/wk63-day6-daily.html">預備建殿</a></summary>
   <ul>
+   <li>大衛預備許多，為殿預備材料甚多。  </li>
+   <li>大衛召兒子所羅門來，囑咐他給耶和華以色列的神建造殿宇。  </li>
+   <li>大衛又吩咐以色列的眾首領幫助他兒子所羅門建殿。  </li>
   </ul>
  </details>
  <details>
