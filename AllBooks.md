@@ -2049,21 +2049,40 @@
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上23-24&qs_version=CUVMPT">歷代志上23-24</a> - <a href="https://bibleplan.github.io/daily/wk64-day1-daily.html">利未職任</a></summary>
   <ul>
+   <li>大衛年紀老邁,日子滿足,就立他兒子所羅門做以色列的王。</li>
+   <li>利未人從二十歲以外的都被數點,都辦耶和華殿的事務。</li>
+   <li>亞倫子孫的班次。</li>
+   <li>利未其他後裔亦掣籤得職任。</li>
   </ul>
  </details>
  <details>
   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上25-26&qs_version=CUVMPT">歷代志上25-26</a> - <a href="https://bibleplan.github.io/daily/wk64-day2-daily.html">各盡其職</a></summary>
   <ul>
+   <li>大衛和眾首領分派亞薩、希幔並耶杜頓的子孫彈琴、鼓瑟、敲鈸、唱歌。這些人掣籤分為二十四班。</li>
+   <li>守門的班長與他們的弟兄一同在耶和華殿裡，按班供職，分守各門。</li>
+   <li>利未子孫中有亞希雅掌管神殿的府庫和聖物的府庫。</li>
+   <li>以斯哈族有基拿尼雅和他眾子做官長和士師，管理以色列的外事。</li>
   </ul>
  </details>
  <details>
   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上27-28&qs_version=CUVMPT">歷代志上27-28</a> - <a href="https://bibleplan.github.io/daily/wk64-day3-daily.html">王的產業</a></summary>
   <ul>
+   <li>以色列人分定班次，週年按月輪流，替換出入服侍王。</li>
+   <li>管理以色列眾支派的官員的記錄。</li>
+   <li>給大衛王掌管產業的諸臣及其職守。大衛的謀士們。約押做王的元帥。</li>
+   <li>大衛向百姓講述他建殿的心願。</li>
+   <li>大衛將殿的樣式指示他兒子所羅門，又鼓勵他當剛強壯膽去行，不要懼怕，也不要驚惶。</li>
   </ul>
  </details>
  <details>
   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志上29&qs_version=CUVMPT">歷代志上29</a> - <a href="https://bibleplan.github.io/daily/wk64-day4-daily.html">盡力預備</a></summary>
   <ul>
+   <li>大衛為神的殿盡力預備金子做金器，銀子做銀器，銅做銅器，鐵做鐵器，木做木器，還有紅瑪瑙、可鑲嵌的寶石、彩石和一切的寶石，並許多漢白玉。又將自己積蓄的金銀獻上。</li>
+   <li>眾族長和以色列各支派的首領、千夫長、百夫長，並監管王工的官長，都樂意獻上。</li>
+   <li>大衛在會眾面前稱頌耶和華。</li>
+   <li>會眾也稱頌耶和華他們列祖的神，低頭拜耶和華與王。</li>
+   <li>以色列民眾奉耶和華的命再膏大衛的兒子所羅門做王，又膏撒督做祭司。</li>
+   <li>大衛年紀老邁，日子滿足，享受豐富、尊榮，就死了。</li>
   </ul>
  </details>
 </details>
@@ -2071,71 +2090,159 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下1-2&qs_version=CUVMPT">歷代志下1-2</a> - <a href="https://bibleplan.github.io/daily/wk64-day5-daily.html">所羅門王</a></summary>
   <ul>
+   <li>所羅門國位堅固，耶和華與他同在，使他甚為尊大。</li>
+   <li>所羅門對神求智慧、聰明，好判斷眾多的民。</li>
+   <li>神賜所羅門智慧、聰明，也賜資財、豐富、尊榮。</li>
+   <li>所羅門定意要為耶和華的名建造殿宇，又為自己的國建造宮室。</li>
+   <li>所羅門差人去見推羅王希蘭求香柏木。希蘭打發巧匠、提供木材。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下3:1-5:1&qs_version=CUVMPT">歷代志下3:1-5:1</a> - <a href="https://bibleplan.github.io/daily/wk64-day6-daily.html">建造聖殿</a></summary>
   <ul>
+   <li>所羅門在阿珥楠的禾場上開工建造耶和華的殿。</li>
+   <li>所羅門建築神殿的根基都按著古時的尺寸。</li>
+   <li>在至聖所按造像的法子造兩個基路伯，用金子包裹。</li>
+   <li>在殿前造了兩根柱子，又製造一座銅壇，又鑄一個銅海。</li>
+   <li>又製造十個盆，十個金燈臺。又建立祭司院和大院並院門。</li>
+   <li>戶蘭又造了盆、鏟、碗，和各樣器具。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下5:2-6:42&qs_version=CUVMPT">歷代志下5:2-6:42</a> - <a href="https://bibleplan.github.io/daily/wk65-day1-daily.html">約櫃入殿</a></summary>
   <ul>
+   <li>所羅門把耶和華的約櫃從大衛城，就是錫安，運上耶路撒冷。 </li>
+   <li>所羅門王轉臉為以色列會眾祝福，以色列會眾就都站立。 </li>
+   <li>所羅門當著以色列會眾，站在耶和華的壇前，舉手禱告。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下7&qs_version=CUVMPT">歷代志下7</a> - <a href="https://bibleplan.github.io/daily/wk65-day2-daily.html">上帝顯現</a></summary>
   <ul>
+   <li>所羅門祈禱已畢，就有火從天上降下來，燒盡燔祭和別的祭，耶和華的榮光充滿了殿。 </li>
+   <li>王和眾民在耶和華面前獻祭。 </li>
+   <li>所羅門和以色列眾人都聚集成為大會，守節七日。  </li>
+   <li>耶和華向所羅門顯現，應許聽了禱告。若遵行我一切所吩咐你的，謹守我的律例、典章，就必堅固你的國位；倘若你們轉去，丟棄我指示你們的律例、誡命，去侍奉敬拜別神，我就必將以色列人從我賜給他們的地上拔出根來。 </li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下8&qs_version=CUVMPT">歷代志下8</a> - <a href="https://bibleplan.github.io/daily/wk65-day3-daily.html">安居樂業</a></summary>
   <ul>
+   <li>所羅門重新修築希蘭送給他的那些城邑，使以色列人住在那裡。 </li>
+   <li>國中所剩下不屬以色列人的人，所羅門挑取他們的後裔做服苦的奴僕。 </li>
+   <li>所羅門不使以色列人當奴僕做工，乃是做他的戰士、軍長的統領、車兵長、馬兵長。 </li>
+   <li>所羅門在耶和華的壇上，與耶和華獻燔祭。 </li>
+   <li>所羅門照著他父大衛所定的例，派定祭司的班次，使他們各供己事。 </li>
+   <li>所羅門建造耶和華的殿全然完畢。 </li>
+   <li>希蘭差遣他的臣僕，將船隻和熟悉泛海的僕人送到所羅門那裡。 </li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下9&qs_version=CUVMPT">歷代志下9</a> - <a href="https://bibleplan.github.io/daily/wk65-day4-daily.html">賢明君王</a></summary>
   <ul>
+   <li>示巴女王聽見所羅門的名聲，就來到耶路撒冷，要用難解的話試問所羅門。 </li>
+   <li>所羅門每年所得的金子共有六百六十六他連得。  </li>
+   <li>所羅門王的財寶與智慧勝過天下的列王。普天下的王都求見所羅門，要聽神賜給他智慧的話。 </li>
+   <li>所羅門在耶路撒冷做以色列眾人的王共四十年。所羅門與他列祖同睡，他兒子羅波安接續他做王。 </li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下10-12&qs_version=CUVMPT">歷代志下10-12</a> - <a href="https://bibleplan.github.io/daily/wk65-day5-daily.html">羅波安王</a></summary>
   <ul>
+   <li>羅波安不聽老年人的建議，苦待以色列人。 </li>
+   <li>以色列眾民見王不依從他們，就都回自己家裡去了。 </li>
+   <li>耶和華不許羅波安去與耶羅波安爭戰。 </li>
+   <li>以色列全地的祭司和利未人都從四方來歸羅波安。 </li>
+   <li>羅波安娶妻生子。 </li>
+   <li>羅波安的國堅立，他強盛的時候就離棄耶和華的律法，以色列人也都隨從他。 </li>
+   <li>羅波安王第五年，埃及王示撒上來攻打耶路撒冷，因為王和民得罪了耶和華。 </li>
+   <li>示撒奪了耶和華殿和王宮裡的寶物，又奪去所羅門製造的金盾牌。 </li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下13&qs_version=CUVMPT">歷代志下13</a> - <a href="https://bibleplan.github.io/daily/wk65-day6-daily.html">亞比雅王</a></summary>
   <ul>
+   <li>耶羅波安王十八年，亞比雅登基做猶大王，常與耶羅波安爭戰。 </li>
+   <li>神耶羅波安和以色列眾人敗在亞比雅與猶大人面前。 </li>
+   <li>亞比雅在世的時候，耶羅波安不能再強盛。耶和華攻擊他，他就死了。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下14-16&qs_version=CUVMPT">歷代志下14-16</a> - <a href="https://bibleplan.github.io/daily/wk66-day1-daily.html">亞撒做王</a></summary>
   <ul>
+   <li>亞比雅的兒子亞撒接續他做王，國中太平十年，亞撒行耶和華他神眼中看為善為正的事。 </li>
+   <li>古實王謝拉攻擊猶大人。亞撒出去與他迎敵，耶和華使古實人敗在亞撒面前。 </li>
+   <li>亞撒利雅勸勉亞撒和猶大、便雅憫眾人順從耶和華。亞撒接納亞撒利雅的勸勉。 </li>
+   <li>亞撒在猶大、便雅憫全地並以法蓮山地所奪的各城，將可憎之物盡都除掉，又在耶和華殿的廊前重新修築耶和華的壇。 </li>
+   <li>亞撒王貶了他祖母瑪迦太后的位，因她造了可憎的偶像亞舍拉。 </li>
+   <li>亞撒三十六年，以色列王巴沙上來攻擊猶大。亞撒求助於大馬士革的亞蘭王便哈達。 </li>
+   <li>先見哈拿尼責備亞撒仰賴亞蘭王而沒有仰賴耶和華。亞撒因此惱恨先見，也虐待一些人民。 </li>
+   <li>亞撒做王四十一年而死。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下17-18&qs_version=CUVMPT">歷代志下17-18</a> - <a href="https://bibleplan.github.io/daily/wk66-day2-daily.html">約沙法王</a></summary>
   <ul>
+   <li>亞撒的兒子約沙法接續他做王，奮勇自強，防備以色列人。  </li>
+   <li>約沙法做王第三年，就差遣臣子帶著耶和華的律法書，走遍猶大各城教訓百姓。  </li>
+   <li>耶和華使猶大四圍的列國都甚恐懼，不敢與約沙法爭戰，而是送禮納貢。  </li>
+   <li>約沙法大有尊榮、資財，就與以色列王亞哈結親。  </li>
+   <li>亞哈請猶大王約沙法同去攻取基列的拉末。約沙法請以色列王求問耶和華的先知。  </li>
+   <li>召耶和華的先知米該雅的使者讓他說吉言，但米該雅只說耶和華的話，警戒亞哈。  </li>
+   <li>亞哈把米該雅下在監裡，使他受苦。  </li>
+   <li>以色列王改裝上陣，卻被人隨便開弓射中而死。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下19-20&qs_version=CUVMPT">歷代志下19-20</a> - <a href="https://bibleplan.github.io/daily/wk66-day3-daily.html">猶大新政</a></summary>
   <ul>
+   <li>約沙法平安回耶路撒冷。先見哈拿尼的兒子耶戶勸勉約沙法王，不應該幫助惡人。  </li>
+   <li>約沙法住在耶路撒冷，以後又出巡民間，引導民歸向耶和華他們列祖的神。  </li>
+   <li>約沙法派定人，在耶路撒冷為耶和華判斷，聽民間的爭訟。  </li>
+   <li>摩押人和亞捫人，又有米烏尼人，一同來攻擊約沙法。約沙法便懼怕，定意尋求耶和華，在猶大全地宣告禁食。約沙法站在耶和華殿的新院前禱告。  </li>
+   <li>耶和華的靈臨到利未人雅哈悉，讓猶大人不要因這大軍恐懼驚惶，因為勝敗不在乎你們，乃在乎神。  </li>
+   <li>耶和華擊殺那來攻擊猶大人的亞捫人、摩押人和西珥山人，他們就被打敗了。  </li>
+   <li>列邦諸國聽見耶和華戰敗以色列的仇敵，就甚懼怕。  </li>
+   <li>約沙法的國得享太平，在耶路撒冷做王二十五年。行耶和華眼中看為正的事，只是丘壇還沒有廢去，百姓也沒有立定心意歸向他們列祖的神。  </li>
+   <li>約沙法與以色列王亞哈謝交好，亞哈謝行惡太甚。耶和華必破壞他們所造的船。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下21-22&qs_version=CUVMPT">歷代志下21-22</a> - <a href="https://bibleplan.github.io/daily/wk66-day4-daily.html">壞王約蘭</a></summary>
   <ul>
+   <li>約沙法的兒子約蘭接續他做王。約蘭奮勇自強，用刀殺了他的眾兄弟和以色列的幾個首領，在耶路撒冷做王八年，行以色列諸王在耶和華眼中看為惡的事。  </li>
+   <li>約蘭年間，以東人背叛猶大。立拿人也背叛，因為約蘭離棄耶和華他列祖的神。  </li>
+   <li>約蘭在猶大諸山建築丘壇，使耶路撒冷的居民行邪淫，誘惑猶大人。  </li>
+   <li>先知以利亞達信於約蘭，警戒他神的審判。  </li>
+   <li>非利士人和靠近古實的阿拉伯人來攻擊約蘭。約蘭患病纏綿日久，病重而死。  </li>
+   <li>約蘭的小兒子亞哈謝接續他，在耶路撒冷做王一年。他母親給他主謀，使他行惡。  </li>
+   <li>亞哈謝去見以色列王約蘭，就被耶戶害了。  </li>
+   <li>亞哈謝的母親亞她利雅見她兒子死了，就起來剿滅猶大王室。但王的女兒約示巴將亞哈謝的兒子約阿施藏在神殿裡六年。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下23-24&qs_version=CUVMPT">歷代志下23-24</a> - <a href="https://bibleplan.github.io/daily/wk66-day5-daily.html">約阿施王</a></summary>
   <ul>
+   <li>耶何耶大奮勇自強，召來猶大首領，與他們立約，立約阿施做王。  </li>
+   <li>亞她利雅在王宮的馬門前被殺。  </li>
+   <li>耶何耶大與眾民和王立約，都要做耶和華的民。  </li>
+   <li>約阿施登基的時候年七歲，在耶路撒冷做王四十年。祭司耶何耶大在世的時候，約阿施行耶和華眼中看為正的事。  </li>
+   <li>約阿施有意重修耶和華的殿。  </li>
+   <li>耶何耶大年紀老邁而死之後，約阿施離棄耶和華他們列祖神的殿，去侍奉亞舍拉和偶像。  </li>
+   <li>耶何耶大的兒子撒迦利亞警戒眾民，卻被約阿施用石頭打死。  </li>
+   <li>亞蘭的軍兵攻擊約阿施，殺了民中的眾首領。約阿施患重病，臣僕背叛他，殺他在床上。</li>
   </ul>
  </details>
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歷代志下25-26&qs_version=CUVMPT">歷代志下25-26</a> - <a href="https://bibleplan.github.io/daily/wk66-day6-daily.html">亞瑪謝王</a></summary>
   <ul>
+   <li>亞瑪謝在耶路撒冷做王二十九年，行耶和華眼中看為正的事，只是心不專誠。  </li>
+   <li>亞瑪謝從以色列招募了十萬大能的勇士，但被神人勸阻。  </li>
+   <li>亞瑪謝率領他的民到鹽谷，殺了西珥人一萬，卻把西珥的神像帶回，立為自己的神。  </li>
+   <li>亞瑪謝挑戰以色列王約阿施。猶大人敗在以色列人面前。  </li>
+   <li>在耶路撒冷有人背叛亞瑪謝，他就逃到拉吉，叛黨卻打發人到拉吉將他殺了。  </li>
+   <li>亞瑪謝的兒子烏西雅做王五十二年，行耶和華眼中看為正的事。  </li>
+   <li>但烏西雅既強盛，就心高氣傲，以致行事邪僻，干犯耶和華他的神。他額上發出大痲瘋，直到死日。他兒子約坦管理家事，治理國民。</li>
   </ul>
  </details>
  <details>
