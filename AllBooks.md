@@ -1802,71 +1802,123 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下1-2&qs_version=CUVMPT">撒母耳記下1-2</a> - <a href="https://bibleplan.github.io/daily/wk55-day1-daily.html">再次膏立</a></summary>
   <ul>
+   <li>有亞瑪力少年人來到大衛面前報告壞消息，謊稱自己殺死掃羅。大衛因他殺死神的受膏者處死了他，並且為掃羅和約拿單哀哭，做「弓」歌弔念他們；</li>
+   <li>猶大人在希伯崙膏立大衛，從此七年零六個月，大衛在希伯崙做猶大王。在此時期，掃羅的元帥押尼珥在瑪哈念擁立掃羅的兒子為王，開始掃羅家與大衛家的內戰時期。</li>
+   <li>押尼珥挑釁猶大，與約押兵戎相見，從一開始的「戲耍」變成「兇猛戰事」，雙方損失慘重。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下3-4&qs_version=CUVMPT">撒母耳記下3-4</a> - <a href="https://bibleplan.github.io/daily/wk55-day2-daily.html">改朝換代</a></summary>
   <ul>
+   <li>大衛家日見強盛，掃羅家日見衰弱。</li>
+   <li>大衛做猶大王，繼續娶妻生子。</li>
+   <li>押尼珥背叛掃羅家，要歸順大衛。押尼珥按照大衛要求送回掃羅的女兒、大衛的第一個妻子米甲；押尼珥回去招聚以色列眾人來與大衛立約。</li>
+   <li>約押謀殺押尼珥，為他的兄弟亞撒黑報仇。大衛咒詛約押，為押尼珥哀哭送葬。因此北方的以色列人心中喜悅，明白不是大衛殺了押尼珥。</li>
+   <li>北方以色列王伊施波設被兩名軍長殺死，他們想在大衛面前邀功，被大衛處死。大衛將伊施波設與押尼珥同葬。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下5-7&qs_version=CUVMPT">撒母耳記下5-7</a> - <a href="https://bibleplan.github.io/daily/wk55-day3-daily.html">三次膏立</a></summary>
   <ul>
+   <li>大衛被膏立為以色列王。攻佔耶路撒冷，建立宮殿。大衛看到神堅立他的王位。</li>
+   <li>大衛在神的帶領和幫助下，擊敗非利士人；</li>
+   <li>大衛第一次迎接約櫃進入耶路撒冷，因為沒有按照律法抬約櫃，干犯了神的聖潔，惹動神的怒氣，烏撒被擊殺。大衛愁煩懼怕，直到神的怒氣平息。第二次迎接約櫃，按照律法抬約櫃進城，大衛謙卑自己，踴躍跳舞，歡喜獻祭迎接約櫃。</li>
+   <li>大衛想要為神建殿宇，神反而為大衛堅立王位，賜他永存國度的應許，就是彌賽亞的盼望。大衛禱告回應神的恩典，明白神的應許是要成全在祂的百姓身上，最終使全地都尊崇、讚美神。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下8-9&qs_version=CUVMPT">撒母耳記下8-9</a> - <a href="https://bibleplan.github.io/daily/wk55-day4-daily.html">王國堅立</a></summary>
   <ul>
+   <li>神使大衛在爭戰中得勝，制服周圍的民族，大衛將奪得的金銀銅的器皿奉獻給神。</li>
+   <li>大衛做以色列的王，秉公行義。</li>
+   <li>大衛招來約拿單的兒子米非波設，並且照著神的慈愛待他。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下10-11&qs_version=CUVMPT">撒母耳記下10-11</a> - <a href="https://bibleplan.github.io/daily/wk55-day5-daily.html">大衛犯罪</a></summary>
   <ul>
+   <li>大衛本要恩待亞扪的新王哈嫩，派去的人反被哈嫩侮辱。以色列與亞扪的戰事從此拉開。約押帶兵在前線奮勇爭戰，約櫃也在營裡，大衛卻留在王宮。</li>
+   <li>軍兵在外打仗，大衛留在耶路撒冷，卻看上烏利亞的妻子拔示巴，與拔示巴有了姦情。拔示巴懷孕，大衛想召回烏利亞掩飾自己的罪，卻不能成功，就指使元帥約押藉敵軍之手除去烏利亞。</li>
+   <li>神甚不喜悅大衛所行的這事。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下12&qs_version=CUVMPT">撒母耳記下12</a> - <a href="https://bibleplan.github.io/daily/wk55-day6-daily.html">大衛悔改</a></summary>
   <ul>
+   <li>神派拿單去責備大衛，並宣告他將受的審判；</li>
+   <li>拿單由一個寓言開始，指出大衛不知足，藐視神的命令，行神眼中看為惡的事。</li>
+   <li>拿單宣告神的審判，刀劍必永不離開大衛的家，他的妃嬪要被人在日光下玷污，他與拔示巴的孩子要死去；</li>
+   <li>大衛立即認罪悔改，神除掉他的罪，但是有罪的後果要承擔。</li>
+   <li>大衛切切為那孩子禱告，求神的憐恤。但是神的心意沒有改變，他順服神的心意，起來潔淨自己、敬拜神。</li>
+   <li>神恩待大衛，他與拔示巴的孩子所羅門蒙神的喜悅；</li>
+   <li>約押制服亞扪，請大衛去得勝利成果。亞扪被制服。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下13-14&qs_version=CUVMPT">撒母耳記下13-14</a> - <a href="https://bibleplan.github.io/daily/wk56-day1-daily.html">姦淫謀殺</a></summary>
   <ul>
+   <li>暗嫩在約拿達的攛掇下,使用計策誆騙大衛,姦淫了同父異母的妹妹她瑪;大衛發怒;她瑪的同胞哥哥押沙龍恨惡暗嫩。</li>
+   <li>兩年後,押沙龍使用計策誆騙大衛和暗嫩,製造機會謀殺了暗嫩。押沙龍逃到外祖基述之處。</li>
+   <li>三年後,約押使用計策,找到一個聰明婦人來勸說大衛讓押沙龍回來。大衛讓約押接押沙龍回來,卻不見他。</li>
+   <li>兩年後,押沙龍使用計策逼約押為他和大衛說和,父子見面和好。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下15-16&qs_version=CUVMPT">撒母耳記下15-16</a> - <a href="https://bibleplan.github.io/daily/wk56-day2-daily.html">陰謀背叛</a></summary>
   <ul>
+   <li>押沙龍暗地裡為自己建立名聲和勢力,得了以色列人的心;他藉著還願的理由,到希伯崙揭竿背叛大衛。大衛的謀士亞希多弗也追隨他。勢派甚大。</li>
+   <li>大衛逃離耶路撒冷,留下十個妃嬪看守宮殿。</li>
+   <li>外邦逃來的以太不願意離開大衛,起誓無論生死都與大衛同處;祭司撒督和亞比亞他帶著約櫃來跟隨大衛,但是大衛叫他們回去;大衛蒙頭赤腳,邊哭邊上橄欖山,遇見朋友戶篩,請戶篩去耶路撒冷到押沙龍的身邊破壞亞希多弗的計謀;洗巴帶著食物送大衛,並說米非波設有反叛之心,大衛就將米非波設的產業給了洗巴;示每侮辱大衛,亞比篩要殺他,大衛阻止,說這是出於神;</li>
+   <li>押沙龍聽從亞希多弗的計策,與留守宮殿的妃嬪同寢,正是神對大衛所犯的罪的審判(12:11)。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下17-18&qs_version=CUVMPT">撒母耳記下17-18</a> - <a href="https://bibleplan.github.io/daily/wk56-day3-daily.html">定意降禍</a></summary>
   <ul>
+   <li>押沙龍不聽亞希多弗的計謀,使大衛得以脫離兇惡,是因為神定意破壞亞希多弗的計謀,降禍於押沙龍;</li>
+   <li>大衛在瑪哈念得朔比、瑪吉和巴西萊的供應;</li>
+   <li>大衛派軍兵出戰,並囑咐要寬待押沙龍;押沙龍被打敗,頭髮被樹枝繞住不得脫身,約押違背大衛的命令,將押沙龍殺死;大衛為押沙龍傷痛。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下19-20&qs_version=CUVMPT">撒母耳記下19-20</a> - <a href="https://bibleplan.github.io/daily/wk56-day4-daily.html">恩典歸回</a></summary>
   <ul>
+   <li>大衛沉浸於失去押沙龍的哀痛中,約押警告大衛若不安慰百姓必有大禍患;</li>
+   <li>以色列眾支派商議迎回大衛,大衛卻差人去叫祭司讓猶大支派來請他回去,並要立亞瑪撒代替約押為元帥,如此挽回猶大支派。但是卻造成以色列眾支派的不滿,間接導致示巴叛亂;也間接造成約押謀殺亞瑪撒。</li>
+   <li>示每迎接大衛並且向大衛請罪,亞比篩請求治死示每,被大衛拒絕,並且大衛向示每起誓,必不殺他;米非波設迎接大衛,陳明是洗巴饞毀他,大衛卻並不願細究洗巴的動機,也沒有讓洗巴償還土地,只是讓他於米非波設平分;巴西萊送別大衛,謝絕大衛的邀請,並不與大衛同去耶路撒冷,只是派金罕跟隨;</li>
+   <li>示巴叛亂,大衛派亞瑪撒招聚猶大人,他卻延誤。大衛派亞比篩去追趕示巴。約押趕去殺了亞瑪撒,帶領軍兵殺了示巴,平息叛亂。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下21&qs_version=CUVMPT">撒母耳記下21</a> - <a href="https://bibleplan.github.io/daily/wk56-day5-daily.html">舊罪之冤</a></summary>
   <ul>
+   <li>大衛年間有三年飢荒。大衛求問神,得知是掃羅違背以色列人的誓言,驅逐殺滅基遍人所致;</li>
+   <li>大衛按照基遍人的要求,將掃羅子孫七人給基遍人,這七人被殺死懸掛;大衛愛惜約拿單的兒子米非波設,不將他交給基遍人;</li>
+   <li>大衛聽說掃羅的妃嬪利斯巴守護這七人的屍身,就將這七人的屍身與掃羅和約拿單的骸骨一同安葬;</li>
+   <li>此後神垂聽國民所求的,飢荒結束。</li>
+   <li>跟隨大衛的人中,有四個勇士,分別殺了非利士的四個偉人的兒子。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下22:1-23:7&qs_version=CUVMPT">撒母耳記下22:1-23:7</a> - <a href="https://bibleplan.github.io/daily/wk56-day6-daily.html">感恩頌讚</a></summary>
   <ul>
+   <li>撒母耳記下 22 是大衛為神救他脫離一切仇敵和掃羅的手而獻上感恩,這一篇詩篇也收錄在詩篇 18 章裡。第一段,他敘述自己在面臨將死於仇敵之手時,神拯救了他(22:5-20),第二段,他說明神施行拯救的時候所根據的信仰因素(22:21-30),第三段是他數算神賜給他的幫助(22:31-46)(參考聖經研讀本註釋)</li>
+   <li>撒母耳記下 12:1-7 是大衛在生命的末了感謝讚美神,他意識到是神的靈在他身上做工,並仰望神與他的後裔所立的永約。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下23:8-39&qs_version=CUVMPT">撒母耳記下23:8-39</a> - <a href="https://bibleplan.github.io/daily/wk57-day1-daily.html">勇士名錄</a></summary>
   <ul>
+   <li>聖經中一一列舉隨同大衛爭戰的勇士名錄，以及其中一些勇士的戰績。 </li>
   </ul>
  </details>
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記下24&qs_version=CUVMPT">撒母耳記下24</a> - <a href="https://bibleplan.github.io/daily/wk57-day2-daily.html">數點百姓</a></summary>
   <ul>
+   <li>大衛吩咐約押去數點以色列人和猶大。</li>
+   <li>大衛數點百姓以後，心中自責，知道自己大有罪了。 </li>
+   <li>大衛在三樣災中選擇瘟疫，從但直到別是巴，民間死了七萬人。 </li>
+   <li>大衛為耶和華築壇，獻燔祭和平安祭，瘟疫在以色列人中就止住了。</li>
   </ul>
  </details>
 </details>
