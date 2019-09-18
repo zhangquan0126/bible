@@ -1448,6 +1448,9 @@
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書2:13-3:18&qs_version=CUVMPT">帖撒羅尼迦後書2:13-3:18</a> - <a href="https://bibleplan.github.io/daily/wk45-day1-daily.html">安靜做工</a></summary>
   <ul>
+   <li>認識自己的身分和依靠，才能在真道上站立得穩，在善言善行上得以堅固。</li>
+   <li>要遠離不按規矩而行、不遵守教訓的人，使他們羞愧就迴轉，要勸他們如弟兄。</li>
+   <li>要效法保羅的榜樣，安靜做工，吃自己勞碌所得，不依賴別人，不管閒事，不指手畫腳。</li>
   </ul>
  </details>
 </details>
@@ -1455,31 +1458,57 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書1&qs_version=CUVMPT">提摩太前書1</a> - <a href="https://bibleplan.github.io/daily/wk45-day2-daily.html">命令總歸</a></summary>
   <ul>
+   <li>在教會的事奉當中，要警惕，不可傳異教，不可聽從荒謬無憑的話語和無窮的家譜，這些不能幫助人的信心成長。</li>
+   <li>在教會裡勸戒人的命令是因著愛，這愛是從清潔的心和無虧的良心、無偽的信心來的。</li>
+   <li>律法是為了罪人設立的，要用得合宜，不可違背福音的原則。</li>
+   <li>主因著愛和憐憫揀選罪人，並恩賜信心和愛心，使罪魁成為信徒的榜樣。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書2&qs_version=CUVMPT">提摩太前書2</a> - <a href="https://bibleplan.github.io/daily/wk45-day3-daily.html">為人禱告</a></summary>
   <ul>
+   <li>為主打美好的仗，第一重要的是為所有世人禱告代求，包括君王和一切在位的，這樣我們就可以敬虔、端正、平安無事地度日，也在神的面前蒙悅納；因為神願意萬人得救，明白真道。</li>
+   <li>男人要無忿怒，無爭論，舉起聖潔的手，隨處禱告；</li>
+   <li>女人要廉恥、自守，沉靜學道、一味順服。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書3:1-13&qs_version=CUVMPT">提摩太前書3:1-13</a> - <a href="https://bibleplan.github.io/daily/wk45-day4-daily.html">監督執事</a></summary>
   <ul>
+   <li>有感動做教會的監督執事的，需是出於羨慕善工的熱心。</li>
+   <li>做監督的，需要在家庭婚姻上有好的見證；有好的生命品格，在愛神愛人、教內教外都無可指責；必須是在信仰上日子夠長久，生命經歷足夠操練的。</li>
+   <li>做執事的，不論男女，都需要在家庭婚姻上都有好的見證，掌控自己的口舌，愛主的話語，對主忠心。</li>
+   <li>服事不僅僅是做工而已，對自己的生命品格和信心都會大有建造。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書3:14-4:16&qs_version=CUVMPT">提摩太前書3:14-4:16</a> - <a href="https://bibleplan.github.io/daily/wk45-day5-daily.html">操練敬虔</a></summary>
   <ul>
+   <li>敬虔的奧秘就是福音。</li>
+   <li>必然有人離棄真道，用表面的敬虔來轄制人對神的真道的領受。</li>
+   <li>要堅持真道，操練敬虔，棄絕世俗的言語和老婦荒渺的話。</li>
+   <li>不要因著自己年紀輕，或信主年頭少，或任何其他原因而輕看自己，總要操練敬虔，做信徒的榜樣。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書5:1-6:2b&qs_version=CUVMPT">提摩太前書5:1-6:2b</a> - <a href="https://bibleplan.github.io/daily/wk45-day6-daily.html">敬虔度日</a></summary>
   <ul>
+   <li>對待教會的肢體，要存著清清潔潔的心；</li>
+   <li>尊敬真正敬虔的寡婦，對寡婦的供應的責任應從她的親人擔負起，讓教會可以救濟真無依靠的寡婦。</li>
+   <li>但是美好的見證並非只在表面的守寡上，生養兒女治理家務一樣成為好的見證，因此鼓勵年輕的寡婦不要隨意許守寡的願，以免因軟弱而跌倒，反而失了見證。</li>
+   <li>要加倍敬奉善於管理教會的長老和勞苦傳道教導人的；對他們的控告要有兩三個見證才能受理；對於持續犯罪的要公開責備；按立人不可急促；不要在別人的罪上有份。</li>
+   <li>對待人不可存成見，行事不可偏心。</li>
+   <li>僕人要尊重主人，對同是弟兄的主人要加倍敬重。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太前書6:2c-21&qs_version=CUVMPT">提摩太前書6:2c-21</a> - <a href="https://bibleplan.github.io/daily/wk46-day1-daily.html">敬虔知足</a></summary>
   <ul>
+   <li>以敬虔為得利的門路的人，在信徒中帶來破壞和紛爭；</li>
+   <li>貪財是萬惡之根，貪戀錢財導致人被引誘離了真道，被許多愁苦刺透；</li>
+   <li>對於屬神的人，敬虔加上知足的心就是大利；</li>
+   <li>屬神的人要逃避貪戀錢財的事，追求公義、敬虔、信心、愛心、忍耐、溫柔。</li>
+   <li>富足的人要學會不依靠錢財，有智慧地使用錢財成為他人的祝福，持定真正的生命。</li>
   </ul>
  </details>
 </details>
@@ -1487,16 +1516,28 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書1:1-2:13&qs_version=CUVMPT">提摩太後書1:1-2:13</a> - <a href="https://bibleplan.github.io/daily/wk46-day2-daily.html">恩賜的火</a></summary>
   <ul>
+   <li>要將神的恩賜如火挑旺，「因為神賜給我們，不是膽怯的心，乃是剛強、仁愛、謹守的心。」</li>
+   <li>要知道自己所信的是誰，知道主所交付的祂必保全到底。要用在基督裡的愛心和信心，靠著住在我們心裡的聖靈，常常地、牢牢地守著真道。</li>
+   <li>要做基督的精兵，在基督的恩典裡剛強。因為神的道不會被綑綁，神的信實不會改變。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書2:14-3:9&qs_version=CUVMPT">提摩太後書2:14-3:9</a> - <a href="https://bibleplan.github.io/daily/wk46-day3-daily.html">無愧工人</a></summary>
   <ul>
+   <li>竭力在神面前得蒙喜悅的無愧工人，按照正意分解真理的道,而不是在言語上爭辯；</li>
+   <li>他們逃避那將人引導更不敬虔之處的世俗的虛談；他們逃避少年人的私慾，同屬靈的敬虔夥伴一起清心追求主；</li>
+   <li>他們拒絕爭競，而是溫和教導，存心忍耐，溫柔勸戒，引人悔改歸主；</li>
+   <li>神堅固的根基已經立住！主認識他的人，凡稱主名的總要離開不義；</li>
+   <li>末世必有危險的日子來到，有人表面敬虔，內裡敗壞，牢籠無知軟弱的人，這等人我們要躲開，他們的愚昧終必顯露。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提摩太後書3:10-4:22&qs_version=CUVMPT">提摩太後書3:10-4:22</a> - <a href="https://bibleplan.github.io/daily/wk46-day4-daily.html">務要傳道</a></summary>
   <ul>
+   <li>凡立志在基督耶穌裡敬虔度日的人都要受逼迫，但是主的拯救不離開他們；</li>
+   <li>務要努力學道，聖經叫信基督的人有得救的智慧。聖經都是神所默示的，於教訓、督責、使人歸正、教導人學義都是有益的，叫屬神的人得以完全，預備行各樣的善事。</li>
+   <li>務要專心傳道，無論得時不得時，總要專心，並用百般的忍耐、各樣的教訓責備人，警戒人、勸勉人。要凡事謹慎，忍受苦難，做成傳道的工夫，盡我們的職分；</li>
+   <li>要打美好的仗，跑當跑的路，守所信的道，在主再來的日子，有公義的冠冕為愛慕主顯現的人存留。</li>
   </ul>
  </details>
 </details>
@@ -1504,11 +1545,16 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提多書1-2&qs_version=CUVMPT">提多書1-2</a> - <a href="https://bibleplan.github.io/daily/wk46-day5-daily.html">敬虔真理</a></summary>
   <ul>
+   <li>長老、監督要有敬虔、無可指責的生命樣式，並在真理上堅守，不僅能教導信徒，並能駁斥異端邪說。</li>
+   <li>要講純正的真理，用講明、勸戒、責備，幫助信徒操練敬虔榮耀神的生命。</li>
+   <li>敬虔度日，是給我們拯救的恩典的神的命令。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=提多書3&qs_version=CUVMPT">提多書3</a> - <a href="https://bibleplan.github.io/daily/wk46-day6-daily.html">預備行善</a></summary>
   <ul>
+   <li>行善的根基是主的恩慈和憐憫，而不是我們的義；</li>
+   <li>我們要留心，時刻預備行善，對掌權者順服遵命，對眾人溫柔和平；這對人是有益的。不要做引起爭競的虛妄無益的事。</li>
   </ul>
  </details>
 </details>
@@ -1516,6 +1562,8 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓利門書1&qs_version=CUVMPT">腓利門書1</a> - <a href="https://bibleplan.github.io/daily/wk47-day1-daily.html">面對過去</a></summary>
   <ul>
+   <li>阿尼西謀是腓利門的逃奴，曾對腓利門有很多虧欠。他在保羅的帶領下信主，身分和生命都因救恩而改變和更新。腓利門也受福音的恩惠，是歌羅西教會的重要同工，在信心和愛心上都有美好的見證。 </li>
+   <li>保羅派遣阿尼西謀回歌羅西去面對過去的錯失。同時他讓阿尼西謀帶上他寫給腓利門的書信，用愛心求腓利門合宜地對待阿尼西謀，並不使用自己的權柄和權威命令他。保羅願意親自為阿尼西謀償還所虧欠的，並表示會因他們的和好和彼此相愛而在主裡歡暢。 </li>
   </ul>
  </details>
 </details>
@@ -1523,56 +1571,102 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書1&qs_version=CUVMPT">希伯來書1</a> - <a href="https://bibleplan.github.io/daily/wk47-day2-daily.html">遠超天使</a></summary>
   <ul>
+   <li>基督是先知，是祭司，祂也是君王，神一切的奧秘都在祂裡面。</li>
+   <li>基督是神的兒子，是神榮耀所發的光輝，是神本體的真像，祂的尊名遠勝天使。</li>
+   <li>基督是創造主，神是藉著祂創造諸世界的。</li>
+   <li>神是掌管者，整個世界按照祂的計劃發展，不偏左右。耶穌承受萬有一切要歸於祂屬於祂。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書2&qs_version=CUVMPT">希伯來書2</a> - <a href="https://bibleplan.github.io/daily/wk47-day3-daily.html">偉大救恩</a></summary>
   <ul>
+   <li>要鄭重所聽見的神的道，這關係到我們永遠的生死與得失。</li>
+   <li>神的救恩起先是主親自講的，再經聽見的人證實，神又用神蹟、奇事、異能、並聖靈的恩賜同做見證。</li>
+   <li>不能忽略神的救恩，不理或任憑錯過，將後悔莫及。</li>
+   <li>人受造比天使小一點，但是神仍然賜給人有權柄來管理祂所創造的。</li>
+   <li>耶穌是我們救主，祂為了救我們成了血肉之軀，並且藉著死敗壞那掌權的。</li>
+   <li>耶穌從死裡復活，解除了罪的權勢，戰勝了死亡的權柄。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書3:1-4:13&qs_version=CUVMPT">希伯來書3:1-4:13</a> - <a href="https://bibleplan.github.io/daily/wk47-day4-daily.html">進入安息</a></summary>
   <ul>
+   <li>摩西是在舊約中神重用的僕人，但是他遠不及基督為神的兒子。</li>
+   <li>基督要建造神真正的永遠的家和居所。</li>
+   <li>我們務必竭力進入神的安息，免得有人學那不信從的樣子跌倒了。</li>
+   <li>神的話語又真又活，神的道是活潑的。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書4:14-6:20&qs_version=CUVMPT">希伯來書4:14-6:20</a> - <a href="https://bibleplan.github.io/daily/wk47-day5-daily.html">祭司耶穌</a></summary>
   <ul>
+   <li>主是屬靈生命長進的起頭，祂應當是我們注目的目標和唯一的依靠。</li>
+   <li>耶稣是慈悲忠信的大祭司，是按照麦基洗德的等次成为永远的祭司。</li>
+   <li>耶稣能体恤我们的软弱，因为他凡事受过试探与我们一样，只是他没有犯罪。</li>
+   <li>耶穌基督親自擔當我們的苦難，完全順服神的旨意。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書7&qs_version=CUVMPT">希伯來書7</a> - <a href="https://bibleplan.github.io/daily/wk47-day6-daily.html">耶稣中保</a></summary>
   <ul>
+   <li>耶穌基督是按照麥基洗德的等次成為祭司，不是按照亞倫的等次。</li>
+   <li>基督是永存的，祂祭司的任职就是长久不变的，所以凡靠着祂进到神面前的他都能拯救到底。</li>
+   <li>麥基洗德為亞伯拉罕祝福，耶穌基督超越任何人，祂給一切人祝福。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書8&qs_version=CUVMPT">希伯來書8</a> - <a href="https://bibleplan.github.io/daily/wk48-day1-daily.html">更美之約</a></summary>
   <ul>
+   <li>基督所得的職任是更美的，正如他做更美之約的中保。</li>
+   <li>基督作為中保的新約是可信賴的，只有通過基督才能與神和好。</li>
+   <li>神將律法寫在人的心上，使人認識祂，並要寬恕他們的不義，不再記念他們的罪愆。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書9:1-10:18&qs_version=CUVMPT">希伯來書9:1-10:18</a> - <a href="https://bibleplan.github.io/daily/wk48-day2-daily.html">信實守約</a></summary>
   <ul>
+   <li>舊約的獻祭不能叫人得以完全，耶穌獻上自己是成就永遠贖罪的祭。</li>
+   <li>唯有靠著基督完全的贖罪，我們才能從律法的刑罰中得釋放。</li>
+   <li>神奇妙的救恩計畫必須在神的旨意中成就，並且早已在聖經中預言了。</li>
+   <li>基督獻上完全的贖罪祭，代替了舊約的祭，並且超越了舊約的獻祭。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書10:19-39&qs_version=CUVMPT">希伯來書10:19-39</a> - <a href="https://bibleplan.github.io/daily/wk48-day3-daily.html">新的生命</a></summary>
   <ul>
+   <li>耶穌的獻祭除去了至聖所的幔子，讓我們可以隨時來到神的面前。</li>
+   <li>藉著耶穌基督我們信心得以增長，戰勝困惑疑慮；藉著耶穌基督我們能互相勸勉；藉著耶穌基督，我們可以一同敬拜。</li>
+   <li>不可停止聚會；在困難中更當聚會。</li>
+   <li>神對拒絕救恩的人有審判。</li>
+   <li>我們不可丟棄勇敢的心，存這樣的心必得大賞賜。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書11&qs_version=CUVMPT">希伯來書11</a> - <a href="https://bibleplan.github.io/daily/wk48-day4-daily.html">信心偉人</a></summary>
   <ul>
+   <li>信就是所望之事的實底，是未見之事的確據。</li>
+   <li>人非有信就不能得神的喜悅，因為到神面前來的人必須信有神，且信他賞賜那尋求他的人。</li>
+   <li>神的話語創造了整個宇宙，祂的話有令人敬畏的能力。</li>
+   <li>很多信心的偉人是存著信心死的，並沒有得著所應許的，卻從遠處望見，且歡喜迎接，又承認自己在世上是客旅，是寄居的。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書12&qs_version=CUVMPT">希伯來書12</a> - <a href="https://bibleplan.github.io/daily/wk48-day5-daily.html">神的管教</a></summary>
   <ul>
+   <li>神對所有兒女都有管教。</li>
+   <li>地上的父親隨己意管教我們，但是天父管教我們是為了讓我們的益處，使我們在祂的聖潔上有份。</li>
+   <li>我們要追求與眾人和睦，並要追求聖潔，非聖潔沒有人能見主。</li>
+   <li>我們既得了不能震動的國，就當感恩，照神所喜悅的，用虔誠、敬畏的心侍奉神，因為我們的神乃是烈火。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=希伯來書13&qs_version=CUVMPT">希伯來書13</a> - <a href="https://bibleplan.github.io/daily/wk48-day6-daily.html">弟兄相愛</a></summary>
   <ul>
+   <li>基督徒要存弟兄相愛的心，不可忘記用愛心接待客旅，存心不可貪愛錢財。</li>
+   <li>我們要主動幫助被捆綁的人，看顧被囚的人。</li>
+   <li>將自己信靠、交託給神的人，神必不撇棄，反要保全。</li>
+   <li>耶穌基督昨日、今日、一直到永遠，是一樣的。</li>
+   <li>神施恩拯救我們，並且在各樣善事上成全我們，為要叫我們遵行神的旨意，好讓祂在我們身上得著榮耀。</li>
   </ul>
  </details>
 </details>
@@ -1580,21 +1674,37 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書1:1-18&qs_version=CUVMPT">雅各書1:1-18</a> - <a href="https://bibleplan.github.io/daily/wk49-day1-daily.html">信心試煉</a></summary>
   <ul>
+   <li>在百般試煉中要有大喜樂，因為信心經歷試煉就生出忍耐。</li>
+   <li>在試煉中憑信心向神求智慧，那厚賜與眾人，也不斥責人的神，必賜給我們。</li>
+   <li>卑微在試煉中的，要因升高而喜樂，富足的，也要因降卑的試煉而喜樂。</li>
+   <li>忍受試煉的人是有福的，因為經過試驗以後，必得生命的冠冕。</li>
+   <li>主不試探人，人受試探是被自己的私慾牽引誘惑的。</li>
+   <li>各樣美善的恩賜和各樣全備的賞賜都是從神而來的，並不改變。</li>
+   <li>神按他旨意，揀選我們，並叫我們成為初熟的果子。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書1:19-2:26&qs_version=CUVMPT">雅各書1:19-2:26</a> - <a href="https://bibleplan.github.io/daily/wk49-day2-daily.html">信心行為</a></summary>
   <ul>
+   <li>不要單單聽道，還要將聽的道實在行出來，就必然在所行的事上得福。</li>
+   <li>要看顧弱小的孤兒寡婦，並且不要沾染世俗，不要偏心待人，用惡意斷定人；以外貌待人是違背了愛人如己的命令。</li>
+   <li>信心沒有行為就是死的。信心與行為並行，信心因著行為才得成全。人稱義是因著行為，不是單因著信。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書3:1-4:12&qs_version=CUVMPT">雅各書3:1-4:12</a> - <a href="https://bibleplan.github.io/daily/wk49-day3-daily.html">智慧敬虔</a></summary>
   <ul>
+   <li>要尋求上面的智慧，掌控自己的舌頭；不可以又頌讚神，又咒詛人。</li>
+   <li>敬畏神的人不放縱私慾，不與世俗為友；敬畏神的人順服神、潔淨手和心、悔改自卑、親近神、不論斷他人。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=雅各書4:13-5:20&qs_version=CUVMPT">雅各書4:13-5:20</a> - <a href="https://bibleplan.github.io/daily/wk49-day4-daily.html">忍耐等候</a></summary>
   <ul>
+   <li>我們為生活籌劃，應當是以神的旨意為第一重要的。</li>
+   <li>我們追求的，應當是屬靈的寶貴出產，而不是屬世的富足；當忍耐等候主的時間，不用起誓的方式幫助自己脫離忍耐。</li>
+   <li>我們當以神為中心，在各樣環境中總不停止禱告、代禱、祈求、讚美。</li>
+   <li>我們當以拯救靈魂和遮蓋罪為我們幫助人回轉的動機。</li>
   </ul>
  </details>
 </details>
@@ -1602,11 +1712,21 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書1:1-12&qs_version=CUVMPT">彼得前書1:1-12</a> - <a href="https://bibleplan.github.io/daily/wk49-day5-daily.html">靈魂救恩</a></summary>
   <ul>
+   <li>我們是三一真神按著他的恩典揀選的；</li>
+   <li>這救恩給我們新的生命和活潑的盼望，並在天上的基業；</li>
+   <li>信心經過試煉得美好的果效，在主再來的日子可以得稱讚、榮耀、尊貴；</li>
+   <li>這救恩是啟示和顯明是經過眾先知的考察、傳福音的人的傳講和天使的細察。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書1:13-2:10&qs_version=CUVMPT">彼得前書1:13-2:10</a> - <a href="https://bibleplan.github.io/daily/wk49-day6-daily.html">得救生命</a></summary>
   <ul>
+   <li>重生得救的新生命，是順命的、聖潔的、存敬畏的心度日的；</li>
+   <li>重生得救的新生命，依靠的不是金銀，而是主耶穌的寶血，信心和盼望都在於神；</li>
+   <li>重生得救的新生命，在弟兄間彼此切實相愛；</li>
+   <li>重生得救的新生命，要渴慕純淨的靈奶，逐漸成長；</li>
+   <li>重生得救的新生命，要像活石，被建造成靈宮，做聖潔的祭司，獻神所悅納的靈祭；</li>
+   <li>重生得救的新生命，是新的身分（君尊的祭司、聖潔的國度、屬神的子民），有新的使命（傳揚神的美德）。</li>
   </ul>
  </details>
  <details>
