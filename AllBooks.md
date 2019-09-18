@@ -1680,21 +1680,35 @@
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書2:3-27&qs_version=CUVMPT">約翰一書2:3-27</a> - <a href="https://bibleplan.github.io/daily/wk51-day2-daily.html">新的命令</a></summary>
   <ul>
+   <li>凡遵守主道的，愛神的心在他裡面實在是完全的；從此，我們知道我們是在主裡面。</li>
+   <li>黑暗漸漸過去，真光已經照耀。人若說自己在光明中，卻恨他的弟兄，他到如今還是在黑暗裡。</li>
+   <li>凡世界上的事，就像肉體的情慾、眼目的情慾並今生的驕傲，都不是從父來的，乃是從世界來的。這世界和其上的情慾都要過去，唯獨遵行神旨意的，是永遠常存。</li>
+   <li>凡不認子的，就沒有父；認子的，連父也有了。</li>
+   <li>主所應許我們的是永生。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書2:28-3:24&qs_version=CUVMPT">約翰一書2:28-3:24</a> - <a href="https://bibleplan.github.io/daily/wk51-day3-daily.html">神的兒女</a></summary>
   <ul>
+   <li>父賜給我們是何等的慈愛，使我們得稱為神的兒女；我們也真是他的兒女。</li>
+   <li>神的命令就是叫我們信他兒子耶穌基督的名，且照他所賜給我們的命令彼此相愛。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書4&qs_version=CUVMPT">約翰一書4</a> - <a href="https://bibleplan.github.io/daily/wk51-day4-daily.html">彼此相愛</a></summary>
   <ul>
+   <li>愛是從神來的。凡有愛心的，都是由神而生，並且認識神。</li>
+   <li>神差他的兒子為我們的罪作了挽回祭，這就是愛了。</li>
+   <li>神就是愛；住在愛裡面的，就是住在神裡面，神也住在他裡面。</li>
+   <li>我們愛，因為神先愛我們。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書5&qs_version=CUVMPT">約翰一書5</a> - <a href="https://bibleplan.github.io/daily/wk51-day5-daily.html">虛假師傅</a></summary>
   <ul>
+   <li>作見證的原來有三：就是聖靈、水、與血。這三樣也都在主耶稣基督里歸於一。</li>
+   <li>凡從神生的，必不犯罪，從神生的，必保守自己，那惡者也就無法害他。</li>
+   <li>神的兒子已經來到，且將智慧賜給我們，使我們認識那位真實的；我們也在那位真實的裡面，就是在他兒子耶穌基督裡面。這是真神，也是永生。</li>
   </ul>
  </details>
 </details>
@@ -1702,99 +1716,166 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰二書1&qs_version=CUVMPT">約翰二書1</a> - <a href="https://bibleplan.github.io/daily/wk51-day6-daily.html">愛與真理</a></summary>
   <ul>
+   <li>真理與愛心須是並行的，愛是為著真理的緣故。</li>
+   <li>遵行神的命令，彼此相愛，就是愛神。</li>
+   <li>彼此相愛要以遵行真理為前提，不遵循基督的教訓的，不要接待。</li>
   </ul>
  </details></details>
 <details><summary>約翰三書 - <a href="https://bibleplan.github.io/daily/wk52-day1-daily.html">導讀 第52週第1天</a></summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰三書1&qs_version=CUVMPT">約翰三書1</a> - <a href="https://bibleplan.github.io/daily/wk52-day1-daily.html">真理與愛</a></summary>
   <ul>
+   <li>神的兒女應當心中存著真理，按真理而行。</li>
+   <li>當愛心接待為主名外出做工的弟兄，這樣就是與他們一同為真理做工。</li>
+   <li>不要效法那些好為首、拒絕接待主的工人的惡，要效法有真理有愛心的善。</li>
   </ul>
  </details></details>
 <details><summary>猶大書 - <a href="https://bibleplan.github.io/daily/wk52-day2-daily.html">導讀 第52週第2天</a></summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=猶大書1&qs_version=CUVMPT">猶大書1</a> - <a href="https://bibleplan.github.io/daily/wk52-day2-daily.html">竭力爭辯</a></summary>
   <ul>
+   <li>因著教會有異端假教師的出現，要為真理竭力爭辯；</li>
+   <li>三個審判是假教師的結局的鑒戒；</li>
+   <li>三條道路是假教師奔跑的方向；</li>
+   <li>六個比喻指名假教師的本質；</li>
+   <li>以諾預言了假教師的結局；</li>
+   <li>我們當紀念主的話，在真道上造就自己、在聖靈裡禱告、保守自己在神的愛中。對存疑心的人要憐憫、搶救，要存著懼怕的心憐憫身陷情慾的人。</li>
   </ul>
  </details></details>
 <details><summary>撒母耳記上 - <a href="https://bibleplan.github.io/daily/wk52-day3-daily.html">導讀 第52週第3天</a></summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上1:1-2:11&qs_version=CUVMPT">撒母耳記上1:1-2:11</a> - <a href="https://bibleplan.github.io/daily/wk52-day3-daily.html">哈拿禱告</a></summary>
   <ul>
+   <li>哈拿因為不能生育常被丈夫的另一個妻子毗尼拿激動，讓她生氣。尤其是在全家上示羅向耶和華獻祭的時候，毗尼拿更是年復一年大大激動她。</li>
+   <li>哈拿在神面前不住禱告，希望得到耶和華神的眷顧得一兒子，並許願將這兒子奉獻給神。</li>
+   <li>祭司以利叫她平安回去。哈拿不再愁苦。哈拿的禱告得蒙神的應允的一兒子，起名撒母耳。到撒母耳斷奶，哈拿按照從前許的願，將撒母耳帶到以利那裡終身事奉耶和華，並敬拜讚美耶和華。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上2:12-4:1a&qs_version=CUVMPT">撒母耳記上2:12-4:1a</a> - <a href="https://bibleplan.github.io/daily/wk52-day4-daily.html">先知長大</a></summary>
   <ul>
+   <li>祭司以利的兒子們身為祭司，卻行為敗壞，將百姓也陷於罪中。耶和華借神人的口宣告了對以利家的審判；</li>
+   <li>撒母耳從小事奉神，蒙神喜悅，神定意揀選、呼召他為先知。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上4:1b-5:12&qs_version=CUVMPT">撒母耳記上4:1b-5:12</a> - <a href="https://bibleplan.github.io/daily/wk52-day5-daily.html">榮耀離開</a></summary>
   <ul>
+   <li>以色列人與非利士人打仗，吃了敗仗卻不求問耶和華，把約櫃當作工具帶到營中。他們大敗，約櫃被擄。</li>
+   <li>以利的兩個兒子被殺，正是神所說的。以利跌倒死去。以利的兒婦在產難離世前說「榮耀離開以色列」。</li>
+   <li>主耶和華在非利士人中擊打非利士人的偶像大袞，並降災禍於非利士人。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上6-7&qs_version=CUVMPT">撒母耳記上6-7</a> - <a href="https://bibleplan.github.io/daily/wk52-day6-daily.html">屬靈復興</a></summary>
   <ul>
+   <li>非利士人將約櫃送回以色列，並帶上賠罪的禮物。伯示麥人歡喜迎接約櫃，獻燔祭和平安祭與神。</li>
+   <li>但是因為其中有人擅觀約櫃，七十人被神擊殺，於是伯示麥人要求基列椰琳人將約櫃帶走。約櫃在基列椰琳二十年。</li>
+   <li>這二十年，撒母耳帶領以色列人悔改歸向神、除去偶像、尊主為聖、信仰復興；神幫助他們戰勝非利士人，奪回失地。</li>
+   <li>撒母耳忠心服事，做以色列人的士師。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上8-9&qs_version=CUVMPT">撒母耳記上8-9</a> - <a href="https://bibleplan.github.io/daily/wk53-day1-daily.html">揀選掃羅</a></summary>
   <ul>
+   <li>撒母耳的兩個兒子不遵行父親的道。以色列的長老們要求撒母耳為他們如其他民族一樣立一個君王。撒母耳按照神的旨意警戒他們君王制度的壓迫，他們不願意聽</li>
+   <li>從，執意要一個王來治理他們。</li>
+   <li>主耶和華說，以色列人的這個要求是在厭棄祂，不願祂做他們的王。這與他們從出埃及以來的一向悖逆是一樣的。</li>
+   <li>主耶和華為以色列人揀選掃羅，要藉著掃羅來拯救以色列人脫離非利士人的手。撒母耳接待掃羅，與他同吃祭肉，並在房頂款待他，讓城裡的眾人都可以注意到。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上10-12&qs_version=CUVMPT">撒母耳記上10-12</a> - <a href="https://bibleplan.github.io/daily/wk53-day2-daily.html">膏立掃羅</a></summary>
   <ul>
+   <li>撒母耳按照神的心意膏立掃羅，並給他三個印證；</li>
+   <li>撒母耳在百姓的面前按照掣籤選王的方式掣出掃羅來，但是有人不服；</li>
+   <li>掃羅擊敗亞扪人，拯救了基列雅比人，在百姓面前證明自己的能力，終於被百姓擁立為王。</li>
+   <li>撒母耳臨別告誡以色列人，要順服神的命令，雖行了悖逆的惡，但要回轉，盡心事奉耶和華，耶和華神必然不離棄他們。</li>
+   <li>至於他自己，要繼續為百姓禱告，並且將善道正路教導他們。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上13:1-14:48&qs_version=CUVMPT">撒母耳記上13:1-14:48</a> - <a href="https://bibleplan.github.io/daily/wk53-day3-daily.html">掃羅犯罪</a></summary>
   <ul>
+   <li>掃羅在吉甲等不及撒母耳的到來，就擅自獻祭，他也不願意等候耶和華。撒母耳說他因為沒有遵守神的命令，王位必不長久，神已尋著一個合神心意的人另立為君。</li>
+   <li>掃羅逼迫百姓不停不吃地打仗，以至於百姓犯罪。當百姓犯罪以後，自己並不反省，反而試圖遮蓋。當神不回答他的問題的時候，他用掣籤之法掣出約拿單來要治罪，被百姓拯救；</li>
+   <li>神使用約拿單大行拯救，使微弱的以色列人勝過強大的非利士人；約拿單體恤百姓；當被掣籤掣出，要定罪的時候，被百姓拯救，因為他們都見證約拿單是與神一同做事，拯救了百姓。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上14:49-15:35&qs_version=CUVMPT">撒母耳記上14:49-15:35</a> - <a href="https://bibleplan.github.io/daily/wk53-day4-daily.html">掃羅被棄</a></summary>
   <ul>
+   <li>神通過撒母耳曉諭掃羅，去擊打亞瑪力人，滅盡所有的。掃羅卻沒有按照神所吩咐的滅盡，留下亞瑪力的王、一切上好的牛羊和一切美物。</li>
+   <li>因為掃羅轉去不跟從神，神後悔（新國際版譯為「難過」）立掃羅為王。</li>
+   <li>面對撒母耳的時候，掃羅聲稱自己遵行了神的命令；被撒母耳責備的時候，掃羅說是留下的這些是為了獻祭，並說是百姓的主意；最終他承認有罪，是因為懼怕百姓；當知道神的心意不能更改的時候，請求撒母耳不要離去，與他同到百姓的面前「抬舉」他；</li>
+   <li>「聽命勝於獻祭，順從勝於公羊的脂油；悖逆的罪與行邪術的罪相等，頑梗的罪與拜虛神和偶像的罪相同。」</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上16-17&qs_version=CUVMPT">撒母耳記上16-17</a> - <a href="https://bibleplan.github.io/daily/wk53-day5-daily.html">膏立大衛</a></summary>
   <ul>
+   <li>神讓撒母耳去伯利恆膏立新君；</li>
+   <li>「耶和華不像人看人：人是看外貌；耶和華是看內心」，神在耶西的所有兒子中選了最小的大衛；</li>
+   <li>神的靈離開掃羅以後，有惡魔來擾亂他；臣僕推薦大衛為掃羅彈琴，使他舒暢爽快；</li>
+   <li>非利士人與以色列人打仗，大衛依靠神戰勝哥利亞；因此以色列人大勝非利士人，奪了非利士人的營盤；大衛正式走進掃羅和以色列百姓的視野。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上18-19&qs_version=CUVMPT">撒母耳記上18-19</a> - <a href="https://bibleplan.github.io/daily/wk53-day6-daily.html">嫉妒大衛</a></summary>
   <ul>
+   <li>大衛與約拿單的心深相契合，成為好友；大衛戰績卓著，被掃羅看重，也被以色列人喜悅；</li>
+   <li>以色列人迎接得勝的掃羅王，眾婦女歌唱`「掃羅殺死千千，大衛殺死萬萬」`，引發掃羅對大衛的強烈嫉妒；</li>
+   <li>因為耶和華離開自己，與大衛同在，掃羅嫉妒又懼怕，用不同方式明中暗中要殺死大衛，都不成功，人們反而更加愛大衛，包括掃羅的兒子約拿單，和女兒米甲；</li>
+   <li>約拿單規勸掃羅，掃羅暫時聽從，很快又變卦；米甲幫助大衛逃跑，大衛跑到撒母耳處，掃羅派人去追殺，包括最後一次他自己親去，都被神的靈阻止。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上20-21&qs_version=CUVMPT">撒母耳記上20-21</a> - <a href="https://bibleplan.github.io/daily/wk54-day1-daily.html">大衛逃亡</a></summary>
   <ul>
+   <li>大衛找到約拿單，通過約拿單最終確認了掃羅要殺自己的心；</li>
+   <li>約拿單與大衛立約，兩位好友之間的個人盟約成為兩個家族之間的盟約；</li>
+   <li>大衛開始流亡生涯，為了保命，在祭司那裡他說了謊，導致祭司和全城人被殺，在非利士人那裡裝瘋，最後被趕出去。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上22-23&qs_version=CUVMPT">撒母耳記上22-23</a> - <a href="https://bibleplan.github.io/daily/wk54-day2-daily.html">化妝祝福</a></summary>
   <ul>
+   <li>大衛帶著家人到摩押避難，神卻通過先知迦得叫他回到掃羅的權勢之內，猶大之地；</li>
+   <li>掃羅因為祭司亞希米勒幫助大衛，就將祭司的全家和全城殘殺，毀壞了神所確立的祭司制度，斷絕自己與神之間的聯繫；</li>
+   <li>大衛卻有了打仗的勇士，有傳達神的默示的先知，也有獻祭贖罪並求問神的祭司；</li>
+   <li>大衛按照神的心意解救了基伊拉人，卻招致掃羅的注意，神曉諭大衛，被大衛拯救的基伊拉人必出賣大衛；猶大地的西弗人也出賣大衛的藏身之地，導致掃羅前面尋索大衛的命。但是大衛都在神的保守下平安無事。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上24-25&qs_version=CUVMPT">撒母耳記上24-25</a> - <a href="https://bibleplan.github.io/daily/wk54-day3-daily.html">靠主饒恕</a></summary>
   <ul>
+   <li>掃羅尋索大衛的性命，卻被交在大衛的手上。但是大衛卻不願意傷害神的受膏者，並在掃羅面前陳明心意。</li>
+   <li>掃羅痛哭表示後悔，並承認大衛的義和神對大衛的揀選，要求大衛立下誓言不剪除他的後裔。</li>
+   <li>得蒙大衛的恩惠的拿八反而侮辱大衛，大衛要把拿八和他家裡的男丁全部除滅。拿八的妻子亞比該帶上禮物，自卑並有智慧地阻止了大衛的惡行。</li>
+   <li>神親自為大衛申冤，大衛為神阻止自己行惡感謝神。得了亞比該的同意後娶她為妻。</li>
   </ul>
  </details>
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上26-27&qs_version=CUVMPT">撒母耳記上26-27</a> - <a href="https://bibleplan.github.io/daily/wk54-day4-daily.html">人的保護</a></summary>
   <ul>
+   <li>西弗人又一次出賣大衛的藏身之處，掃羅又一次來尋索大衛的命。神再一次將掃羅交在大衛手中，大衛的手下再一次勸大衛除去掃羅，但是大衛再一次饒恕掃羅的性命。大衛再一次質問掃羅，掃羅再一次表示後悔。</li>
+   <li>大衛不相信掃羅，決定逃到以色列的仇敵非利士人那裡去。他得到非利士王的信任。他攻擊消滅以色列的敵人（基述人、基色人、亞瑪力人），卻對非利士王謊稱是在攻擊以色列人和盟友，取得非利士人的信任。</li>
   </ul>
  </details>
  <details>
   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上28-29&qs_version=CUVMPT">撒母耳記上28-29</a> - <a href="https://bibleplan.github.io/daily/wk54-day5-daily.html">神的保守</a></summary>
   <ul>
+   <li>非利士人集結大軍要攻打以色列。掃羅求神不得著落，就去就神所厭惡的交鬼之術。他得到的答案反而使他的懼怕加增到絕境；</li>
+   <li>身在非利士人勢力內的大衛也深陷兩難，是跟著非利士人去攻打以色列，幫助神的仇敵，還是拒絕跟隨，就陷入死地？神使用非利士人自己的不信任，倒幫助大衛脫離這個絕境。</li>
   </ul>
  </details>
  <details>
   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上30-31&qs_version=CUVMPT">撒母耳記上30-31</a> - <a href="https://bibleplan.github.io/daily/wk54-day6-daily.html">痛悔回轉</a></summary>
   <ul>
+   <li>大衛遭到亞瑪力人的報復，他的大本營洗革拉被亞瑪力人洗劫、焚毀，所有的親人都被擄走。大衛不僅自己痛苦非常，還被跟隨自己的人威脅生命。在這絕境，他回轉歸向神，依靠神，心裡堅固。</li>
+   <li>神保守大衛的救援行動。不僅僅親人被救出，財產被追回，甚至還得了更多的擄物。</li>
+   <li>大衛以恩慈待亞瑪力奴隸，得到他的幫助；他也以恩慈對待因為疲勞沒有參與救援的人，和他在逃亡中所經之處的人，與他們分享神的恩典。</li>
+   <li>掃羅在這最後的戰役中被逼入絕境，以死亡逃避未知的結局。他不想被羞辱，但是屍體依然遭受羞辱，他曾經拯救的基列雅比人冒著危險將他的屍身取下埋葬，並為他禁食七天。</li>
   </ul>
  </details>
 </details>
