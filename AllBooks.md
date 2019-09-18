@@ -1612,16 +1612,29 @@
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書2:11-3:7&qs_version=CUVMPT">彼得前書2:11-3:7</a> - <a href="https://bibleplan.github.io/daily/wk50-day1-daily.html">為主順服</a></summary>
   <ul>
+   <li>我們在這世界是寄居的客旅，要禁戒肉體的私慾，品行端正，讓人看見我們的好行為，就在監察的日子歸榮耀與神。</li>
+   <li>為主的緣故，要順服人制度，並在上的君王臣宰；為主的緣故，僕人要順服主人，不管他是善良溫和的，還是乖僻的；</li>
+   <li>為主的緣故，妻子要順服丈夫，以貞潔的品行和敬畏的心為裝飾，即使是不聽道的丈夫也可能被感化過來。</li>
+   <li>為主的人緣故，丈夫要按情理與妻子同住，敬重她。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書3:8-4:11&qs_version=CUVMPT">彼得前書3:8-4:11</a> - <a href="https://bibleplan.github.io/daily/wk50-day2-daily.html">為義受苦</a></summary>
   <ul>
+   <li>弟兄姊妹間要同心，彼此相愛，存慈憐謙卑的心。要謹慎自守，警醒禱告，互相款待，不發怨言；</li>
+   <li>要照所得的恩賜、按神所賜的力量彼此服事，叫神在凡事上因耶穌基督得榮耀。不要以惡報惡，以辱罵還辱罵，倒要祝福。</li>
+   <li>為義受苦，是有福的。要心裡尊基督為聖，常作預備，以溫柔、敬畏的心回答人對我們的盼望的疑問。</li>
+   <li>若是神的旨意叫我們為義受苦，就當順服，效法主耶穌的樣式。</li>
+   <li>為義受苦的心志，是幫助我們與罪斷絕的兵器。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得前書4:12-5:14&qs_version=CUVMPT">彼得前書4:12-5:14</a> - <a href="https://bibleplan.github.io/daily/wk50-day3-daily.html">為信受苦</a></summary>
   <ul>
+   <li>若是因基督徒的身分而受苦，就是與基督一同受苦，也必在祂榮耀顯現的時候同得榮耀，因此要在受苦的時候歡喜快樂。</li>
+   <li>做長老的，要出於甘心樂意、按照神的旨意照管牧養群羊，不是轄制，而是做群羊的榜樣；</li>
+   <li>到了基督顯現的時候，就必得永不衰殘的榮耀冠冕。作為「年幼的」，也要順服長老們。</li>
+   <li>弟兄姊妹們要以謙卑束腰，彼此順服。將一切憂慮卸給顧念我們的神。要驚醒謹守，以堅固的信心抵擋撒旦。</li>
   </ul>
  </details>
 </details>
@@ -1629,16 +1642,30 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書1&qs_version=CUVMPT">彼得後書1</a> - <a href="https://bibleplan.github.io/daily/wk50-day4-daily.html">分外殷勤</a></summary>
   <ul>
+   <li>神已賜下一切關乎生命和敬虔的事，並又寶貴又極大的應許，叫我們的生命得以脫離敗壞，得與神的性情有分。</li>
+   <li>我們要分外殷勤，要充充足足地加</li>
+   <li>上信心、德行、知識、節制、忍耐、虔敬、愛弟兄的心、愛眾人的心，這樣就不至於在認識主耶穌基督上閒懶不結果子；</li>
+   <li>並且使所蒙的恩召和揀選堅定不移，永不失腳，豐豐富富得以進入救主耶穌基督永遠的國。我們應當時常在這些事情上被提醒、被激發，常常紀念這些事情。</li>
+   <li>主耶穌基督的大能和降臨的事，有彼得親眼的見證，並有先知確切的預言。是確實的，是可信的。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書2&qs_version=CUVMPT">彼得後書2</a> - <a href="https://bibleplan.github.io/daily/wk50-day5-daily.html">虛假師傅</a></summary>
   <ul>
+   <li>假師傅是必然會出現的，他們引入陷害人的異端，不認主耶穌基督，有許多人隨從他們邪淫的行為，叫真道因為他們的原因而被毀謗；</li>
+   <li>神對不法之人和事的反應從古至今、從天使到世人,都是一致的。假師傅必然逃不脫他們的刑罰，必速速滅亡；</li>
+   <li>假師傅毀謗自己不曉得的事；以自己的詭詐為快樂。他們離棄正路、止不住犯罪，心中習慣了貪婪，引誘那不堅固的人；</li>
+   <li>他們說虛妄矜誇的話，用肉身的情慾和邪淫的事引誘人成為敗壞的奴僕。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彼得後書3&qs_version=CUVMPT">彼得後書3</a> - <a href="https://bibleplan.github.io/daily/wk50-day6-daily.html">主必再來</a></summary>
   <ul>
+   <li>末世必有人譏誚說，主再來的應許是虛假的。</li>
+   <li>主應許的尚未成就，並非是主耽延，而是寬容，祂不願有一人沈淪，乃願人人悔改；</li>
+   <li>主再來的日子，一切有形質的都要銷化燒盡了；必有有義居於其中的新天新地，照主的應許成就；</li>
+   <li>因此，我們當殷勤，使自己沒有玷污、毫無指摘、安然見主；不可強解保羅的書信以及其他的經文，否則自取沈淪；</li>
+   <li>要防備惡人的錯謬誘惑，在主耶穌的恩典和知識上長進。</li>
   </ul>
  </details>
 </details>
@@ -1646,6 +1673,8 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰一書1:1-2:2&qs_version=CUVMPT">約翰一書1:1-2:2</a> - <a href="https://bibleplan.github.io/daily/wk51-day1-daily.html">神就是光</a></summary>
   <ul>
+   <li>在神那裡有永恆的生命，藉著主耶穌基督向我們顯現過，也讓使徒聽過、看過、親手摸過。因此，我們應當喜樂充足。</li>
+   <li>神就是光，在祂毫無黑暗。我們與神相交，就是在光明中行，當認自己的罪，求神赦免。</li>
   </ul>
  </details>
  <details>
@@ -1845,66 +1874,129 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上1-2&qs_version=CUVMPT">列王紀上1-2</a> - <a href="https://bibleplan.github.io/daily/wk57-day3-daily.html">繼承王位</a></summary>
   <ul>
+   <li>大衛年紀老邁。亞多尼雅夥同約押、祭司亞比亞他謀竊王位。 </li>
+   <li>先知拿單和所羅門的母親拔示巴去見大衛，陳訴亞比亞他的陰謀。 </li>
+   <li>大衛在神面前誓許所羅門為王，所羅門在基訓受膏，大衛遺命所羅門之後壽終正寢。</li>
+   <li>亞多尼雅求亞比煞為妻，因而被殺。所羅門革除亞比亞他，不許他做耶和華的祭司。 所羅門派人殺死約押。 </li>
+   <li>所羅門警戒示每不可出耶路撒冷，但示每違背諾言，因此被殺。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上3-4&qs_version=CUVMPT">列王紀上3-4</a> - <a href="https://bibleplan.github.io/daily/wk57-day4-daily.html">國富民強</a></summary>
   <ul>
+   <li>所羅門娶法老的女兒為妻。以色列民仍然在丘壇獻祭燒香。</li>
+   <li>所羅門向神求智慧，蒙神喜悅，得以以智慧治理國家。</li>
+   <li>神使所羅門治理的以色列君臣齊心，國富民強，疆域廣闊，智慧聰明。 </li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上5-6&qs_version=CUVMPT">列王紀上5-6</a> - <a href="https://bibleplan.github.io/daily/wk57-day5-daily.html">建立聖殿</a></summary>
   <ul>
+   <li>所羅門與推羅王希蘭立約建殿，將木料從黎巴嫩由海路運到以色列。 </li>
+   <li>以色列人出埃及地後四百八十年，所羅門做以色列王第四年，開工建造耶和華的殿。</li>
+   <li>以色列人一起出力，建造內殿、基路伯，外殿，都按著神所命令的樣式造成。建殿的工夫共有七年。 </li>
+   <li>耶和華與所羅門立約。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上7&qs_version=CUVMPT">列王紀上7</a> - <a href="https://bibleplan.github.io/daily/wk57-day6-daily.html">建造宮室</a></summary>
   <ul>
+   <li>所羅門為自己建造宮室，十三年方才造成，又建造黎巴嫩林宮。</li>
+   <li>所羅門王從推羅召了巧匠戶蘭來，製銅柱、鑄銅海、製銅座、製銅盆。</li>
+   <li>又造耶和華殿裡的金壇和陳設餅的金桌子，內殿前的精金燈臺並其上的金花、燈盞、 蠟剪，與精金的杯、盤、鑷子、調羹、火鼎，以及至聖所，內殿的門樞和外殿的門樞。 </li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上8-9&qs_version=CUVMPT">列王紀上8-9</a> - <a href="https://bibleplan.github.io/daily/wk58-day1-daily.html">獻上聖殿</a></summary>
   <ul>
+   <li>所羅門召聚以色列的長老和各支派的首領並以色列的族長，把耶和華的約櫃從大衛城運上來。 耶和華的榮光充滿了殿。</li>
+   <li>王向以色列會眾說明建殿的原委，并在耶和華面前禱告祈求。之後為會眾祝福。</li>
+   <li>王和以色列眾民一同在耶和華面前獻祭。</li>
+   <li>耶和華二次向所羅門顯現，再次立約。</li>
+   <li>所羅門王把加利利地的二十座城給了希蘭。所羅門王挑取外邦人為服苦的人。</li>
+   <li>所羅門每年三次在他為耶和華所築的壇上獻燔祭和平安祭，又在耶和華面前的壇上燒香。</li>
+   <li>所羅門王在以東地、紅海邊，靠近以祿的以旬迦別製造船隻。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上10-11&qs_version=CUVMPT">列王紀上10-11</a> - <a href="https://bibleplan.github.io/daily/wk58-day2-daily.html">隨從別神</a></summary>
   <ul>
+   <li>示巴女王見證所羅門的智慧。</li>
+   <li>所羅門王的財寶與智慧勝過天下的列王，又聚集戰車馬兵。</li>
+   <li>所羅門王寵愛許多外邦女子。年老的時候，妃嬪誘惑他的心去隨從別神。</li>
+   <li>耶和華向所羅門發怒，使以東人哈達、以利亞大的兒子利遜、尼八的兒子耶羅波安起來攻擊王。</li>
+   <li>示羅人先知亞希雅向耶羅波安預言以色列國將分裂。</li>
+   <li>所羅門在耶路撒冷做以色列的王共四十年。他兒子羅波安接續他做王。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上12-13&qs_version=CUVMPT">列王紀上12-13</a> - <a href="https://bibleplan.github.io/daily/wk58-day3-daily.html">南北分裂</a></summary>
   <ul>
+   <li>羅波安在示劍被立做王。</li>
+   <li>羅波安用少年人的主意，嚴厲對待以色列百姓，導致以色列人背叛大衛家。</li>
+   <li>以色列人立耶羅波安做以色列人的王。除了猶大支派以外，沒有順從大衛家的。</li>
+   <li>神阻止羅波安與以色列家爭戰。</li>
+   <li>耶羅波安王鑄造兩個金牛犢，陷民於罪。</li>
+   <li>神僕警告耶羅波安，之後受人引誘而違背神的命令，被獅子咬死。</li>
+   <li>耶羅波安立凡民為丘壇的祭司，使全家陷在罪裡。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上14&qs_version=CUVMPT">列王紀上14</a> - <a href="https://bibleplan.github.io/daily/wk58-day4-daily.html">日漸敗亡</a></summary>
   <ul>
+   <li>亞希雅預言耶羅波安家會敗亡、遘災。</li>
+   <li>耶羅波安做王二十二年。他兒子拿答接續他做王。</li>
+   <li>所羅門的兒子羅波安做猶大王十七年。猶大人行耶和華眼中看為惡的事。</li>
+   <li>羅波安王第五年，埃及王示撒攻取耶路撒冷，奪了耶和華殿和王宮裡的寶物。</li>
+   <li>羅波安死後葬在大衛城。他兒子亞比央接續他做王。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上15:1-16:20&qs_version=CUVMPT">列王紀上15:1-16:20</a> - <a href="https://bibleplan.github.io/daily/wk58-day5-daily.html">朝代更替</a></summary>
   <ul>
+   <li>南國猶大：羅波安的兒子亞比央做猶大王三年，行他父親在他以前所行的一切惡。</li>
+   <li>亞比央的兒子亞撒接續他做王四十一年。亞撒行耶和華眼中看為正的事。</li>
+   <li>亞撒的兒子約沙法接續他做王。</li>
+   <li>北國以色列：耶羅波安的兒子拿答登基做以色列王，共二年。拿答行耶和華眼中看為惡的事。</li>
+   <li>巴沙殺了拿答，篡位、滅盡耶羅波安的全家，應驗耶和華藉亞希雅所說的話。</li>
+   <li>巴沙在得撒登基做以色列王二十四年，行神眼中看為惡的事。耶戶責備巴沙。</li>
+   <li>巴沙之後，他的兒子以拉接續他在得撒登基做以色列王，共二年。</li>
+   <li>以拉被臣子心利背叛、殺害、篡位。心利在得撒做王七日。與非利士人作戰的以色列人在營中立元帥暗利做王。暗利率軍圍困得撒，心利自焚而死。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上16:21-17:24&qs_version=CUVMPT">列王紀上16:21-17:24</a> - <a href="https://bibleplan.github.io/daily/wk58-day6-daily.html">撒瑪利亞</a></summary>
   <ul>
+   <li>暗利做以色列王共十二年，在得撒做王六年。 後來買了撒馬利亞山，在山上造城。暗利行耶和華眼中看為惡的事，比他以前的列王作惡更甚。</li>
+   <li>暗利的兒子亞哈登基做了以色列王。在撒馬利亞做以色列王二十二年。 亞哈行耶和華眼中看為惡的事，比他以前的列王更甚， 在撒馬利亞建造巴力的廟，在廟裡為巴力築壇。 亞哈又做亞舍拉。</li>
+   <li>以利亞對亞哈說，我若不禱告，必不降露不下雨。</li>
+   <li>以利亞在撒勒法由寡婦供養，使她的麵與油不絕，並使她的孩子死而復活。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上18-19&qs_version=CUVMPT">列王紀上18-19</a> - <a href="https://bibleplan.github.io/daily/wk59-day1-daily.html">先知真假</a></summary>
   <ul>
+   <li>到第三年，耶和華讓以利亞去見亞哈，責備亞哈離棄耶和華的誡命，去隨從巴力。</li>
+   <li>以利亞在迦密山與巴力的先知鬥法。先知失敗被殺。</li>
+   <li>耶洗別欲殺以利亞，以利亞逃命到猶大的別是巴。耶和華以微小的聲音指示以利亞去大馬士革膏哈薛做亞蘭王，膏寧示的孫子耶戶做以色列王，並膏亞伯米何拉人沙法的兒子以利沙做先知接續以利亞。</li>
+   <li>神在以色列人中為自己留下七千人，是未曾向巴力屈膝的。</li>
+   <li>以利亞呼召以利沙來跟從他。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上20-21&qs_version=CUVMPT">列王紀上20-21</a> - <a href="https://bibleplan.github.io/daily/wk59-day2-daily.html">膚淺信心</a></summary>
   <ul>
+   <li>亞蘭人圍攻以色列的都城撒馬利亞，一位先知主動來見亞哈，提供從神來的默示和幫助。亞哈聽從神的話就勝了亞蘭王，讓亞蘭人看見耶和華是超越地域限制的全能真神。</li>
+   <li>亞哈妄用仁慈，輕易放走神命定要滅絕的敵人，後來亞蘭長期成為以色列的禍患。神差遣一個先知的門徒來責備亞哈，並宣告他此行的惡果。亞哈因此預言悶悶不樂。</li>
+   <li>亞哈貪戀拿伯的葡萄園，拿伯因敬畏神，不願出賣神所賜的產業。拜巴力的王后耶洗別定惡計陷害拿伯，殺拿伯並奪了他的葡萄園給亞哈。</li>
+   <li>先知以利亞責備亞哈，宣布神的審判。亞哈自卑。神因他的自卑將此禍患推遲到他兒子的時候才降下。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀上22&qs_version=CUVMPT">列王紀上22</a> - <a href="https://bibleplan.github.io/daily/wk59-day3-daily.html">亞哈結局</a></summary>
   <ul>
+   <li>亞哈按照自己的心意，聯合猶大王約沙法，要挑起對亞蘭的戰爭，他愛聽假先知的奉承，倒不願聽耶和華的真先知的“凶言”，還將他下在監裡吃苦頭。</li>
+   <li>神通過他的先知所說的話應驗，亞哈死於戰場，戰車上的血洗在池裡，被狗舔食，正如神藉著先知的口所預言的。</li>
   </ul>
  </details>
 </details>
@@ -1912,16 +2004,26 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下1-2&qs_version=CUVMPT">列王紀下1-2</a> - <a href="https://bibleplan.github.io/daily/wk59-day4-daily.html">乘風升天</a></summary>
   <ul>
+   <li>以色列王亞哈謝受傷，不求問神，反而求問偶像。先知以利亞攔住亞哈謝派去求問巴力西卜的使者，向他宣告了神的預言。</li>
+   <li>以利亞的時間到了，神用旋風將他接走。以利沙一直堅定跟隨，得到感動以利亞的靈的感動，從此接續以利亞的先知之職。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下3-4&qs_version=CUVMPT">列王紀下3-4</a> - <a href="https://bibleplan.github.io/daily/wk59-day5-daily.html">死而復生</a></summary>
   <ul>
+   <li>以利沙在以色列、猶大和以東與摩押的戰爭中，幫助這三個沒有水喝的軍隊得到從神來的供應，並靠著神的能力戰勝摩押。</li>
+   <li>以利沙行神蹟，幫助一個先知門徒的遺孀還債，使她的兒子免受奴役之苦，並幫助他們有剩餘，可以靠著度日。</li>
+   <li>書念的婦人常接待先知以利沙，以利沙看到沒有孩子是她的遺憾，就預言她會得一個兒子。書念的婦人所得的兒子忽然死去，以利沙向神祈禱，使孩子死而復生。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=列王紀下5-6&qs_version=CUVMPT">列王紀下5-6</a> - <a href="https://bibleplan.github.io/daily/wk59-day6-daily.html">潔淨痲瘋</a></summary>
   <ul>
+   <li>以色列的仇敵，亞蘭的元帥乃縵得了大麻瘋。被他從以色列擄走、在他家做奴僕的小女子看到主人的痲瘋，就提供先知以利沙的信息。乃縵到以利沙那裡，經僕人勸說，順從先知的話，在約旦河洗澡七次，得了潔淨。他立志從此只敬拜耶和華。</li>
+   <li>以利沙的僕人基哈西，因貪圖小利，從乃縵那裡騙得銀子。以利沙責備他在不該接受錢財的時候為自己謀利。基哈西因此得了大麻瘋。</li>
+   <li>以利沙行神蹟幫助他的門徒找回沉在水中的斧頭。</li>
+   <li>在與亞蘭的戰爭中，亞蘭王來捉拿以利沙，他所派的人被以利沙行神蹟帶入撒馬利亞。這神蹟使亞蘭軍隊退去。</li>
+   <li>亞蘭軍隊再次來圍困撒馬利亞。撒馬利亞城中因缺乏糧食而出現易子而食的慘事。以色列王怪罪以利沙，並歸咎與耶和華。</li>
   </ul>
  </details>
  <details>
