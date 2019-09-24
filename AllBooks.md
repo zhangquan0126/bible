@@ -4124,6 +4124,8 @@
    <li>城的各門要按以色列支派的名字。</li>
   </ul>
  </details>
+</details>
+<details><summary>但以理書 - <a href="https://bibleplan.github.io/daily/wk88-day5-daily.html">導讀 第88週第5天</a></summary>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書1&qs_version=CUVMPT">但以理書1</a> - <a href="https://bibleplan.github.io/daily/wk88-day5-daily.html">異邦成長</a></summary>
   <ul>
