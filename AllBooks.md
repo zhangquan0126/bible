@@ -4074,5 +4074,35 @@
    <li>到殿前的廊子，量廊子的牆柱。</li>
   </ul>
  </details>
+ <details>
+  <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書41-42&qs_version=CUVMPT">以西結書41-42</a> - <a href="https://bibleplan.github.io/daily/wk88-day1-daily.html">丈量尺寸</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書43-44&qs_version=CUVMPT">以西結書43-44</a> - <a href="https://bibleplan.github.io/daily/wk88-day2-daily.html">觀看聖殿</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書45-46&qs_version=CUVMPT">以西結書45-46</a> - <a href="https://bibleplan.github.io/daily/wk88-day3-daily.html">獻祭之例</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>30. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書47-48&qs_version=CUVMPT">以西結書47-48</a> - <a href="https://bibleplan.github.io/daily/wk88-day4-daily.html">分地為業</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書1&qs_version=CUVMPT">但以理書1</a> - <a href="https://bibleplan.github.io/daily/wk88-day5-daily.html">異邦成長</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書2&qs_version=CUVMPT">但以理書2</a> - <a href="https://bibleplan.github.io/daily/wk88-day6-daily.html">為王解夢</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
 
