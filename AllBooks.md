@@ -247,111 +247,190 @@
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記3-4&qs_version=CUVMPT">出埃及記3-4</a> - <a href="https://bibleplan.github.io/daily/2018-02-26-daily.html">荊棘異象</a></summary>
   <ul>
+   <li>神是一個守約施慈愛的神。祂對祂的子民有一個美好的計劃。祂垂聽並關顧祂的子民，</li>
+   <li>所以我們要信靠祂，相信祂有奇妙的安排，帶領信靠祂的人，出黑暗入光明，經歷祂的恩典。</li>
+   <li>神選擇與人同工。祂可以不需要任何人的幫助，來完成祂一切的心意，但是祂選擇與人同工，</li>
+   <li>讓人有機會經歷與神同工同行的恩典。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記5:1-6:27&qs_version=CUVMPT">出埃及記5:1-6:27</a> - <a href="https://bibleplan.github.io/daily/2018-02-27-daily.html">初見法老</a></summary>
   <ul>
+   <li>摩西跟亞倫見法老後，法老越發苦待以色列人。神允許世上很多不合理的事情發生，</li>
+   <li>但人可以因此而更多體會到神的權能，經歷神的信實、更多被神所磨練、也更明白神的心意。</li>
+   <li>以色列人因法老的苦待埋怨摩西跟亞倫，摩西向神訴苦，神曉諭摩西，重申所立的約，</li>
+   <li>讓摩西明白神是守約施慈愛的神。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記6:28-9:35&qs_version=CUVMPT">出埃及記6:28-9:35</a> - <a href="https://bibleplan.github.io/daily/2018-02-28-daily.html">神顯權能</a></summary>
   <ul>
+   <li>神清楚的曉諭摩西跟亞倫，祂要在埃及地多行神蹟奇事，把以色列人從埃及地領出來，</li>
+   <li>讓埃及人知道祂是耶和華。</li>
+   <li>法老聽到再三的警告後，仍不肯順服神，讓以色列人離開。每次災難過去，他都再次心裡剛硬。</li>
+   <li>他的頑固，使自己和全國百姓飽受災殃。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記10-11&qs_version=CUVMPT">出埃及記10-11</a> - <a href="https://bibleplan.github.io/daily/2018-03-01-daily.html">最後警告</a></summary>
   <ul>
+   <li>經過多次的災難，法老始終沒有真正地順服神的權能，還不斷用「半順服」的方式希望摩西可以妥協。</li>
+   <li>但是，跟神是不可以討價還價的，因為，神是全知全能的神，祂的旨意必定成就。</li>
+   <li>神吩咐摩西，把他在埃及所看到、行在法老身上的神蹟，都告訴子孫。神的作為奇妙，值得我們努力去傳揚祂。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記12:1-30&qs_version=CUVMPT">出埃及記12:1-30</a> - <a href="https://bibleplan.github.io/daily/2018-03-02-daily.html">守逾越節</a></summary>
   <ul>
+   <li>以色列人的很多節期都是神親自訂立的，逾越節就是其中之一，是為了幫助祂的子民能記念神帶領他們離開埃及的恩典。</li>
+   <li>他們遵照神的指示，把羊羔的血塗在自家的門框和門楣上。門上沒有塗血的家庭，其長子在當夜均被殺。</li>
+   <li>以色列人必須宰殺羊羔，好用牠的血保護自己（預表主基督是神的羔羊，祂的寶血為世人的罪而流出）。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記12:31-14:31&qs_version=CUVMPT">出埃及記12:31-14:31</a> - <a href="https://bibleplan.github.io/daily/2018-03-03-daily.html">離開埃及</a></summary>
   <ul>
+   <li>在以色列人離開埃及的日子，神為了不要他們走回頭路，每天用雲柱跟火柱帶領他們。</li>
+   <li>面對紅海，是以色列人一個很大的考驗。神再次施展大能，讓祂的子民經歷祂全然的信實跟拯救。</li>
   </ul>
  </details>
  <details>
-  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記15:1-21&qs_version=CUVMPT">出埃及記15:1-21</a> - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">讚美主恩</a></summary>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記15:1-21&qs_version=CUVMPT">出埃及記15:1-21</a> - <a href="https://bibleplan.github.io/daily/wk7-day1-daily.html">讚美主恩</a></summary>
   <ul>
+   <li>`出 15:1-21` 記載摩西、米利暗、還有以色列眾人歌頌神的大能作為。</li>
+   <li>摩西之歌，頌讚神偉大的作為，祂是我們的力量、我們的拯救，祂戰勝一切的仇敵，</li>
+   <li>憑祂的慈愛救贖祂的百姓。耶和華作王，直到永遠永遠。</li>
+   <li>米利暗之歌，歌頌耶和華，因祂大大戰勝仇敵。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記15:22-17:7&qs_version=CUVMPT">出埃及記15:22-17:7</a> - <a href="https://bibleplan.github.io/daily/wk7-day2-daily.html">曠野供應</a></summary>
   <ul>
+   <li>`出 15:22-17:7` 講述以色列人出埃及後，神如何在曠野供應他們生活的需要。</li>
+   <li>以色列人因沒有水喝，缺乏食物，就跟摩西亞倫抱怨，神藉著「把樹丟在水裡」，</li>
+   <li>「賜下鵪鶉跟嗎哪」，「擊打磐石出水」來供應他們的需要。</li>
+   <li>除了供應以色列人的需要，神也教導他們遵行神的誡命和律法，並紀念神的作為。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記17:8-18:27&qs_version=CUVMPT">出埃及記17:8-18:27</a> - <a href="https://bibleplan.github.io/daily/wk7-day3-daily.html">建立團隊</a></summary>
   <ul>
+   <li>`出 17:8-18:27` 講述摩西命約書亞帶領以色列人與亞瑪力人爭戰，</li>
+   <li>並建立分層管理的制度。</li>
+   <li>與亞瑪力人爭戰，約書亞帶兵到前線，摩西拿著神的杖在山頂舉手，</li>
+   <li>靠著亞倫跟戶珥的幫助，打敗亞瑪力人。</li>
+   <li>摩西岳父葉忒羅訪問摩西，因見摩西獨自審案而建議分層負責，</li>
+   <li>建立了以色列人的管理制度。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記&qs_version=CUVMPT">出埃及記</a> - <a href="https://bibleplan.github.io/daily/wk7-day4-daily.html">盟約律法</a></summary>
   <ul>
+   <li>`出19-20章`講述以色列人出埃及滿三個月後，神與他們立約，頒布十誡，並指教祭壇的條例。</li>
+   <li>在西乃山下，神與他們立約，提醒他們記念神的救贖與帶領，要他們事奉神，做祭司的國度，聖潔的國民。</li>
+   <li>神頒布十誡，前四條是對神的，後六條是關於人際關係的。再一次，我們體會到律法的總綱就是要愛神、愛人。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記21-23&qs_version=CUVMPT">出埃及記21-23</a> - <a href="https://bibleplan.github.io/daily/wk7-day5-daily.html">民事條例</a></summary>
   <ul>
+   <li>`出 21-23章` 講述神繼十誡後，頒布了以色列人的民事條例。</li>
+   <li>針對以色列人的民事法則，神定了非常詳細的條例，奴隸制度 、懲罰暴行、牲畜賠償、偷竊、人權，司法、節期，面面俱到。民事法的頒佈以兩件事作結，一是應許和以色列人同在，賜他們能力征服迦南，另一件是與百姓確定盟約。</li>
+   <li>神的心意，要讓以色列人在神面前成為聖潔，不與外邦人同流合污，操練順服，學習神聖潔的性情。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記24:1-11&qs_version=CUVMPT">出埃及記24:1-11</a> - <a href="https://bibleplan.github.io/daily/wk7-day6-daily.html">確立盟約</a></summary>
   <ul>
+   <li>`出 24:1-11` 講述神在西乃山跟以色列人立約儀式的最後一段，完成自第十九章開始的立約過程。</li>
+   <li>神與人立約，讓我們學習到在神的聖約裡，神子民的敬拜，敬拜的聖禮，經歷神同在的榮耀，約的確定。</li>
   </ul>
  </details>
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記24:12-25:40&qs_version=CUVMPT">出埃及記24:12-25:40</a> - <a href="https://bibleplan.github.io/daily/wk8-day1-daily.html">奉獻聖所</a></summary>
   <ul>
+   <li>`出 24:12-25:40` 講述神叫摩西上西乃山，賜給他教訓百姓的律法和誡命，</li>
+   <li>並開始指示他收納奉獻，建造聖所。本段經文是有關物料、 約櫃與施恩座、 </li>
+   <li>陳設餅的桌子、還有燈臺的指示。</li>
+   <li>神要以色列人為祂建聖所，所以神可以住在他們中間。</li>
+   <li>神愛祂百姓，並要與他們同住。</li>
   </ul>
  </details>
  <details>
   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記26-27&qs_version=CUVMPT">出埃及記26-27</a> - <a href="https://bibleplan.github.io/daily/wk8-day2-daily.html">製作會幕</a></summary>
   <ul>
+   <li>`出 26-27章`講述神繼續指示製造會幕的細節。包括幕幔、幕板、幔子、祭壇、院子、還有燃燈。</li>
+   <li>神不居住在人手所造的，但是，神如此詳細的指示造會幕的細節，因祂要祂的子民操練敬虔，</li>
+   <li>學習將生命中最好的分別為聖，獻給神。</li>
   </ul>
  </details>
  <details>
   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記28-29&qs_version=CUVMPT">出埃及記28-29</a> - <a href="https://bibleplan.github.io/daily/wk8-day3-daily.html">祭司制度</a></summary>
   <ul>
+   <li>`出 28-29 章`講述神指示祭司的條例。包括祭司的聖服，祭司的職責，還有當獻的祭。</li>
+   <li>神設立祭司制度的目的，是要人分別為聖，服事神，服事祂的百姓。在舊約時代，</li>
+   <li>神揀選亞倫和亞倫的子孫做大祭司。到了新約時代，神要每個信徒都是祭司，服事祂，宣揚祂。</li>
   </ul>
  </details>
  <details>
   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記30-31&qs_version=CUVMPT">出埃及記30-31</a> - <a href="https://bibleplan.github.io/daily/wk8-day4-daily.html">其他條例</a></summary>
   <ul>
+   <li>`出 30-31 章`講述神對會幕條例其他的指示（香壇、贖價、銅盆、聖膏油、香、會幕的工人），</li>
+   <li>神還要人遵守安息日（與神立約、分別為聖）。</li>
+   <li>神設立會幕，因祂要住在祂百姓中間，設立安息日，表明以色列人屬神為聖，作祂的子民。</li>
+   <li>所以守安息日和建造會幕是敬拜的一體兩面：神在會幕中與以色列民同在、安息日使以色列民知道神使他們成聖。</li>
   </ul>
  </details>
  <details>
   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記32-33&qs_version=CUVMPT">出埃及記32-33</a> - <a href="https://bibleplan.github.io/daily/wk8-day5-daily.html">造金牛犢</a></summary>
   <ul>
+   <li>`出 32-33 章`講述百姓久等不見摩西下山，鑄造金牛犢，破壞與神的約，透過摩西的代求，</li>
+   <li>並部分以色列人的受審判，百姓得到一個新的機會。</li>
+   <li>本段經文讓我們看到神的恩典與慈愛，雖然人因著自己的愚頑，一再的得罪祂，</li>
+   <li>祂卻始終守約施慈愛，一再的給人機會悔改。</li>
   </ul>
  </details>
  <details>
   <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記34&qs_version=CUVMPT">出埃及記34</a> - <a href="https://bibleplan.github.io/daily/wk8-day6-daily.html">重新立約</a></summary>
   <ul>
+   <li>`出 34 章`講述神重新與百姓立約的經過。</li>
+   <li>在金牛犢的事件中，亞倫宣告「耶和華的節日」並獻上燔祭和平安祭（`出 32: 5-6`）。</li>
+   <li>因此，當神與以色列民重新立約時，再次重申有關偶像的禁令及遵守節期的正確教訓。</li>
   </ul>
  </details>
  <details>
   <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記35-36&qs_version=CUVMPT">出埃及記35-36</a> - <a href="https://bibleplan.github.io/daily/wk9-day1-daily.html">建造會幕</a></summary>
   <ul>
+   <li>出 35-36 章講述神曉喻以色列民開始建造會幕。</li>
+   <li>開始建造會幕，神指示以色列民，首先要守安息日（因神與百姓重新立約，安息日是約的標記），</li>
+   <li>百姓要甘心奉獻，而且神會賜給工人智慧、聰明、知識。</li>
   </ul>
  </details>
  <details>
   <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記37-38&qs_version=CUVMPT">出埃及記37-38</a> - <a href="https://bibleplan.github.io/daily/wk9-day2-daily.html">會幕內外</a></summary>
   <ul>
+   <li>出 37-38 章講述以色列民建造會幕裡面的擺設（約櫃、桌子、燈台、香壇、聖膏油跟香、燔祭壇、洗濯盆和盆座）及會幕外面的院子。</li>
+   <li>神揀選不同的人來完成祂的事工。每個人有不同的恩賜，不同的職責。摩西是領袖，</li>
+   <li>將神的指示吩咐眾人，數點的是亞倫的兒子以他瑪，做工的比撒列與亞何利亞伯。</li>
   </ul>
  </details>
  <details>
   <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記39&qs_version=CUVMPT">出埃及記39</a> - <a href="https://bibleplan.github.io/daily/wk9-day3-daily.html">祭司聖服</a></summary>
   <ul>
+   <li>出 39 章講述完成會幕的最後工作（祭司的聖服）及會幕的完工。</li>
+   <li>一切聖所的物品，都不是匠工隨己意而作的，乃是「照耶和華所吩咐」而製作完成的。</li>
+   <li>「照耶和華所吩咐的」這句話在本章中出現了八次（1、5、7、21、26、31、32、42），</li>
+   <li>可見聖所裏的每一部分和各項目都是出於神的旨意。</li>
   </ul>
  </details>
  <details>
   <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記40&qs_version=CUVMPT">出埃及記40</a> - <a href="https://bibleplan.github.io/daily/wk9-day4-daily.html">奉獻會幕</a></summary>
   <ul>
+   <li>出 40 章講述會幕完工後，摩西照神的吩咐將會幕立起來，神的榮光充滿。</li>
+   <li>「照耶和華所吩咐」，在本章又出現了八次（16、19、21、23、25、27、29、32）。</li>
+   <li>要完成神的計劃，每件東西都「必須」照著祂所吩咐的去作。</li>
+   <li>神的整個救贖計劃，是祂「匠心獨運」的設計，出埃及記的記載（出埃及、造會幕），</li>
+   <li>讓我們對神的救贖計劃，有了初步的體會。</li>
   </ul>
  </details>
 </details>
@@ -359,41 +438,64 @@
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記1-2&qs_version=CUVMPT">利未記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk9-day5-daily.html">燔祭素祭</a></summary>
    <ul>
+   <li>利未記 1-7 章是獻祭的條例。神吩咐的獻祭一共有五種，前三種屬於心甘情願獻上的馨香的火祭，后兩種是求赦免過犯的贖罪祭。</li>
+   <li>利未記 1-2 是馨香的火祭當中燔祭和素祭。燔祭預表著耶穌基督為我們心甘情願毫無保留的獻上，在神那裡成了蒙悅納的馨香之氣；素祭預表耶穌完美無瑕的品格。</li>
    </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未记3&qs_version=CUVMPT">利未记3</a> - <a href="https://bibleplan.github.io/daily/wk9-day6-daily.html">獻平安祭</a></summary>
   <ul>
+   <li>利未記第三章講述的是馨香的火祭中的平安祭。</li>
+   <li>平安祭的特點是一部分給神，一部分給祭司，同時奉獻的人也可以把剩下的祭物與人一同享用（參見利未記第七章）。</li>
+   <li>平安祭是感謝的祭，是甘心的祭、酬恩的祭，是人與神之間和好（peace offering）、</li>
+   <li>建立關係（fellowship offering）的祭。指向耶穌基督為人流血捨命，使人得以與神和好，建立關係。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記4:1-5:13&qs_version=CUVMPT">利未記4:1-5:13</a> - <a href="https://bibleplan.github.io/daily/wk10-day1-daily.html">贖罪之祭</a></summary>
   <ul>
+   <li>`利未記 4:1-5:13`，是后兩種贖罪潔淨祭中的第一種——贖罪祭。</li>
+   <li>贖罪祭是針對誤犯的罪。獻贖罪祭不是出於自願，而是出於律法要求的必需的祭。</li>
+   <li>`利未記4章`列出四類人誤犯罪的時候需要獻的祭，這四類人包括受膏的祭司、全以色列會眾、官長和以色列個人，上到君王祭司，下到平民百姓都包含在內，人人都需要贖罪。</li>
+   <li>`利未記 5:1-13` 列出三種需要獻贖罪祭的例子，都是沒有預謀的犯罪。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記5:14-6:7&qs_version=CUVMPT">利未記5:14-6:7</a> - <a href="https://bibleplan.github.io/daily/wk10-day2-daily.html">贖愆之祭</a></summary>
   <ul>
+   <li>`利未記 5:14-6:7`，是五種獻祭的最後一種，贖愆祭。</li>
+   <li>贖愆祭，在 `5:14-19` 是針對干犯了聖物的罪，和任何不管是知道還是不知道的干犯了神的吩咐的罪；在 `6:1-7`，是針對在與人的關係上，任何貪戀、欺詐、背信、搶奪和壓迫他人的行為。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記6:8-7:38&qs_version=CUVMPT">利未記6:8-7:38</a> - <a href="https://bibleplan.github.io/daily/wk10-day3-daily.html">祭司職責</a></summary>
   <ul>
+   <li>`利未記 6:8-7:38` 是對五種祭的一些細節補充。</li>
+   <li>祭司在獻祭的服事當中，對於聖物要小心謹慎，在會幕里穿的衣服都不可穿到會幕外去；他們在獻祭中，從獻祭到倒灰都要一絲不苟地去做；不管是大到使用公牛的獻祭，還是小到奉獻細麵的獻祭，都要同等對待。</li>
+   <li>神為祭司規定了世世代代永得的分，讓他們專心供職。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記8-9&qs_version=CUVMPT">利未記8-9</a> - <a href="https://bibleplan.github.io/daily/wk10-day4-daily.html">膏立祭司</a></summary>
   <ul>
+   <li>`利未記 8-10` 是利未記的第二部分，記錄祭司受膏和事奉的條例。今天閱讀的 `8-9` 章是亞倫和他的兒子們的受膏立，以及他們第一次獻祭。</li>
+   <li>亞倫受膏立的時候，一切都是按照神的吩咐（`8:4、9、13、17、21、29、36`）。亞倫第一次獻祭，也是全然按照神的吩咐（`9:10、21`）</li>
+   <li>亞倫作為大祭司，第一次為百姓們獻祭祝福以後，神的榮光顯現，神的火燒盡壇上的燔祭。神的悅納讓百姓們歡呼敬拜。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記10&qs_version=CUVMPT">利未記10</a> - <a href="https://bibleplan.github.io/daily/wk10-day5-daily.html">祭司犯罪</a></summary>
   <ul>
+   <li>亞倫和兒子們剛剛開始作為大祭司和祭司的服事，長子和次子拿答和亞比戶就因為違反神的吩咐而喪命。祭司的職分，要做神所吩咐的，不可做神沒有吩咐的，神的聖潔不可輕忽。</li>
+   <li>服事神的祭司要全心向主，不可喝酒導致沒有自制，要使他們可以將聖的俗的、潔淨的和不潔淨的分別開來，並且可以教導百姓。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記11-12&qs_version=CUVMPT">利未記11-12</a> - <a href="https://bibleplan.github.io/daily/wk10-day6-daily.html">潔淨條例</a></summary>
   <ul>
+   <li>`利未記 11-22 章`，是神對他的子民的聖潔的要求。今天的`利未記 11-12`，是關於潔淨與不潔淨的食物的規定，以及產後潔淨的條例。</li>
+   <li>「我是耶和華你們的神，所以你們要成為聖潔，因為我是聖潔的。你們也不可在地上的爬物污穢自己。我是把你們從埃及地領出來的耶和華，要做你們的神，所以你們要聖潔，因為我是聖潔的。」（`11:44-45`），是關鍵的經文。</li>
+   <li>這些飲食的條例和產後潔淨的條例，也都保護以色列人在建立國家以後的公共衛生和健康。</li>
   </ul>
  </details>
  <details>
