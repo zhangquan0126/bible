@@ -501,26 +501,41 @@
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記13-14&qs_version=CUVMPT">利未記13-14</a> - <a href="https://bibleplan.github.io/daily/wk11-day1-daily.html">皮膚潔淨</a></summary>
   <ul>
+   <li>`利未記 13-14` 繼續告訴以色列人要以聖潔來敬拜聖潔的神。</li>
+   <li>皮膚病容易傳染，其中的麻風病更是可怕。祭司對皮膚病的檢查謹慎又細緻。</li>
+   <li>皮膚病得潔淨的時候，要在祭司面前檢驗、潔淨，七天后，要獻燔祭、素祭、贖罪祭、贖愆祭，在獻祭過程中，祭司在這人的右耳垂、右手大拇指和右腳大拇指上涂血和油。</li>
+   <li>不僅僅是皮膚上的疾病要如此謹慎，人所穿的衣物、所住的房子，有了霉變的時候，也需要祭司的檢查和潔淨。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記15-16&qs_version=CUVMPT">利未記15-16</a> - <a href="https://bibleplan.github.io/daily/wk11-day2-daily.html">贖罪之日</a></summary>
   <ul>
+   <li>`利未記 15-16`繼續告訴以色列人要以聖潔來敬拜聖潔的神。</li>
+   <li>`15章`是有關漏症的注意事項和潔淨條例，目的是要使以色列人「與他們的污穢隔絕」，神吩咐他們如此行，「免得他們玷污我的帳幕，就因自己的污穢死亡」。</li>
+   <li>`利未記16`是神設立的贖罪日的條例。這一天全以色列百姓要刻苦己心，守安息日，他們要在神面前得潔淨，脫盡一切的罪愆。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記17-18&qs_version=CUVMPT">利未記17-18</a> - <a href="https://bibleplan.github.io/daily/wk11-day3-daily.html">聖潔行為</a></summary>
   <ul>
+   <li>從`17章`之後的經文繼續告訴以色列人要以聖潔來敬拜聖潔的神，著重講行為上的聖潔。</li>
+   <li>`利未記17章`是神關於血的禁令。血是聖的。神與挪亞立約，將動物的肉也賜給人的時候，就說「唯獨肉帶著血，那就是牠的生命，你們不可吃。」(`創世紀9`)。「因為血里有生命，所以能贖罪」(`利未記17:11`)</li>
+   <li>`利未記18章`是神關於淫亂的禁令。婚姻是聖的。「婚姻人人都當尊重，床也不可污穢，因為苟合行淫的人，神必要審判」(`希伯來書13:4`)。神警告以色列人不可隨從他們要進的迦南地的淫亂惡俗，免得玷污了自己。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記19-20&qs_version=CUVMPT">利未記19-20</a> - <a href="https://bibleplan.github.io/daily/wk11-day4-daily.html">戒民條例</a></summary>
   <ul>
+   <li>`利未記19章`詳述道德、法律、祭祀及精神生活的規範,涵蓋所有十誡的內容。共16小段,每段都用「我是耶和華」一語作結。「你們要聖潔,因為我耶和華——你們的神是聖潔的」是呼籲百姓過聖潔生活的基礎。「愛人如己」出現在今天的經文當中,告訴以色列人,聖潔的標準不只是不觸犯律法,更是要積極地活出美德。</li>
+   <li>`利未記20章`是 `18`與`19章`的增補,是對悖逆、不聖潔者的懲罰:人若犯了`18-19章`所禁止的罪行,便須接受本章所描述的嚴重刑罰,被處死或者剪除。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記21-22&qs_version=CUVMPT">利未記21-22</a> - <a href="https://bibleplan.github.io/daily/wk11-day5-daily.html">聖潔祭司</a></summary>
   <ul>
+   <li>祭司是在百姓里分別為聖歸給神的人。在`利未記21章`,神對他們的聖潔有比百姓更加高的要求。他們在擇偶和身體的潔淨上,需要更加地謹慎。並且神在他們的聖工和俗務之間,給出了很明顯的優先次序。</li>
+   <li>聖物是分別為聖,歸給神的物。神不僅僅要求百姓和祭司聖潔,在`利未記22章`,也要求他們保守聖物的聖潔。</li>
+   <li>`利未記21-22章`,「我是叫他們成聖的耶和華」出現 6 次,「我是耶和華」也出現 6 次。</li>
   </ul>
  </details>
  <details>
