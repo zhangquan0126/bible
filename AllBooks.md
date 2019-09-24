@@ -598,31 +598,52 @@
  <details>
    <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記7&qs_version=CUVMPT">民數記 7</a> - <a href="https://bibleplan.github.io/daily/wk13-day1-daily.html">全心奉獻</a></summary>
    <ul>
+   <li>本章是承接`出埃及記第 40 章`，是摩西照神的吩咐立會幕以後發生的事。在`出埃及記第 40 章`的最後，神的榮光充滿會幕，神與百姓同在。然後(本章)以色列人持續 12 天舉行盛典，奉獻禮物給神，來回應神要賜福他們的應許。</li>
+   <li>十二個支派的首領，在會幕立起的當天，就送來六輛篷子車和十二隻公牛作為奉獻給神的禮物，摩西在得到神的特別同意下才收下這些禮物。</li>
+   <li>十二個支派的首領，按照扎營的次序，每天一個支派，送來完全相同的禮物。本章是舊約里除了`詩篇 119`以外最長的一章，因為重複十二次記錄完全相同的禮品清單，顯示神對各個支派的禮物完全的、相同的悅納。</li>
+   <li>本章以摩西進入會幕要與神說話，聽到施恩座兩基路伯之間有神對他說話的聲音結束，這成為神與百姓同在的確據。這是會幕立起以後，摩西第一次進去與神對話。</li>
    </ul>
  </details>
  <details>
    <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記8:1-9:14&qs_version=CUVMPT">民數記 8:1-9:14</a> - <a href="https://bibleplan.github.io/daily/wk13-day2-daily.html">潔淨歸主</a></summary>
    <ul>
+   <li>`民數記 8:1-4` 是摩西與神第一次在立起的會幕交談以後，神曉諭摩西吩咐大祭司亞倫點起金燈台，這是金燈台初次點燃。神特別吩咐金燈台的七盞燈要向前發光。</li>
+   <li>`民數記 8:5-26` 是神所吩咐的利未人的潔淨和奉獻禮儀。潔淨和奉獻以後，他們便被分派給祭司，輔助會幕的工作。他們是被揀選歸給神(14)，替代一切頭生的(16)，侍奉神，並為以色列人贖罪(19)，隔在會幕與以色列人之間，免得他們挨近聖所。</li>
+   <li>`民數記 9:1-14`，以色列人在出埃及以後第一次守逾越節。</li>
    </ul>
  </details>
  <details>
    <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記9:15-10:36&qs_version=CUVMPT">民數記 9:15-10:36</a> - <a href="https://bibleplan.github.io/daily/wk13-day3-daily.html">令行禁止</a></summary>
    <ul>
+   <li>以色列人完全按照神的指示拔營安營，神是他們行動的絕對中心。</li>
+   <li>在西奈山下，神給以色列人的最後一件指示是造出兩隻銀號，來指揮全民在曠野里的行動。銀號配合雲彩指揮全體百姓行動如一。當末後的日子，神的使者也要用號筒的大聲將選民從四方招聚攏來（`馬太福音 24:31`，`啟示錄 8-9`）。</li>
+   <li>從出埃及后一年一個月零 20 天，以色列人從西奈的曠野起行，向應許之地去。從`10:11-22:1`，是以色列人從西奈起行到摩押平原一共 38 年的生活。</li>
    </ul>
  </details>
  <details>
    <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記11-12&qs_version=CUVMPT">民數記 11-12</a> - <a href="https://bibleplan.github.io/daily/wk13-day4-daily.html">抱怨毀謗</a></summary>
    <ul>
+   <li>從西奈出發三天，以色列人又發怨言，以至於神怒氣發作，使火焚燒在他們中間，因摩西代求，火才熄滅。</li>
+   <li>百姓在閒雜人的影響下，對神恩賜的天糧嗎哪又發怨言，神怒氣發作，摩西服事疲憊沮喪向神哭訴。神為摩西興起同工分擔重擔，又降最重的災殃于百姓，擊殺起貪慾之心的人。</li>
+   <li>摩西的至親同工亞倫和米利暗也因嫉妒起來毀謗摩西，神因他的僕人親自降下責備二人。米利暗長大麻風在營外被關 7 天，得潔淨以後方能進營。亞倫立時悔改並為她祈求憐憫。</li>
+   <li>神眷顧他忠心的僕人，在他疲憊的時候給他幫助，在他受屈的時候為他伸冤。</li>
    </ul>
  </details>
  <details>
    <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記13-14&qs_version=CUVMPT">民數記 13-14</a> - <a href="https://bibleplan.github.io/daily/wk13-day5-daily.html">惡信藐視</a></summary>
    <ul>
+   <li>`民數記 13-14` 是以色列人請求（`申命記 1:22-23`）派探子窺探迦南地，被其中十個所傳的惡信嚇到，抱怨、藐視神，不聽摩西、亞倫、迦勒和約書亞的勸誡，要另立首領回埃及。</li>
+   <li>神在此第二次提出要擊殺百姓，叫摩西的後裔成為大國，承受應許之地。摩西為百姓們代求。神照著祂的話赦免的百姓。但是百姓必須為他們的罪付上代價，除了迦勒和約書亞，這一代的人沒有一個能進入迦南。</li>
+   <li>以色列人後悔，但是還是硬著頸項不順服，想要進入迦南。但是因為沒有神的同在，他們大敗而回。</li>
    </ul>
  </details>
  <details>
    <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記15&qs_version=CUVMPT">民數記 15</a> - <a href="https://bibleplan.github.io/daily/wk13-day6-daily.html">恩典信實</a></summary>
    <ul>
+   <li>在上一章神對這一代以色列人的審判以後，本章馬上神又曉諭摩西關於進入應許之地以後的獻祭條例。神記念祂與亞伯拉罕、以撒和雅各的約。他的恩惠和信實在此彰顯。</li>
+   <li>誤犯罪的，不管是全體百姓，還是個人，都要獻祭付上代價，神必赦免；但是擅敢行事的，不管是全會眾，還是個人，必受懲罰。上一章以色列人的反叛，和本章觸犯安息日的人，就是擅敢行事受刑罰的例子。</li>
+   <li>以色列人和寄居的外人，不管是在敬拜神蒙神祝福上，還是在誤犯罪獻祭得神赦免上，還是在擅敢行事得罪神受刑罰上，都是同歸一例。神是萬族萬民的神。</li>
+   <li>神讓以色列人在衣服上釘上繸子，走路的時候飄動，看見的就被提醒要遵受神的誡命。</li>
    </ul>
  </details>
  <details>
