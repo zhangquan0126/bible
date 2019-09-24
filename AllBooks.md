@@ -4077,32 +4077,76 @@
  <details>
   <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書41-42&qs_version=CUVMPT">以西結書41-42</a> - <a href="https://bibleplan.github.io/daily/wk88-day1-daily.html">丈量尺寸</a></summary>
   <ul>
+   <li>量殿之尺寸。</li>
+   <li>量圍著殿的旁屋之尺寸。</li>
+   <li>量聖屋之式度。</li>
+   <li>量院的四圍。</li>
   </ul>
  </details>
  <details>
   <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書43-44&qs_version=CUVMPT">以西結書43-44</a> - <a href="https://bibleplan.github.io/daily/wk88-day2-daily.html">觀看聖殿</a></summary>
   <ul>
+   <li>在朝東的門，以色列神的榮光從東而來，聲音如同多水的聲音，地因他的榮耀發光。</li>
+   <li>以色列族棄邪行，耶和華永居其中、在以色列人中，直到永遠。</li>
+   <li>要將這殿指示以色列家，使他們因自己的罪孽慚愧，也要他們量殿的尺寸。</li>
+   <li>量祭壇，是以肘為度，並指示建造祭壇後獻祭之禮儀。</li>
+   <li>聖地朝東的外門必須關閉，因為耶和華已經由其中進入，唯君王可出入東門。</li>
+   <li>由北門來到殿前，見耶和華的榮光充滿耶和華的殿。</li>
+   <li>祭司因行可憎的事污穢聖殿而遭到譴責。</li>
+   <li>以色列中的外邦人，就是身心未受割禮的，不可入聖地。</li>
+   <li>祭司利未人撒督的子孫必親近侍奉神，並侍立在神面前，將脂油與血獻上。</li>
+   <li>為祭司定下律例。耶和華為祭司的產業。</li>
   </ul>
  </details>
  <details>
   <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書45-46&qs_version=CUVMPT">以西結書45-46</a> - <a href="https://bibleplan.github.io/daily/wk88-day3-daily.html">獻祭之例</a></summary>
   <ul>
+   <li>拈鬮分地為業，要獻上一份給耶和華為聖供地，四圍都為聖地。</li>
+   <li>也要分定屬城的地業，挨著那份聖供地，要歸以色列全家。</li>
+   <li>歸王之地要在聖供地和屬城之地的兩旁，其長與每支派的份一樣。</li>
+   <li>為以色列的王定例。</li>
+   <li>為君王獻祭定例。</li>
+   <li>為庶民獻祭定例。</li>
+   <li>為王子承業定例。</li>
+   <li>為祭司烹祭牲之所定例。</li>
   </ul>
  </details>
  <details>
   <summary>30. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以西結書47-48&qs_version=CUVMPT">以西結書47-48</a> - <a href="https://bibleplan.github.io/daily/wk88-day4-daily.html">分地為業</a></summary>
   <ul>
+   <li>殿的門檻下有水往東流出。</li>
+   <li>流出的水成為河，岸上必生長各類的樹木，樹上的果子必做食物，葉子乃為治病。</li>
+   <li>照地的境界，按以色列十二支派分地為業，約瑟必得兩份。</li>
+   <li>按著以色列的支派，拈鬮分地為業。</li>
+   <li>眾支派按名所得之地的記載。</li>
+   <li>造城、蓋房、郊野之地。</li>
+   <li>聖供地連歸城之地，兩邊的餘地要歸於王。</li>
+   <li>城的各門要按以色列支派的名字。</li>
   </ul>
  </details>
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書1&qs_version=CUVMPT">但以理書1</a> - <a href="https://bibleplan.github.io/daily/wk88-day5-daily.html">異邦成長</a></summary>
   <ul>
+   <li>巴比倫王尼布甲尼撒圍困耶路撒冷，擄去猶大王約雅敬。</li>
+   <li>王吩咐太監長亞以色列人的宗室和貴胄中選取年少沒有殘疾，相貌俊美，通達各樣學問，知識、聰明俱備，足能侍立在王宮裡的，要教他們迦勒底的文字言語。</li>
+   <li>但以理立志不以王的膳和王所飲的酒玷汙自己。</li>
+   <li>他們吃素菜，喝白水，面貌卻比用王膳的一切少年人更加俊美肥胖。</li>
+   <li>神在各樣文字、學問上賜給但以理聰明、知識，又明白各樣的異象和夢兆。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書2&qs_version=CUVMPT">但以理書2</a> - <a href="https://bibleplan.github.io/daily/wk88-day6-daily.html">為王解夢</a></summary>
   <ul>
+   <li>尼布甲尼撒在位第二年做了夢，吩咐人將王的夢告訴王。</li>
+   <li>迦勒底人回答說：世上沒有人能將王所問的事說出來。</li>
+   <li>王大發烈怒，吩咐滅絕巴比倫所有的哲士。</li>
+   <li>但以理求王寬限，可以將夢的講解告訴王。</li>
+   <li>但以理與同伴祈求天上的神施憐憫，將這奧祕的事指明。</li>
+   <li>但以理回答王說，神能顯明奧祕的事，已將日後必有的事指示王。</li>
+   <li>但以理述王之夢，夢見一個大像，站在王面前。</li>
+   <li>但以理詳解夢的含義。</li>
+   <li>尼布甲尼撒王俯伏在地，向但以理下拜，奉上供物和香品。</li>
+   <li>王高抬但以理，派他管理巴比倫全省。</li>
   </ul>
  </details>
 </details>
-
