@@ -5,146 +5,233 @@
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記1:1-2.3&qs_version=CUVMPT">創世記1:1-2:3</a> - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">開天闢地</a></summary>
    <ul>
+    <li>創 1:1–2:3 是創世記的開篇，是本書其他部分的序曲。</li>
+    <li>神在六天中以話語創造世界；神看一切為好；神按自己的形象造男造女；神在第七天安息，並將這一天定為聖日。</li>
    </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記2:4-4:26&qs_version=CUVMPT">創世記2:4-4:26</a> - <a href="https://bibleplan.github.io/daily/wk1-day2-daily.html">人類始祖</a></summary>
   <ul>
+   <li>創 2:4-4:26 是創世記十段家族史的第一段，是人類始祖亞當夏娃的家族史。</li>
+   <li>神創造人並安置在伊甸園，夏娃是從亞當的肋骨所造，為要成為一體彼此幫助(2:4–25)；蛇引誘人犯罪遠離神，失去與神的同在(3:1–24)；人類進一步墮落，亞當夏娃的兒子該隱殺了弟弟亞伯，該隱的後裔拉麥的傲慢，以及罪惡中的希望：「`那時候，人才求告耶和華的名。`」 (4:1–26)。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記5:1-6:8&qs_version=CUVMPT">創世記5:1-6:8</a> - <a href="https://bibleplan.github.io/daily/wk1-day3-daily.html">賽特家族</a></summary>
   <ul>
+   <li>創 5:1-6:8 是創世記十段家族史的第二段，是亞當另一個兒子賽特那一支的歷史。</li>
+   <li>賽特與亞當的形象樣式相似；亞當死了；以諾與神同行；挪亞「`必為我們的操作和手中的勞苦安慰我們`」；人的罪惡更大，神要除滅人，「`唯有挪亞在耶和華眼 前蒙恩`」。</li>
+   <li>與前一天所讀經文中亞當的另一個兒子該隱的家族對比。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記6:9-9:29&qs_version=CUVMPT">創世記6:9-9:29</a> - <a href="https://bibleplan.github.io/daily/wk1-day4-daily.html">洪水滔天</a></summary>
   <ul>
+   <li>創 6:9-9:29 是創世記十段家族史的第三段,是挪亞的家族史。</li>
+   <li>挪亞與以諾一樣，也是「`與神同行`」(6:9)。洪水是因為世界的敗壞，挪亞得救是因為他的義與順服。大洪水使世界回復到創造前的影子(創 1:2)。神與人類重新立約，對挪亞的命令「`生養眾多,遍滿了地`」是對亞當命令的重申。挪亞的兒子繼續墮落被詛咒，但其中一個兒子「閃」得到祝福。</li>
+   <li>在人的罪惡中，被揀選的民族的帶來新的希望，人類的救贖通過他們最終到來。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記10:1-11:9&qs_version=CUVMPT">創世記10:1-11:9</a> - <a href="https://bibleplan.github.io/daily/wk1-day5-daily.html">分邦立國</a></summary>
   <ul>
+   <li>創 10:1-11:9 是創世記十段家族史的第四段，挪亞兒子們的家族史。</li>
+   <li>挪亞的三個兒子閃、含、雅弗的後代，組成了被以色列人所熟悉的很多民族。比如古實人、亞述人、埃及人(就是希伯來文「麥西」)、迦南人、非利士人等等都是含的後代。這些民族的記載之後，因為人建造巴別塔，世界產生很多語言，人類被分散到全地。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記11:10-26&qs_version=CUVMPT">創世記11:10-26</a> - <a href="https://bibleplan.github.io/daily/wk1-day6-daily.html">曙光初現</a></summary>
   <ul>
+   <li>創 11:10-11:26 是創世記十段家族史的第五段，閃的家族史。</li>
+   <li>這段歷史從諾亞的兒子閃聯結到以色列之祖亞伯蘭(亞伯拉罕)，使亞伯蘭的歷史與世界歷史聯繫起來，就是 11 章之前人類墮落的歷史與 11 章之後神的救贖的歷史聯繫起來。路加福音 3:34-36 提醒我們這裡所記載的家族的重要性，因為他們的後裔亞伯蘭將為地上所有人帶來祝福。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記11:27-12:20&qs_version=CUVMPT">創世記11:27-12:20</a> - <a href="https://bibleplan.github.io/daily/2018-01-29-daily.html">呼召應許</a></summary>
   <ul>
+   <li>創 11:27-25:11 是創世記十段家族史的第七段。他拉的家族，但主要是講他拉的兒子亞伯蘭的故事。今天的 11:27-12:20 是這段家族史的開始。</li>
+   <li>亞伯蘭順服神的呼召離開吾珥。他的妻子撒萊不生育，沒有孩子。神應許亞伯蘭國度、後裔和地土。儘管亞伯蘭在埃及說謊，神仍然因著祂的應許，保護撒萊不受侵害,得以成就所應許的後裔。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記13-14&qs_version=CUVMPT">創世記13-14</a> - <a href="https://bibleplan.github.io/daily/2018-01-30-daily.html">祝福地土</a></summary>
   <ul>
+   <li>創 13-14 繼續前面的記載，說明神如何按著應許保守亞伯蘭的地土。</li>
+   <li>亞伯蘭的牧人與羅得的牧人之間出現紛爭，導致他們分離;羅得選擇看似豐盛繁華却充滿罪惡之地。羅得被擄，亞伯蘭將他和所多瑪全城的人救回，成爲他人的祝福。亞伯蘭拒絕所多瑪王的報酬，却將所得的十分之一獻給耶和華的祭司麥基洗德，成爲聖經記錄裏的第一個十一奉獻。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記15-16&qs_version=CUVMPT">創世記15-16</a> - <a href="https://bibleplan.github.io/daily/2018-01-31-daily.html">應許後裔</a></summary>
   <ul>
+   <li>創世紀 15-16 繼續應許的主題，神與亞伯蘭立約賜給他後裔。</li>
+   <li>神與亞伯蘭立約，應許他的後裔數不勝數，將來必回到應許之地。但亞伯蘭和撒萊還是靠著人的方法嘗試得到後裔。雖然有人的軟弱，神仍然信實地守約施慈愛，並且看顧苦難中的夏甲。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記17&qs_version=CUVMPT">創世記17</a> - <a href="https://bibleplan.github.io/daily/2018-02-01-daily.html">割禮之約</a></summary>
   <ul>
+   <li>創世紀 17 繼續神的應許的主題，立割禮之約，重申國度、後裔和地土的應許。</li>
+   <li>後裔的應許雖然還沒有實現，神與亞伯蘭立割禮之約，從此亞伯蘭和他的後裔歸屬耶和華，成爲被揀選之民，成爲祝福萬民萬國的器皿。神將亞伯蘭改名爲亞伯拉罕，撒萊改名爲撒拉。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記18:1-15&qs_version=CUVMPT">創世記18:1-15</a> - <a href="https://bibleplan.github.io/daily/2018-02-02-daily.html">堅固應許</a></summary>
   <ul>
+   <li>創世紀 18:1-15 繼續神的應許的主題，神的天使指明撒拉生子的時間。</li>
+   <li>與亞伯拉罕一樣，撒拉聽到生子的應許心裏暗笑。但是這一次神的反應除了再次肯定應許以外，還有責備。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記18:16-19:38&qs_version=CUVMPT">創世記18:16-19:38</a> - <a href="https://bibleplan.github.io/daily/2018-02-03-daily.html">罪惡之地</a></summary>
   <ul>
+   <li>創世紀 18:16-19:38 相對於神所應許的國度、地土和後裔，不討神喜悅的國度、地土和後裔的結果是毀滅和敗壞。</li>
+   <li>耶和華將要審判所多瑪、蛾摩拉，亞伯拉罕爲所多瑪祈求，神答應亞伯拉罕的禱告。羅得殷勤接待、保護兩個天使，天使帶領羅得脫離所多瑪的審判。羅得的兩個女兒用人的方法得到後裔。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記20-21&qs_version=CUVMPT">創世記20-21</a> - <a href="https://bibleplan.github.io/daily/2018-02-05-daily.html">應許之子</a></summary>
   <ul>
+   <li>`創 20-21` 繼續應許的主題，應許之子以撒出生。</li>
+   <li>亞伯拉罕又一次遷居，寄居在非利士人的地方；他又一次稱撒拉為他的妹妹，神保守撒拉，從而保守應許之子以撒的誕生。</li>
+   <li>以撒漸長，亞伯拉罕將夏甲和以實瑪利送走。非利士人的王亞比米勒與亞伯拉罕立和平相處的約。</li>
   </ul>
  </details>
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記22-23&qs_version=CUVMPT">創世記22-23</a> - <a href="https://bibleplan.github.io/daily/2018-02-06-daily.html">信心試驗</a></summary>
   <ul>
+   <li>`創 22-23` 藉著亞伯拉罕的試驗告訴我們應該如何看待神的應許；亞伯拉罕得到第一塊應許之地。</li>
+   <li>神試驗亞伯拉罕，要他將以撒獻爲燔祭，亞伯拉罕順服的信心經過試驗，神供應公羊代替了以撒，並再次向亞伯拉罕堅立所立的約。</li>
+   <li>撒拉去世，亞伯拉罕買地埋葬撒拉，這是他在應許之地所擁有的第一塊地。</li>
   </ul>
  </details>
  <details>
   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記24-25:11&qs_version=CUVMPT">創世記24-25:11</a> - <a href="https://bibleplan.github.io/daily/2018-02-07-daily.html">歸回列祖</a></summary>
   <ul>
+   <li>`創世紀 24-25:11` 是神對亞伯拉罕的應許這個主題的結束。亞伯拉罕去世。</li>
+   <li>亞伯拉罕派遣他的老僕人去他的本族為兒子以撒娶妻。老僕人在神的帶領下找到拉班，爲以撒娶了利百加。</li>
+   <li>亞伯拉罕又娶妻生子，175 歲去世。亞伯拉罕將一切所有的都給了以撒。</li>
   </ul>
  </details>
  <details>
   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記25:12-18&qs_version=CUVMPT">創世記25:12-18</a> - <a href="https://bibleplan.github.io/daily/2018-02-08-daily.html">以實瑪利</a></summary>
   <ul>
+   <li>`創世紀 25:12-18` 記錄了以實瑪利的後裔。神的應許從不落空。</li>
+   <li>正如神所應許的，以實瑪利成為十二個族長的父親，住在眾弟兄的東邊。</li>
   </ul>
  </details>
  <details>
   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記25:19-26:35&qs_version=CUVMPT">創世記25:19-26:35</a> - <a href="https://bibleplan.github.io/daily/2018-02-09-daily.html">以撒家族</a></summary>
   <ul>
+   <li>`創世紀 25:19-35:29` 是創世記十段家族史的第八段，神的應許之子以撒的家族。</li>
+   <li>今天的經文 `25:19-26:35` 講到以撒的兩個兒子的出生和鬥。</li>
+   <li>以撒與利百加生了雙生子。按神的應許，次子雅各將要強於長子以掃。雅各用紅豆湯換取了以掃的長子名分，</li>
+   <li>以掃輕看了長子的名分。以撒按神的旨意住在非利士人的地方基拉耳，謊稱妻子是自己的妹妹。</li>
+   <li>以撒因為強盛而被非利士人趕逐，在非利士人搶奪井的事情上退讓，神帶領他到寬闊之地。</li>
+   <li>非利士人與以撒訂立和平之約。</li>
   </ul>
  </details>
  <details>
   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記27-28&qs_version=CUVMPT">創世記27-28</a> - <a href="https://bibleplan.github.io/daily/2018-02-10-daily.html">雅各逃亡</a></summary>
   <ul>
+   <li>`創世紀 27-28` 講述雅各用欺騙的手段得到父親的祝福，並逃亡。</li>
+   <li>以撒年老眼瞎，要給以掃祝福。利百加幫助雅各欺騙以撒，得到了本來要給以掃的祝福。以掃憤怒要殺雅各。</li>
+   <li>雅各聽從父母之命去拉班那裡躲避。臨走前以撒給雅各祝福，確定他與耶和華所立的約。雅各在逃亡路上遇見神，並向他禱告許願。</li>
   </ul>
  </details>
  <details>
   <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記29-31&qs_version=CUVMPT">創世記29-31</a> - <a href="https://bibleplan.github.io/daily/2018-02-12-daily.html">雅各家族</a></summary>
   <ul>
+   <li>`創 29-31` 講述雅各的十二兒子，也就是以色列的十二支派先祖的出生。</li>
+   <li>雅各從遇見神的地方起行，投靠他的母舅拉班。拉班以詭詐待他，他的兩個妻子也常常爭鬧。</li>
+   <li>即便如此神還是祝福雅各，大大加增他的財產，並多多賜給他後裔。</li>
+   <li>雖然人充滿了欺騙和詭詐，神卻依然成就他的加增雅各後裔的應許。</li>
+   <li>依靠神的人，即便是有各樣的軟弱和罪，神總信實地帶領他們成長。</li>
   </ul>
  </details>
  <details>
   <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記32-33&qs_version=CUVMPT">創世記32-33</a> - <a href="https://bibleplan.github.io/daily/2018-02-13-daily.html">與神摔跤</a></summary>
   <ul>
+   <li>`創 32-33` 講述雅各的改變，與哥哥以掃相認。</li>
+   <li>雅各走向家的方向，心裡充滿懼怕。但是神與他摔跤，大大翻轉他的生命，</li>
+   <li>為他改名為以色列。他與哥哥以掃相見和好。</li>
+   <li>神在人最絕望的時候,改變人的生命。</li>
   </ul>
  </details>
  <details>
   <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記34-35&qs_version=CUVMPT">創世記34-35</a> - <a href="https://bibleplan.github.io/daily/2018-02-14-daily.html">雅各眾子</a></summary>
   <ul>
+   <li>`創世紀 34-35` 雅各眾子年輕時候的性情，以及以撒之死。</li>
+   <li>雅各的女兒底拿因為與當地人來往落入示劍手中被玷污。底拿的十個哥哥使用詭詐，</li>
+   <li>殺了示劍全城的男丁，擄掠所有的貨財、婦女和孩童，因此將雅各家陷入危險當中。</li>
+   <li>雅各順從神的話，潔淨全家，搬回他第一次遇見神的伯特利。</li>
+   <li>神要求他的子民從世界分別出來。</li>
   </ul>
  </details>
  <details>
   <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記36:1-37:1&qs_version=CUVMPT">創世記36:1-37:1</a> - <a href="https://bibleplan.github.io/daily/2018-02-15-daily.html">以掃後裔</a></summary>
   <ul>
+   <li>`創世紀 36:1-37:1` 創世記十段家族史的第九段,神對以掃的應許的實現。</li>
+   <li>以掃就是以東，在以色列人開始有君王治理以前，以東人就開始君王治理。</li>
+   <li>以東的兒子們生在應許之地，以掃卻帶領他們遷到西珥；</li>
+   <li>雅各的兒子們除了便雅憫全部生在應許之地之外，卻帶領他們回到應許之地。</li>
   </ul>
  </details>
  <details>
   <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記37:2-38:30&qs_version=CUVMPT">創世記37:2-38:30</a> - <a href="https://bibleplan.github.io/daily/2018-02-16-daily.html">約瑟被賣</a></summary>
   <ul>
+   <li>`創世紀 37:2-36` 講述雅各的兒子把兄弟約瑟出賣到埃及，為神的救贖計劃的進展埋下伏筆。</li>
+   <li>`創世記 38` 記錄猶大耶穌基督家譜中重要的一環。他瑪是被記錄在耶穌家譜中的幾個女子之一。</li>
+   <li>她的信心讓猶大羞愧。</li>
+   <li>神藉著雅各兒子們的嫉妒，卻成就祝福整個以色列民族的計劃；他也藉著他瑪的信心，成就救恩的計劃。</li>
   </ul>
  </details>
  <details>
   <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記39-40&qs_version=CUVMPT">創世記39-40</a> - <a href="https://bibleplan.github.io/daily/2018-02-17-daily.html">被囚埃及</a></summary>
   <ul>
+   <li>`創世紀 39-40` 講述約瑟在埃及的遭遇。</li>
+   <li>約瑟在埃及做奴僕，被引誘，被誣陷，被下監。但是神一直與他同在。</li>
   </ul>
  </details>
  <details>
   <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記41-42&qs_version=CUVMPT">創世記41-42</a> - <a href="https://bibleplan.github.io/daily/2018-02-19-daily.html">平步青雲</a></summary>
   <ul>
+   <li>`創 41-42` 講述約瑟因著為法老解夢，不僅被提出監，還被賦予一人之下萬人之上的宰相職責。</li>
+   <li>神通過他祝福周圍的人。同時，曾經賣他的兄弟們來到埃及糴糧，約瑟試驗他們。</li>
+   <li>約瑟在自己的生命經歷中看到神的計劃，他在法老面前歸榮耀給神。</li>
+   <li>神藉著約瑟試驗他的哥哥們，帶領他們面對過去的罪。</li>
   </ul>
  </details>
  <details>
   <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記43-44&qs_version=CUVMPT">創世記43-44</a> - <a href="https://bibleplan.github.io/daily/2018-02-20-daily.html">約瑟眾兄</a></summary>
   <ul>
+   <li>`創 43-44` 講述約瑟的哥哥們帶著便雅憫第二次到埃及來糴糧。約瑟再次試驗他們。</li>
+   <li>神藉著約瑟的試驗，帶領猶大，改變他的生命，從出賣弟弟，到願意為弟弟捨棄自己。</li>
+   <li>神藉著困境來幫助我們面對過去的罪，反轉我們的生命。</li>
   </ul>
  </details>
  <details>
   <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記45-46&qs_version=CUVMPT">創世記45-46</a> - <a href="https://bibleplan.github.io/daily/2018-02-21-daily.html">兄弟相認</a></summary>
   <ul>
+   <li>`創 45-46` 講述約瑟與兄弟們相認，並且安慰他們。以色列帶著全家搬到埃及。</li>
+   <li>神使用約瑟的哥哥們出賣約瑟到埃及的惡行，反而保全了以色列人。</li>
+   <li>神關於亞伯拉罕的後裔要到埃及的應許果然實現。</li>
   </ul>
  </details>
  <details>
   <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記47-48&qs_version=CUVMPT">創世記47-48</a> - <a href="https://bibleplan.github.io/daily/2018-02-22-daily.html">定居埃及</a></summary>
   <ul>
+   <li>`創世紀 47-48` 講述以色列在埃及定居下來。約瑟繼續忠誠服事，並且用他的職責來拯救了更多的人。</li>
+   <li>以色列死期臨近，他讓約瑟發誓將他的身體帶回迦南應許之地。以色列為約瑟的兩個兒子按手祝福。</li>
+   <li>以色列雖然死在埃及，對神的應許卻滿是信心。神的應許從不落空。</li>
   </ul>
  </details>
  <details>
   <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記49-50&qs_version=CUVMPT">創世記49-50</a> - <a href="https://bibleplan.github.io/daily/2018-02-23-daily.html">祝福眾子</a></summary>
   <ul>
+   <li>`創世紀 49-50` 講述以色列去世。死前他為兒子們祝福。約瑟按照以色列的吩咐將</li>
+   <li>他帶回迦南地，葬進埋葬亞伯拉罕的洞里。約瑟的哥哥們還是心存懼怕，擔心約瑟報復。</li>
+   <li>約瑟安慰他們。約瑟去世，像父親以色列一樣，要子孫們起誓在離開埃及的時候將他的骸骨帶回應許之地。</li>
+   <li>神通過以色列，應許彌賽亞將通過猶大的後裔到來。</li>
   </ul>
  </details>
 </details>
@@ -152,6 +239,9 @@
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記1-2&qs_version=CUVMPT">出埃及記 1-2</a> - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">救贖預備</a></summary>
    <ul>
+   <li>`出埃及記 1-2 章`，是出埃及記的時代背景，為神的救贖計劃拉開了序幕。</li>
+   <li>以色列人在埃及被苦待，卻蒙神保守，日漸強盛。摩西在以色列人被迫害中出生，卻在各樣境遇中被神預備。</li>
+   <li>不論人在任何的光景之中，即使有再大的苦難，我們都應當記得神掌權，神也看顧、保護。</li>
    </ul>
  </details>
  <details>
