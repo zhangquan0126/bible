@@ -541,21 +541,31 @@
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記23:1-24:9&qs_version=CUVMPT">利未記23:1-24:9</a> - <a href="https://bibleplan.github.io/daily/wk11-day6-daily.html">節期條例</a></summary>
   <ul>
+   <li>`利未記23章`是神所要求的節期。神吩咐以色列人守的節期有逾越節,除酵節,初熟節,五旬節,吹角節,贖罪日和住棚節。</li>
+   <li>`利未記24:1-9`,是在會幕燃燈的條例,和陳設餅的條例。</li>
   </ul>
  </details>
  <details>
   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記24:10-25:55&qs_version=CUVMPT">利未記24:10-25:55</a> - <a href="https://bibleplan.github.io/daily/wk12-day1-daily.html">安息之年</a></summary>
   <ul>
+   <li>`利未記 24:10-22`記錄一個外邦人褻瀆神的名，違反十誡第三條的案件。於此帶出耶和華神吩咐的關於褻瀆神的名的刑罰，和傷害人畜的刑罰。`「不管是寄居的，還是本地人，同歸一例。我是耶和華——你們的神。」`</li>
+   <li>`利未記 25:1-22`，是有關於安息年和禧年的條例，以及遵守安息年的應許。`25:23-55`講述要實踐遵守安息年和禧年，必然要有的對待土地產業和窮人的態度。</li>
   </ul>
  </details>
  <details>
   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記26&qs_version=CUVMPT">利未記26</a> - <a href="https://bibleplan.github.io/daily/wk12-day2-daily.html">守約背約</a></summary>
   <ul>
+   <li>`利未記 26 章`，是立約以後宣告對守約者的祝福和對背約者的咒詛。</li>
+   <li>`3-13 節`講**祝福**：順服神的便有福氣臨到；時雨與豐收；國泰民安；神的同在。神的祝福毫無保留地全然臨到順從他的子民。</li>
+   <li>`14-46 節`講**災禍**：敗在敵人手中；土地沒有出產；野獸為害人民；瘟疫、癆病；饑荒；人民因饑餓以致易子而食。災禍並不是一下全部臨到，神總是在給他的子民機會回轉，每次災禍以後，他們若「因這些事若仍不改正歸我」，下面的擊打才會臨到。</li>
   </ul>
  </details>
  <details>
   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記27&qs_version=CUVMPT">利未記27</a> - <a href="https://bibleplan.github.io/daily/wk12-day3-daily.html">許願之例</a></summary>
   <ul>
+   <li>`利未記 27 章`是神吩咐人向神許願的條例。</li>
+   <li>許願是十分莊嚴的事，必須慎重。人通常比較容易在危急或困難時候向神許願，而事後卻後悔甚至不守承諾。聖經對這種行為多次提出警告。本段為許願的獻物</li>
+   <li>訂一個較高的賠償價值，並懲罰那些反悔、要收回獻物的人，要他們付出所估定的贖價另加五分之一。</li>
   </ul>
  </details>
 </details>
@@ -563,16 +573,26 @@
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記1-2&qs_version=CUVMPT">民數記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk12-day4-daily.html">數點安營</a></summary>
    <ul>
+   <li>`民數記 1-2 章`講述以色列的人口普查和每個支派在會幕周圍的安營位置。</li>
+   <li>人口普查是對那些`「從二十歲以外，能出去打仗的」 (1:3)` ，支派在會幕（神所在的地方）周圍的安排是`「按著軍隊」`。這些以色列人預備打仗的準備工作，神正在把昔日的奴隸轉變成一支軍隊，好進入神的應許之地。</li>
    </ul>
  </details>
  <details>
    <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記3-4&qs_version=CUVMPT">民數記 3-4</a> - <a href="https://bibleplan.github.io/daily/wk12-day5-daily.html">祭司國度</a></summary>
    <ul>
+   <li>`民數記 3 章`的開始類似創世記的家譜：`「亞倫和摩西的後代如下」`，記敘了利未支派的家譜和職責。</li>
+   <li>利未支派的工作是關乎會幕 - 神的同在，以及神在西奈山與以色列人所立的約。神在此設立了`「祭司的國度」(出 19:6)`。</li>
    </ul>
  </details>
  <details>
    <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記5-6&qs_version=CUVMPT">民數記 5-6</a> - <a href="https://bibleplan.github.io/daily/wk12-day6-daily.html">聖潔國民</a></summary>
    <ul>
+   <li>緊接著上兩章設立的`「祭司的國度」(出 19:6)`，神在此呼召以色列人成為`「聖潔的國民」(出 19:6)`。</li>
+   <li>潔淨以色列營的幾條律法：</li>
+   <li> 1. 贖罪和賠償，以使以色列人合一；</li>
+   <li> 2. 婚姻的聖潔，以使以色列後裔聖潔；</li>
+   <li> 3. 離俗歸耶和華的律例，作為以色列聖召的特別例證。</li>
+   <li>以亞倫的祝福結尾，重申神的盟約承諾，將以色列人的眼光指向應許之地。</li>
    </ul>
  </details>
  <details>
