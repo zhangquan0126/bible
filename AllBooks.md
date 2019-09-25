@@ -649,56 +649,94 @@
  <details>
    <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記16-17&qs_version=CUVMPT">民數記 16-17</a> - <a href="https://bibleplan.github.io/daily/wk14-day1-daily.html">可拉叛亂</a></summary>
    <ul>
+   <li>利未人可拉帶領一群以色列人反叛，挑戰亞倫和他的後裔的祭司身份。他們用謊言</li>
+   <li>攻擊摩西和亞倫。摩西叫他們一同到神的面前，經歷火的試驗。神「創作一件新事」，</li>
+   <li>除滅可拉一黨，顯示亞倫家族成為祭司乃是神的心意。</li>
+   <li>可拉被除滅以後，百姓又起來攻擊摩西和亞倫，將跟隨可拉被除滅的人的死怪罪在</li>
+   <li>摩西和亞倫身上。神的怒氣發作，瘟疫流行。摩西吩咐亞倫拿香爐從壇上取火，加香，</li>
+   <li>站在活人死人中為百姓贖罪，瘟疫就止住了。</li>
+   <li>神吩咐摩西，讓包括亞倫的十二個支派首領，將手裡的杖標記名字放在神的約櫃前。</li>
+   <li>唯有亞倫的杖發芽開花結杏並成熟，神藉此向以色列百姓顯明，利未支派被揀選也</li>
+   <li>是出於神的心意。</li>
    </ul>
  </details>
  <details>
    <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記18-19&qs_version=CUVMPT">民數記 18-19</a> - <a href="https://bibleplan.github.io/daily/wk14-day2-daily.html">祭司利未</a></summary>
    <ul>
+   <li>`民數記 18:1-7`，是神直接告訴亞倫他關於百姓在 `17:12-13` 的呼求的回答。</li>
+   <li>祭司和利未人的職責是擔當神的震怒，百姓的性命才得保存。祭司的設立，不只是神</li>
+   <li>給擔任祭司的人的賞賜，也是給眾民的賞賜。</li>
+   <li>神賜給利未人享用的是以色列人獻上的出產的十分之一，賜給祭司享用的是一切不</li>
+   <li>經火的供物和利未人獻上的收入的十分之一。</li>
+   <li>`民數記第 19 章`是針對前面的瘟疫中大量死人，民中很多人不潔淨，分別獻贖罪祭不可行的情況。</li>
+   <li>除污穢水是神恩賜給以色列人簡單快捷及時除去污穢的方法，免得干犯神的聖所。</li>
    </ul>
  </details>
  <details>
    <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記20-21&qs_version=CUVMPT">民數記 20-21</a> - <a href="https://bibleplan.github.io/daily/wk14-day3-daily.html">流浪末年</a></summary>
    <ul>
+   <li>這是以色列人在曠野漂流的最後一年,他們回到當初抗命不進迦南地的加低斯(`民數記13`)。</li>
+   <li>在這裡以色列人又發怨言,跟他們的父輩的怨言一樣。摩西因為沒有尊神的名為聖而犯罪,不得進入迦南應許之地。米利暗和亞倫分別去世。</li>
+   <li>以色列人在約旦河東遭到以東人的阻礙,但是神不允許他們與以東爭戰(`申命記2:4-6`),所以他們繞道走艱難的路。以色列人因此又抱怨,神使火蛇進入百姓間。摩西為百姓代求,神吩咐他製作銅蛇,凡抬頭仰望銅蛇的就得救。在`約翰福音3:13-14`有主耶穌關於銅蛇的預表的解釋。</li>
+   <li>人雖不信實,總是抱怨,神還是信實地帶領他們走向應許之地。</li>
    </ul>
  </details>
  <details>
    <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記22-24&qs_version=CUVMPT">民數記 22-24</a> - <a href="https://bibleplan.github.io/daily/wk14-day4-daily.html">咒詛祝福</a></summary>
    <ul>
+   <li>以色列人要攻打耶利哥,並非要攻擊摩押人。但摩押王卻懼怕,招來巴蘭要咒詛以色列人。神卻使巴蘭的咒詛不能成功,反而使他多次祝福以色列人。</li>
+   <li>巴蘭並非耶和華的先知。他似乎宣稱自己是耶和華的先知,其實只是在宣告自己一切神明的代言人。他在道德、倫理和信仰上被聖經多次譴責。(民31:7-8,15-16;申23:3-6;書13:22;24:9-10;尼13:1-3;彌6:5;彼后2:15-16;猶11;啟2:14)</li>
    </ul>
  </details>
  <details>
    <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記25&qs_version=CUVMPT">民數記 25</a> - <a href="https://bibleplan.github.io/daily/wk14-day5-daily.html">從內敗壞</a></summary>
    <ul>
+   <li>參見民數記31:8,16,本章所描述的事件是出於巴蘭的計謀,要從裡面敗壞以色列人,使以色列人得罪並遠離耶和華,從而失去神的保守。</li>
+   <li>非尼哈與神的忌邪為心,殺死公然得罪神的人,使神不在忌邪中除滅全體以色列人,為以色列人贖罪。神與非尼哈和他的後裔立「平安的約」,他的後裔將永遠當祭司任職。</li>
    </ul>
  </details>
  <details>
    <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記26-27&qs_version=CUVMPT">民數記 26-27</a> - <a href="https://bibleplan.github.io/daily/wk14-day6-daily.html">二次數點</a></summary>
    <ul>
+   <li>四十年過去,以色列人的數目變化不大,這是神的賜福,他信實地保守他對亞伯拉罕的應許,使他的後裔成為大國。</li>
+   <li>西羅非哈的女兒對曠野漂流的意義有很正確的看見,她們為家人的正義祈求也被神眷顧。</li>
+   <li>摩西進不了迦南地。他最後的禱告請求,是為了以色列眾人在他死以後有一個領袖能帶領他們跟隨神進入迦南。</li>
    </ul>
  </details>
  <details>
    <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記28-29&qs_version=CUVMPT">民數記 28-29</a> - <a href="https://bibleplan.github.io/daily/wk15-day1-daily.html">日日獻祭</a></summary>
    <ul>
+   <li>離摩西去世的日子近了，前面一章神吩咐他將領袖的職分和尊榮傳給約書亞，28-29 章則是神吩咐摩西傳給以色列人全年里每一天、每個安息日、每月月初和各個節期獻祭的祭物條例，預備以色列人進入迦南以後，在大祭司以利亞撒和約書亞的帶領下，過以神為中心的敬拜生活。</li>
+   <li>這些獻祭是在百姓為罪、自潔、許願等自願獻的祭以外，一年至少應獻的祭。</li>
+   <li>這兩章關於獻祭的條例側重點是在各種祭物的數量細節。</li>
    </ul>
  </details>
  <details>
    <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記30-31&qs_version=CUVMPT">民數記 30-31</a> - <a href="https://bibleplan.github.io/daily/wk15-day2-daily.html">米甸之役</a></summary>
    <ul>
+   <li>民數記30章，是對許願女子的要求：在出嫁前她們的父親，或者在出嫁后她們的丈夫，要擔負她們的屬靈上的指導和保護。</li>
+   <li>民數記31章記錄的是一場聖戰，是以色列人按照神的心意攻擊住在摩押的米甸人，因他們在前面引誘百姓犯罪背離神。謀劃這計策的巴蘭在這場戰役中被殺。以色列人大獲全勝，沒有損失一人。以色列人按照神的吩咐處理俘虜和潔淨、奉獻、分享戰利品，讓進入迦南以後的戰爭有例可循。</li>
    </ul>
  </details>
  <details>
    <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記32-33&qs_version=CUVMPT">民數記 32-33</a> - <a href="https://bibleplan.github.io/daily/wk15-day3-daily.html">漂流之地</a></summary>
    <ul>
+   <li>民數記第32章，呂便、迦得和瑪拿西的半支派看中約旦河東剛取得的土地，並向摩西保證幫助其他支派取得應許之地以後才回來，以防使以色列人人心渙散。他們看見約旦河東土地肥沃適合放牧，就想先快快安頓下來。後來這地因為缺乏軍事屏障，在以色列亡國之前，就被亞述攻入，最先被擄走。</li>
+   <li>民數記第33章，摩西按照神的吩咐記錄四十年曠野漂流路線中四十個安營的地方。</li>
+   <li>神吩咐以色列人進入應許之地以後怎樣趕出拜偶像的居民，滅絕偶像崇拜。並吩咐按照支派的人數拈鬮分派土地。</li>
    </ul>
  </details>
  <details>
    <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記34-35&qs_version=CUVMPT">民數記 34-35</a> - <a href="https://bibleplan.github.io/daily/wk15-day4-daily.html">迦南地界</a></summary>
    <ul>
+   <li>民數記第34章，神將應許之地的地界告訴以色列人，並從九個半要在應許之地得基業的支派各揀選一個首領，在大祭司以利亞撒和約書亞的帶領下，負責在進入應許之地后承擔分配土地的任務。</li>
+   <li>民數記第35章，神吩咐分配利未人城邑的規條，並為以色列人在利未支派的城里設立逃城。逃城是為誤流人血的人設立的庇護所，免得無休止的仇殺污穢了神所賜的應許之地。</li>
    </ul>
  </details>
  <details>
    <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記36&qs_version=CUVMPT">民數記 36</a> - <a href="https://bibleplan.github.io/daily/wk15-day5-daily.html">繼承產業</a></summary>
    <ul>
+   <li>西羅非哈的女兒們，曾因著父親無子，提出由女兒繼承產業，蒙了神的應允。現在以色列的族長們提出新的問題，若是女兒出嫁，將產業帶到其他支派，支派的產業分配會造成改變，在禧年歸入其他支派。因此，摩西照神的話吩咐以色列的女繼承人必須嫁給同宗支派的人為妻。西羅非哈的女兒們按照神的吩咐行了。</li>
    </ul>
  </details>
 </details>
