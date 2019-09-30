@@ -4440,31 +4440,75 @@
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書3&qs_version=CUVMPT">但以理書3</a> - <a href="https://bibleplan.github.io/daily/wk89-day1-daily.html">投入火窯</a></summary>
   <ul>
+   <li>尼布甲尼撒王造了一個金像，行開光之禮，並傳令各方俯伏敬拜金像。凡不俯伏敬拜的，必立時扔在烈火的窯中。</li>
+   <li>幾個迦勒底人控告猶大人沙得拉、米煞、亞伯尼歌，不敬拜金像。</li>
+   <li>尼布甲尼撒大怒，把沙得拉、米煞、亞伯尼歌帶來面前。</li>
+   <li>沙得拉、米煞、亞伯尼歌相信所侍奉的神能將他們從烈火的窯中救出來。</li>
+   <li>尼布甲尼撒吩咐壯士將沙得拉、米煞、亞伯尼歌捆起來，扔在烈火的窯中。</li>
+   <li>沙得拉、米煞、亞伯尼歌從火中出來，火無力傷他們的身體，頭髮也沒有燒焦，衣裳也沒有變色，並沒有火燎的氣味。</li>
+   <li>尼布甲尼撒稱頌沙得拉、米煞、亞伯尼歌的神。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書4&qs_version=CUVMPT">但以理書4</a> - <a href="https://bibleplan.github.io/daily/wk89-day2-daily.html">宣揚神蹟</a></summary>
   <ul>
+   <li>尼布甲尼撒王曉諭各方，宣揚至高的神所行的神蹟奇事。</li>
+   <li>尼布甲尼撒安居在宮中，做了一夢，巴比倫的一切哲士卻不能把夢的講解告訴他。</li>
+   <li>但以理因裡頭有聖神的靈，為王解夢。</li>
+   <li>尼布甲尼撒王被趕出離開世人，與野地的獸同居，吃草如牛。</li>
+   <li>日子滿足，尼布甲尼撒的聰明復歸，便稱頌至高者，讚美、尊敬活到永遠的神。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書5&qs_version=CUVMPT">但以理書5</a> - <a href="https://bibleplan.github.io/daily/wk89-day3-daily.html">伯沙撒王</a></summary>
   <ul>
+   <li>伯沙撒王設擺盛筵，歡飲之間，吩咐人將他父尼布甲尼撒從耶路撒冷殿中所掠的金銀器皿拿來，用這器皿飲酒。</li>
+   <li>忽有人的指頭顯出，在王宮與燈臺相對的粉牆上寫字。</li>
+   <li>哲士和用法術的不能講解字的含義。伯沙撒王找但以理講解。、</li>
+   <li>但以理責備伯沙撒王心不自卑，沒有將榮耀歸神。因此，從神那裡顯出指頭來寫這文字。</li>
+   <li>但以理解釋文字，神已經數算伯沙撒國的年日到此完畢。</li>
+   <li>當夜，迦勒底王伯沙撒被殺。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書6&qs_version=CUVMPT">但以理書6</a> - <a href="https://bibleplan.github.io/daily/wk89-day4-daily.html">獅子坑中</a></summary>
   <ul>
+    <li>大流士隨心所願，立一百二十個總督，又在他們以上立總長三人，但以理在其中。</li>
+    <li>總長和總督尋找但以理誤國的把柄，為要參他，只是找不著他的錯誤過失。</li>
+    <li>總長和總督見王，要立一條禁令，三十日內，不可向神或向人求什麼，否則必扔在獅子坑中。</li>
+    <li>但以理在家裡一日三次雙膝跪在神面前禱告感謝，與素常一樣。那些人就進到王前，提王的禁令。</li>
+    <li>王下令，把但以理扔在獅子坑中。</li>
+    <li>王回宮，終夜禁食，無人拿樂器到他面前，並且睡不著覺。</li>
+    <li>次日黎明王起來，往獅子坑那裡去，哀聲呼叫但以理。但獅子沒有傷但以理。</li>
+    <li>王下令，把控告但以理的人扔在獅子坑中。</li>
+    <li>大流士王傳旨，要在但以理的神面前戰兢恐懼。</li>
+    <li>但以理當大流士王在位的時候和波斯王居魯士在位的時候，大享亨通。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書7-9&qs_version=CUVMPT">但以理書7-9</a> - <a href="https://bibleplan.github.io/daily/wk89-day5-daily.html">復見異像</a></summary>
   <ul>
+    <li>伯沙撒元年，但以理在床上做夢，見了異象。</li>
+    <li>有四個大獸從海中上來，形狀各有不同。</li>
+    <li>但以理的異象使他驚惶，侍立者向他講解說明。</li>
+    <li>伯沙撒王在位第三年，但以理又見異象。</li>
+    <li>雙角的公綿羊站在河邊，獸在牠面前都站立不住。又有一隻公山羊從西而來。</li>
+    <li>加百列啊使但以理明白這異象。</li>
+    <li>大流士王元年，但以理從書上得知耶和華的話臨到先知耶利米，論耶路撒冷荒涼的年數，七十年為滿。</li>
+    <li>但以理便禁食，披麻蒙灰，定意向主神祈禱懇求，求祂的怒氣和憤怒轉離耶路撒冷。</li>
+    <li>耶和華定了七十個七，要止住罪過，引進永義，封住異象和預言，並膏至聖者。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書10.1-12.4&qs_version=CUVMPT">但以理書10.1-12.4</a> - <a href="https://bibleplan.github.io/daily/wk89-day6-daily.html">波斯希臘</a></summary>
   <ul>
+    <li>波斯王居魯士第三年，但以理得見異象。</li>
+    <li>在底格里斯大河邊見異象，便渾身無力，面貌失色，毫無氣力。</li>
+    <li>有一位形狀像人的使但以理有力量。</li>
+    <li>預言波斯有三王興起，第四王必富足遠勝諸王，必激動大眾攻擊希臘國。</li>
+    <li>南王和北王有時爭鬥，有時和平。</li>
+    <li>北王廢棄聖約，汙褻聖地</li>
+    <li>本國的民中，凡名錄在冊上的，必得拯救。</li>
   </ul>
  </details>
 </details>
