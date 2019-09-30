@@ -4437,4 +4437,34 @@
    <li>王高抬但以理，派他管理巴比倫全省。</li>
   </ul>
  </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書3&qs_version=CUVMPT">但以理書3</a> - <a href="https://bibleplan.github.io/daily/wk89-day1-daily.html">投入火窯</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書4&qs_version=CUVMPT">但以理書4</a> - <a href="https://bibleplan.github.io/daily/wk89-day2-daily.html">宣揚神蹟</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書5&qs_version=CUVMPT">但以理書5</a> - <a href="https://bibleplan.github.io/daily/wk89-day3-daily.html">伯沙撒王</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書6&qs_version=CUVMPT">但以理書6</a> - <a href="https://bibleplan.github.io/daily/wk89-day4-daily.html">獅子坑中</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書7-9&qs_version=CUVMPT">但以理書7-9</a> - <a href="https://bibleplan.github.io/daily/wk89-day5-daily.html">復見異像</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書10.1-12.4&qs_version=CUVMPT">但以理書10.1-12.4</a> - <a href="https://bibleplan.github.io/daily/wk89-day6-daily.html">波斯希臘</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
