@@ -977,7 +977,7 @@
   </ul>
  </details>
  <details>
-  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記0-21&qs_version=CUVMPT">約書亞記0-21</a> - <a href="https://bibleplan.github.io/daily/wk21-day1-daily.html">利未支派</a></summary>
+  <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記20-21&qs_version=CUVMPT">約書亞記20-21</a> - <a href="https://bibleplan.github.io/daily/wk21-day1-daily.html">利未支派</a></summary>
   <ul>
   </ul>
  </details>
