@@ -744,101 +744,154 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記1&qs_version=CUVMPT">申命記1</a> - <a href="https://bibleplan.github.io/daily/wk15-day6-daily.html">悖逆失敗</a></summary>
   <ul>
+    <li>出埃及時不到20歲以及尚未出生的新一代以色列民，經過在曠野中近40年的繞行，終於來到與應許之地僅約旦河之隔的摩押平原。整本申命記是摩西在他一生的最後幾十天內，按照神的吩咐對以色列眾人重申律法，為要叫他們「敬畏耶和華你的神，遵行祂的道，愛祂，盡心盡性事奉祂，遵守祂的誡命、律例，就是我今日所吩咐你的，為要叫你得福」（十12~13）。</li>
+    <li>申1:1-4:43追想過去在曠野四十年以色列民的主要歷史。</li>
+    <li>第1章回顧近四十年前穿過曠野、將要進去得應許之地為業時，上一代以色列民因為懼怕身材高大的亞衲族人，不信神會為他們爭戰，忘記神行在他們眼前的諸多神蹟奇事，悖逆頑梗不肯進入應許之地，而不得不開始在曠野中近四十年之久的繞行。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記2-3&qs_version=CUVMPT">申命記2-3</a> - <a href="https://bibleplan.github.io/daily/wk16-day1-daily.html">北上得地</a></summary>
   <ul>
+    <li>三十八年在西珥山的繞行之後，當年因懼怕而不肯進入迦南的成年男子都已死去。以色列民依照神的吩咐，向北而行。途經已經有神所應許的以東人、摩押人、亞捫人的居住地，沒有爭戰，只是平安路過。相比之下，途經希實本王西宏和巴珊王噩的地界的時候，則與兩王爭戰且得他們的地為業，因為神把他們交在以色列人手中要使天下萬民聽見你的名聲都驚恐、懼怕，且因你發顫傷慟。」(申2:25)</li>
+    <li>摩西求神容他過去，看那應許的美地，神沒有應允摩西過河，但讓他上毗斯迦山頂觀望，讓他得以看見應許之地。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記4:1-43&qs_version=CUVMPT">申命記4:1-43</a> - <a href="https://bibleplan.github.io/daily/wk16-day2-daily.html">呼天喚地</a></summary>
   <ul>
+    <li>4:1-40摩西呼天喚地一再勸誡以色列民要謹守遵行神的律例典章，並且要傳給子子孫孫，好使他們在應許之地存活、得那地為業。</li>
+    <li>4:41-43摩西在約旦河東分定三座逃城，為兩個半支派分定地界。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記4:44-5:33&qs_version=CUVMPT">申命記4:44-5:33</a> - <a href="https://bibleplan.github.io/daily/wk16-day3-daily.html">十條誡命</a></summary>
   <ul>
+    <li>摩西在申命記第5-11章，向以色列人陳明神的律法。</li>
+    <li>摩西向新一代以色列民重申十誡。十誡是神的律法的核心，前四誡關乎神，後六誡關乎人。</li>
+    <li>摩西強調「這約不是與我們列祖立的，乃是與我們今日在這裏存活之人立的」（5:3）。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記6-7&qs_version=CUVMPT">申命記6-7</a> - <a href="https://bibleplan.github.io/daily/wk16-day4-daily.html">竭誠愛主</a></summary>
   <ul>
+    <li>摩西叮囑以色列民要愛神—盡心、盡性、盡力愛我們的神，因為祂是獨一的真神，是信實的神。且要慇懃教訓兒女愛神，把神的話語放在常常可以看到的地方：手上、額上、門框上、城門上。</li>
+    <li>神將迦南的國民交給以色列民，不可憐恤他們，要把他們滅絕淨盡，不可與他們立約，也不可與他們通婚，要拆毀他們的一切偶像，因這必成為你的網羅(7:16b)。</li>
+    <li>摩西提醒百姓不要懼怕強大的迦南列國的國民，要牢牢記念神向埃及法老行過的神蹟奇事。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記8-9&qs_version=CUVMPT">申命記8-9</a> - <a href="https://bibleplan.github.io/daily/wk16-day5-daily.html">牢記真神</a></summary>
   <ul>
+    <li>摩西提醒以色列百姓當記念這四十年神在物資極度匱乏的曠野當中的眷顧、供應，讓他們食有嗎哪，衣沒有破，腳沒有腫，讓他們記得神才是他們真正的依靠，而不是物質的富足；得貨財的力量來自於神，財貨富足的時候不要忘記神。</li>
+    <li>要趕出的迦南人強大且有堅固的城邑，但跟隨神帶領的以色列民必能制伏他們，使他們速速滅亡。</li>
+    <li>可以制伏迦南人並不是由於以色列人的義，而是因為這些國民的惡。但以色列民也時常悖逆神，多次向神犯罪。摩西再次提醒百姓他們四十年中，因著神的憐憫，才得以在悖逆時得以存活。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記10-11&qs_version=CUVMPT">申命記10-11</a> - <a href="https://bibleplan.github.io/daily/wk16-day6-daily.html">神要祝福</a></summary>
   <ul>
+    <li>摩西按照神的吩咐，重新鑿出兩塊石版，上面有神再次親筆書寫的十誡，存放在耐久的皂莢木櫃中。</li>
+    <li>摩西提醒百姓，神是「萬神之神，萬主之主，至大的神，大有能力，大而可畏」；神的要求是他們敬畏祂，遵行祂的道，愛他，盡心盡性事奉祂，好讓他們活在神的恩典、祝福當中。</li>
+    <li>摩西叮囑百姓要守神所吩咐的一切誡命，就會有神滿滿的祝福。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記12:1-14:2&qs_version=CUVMPT">申命記12:1-14:2</a> - <a href="https://bibleplan.github.io/daily/wk17-day1-daily.html">遠離網羅</a></summary>
   <ul>
+    <li>申12-26章是申命記中在誡命之外的律例、典章、法規的詳細講論。雖然有許多內容已經在出埃及記、利未記、民數記有記載，這裡並非簡單重複相同的內容，而是針對迦南地的異教文化的重申。</li>
+    <li>摩西吩咐百姓要拆毀迦南人的祭壇、除去他們的偶像，在每个支派神所指定的地方獻祭；向神獻祭的肉要在神面前吃，其他的肉可以不拘場所吃，但無論何時都不可吃血；要與在應許之地無份無業的利未人一同享用，「在你所住的地方永不可丟棄利未人」；不可隨從迦南人的惡俗，「陷入網羅」；無論是先知、得異夢的、家人還是朋友，只要他們引誘人去拜別神，都要因與耶和華神的約而除滅他們；舉哀時不可學迦南人的惡俗。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記14:3-16:17&qs_version=CUVMPT">申命記14:3-16:17</a> - <a href="https://bibleplan.github.io/daily/wk17-day2-daily.html">放手信靠</a></summary>
   <ul>
+    <li>14:3-29重申可吃與不可吃之物；要在指定的居所、在神的面前吃田地所出的十分之一及頭生的牛羊；每三年的最後一年要將本年收穫的十分之一取出來，讓本城的利未人和寄居的、孤兒寡婦可以吃得飽足。</li>
+    <li>15章重申每七年一次的安息年、豁免年的條例；善待奴婢的條例；頭生無殘疾的公牛羊要分別為聖。</li>
+    <li>16:1-17講論逾越節、五旬節及住棚節的條例。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記16:18-18:22&qs_version=CUVMPT">申命記16:18-18:22</a> - <a href="https://bibleplan.github.io/daily/wk17-day3-daily.html">公義正直</a></summary>
   <ul>
+    <li>16:18-20和17:8-13講到祭司和審判官，強調審判官要公義地審判，不可屈枉正直，不可受賄；訴訟的百姓要聽從祭司和審判官。</li>
+    <li>16:21–17:7和18:9-13吩咐不可設立偶像，不可獻有殘疾有病的牛羊，要懲治拜偶像之人，不可學異邦國民所行可憎的事。</li>
+    <li>17:14-20講論神允許立王及王的條例。注意所羅門王在晚期恰恰有違這些王的條例。</li>
+    <li>18:1-8講述祭司和利未人當得的分。</li>
+    <li>18:10-22應許「興起一位先知，像你。我要將當說的話傳給他；他要將我一切所吩咐的都傳給他們。誰不聽他奉我名所說的話，我必討誰的罪。」指向救主耶穌。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記19-20&qs_version=CUVMPT">申命記19-20</a> - <a href="https://bibleplan.github.io/daily/wk17-day4-daily.html">寬容諒解</a></summary>
   <ul>
+    <li>神為過失殺人者預備了可以存活的逃城，但故意殺人者就要被處死。</li>
+    <li>無論何罪，都需要兩三個人作見證；不可作假見證。</li>
+    <li>出去爭戰時不要懼怕，但新建了房屋、新種了葡萄園、剛聘了妻的人可以留下，膽怯的人也可以留下；攻打之前，要先宣告和睦的話，執意為敵的，則要毀滅。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記21-22&qs_version=CUVMPT">申命記21-22</a> - <a href="https://bibleplan.github.io/daily/wk17-day5-daily.html">公正清潔</a></summary>
   <ul>
+    <li>21:1-22:12講論下面事宜的處理：無頭殺人案、女戰俘、立長子、逆子、掛在木頭上的犯人屍首、他人的失落之物、異性服裝（神憎惡不分性別）、對動物的憐憫心、房上的欄杆、不同種子的混種及牛驢的並耕（神不喜悅混雜不清：创1：4、12、21；路26:13；林后6:14-18）、外衣的穗子。</li>
+    <li>22:13-30講論貞潔的憑據、行淫的處置（無人搭救而遭強姦除外）、禁止娶繼母。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記23&qs_version=CUVMPT">申命記23</a> - <a href="https://bibleplan.github.io/daily/wk17-day6-daily.html">聖潔憐憫</a></summary>
   <ul>
+    <li>不是所有的人都可以進入聖會；要保持軍營的聖潔與衛生，因為神常在營中行走；要善待逃離主人的奴僕；不可有妓女、孌童；借貸不可取利；許願不可遲延償還；可以吃鄰舍地裡的葡萄和穗子，但不可拿走。</li>
   </ul>
  </details>
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記24-25&qs_version=CUVMPT">申命記24-25</a> - <a href="https://bibleplan.github.io/daily/wk18-day1-daily.html">體恤行義</a></summary>
   <ul>
+    <li>24章：她有不合理的事方可休妻，但要寫休書，讓她可以再嫁；新婚一年內不可從軍、行公務，讓妻快活；要因曾在埃及為奴，不可逼迫窮困之人，反要設身處地體恤、憐憫，也不可屈枉、欺負寄居的和寡婦孤兒，反要讓他們有尊嚴地得幫助；拐帶人為奴是大惡；對大麻風要謹慎，要按祭司利未人的指示處理；人被處死必須是為本人的罪，不可株連；</li>
+    <li>25章：責打犯人不可過度輕賤他；要為兄立後，否則就是「脫鞋之家」；即使緊急如解救丈夫，女人也萬不可抓他人下體；與人交易要公平合理，「因為行非義之事的人都是耶和華-你神所憎惡的。」；對不敬畏神的亞瑪力人，不可忘記要塗抹其名。</li>
   </ul>
  </details>
  <details>
   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記26&qs_version=CUVMPT">申命記26</a> - <a href="https://bibleplan.github.io/daily/wk18-day2-daily.html">獻上初熟</a></summary>
   <ul>
+    <li>得了神所賜的應許之地為業以後，要獻上初熟的土產，並要述說神的眷顧、拯救和賜福。</li>
+    <li>每逢三年，要拿出十分之一的土產，分給利未人和寄居的及孤兒寡婦，並要宣告神的一切命令都沒有違背、遺忘。</li>
+    <li>最後摩西用「三個今日」宣佈今日以色列民與神正式立約，民認耶和華為他們的神，神也認以色列民為祂的子民，照祂所應許的使他們成為聖潔的民。</li>
+    <li>從第12章開始交代的律例，到第26章的完了為止。</li>
   </ul>
  </details>
  <details>
   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記27-28&qs_version=CUVMPT">申命記27-28</a> - <a href="https://bibleplan.github.io/daily/wk18-day3-daily.html">祝福咒詛</a></summary>
   <ul>
+    <li>以色列人的存活完全依靠神和與神的良好關係，而與神的關係取決於他們是否遵守神的誡命。所以進入應許之地後的當天，就要在墁上石灰的若干大石頭上書寫神律法的一切話，立在以巴路山上，並築石壇獻祭。</li>
+    <li>摩西和祭司利未人向以色列眾人宣佈，他們今日成為神的百姓了，務要聽從神的話，遵行他的誡命、律例。摩西吩咐過河後，六個支派要在基利山上為百姓祝福，六個支派在以巴路山上宣布詛咒。利未人帶領百姓宣告製造偶像的、輕慢父母的、挪移地界的、使瞎子走差路的、對寄居的和孤兒寡婦屈枉正直的、與繼母行淫的、與獸淫合的、與異母同父或異父同母的姊妹行淫的、與岳母行淫的、暗中殺人的、賄賂害死無辜之人的、不守律法言語的人「必受咒詛」。</li>
   </ul>
  </details>
  <details>
   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記29-30&qs_version=CUVMPT">申命記29-30</a> - <a href="https://bibleplan.github.io/daily/wk18-day4-daily.html">福禍自取</a></summary>
   <ul>
+    <li>摩西再次重申神昔日的大試驗和神蹟、大奇事，呼籲當時及以後的以色列民遵守與神所立的約。這約不是難行的，也不是遙不可及的，「就在你口中，在你心裏，使你可以遵行」。若百姓拒絕，藐視律法，神必「將這書上所寫的一切咒詛都加在他身上」。但即使背棄神得到咒詛和懲罰，只要真心歸回，神必再喜悅、賜福。</li>
   </ul>
  </details>
  <details>
   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記31:1-29&qs_version=CUVMPT">申命記31:1-29</a> - <a href="https://bibleplan.github.io/daily/wk18-day5-daily.html">最後叮囑</a></summary>
   <ul>
+    <li>摩西因為年事已高，且神已經明說過，所以不能帶領以色列民過約旦河、進入迦南，但神必立約書亞為新領袖引導百姓過去，將那地的國民在他們面前滅絕。摩西在眾人面前勉勵約書亞，要他剛強壯膽。</li>
+    <li>摩西叮囑祭司、利未人及長老，要他們在每七年的豁免年的住棚節，召集百姓，向他們宣讀律法書，讓他們學習敬畏神。</li>
+    <li>神召摩西和約書亞，向他們預言選民將背棄神，要摩西寫一首歌「見證他們的不是」。</li>
+    <li>摩西書寫律法書，放在神的約櫃旁，見證以色列人的不是。</li>
   </ul>
  </details>
  <details>
   <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記31:30-33:29&qs_version=CUVMPT">申命記31:30-33:29</a> - <a href="https://bibleplan.github.io/daily/wk18-day6-daily.html">臨別詩歌</a></summary>
   <ul>
+    <li>32章：按照神的吩咐，摩西寫下詩歌，回顧神的恩典與作為，百姓的悖逆不信，隨之而來的責罰，也帶著回歸復興的應許。詩歌宣告神是磐石，除祂以外，並無別神。摩西叮囑百姓要把這警教放在心上，要吩咐子孫謹守遵行，因為「這不是虛空、與你們無關的事，乃是你們的生命」。神再次告訴摩西，他因米利巴水的事上沒有尊神為聖而將死在尼波山上。</li>
+    <li>33章：摩西臨死前向以色列十二支派祝福，以形容神的威榮開始，以讚美蒙神拯救之民所承受的恩典結束。以色列雖然必定失敗，在這祝福中看到神的憐憫，神的選民是何等有福的。</li>
   </ul>
  </details>
  <details>
   <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=申命記34&qs_version=CUVMPT">申命記34</a> - <a href="https://bibleplan.github.io/daily/wk19-day1-daily.html">摩西之死</a></summary>
   <ul>
+    <li>摩西獨自登上尼波山；神在毘斯迦山頂，讓摩西看見迦南全地；神親自埋葬摩西；摩西死於120歲高齡，但「眼目沒有昏花，精神沒有衰敗」。</li>
+    <li>摩西死後，約書亞作為神興起的新一代領袖，以色列民「聽從他」。</li>
+    <li>摩西是神面對面認識的人，是以色列最偉大的先知。耶和華打發他向埃及人「行各樣神蹟奇事」，又在以色列人面前「顯大能的手，行一切大而可畏的事」。</li>
   </ul>
  </details>
 </details>
@@ -846,56 +899,81 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記1&qs_version=CUVMPT">約書亞記1</a> - <a href="https://bibleplan.github.io/daily/wk19-day2-daily.html">剛強壯膽</a></summary>
   <ul>
+    <li>神呼召約書亞成為摩西的繼任者，命令他帶領百姓進入神所應許給他們祖先的土地。</li>
+    <li>神將繼續作為約書亞記的主角。</li>
+    <li>從神對約書亞的呼召認識神對信實守約的看重。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記2&qs_version=CUVMPT">約書亞記2</a> - <a href="https://bibleplan.github.io/daily/wk19-day3-daily.html">妓女喇合</a></summary>
   <ul>
+    <li>約書亞派遣探子前往耶利哥。神藉著身份低微的妓女喇合拯救了探子。</li>
+    <li>探子帶回耶利哥人驚恐的心，堅固以色列人的心。對比民數記13-14章探子的報告對以色列人的影響。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記3:1-5:12&qs_version=CUVMPT">約書亞記3:1-5:12</a> - <a href="https://bibleplan.github.io/daily/wk19-day4-daily.html">過約旦河</a></summary>
   <ul>
+    <li>耶和華行神跡使約旦河水流斷絕；約書亞帶領以色列人穿越約旦河，如同當年跨越紅海。</li>
+    <li>以色列民行割禮，慶祝逾越節，顯明神的子民的身份。</li>
+    <li>神停止供應嗎哪，顯示曠野流浪時代的終結。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記5:13-7:26&qs_version=CUVMPT">約書亞記5:13-7:26</a> - <a href="https://bibleplan.github.io/daily/wk19-day5-daily.html">耶利哥城</a></summary>
   <ul>
+    <li>耶和華軍隊的元帥向約書亞顯現，表明神將親自為以色列爭戰。</li>
+    <li>以色列軍隊按照神的旨意繞耶利哥城七日，神將城交到他們手中。</li>
+    <li>外邦人喇合和她的家人因信得救，對比猶大支派的亞干因貪慾而失去一切。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記8&qs_version=CUVMPT">約書亞記8</a> - <a href="https://bibleplan.github.io/daily/wk19-day6-daily.html">艾城之役</a></summary>
   <ul>
+    <li>神幫助約書亞，通過一個機智的軍事戰略來擊敗和摧毀艾城。</li>
+    <li>對比耶利哥和艾城戰役，都是神的作為，一個是通過神跡，一個是藉著人的謀略成就。神在這兩場戰役中用的不同方法可以幫助我們理解神的作為。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記9-10&qs_version=CUVMPT">約書亞記9-10</a> - <a href="https://bibleplan.github.io/daily/wk20-day1-daily.html">南地之戰</a></summary>
   <ul>
+    <li>約書亞和以色列首領沒有求問耶和華，被基遍人（希未人，見書9:7，11:19）設計欺騙，違反神的命令（希未人必須被滅絕淨盡，見申7:2），與他們立約。</li>
+    <li>南地亞摩利人五王聯合攻擊基遍，但被約書亞帶領以色列軍隊擊敗。以色列佔領南地諸城。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記11-12&qs_version=CUVMPT">約書亞記11-12</a> - <a href="https://bibleplan.github.io/daily/wk20-day2-daily.html">北地之戰</a></summary>
   <ul>
+    <li>南地諸王的失敗之後，以色列揮師北上，擊敗北方諸王。</li>
+    <li>12章總結了約書亞所擊敗的諸王：約旦河東的兩個王，約旦河西的三十一個王。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記13&qs_version=CUVMPT">約書亞記13</a> - <a href="https://bibleplan.github.io/daily/wk20-day3-daily.html">河東之地</a></summary>
   <ul>
+    <li>13-21章講述神如何把迦南地分給以色列各支派。神賜給亞伯拉罕和他的後裔土地的應許實現。</li>
+    <li>即使是尚未奪取的地（最終將被大衛征服，見撒下5,8章），神仍然要約書亞分給以色列。</li>
+    <li>約旦河東之地按摩西的命令分給魯本、迦得和瑪拿西的半個支派。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記14-15&qs_version=CUVMPT">約書亞記14-15</a> - <a href="https://bibleplan.github.io/daily/wk20-day4-daily.html">猶大支派</a></summary>
   <ul>
+    <li>迦南地的分配，首先是給迦勒和猶大支派，顯出猶大支派的重要性。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記16-17&qs_version=CUVMPT">約書亞記16-17</a> - <a href="https://bibleplan.github.io/daily/wk20-day5-daily.html">約瑟支派</a></summary>
   <ul>
+    <li>其次是約瑟的兩個支派：以法蓮和瑪拿西的半個支派。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記18-19&qs_version=CUVMPT">約書亞記18-19</a> - <a href="https://bibleplan.github.io/daily/wk20-day6-daily.html">其他支派</a></summary>
   <ul>
+    <li>其他支派的分地方式不同於猶大、約瑟支派的分地方式。</li>
+    <li>這部分的分地敘述開始於便雅憫支派，其所得之地包含耶路撒冷，當時尚未被征服。然後才是以色列的其他支派。</li>
+    <li>最後是分給約書亞的產業。分地的敘述起止於進迦南的兩位上一代以色列人：從迦勒開始，以約書亞結束。</li>
   </ul>
  </details>
  <details>
