@@ -1088,16 +1088,28 @@
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記17-18&qs_version=CUVMPT">士師記17-18</a> - <a href="https://bibleplan.github.io/daily/wk23-day1-daily.html">私設聖所</a></summary>
   <ul>
+    <li>「那時以色列中沒有王，各人任意而行。」(士17:6)</li>
+    <li>米迦造神像和以弗得，在自家私設聖所，指派自己的兒子作祭司。</li>
+    <li>從伯利恒來尋找供養的利未少年人，留下作米迦家中的祭司。</li>
+    <li>不在摩西約書亞分派的地界爭戰得地、卻四處尋找易得的居住地的但支派，看到米迦私設神堂中的偶像、以弗得就搶去，並利誘利未少年人轉去作但支派的祭司。</li>
+    <li>但支派野蠻屠殺在拉億安居的民，奪了那地居住，改名為但，設立摩西之孫作但支派的祭司。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記19&qs_version=CUVMPT">士師記19</a> - <a href="https://bibleplan.github.io/daily/wk23-day2-daily.html">匪徒暴虐</a></summary>
   <ul>
+    <li>住以法蓮的一個利未人在帶妾回家的路上，途經便雅憫地界時無人接待，所幸有從以法蓮來的老人留他們住宿。</li>
+    <li>不料在這便雅憫境內卻遇到只有在當年被神毀滅的所多瑪（創19）發生過的相同的事：城裡的匪徒強與利未人交合，老人願用自己的女兒代替而匪徒不肯；利未人只好交出自己的妾，被匪徒終夜凌辱而死。</li>
+    <li>利未人憤而將妾的遺體分成多塊，送到以色列各地；凡看見的人都無不驚詫而商議應對。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記20-21&qs_version=CUVMPT">士師記20-21</a> - <a href="https://bibleplan.github.io/daily/wk23-day3-daily.html">大加討伐</a></summary>
   <ul>
+    <li>看到便雅憫境內竟然發生如此罄竹難書的惡事，以色列民從南到北群情激昂，聚集起來討伐便雅憫中的匪徒。</li>
+    <li>便雅憫人拒絕交出匪徒，反出兵與前來的以色列眾支派對壘，並殺了四萬以色列人；求問神之後，以色列人大獲全勝，僅有六百便雅憫人逃脫。</li>
+    <li>以色列人意識到自己的十二支派將要缺少一支而後悔，就用人的智慧為剩餘的六百便雅憫人找女子為妻。</li>
+    <li>士師記以「那時以色列中沒有王，各人任意而行」結束，讓我們看到沒有了耶和華的以色列民落到何種光景。</li>
   </ul>
  </details>
 </details>
@@ -1135,91 +1147,135 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音1-2&qs_version=CUVMPT">馬太福音1-2</a> - <a href="https://bibleplan.github.io/daily/wk24-day2-daily.html">耶穌是王</a></summary>
   <ul>
+    <li>馬太記錄的耶穌基督的家譜，他是亞伯拉罕的後裔，大衛的子孫，是君王的身份（1：1-18）。</li>
+    <li>耶穌基督由童貞女瑪利亞因聖靈感孕而生，是按神的應許成就（1:22-23）。</li>
+    <li>東方博士來見耶穌，是跟隨神的帶領（2:1-12）。</li>
+    <li>約瑟帶全家逃到埃及，躲避希律王的殘殺，後來從埃及回來，住在拿撒勒，都是應驗神藉著先知所說的話（2:15-23）。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音3:1-4:11&qs_version=CUVMPT">馬太福音3:1-4:11</a> - <a href="https://bibleplan.github.io/daily/wk24-day3-daily.html">勝過試探</a></summary>
   <ul>
+    <li>耶穌基督在施洗約翰那裡接受洗禮，開始進入以色列人的視野。</li>
+    <li>耶穌基督從水裡經過洗禮，然後40天在曠野，接受撒旦的試探；正如當初以色列人在紅海里經過，進入曠野四十年。但是以色列人在試探中一次次跌倒，主耶穌卻勝過所有撒旦的試探。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音4:12-6:18&qs_version=CUVMPT">馬太福音4:12-6:18</a> - <a href="https://bibleplan.github.io/daily/wk24-day4-daily.html">登山寶訓</a></summary>
   <ul>
+    <li>主耶穌呼召第一批門徒，“來跟從我，我要叫你們得人如得魚一樣”。耶穌走遍加利利，宣講福音，醫病趕鬼。眾人都跟隨他。</li>
+    <li>主耶穌接著對跟隨他的人宣講天國的福音，即登山寶訓（5:1-7:29）。今天閱讀的部分是5:1-6:18，包括天國八福（5:3-11），神的子民鹽和光的身份和職責（5:12-16）神的子民應有的生活樣式（5:17-48），真正敬虔的屬靈生活（6:1-18）。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音6:19-7:29&qs_version=CUVMPT">馬太福音6:19-7:29</a> - <a href="https://bibleplan.github.io/daily/wk24-day5-daily.html">登山寶訓2</a></summary>
   <ul>
+    <li>登山寶訓的這一部分，包括要單單事奉主（6:19-34）、合神心意的待人方式（7:112）和信靠順服扎根于神的生命（7:13-27）。</li>
+    <li>主耶穌的話里帶著權柄，讓眾人稀奇。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音8-9&qs_version=CUVMPT">馬太福音8-9</a> - <a href="https://bibleplan.github.io/daily/wk24-day6-daily.html">耶穌大能</a></summary>
   <ul>
+    <li>在馬太福音8-9章，記錄了主耶穌所行的神跡，顯示神的大能大力，戰勝撒旦的權勢。</li>
+    <li>在耶穌所行的神跡當中，穿插了兩段內容。8:18-22是跟隨耶穌的代價；9:9-17，對耶穌的反對和逼迫開始。</li>
+    <li>主耶穌看到世人如同沒有牧人的羊一樣，就憐憫他們，由此引入下面的天國的使命。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音10&qs_version=CUVMPT">馬太福音10</a> - <a href="https://bibleplan.github.io/daily/wk25-day1-daily.html">天國使命</a></summary>
   <ul>
+    <li>耶穌基督派十二個門徒出去傳天國的福音，並提醒他們將要面對的艱難和要付上的代價，並神同在、賜能力的應許，和美好的賞賜。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音11-12&qs_version=CUVMPT">馬太福音11-12</a> - <a href="https://bibleplan.github.io/daily/wk25-day2-daily.html">安息之主</a></summary>
   <ul>
+    <li>主耶穌回答施洗約翰在苦難軟弱中的疑問，並且通過解釋施洗約翰的身份向門徒和眾人顯示神的計劃，從此天國不再是靠著努力進的，而是靠跟隨主耶穌。耶穌責備人的不信，邀請人到他這裡來得享安息。</li>
+    <li>耶穌在安息日所行的神跡奇事，表明他是安息日的主。他是真正成全了安息日的律法。主耶穌反駁法利賽人關於他的能力來自鬼王的言論。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音13:1-52&qs_version=CUVMPT">馬太福音13:1-52</a> - <a href="https://bibleplan.github.io/daily/wk25-day3-daily.html">天國奧秘</a></summary>
   <ul>
+    <li>主耶穌用七個比喻來解釋天國的奧秘：撒種的比喻、稗子的比喻、芥菜種的比喻、面酵的比喻、藏寶的比喻、尋珠的比喻和撒網的比喻。</li>
+    <li>主耶穌向門徒解釋他使用比喻向眾人說話的原因和目的。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音13:53-15:39&qs_version=CUVMPT">馬太福音13:53-15:39</a> - <a href="https://bibleplan.github.io/daily/wk25-day4-daily.html">神的兒子</a></summary>
   <ul>
+    <li>對主耶穌的身份的猜測，和對他的智慧與異能的來源的討論，越來越激烈。</li>
+    <li>主耶穌餵飽5000人，又顯出在水面上行走的神跡，船上的人看見就拜他，說祂是神的兒子。</li>
+    <li>法利賽人用古人的遺傳來挑戰耶穌，耶穌指出他們是因人的遺傳犯神的誡命。</li>
+    <li>主耶穌繼續行醫治的神跡，餵飽4000人，人們歸榮耀與神。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音16-17&qs_version=CUVMPT">馬太福音16-17</a> - <a href="https://bibleplan.github.io/daily/wk25-day5-daily.html">神的形象</a></summary>
   <ul>
+    <li>彼得在神的帶領下認識到主耶穌的身份。但是當主耶穌預言自己的受死與復活的時候，他其實並不明白主的使命。主耶穌在彼得、約翰和雅各的面前改變形象，並有摩西和以利亞在他身側顯現，有光明的雲彩遮蓋，並有神親口見證耶穌的身份，彼得對主耶穌的身份有了更多更深的認識。</li>
+    <li>主耶穌兩次預言自己的受難與復活。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音18&qs_version=CUVMPT">馬太福音18</a> - <a href="https://bibleplan.github.io/daily/wk25-day6-daily.html">天國子民</a></summary>
   <ul>
+    <li>門徒爭論誰是天國里最大的。主耶穌回答他們天國里最大的應該謙卑如孩子的樣式。天國的子民對弟兄姐妹有極大的責任，不可絆倒別人，不可輕看別人，謙卑溫柔指出犯錯的弟兄的錯，彼此同心合意奉主的名聚會，完全、無條件地寬恕得罪自己的弟兄。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音19-20&qs_version=CUVMPT">馬太福音19-20</a> - <a href="https://bibleplan.github.io/daily/wk26-day1-daily.html">誰大誰小</a></summary>
   <ul>
+    <li>耶穌和門徒現在開始去往耶路撒冷的重要旅程，這個旅程將以受難、埋葬和復活為高潮。</li>
+    <li>繼續被宗教領袖反對和什麼是門徒的主題。</li>
+    <li>為獲得獎賞和獲得個人聲望而服事神是錯誤的動機。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音21-22&qs_version=CUVMPT">馬太福音21-22</a> - <a href="https://bibleplan.github.io/daily/wk26-day2-daily.html">耶路撒冷</a></summary>
   <ul>
+    <li>耶穌稱自己為君王，並潔淨自己的聖殿。</li>
+    <li>大部分的敘事是一系列的「衝突故事」穿插比喻。</li>
+    <li>耶穌與宗教領袖的衝突將導致他被殺害。</li>
   </ul>
  </details>
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音23-24&qs_version=CUVMPT">馬太福音23-24</a> - <a href="https://bibleplan.github.io/daily/wk26-day3-daily.html">末世將近</a></summary>
   <ul>
+    <li>耶穌宣佈對假冒為善的律法師和法利賽人的審判。</li>
+    <li>耶穌離開聖殿並且宣告對耶路撒冷的判斷，和對末世的預言。</li>
   </ul>
  </details>
  <details>
   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音25&qs_version=CUVMPT">馬太福音25</a> - <a href="https://bibleplan.github.io/daily/wk26-day4-daily.html">警醒等候</a></summary>
   <ul>
+    <li>因著末世將到，要警醒和服事。十個童女的比喻特別教導我們要警醒準備的工作，因為耶穌的再來是在一個沒有人知道的時間。</li>
+    <li>才幹的比喻教導我們在等待耶穌再來的過程中，伴隨著警醒的是忠心服事。</li>
+    <li>當耶穌再來的時候，天國之外的人要受審判，天國之內的人得獎賞。</li>
   </ul>
  </details>
  <details>
   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音26&qs_version=CUVMPT">馬太福音26</a> - <a href="https://bibleplan.github.io/daily/wk26-day5-daily.html">耶穌被賣</a></summary>
   <ul>
+    <li>耶穌在祂的塵世生活和使命的最後時刻對門徒說:「你們知道，過兩天是逾越節，人子將要被交給人，釘在十字架上。」(26:2)。</li>
+    <li>逾越節的宴席上設立聖餐。</li>
+    <li>在客西馬尼禱告，被猶大出賣。在公會受審，彼得三次不認主。</li>
   </ul>
  </details>
  <details>
   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音27&qs_version=CUVMPT">馬太福音27</a> - <a href="https://bibleplan.github.io/daily/wk26-day6-daily.html">被釘十架</a></summary>
   <ul>
+    <li>在彼拉多面前受審，猶太人寧願釋放巴拉巴，不願意釋放耶穌。</li>
+    <li>耶穌被釘十字架，並死在十字架上。殿裡的幔子從上到下裂為兩半。</li>
   </ul>
  </details>
  <details>
   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬太福音28&qs_version=CUVMPT">馬太福音28</a> - <a href="https://bibleplan.github.io/daily/wk27-day1-daily.html">死裡復活</a></summary>
   <ul>
+    <li>馬太福音的高潮，基督的復活和升天是基督信仰的中心事件。</li>
+    <li>十字架上死亡的逆轉，顯明耶穌的拯救大能。</li>
+    <li>耶穌對門徒頒布大使命，並應許祂與我們同在，直到世界的末了。</li>
   </ul>
  </details>
 </details>
@@ -1227,56 +1283,86 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音1&qs_version=CUVMPT">馬可福音1</a> - <a href="https://bibleplan.github.io/daily/wk27-day2-daily.html">福音起頭</a></summary>
   <ul>
+    <li>馬可介紹耶穌的身份和祂開始傳道時的事跡。</li>
+    <li>施洗約翰宣稱耶穌的使命在聖經中預言。</li>
+    <li>神的聲音從天上表明耶穌的身份。耶穌經受住了撒旦的攻擊。</li>
+    <li>耶穌在迦百農的事工：趕鬼、醫治、潔淨大麻風。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音2:1-3:6&qs_version=CUVMPT">馬可福音2:1-3:6</a> - <a href="https://bibleplan.github.io/daily/wk27-day3-daily.html">初現大能</a></summary>
   <ul>
+    <li>這部分講述了五個衝突事件來介紹耶穌，以及文士和法利賽人對耶穌的敵意。</li>
+    <li>這種安排不是按時間排列的，每個事件包含耶穌的一個重要聲明(2:10,17,19,28;3:4)。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音3:7-4:34&qs_version=CUVMPT">馬可福音3:7-4:34</a> - <a href="https://bibleplan.github.io/daily/wk27-day4-daily.html">聽道行道</a></summary>
   <ul>
+    <li>耶穌設立十二門徒，使他們常與祂同在，也差他們出去傳道。</li>
+    <li>凡遵行神旨意的人，就是祂的弟兄、姐妹。</li>
+    <li>以撒種的比喻來教訓眾人聽道也要行道的道理。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音4:35-6:6a&qs_version=CUVMPT">馬可福音4:35-6:6a</a> - <a href="https://bibleplan.github.io/daily/wk27-day5-daily.html">天地主宰</a></summary>
   <ul>
+    <li>耶穌是天地的主。</li>
+    <li>祂有平靜風和海的能力，也掌管靈界的鬼。</li>
+    <li>祂可以治好患血漏十二年的女人，也讓睚魯的女兒死而復生。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音6:6b-8:21&qs_version=CUVMPT">馬可福音6:6b-8:21</a> - <a href="https://bibleplan.github.io/daily/wk27-day6-daily.html">不解不信</a></summary>
   <ul>
+    <li>耶穌差遣十二門徒出去傳道。耶穌憐憫世人，因為他們如同羊沒有牧人。</li>
+    <li>門徒對耶穌的身份和神跡仍然有很多誤解和不信。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音8:22-9:29&qs_version=CUVMPT">馬可福音8:22-9:29</a> - <a href="https://bibleplan.github.io/daily/wk28-day1-daily.html">你是基督</a></summary>
   <ul>
+    <li>在愷撒利亞-腓立比，彼得承認耶穌是基督。耶穌第一次預言祂的受死和復活。</li>
+    <li>做門徒的代價，就是捨己，天天背起十字架來跟從耶穌。</li>
+    <li>耶穌登山變像，與摩西和以利亞站在一起。</li>
+    <li>門徒不能趕出聾啞孩子身上的鬼，顯出這是一個不信的世代。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音9:30-10:45&qs_version=CUVMPT">馬可福音9:30-10:45</a> - <a href="https://bibleplan.github.io/daily/wk28-day2-daily.html">積財在天</a></summary>
   <ul>
+    <li>耶穌再次預言自己被殺、復活。</li>
+    <li>門徒爭論誰為大。耶穌在前往耶穌撒冷的路上的講論跟從祂的人應有的態度。</li>
+    <li>耶穌第三次預言自己的被殺和復活。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音10:46-11:26&qs_version=CUVMPT">馬可福音10:46-11:26</a> - <a href="https://bibleplan.github.io/daily/wk28-day3-daily.html">騎驢進城</a></summary>
   <ul>
+    <li>耶穌光榮進入聖城耶路撒冷，在聖殿中趕出做買賣和兌換銀錢的人。</li>
+    <li>對無花果樹的咒詛與潔淨聖殿的三明治結構，顯示這些記敘的關聯，或許表明耶穌對聖殿和以色列的命運的預言。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音11:27-12:40&qs_version=CUVMPT">馬可福音11:27-12:40</a> - <a href="https://bibleplan.github.io/daily/wk28-day4-daily.html">聖殿辯論</a></summary>
   <ul>
+    <li>耶穌在聖殿中的講論：耶穌的權柄和以色列的拒絕；納稅的問題；婚姻和復活的問題。</li>
+    <li>愛人愛神的大誡命；文士的虛偽。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音12:41-13:37&qs_version=CUVMPT">馬可福音12:41-13:37</a> - <a href="https://bibleplan.github.io/daily/wk28-day5-daily.html">末日預兆</a></summary>
   <ul>
+    <li>寡婦的捐資表明神對人的奉獻的態度。</li>
+    <li>耶穌講論末日的預兆，教導我們要常常警醒。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音14&qs_version=CUVMPT">馬可福音14</a> - <a href="https://bibleplan.github.io/daily/wk28-day6-daily.html">耶穌被賣</a></summary>
   <ul>
+    <li>玉瓶的真哪噠香膏澆在耶穌頭上，為耶穌的死預備。</li>
+    <li>逾越節的宴席，客西馬尼園的禱告。</li>
+    <li>耶穌被捉拿、受審，彼得三次不認主。</li>
   </ul>
  </details>
  <details>
