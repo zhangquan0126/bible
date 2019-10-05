@@ -1979,21 +1979,35 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書1-2&qs_version=CUVMPT">加拉太書1-2</a> - <a href="https://bibleplan.github.io/daily/wk41-day1-daily.html">福音真源</a></summary>
   <ul>
+    <li>保羅的使徒職分和權柄是從神藉著耶穌基督來的。</li>
+    <li>假福音是不同的、更改了的「福音」，來源是人而不是神。傳假福音的人是當咒詛的。</li>
+    <li>真福音來源於神的啟示。真福音是因信稱義的福音。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書3:1-4:20&qs_version=CUVMPT">加拉太書3:1-4:20</a> - <a href="https://bibleplan.github.io/daily/wk41-day2-daily.html">因信稱義</a></summary>
   <ul>
+    <li>加拉太教會的信徒得救的起始，是源於信，而非律法；</li>
+    <li>因信稱義的應許，早於律法之約。人不是藉著行律法蒙恩；</li>
+    <li>律法的功用是預備人，將人圈在律法之下等候因信稱義的福音；</li>
+    <li>加拉太教會的信徒的生命成長，也證明他們是因著信基督，而不是因著行律法。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書4:21-5:12&qs_version=CUVMPT">加拉太書4:21-5:12</a> - <a href="https://bibleplan.github.io/daily/wk41-day3-daily.html">珍惜自由</a></summary>
   <ul>
+    <li>我們是憑著應許做了自主的兒女，而非憑著律法之約作了律法下的奴僕；</li>
+    <li>耶穌基督釋放了我們，叫我們得自由，不要再回到律法之下去受奴僕之軛的轄制，那樣基督就與我們無益了。</li>
+    <li>在基督裡，唯獨使人生發仁慈的信心才有功效，而非轄制人的律法。</li>
+    <li>在基督裡，要依靠聖靈，憑著信心，等候所盼望的義。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=加拉太書5:13-6:18&qs_version=CUVMPT">加拉太書5:13-6:18</a> - <a href="https://bibleplan.github.io/daily/wk41-day4-daily.html">不要放縱</a></summary>
   <ul>
+    <li>要杜絕放縱情慾，就當順著聖靈而行，靠聖靈行事，結聖靈的果子。</li>
+    <li>順從聖靈向人行善，互相擔當重擔、愛人如己，就完全了基督的律法。</li>
+    <li>要做新造的人，只誇基督的十字架。</li>
   </ul>
  </details>
 </details>
@@ -2001,26 +2015,39 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書1&qs_version=CUVMPT">以弗所書1</a> - <a href="https://bibleplan.github.io/daily/wk41-day5-daily.html">屬靈基業</a></summary>
   <ul>
+    <li>神憑著祂豐盛的恩典在耶穌基督裡揀選我們，因耶穌基督的血赦免我們的過犯，又賜給我們兒女的名分，這是我們屬靈的基業，神賜給我們這樣基業的憑證就是聖靈。</li>
+    <li>神所賜給我們的基業，讓我們與神的能力連接，這能力就是使耶穌基督從死裡復活的能力，只有神開啟我們屬靈的眼睛的時候我們才能真正的認識並倚靠祂的能力。</li>
+    <li>神給我們各樣豐富的屬靈福氣，為了要讓我們成為聖潔，好使祂的榮耀得到稱讚。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書2&qs_version=CUVMPT">以弗所書2</a> - <a href="https://bibleplan.github.io/daily/wk41-day6-daily.html">主里合一</a></summary>
   <ul>
+    <li>耶穌基督藉著十字架上的工作，將猶太人和外邦人在他裡面合為一體，造成一個新的族類。這讓原來與神國無份的外邦人進入到神的國度，可以繼承神的基業，這完全是主耶穌的工作。</li>
+    <li>耶穌基督在十字架上的工作，拆毀了猶太人與外邦人之間隔斷的墻，從此以後種族、宗教、行為不再成為他們身份的標誌，以這些作為標誌使他們隔絕;取而代之的是因同在主裡所帶來的合一。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書3:1-4:16&qs_version=CUVMPT">以弗所書3:1-4:16</a> - <a href="https://bibleplan.github.io/daily/wk42-day1-daily.html">各盡其職</a></summary>
   <ul>
+    <li>神給保羅的呼召是成為外邦人的使徒，將神藉著耶穌基督使猶太人和外邦人與神和好的奧秘託付給他。因此，保羅雖然身陷囹圄也并不懼怕，反而鼓勵因此灰心喪氣的以弗所信徒。因為他知道「這至暫至輕的苦楚，要為我們成就極重無比、永遠的榮耀」。</li>
+    <li>按照神的設計，祂的大能大力是顯在眾聖徒的群體裡面。一個方式是神給不同的人不同的屬靈恩賜，讓眾聖徒「照着各體的功用彼此相助」;同时又是一個身體，一個聖靈，一主，一信，一洗，一神成为眾聖徒合而為一的基础。</li>
+    <li>合而为一的心虽然是聖靈所赐的，保罗却要信徒们要「竭力保守」。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書4:17-6:9&qs_version=CUVMPT">以弗所書4:17-6:9</a> - <a href="https://bibleplan.github.io/daily/wk42-day2-daily.html">生活更新</a></summary>
   <ul>
+    <li>與神重新連接的人，會在生活中有與過去不一樣的行為。這是因為從前我們的舊人因私慾迷惑，而神賜給的新生命卻是照著神的形象活出來的。</li>
+    <li>在主裡面的人是光明之子，行事為人自當有光明之子的樣式：良善、公義、誠實并時時察驗何為主所喜悅的事。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=以弗所書6:10-24&qs_version=CUVMPT">以弗所書6:10-24</a> - <a href="https://bibleplan.github.io/daily/wk42-day3-daily.html">爭戰得勝</a></summary>
   <ul>
+    <li>基督徒的一生會也會面臨各樣的爭戰，既有來自世界執政掌權者，也有來自靈界的魔鬼，還有來自自己的私慾。</li>
+    <li>神賜給了每個基督徒爭戰中足以得勝的全幅軍裝，讓信徒在爭戰中站立得住，同時讓神的旨意在爭戰中成就。</li>
+    <li>要在屬靈爭戰中獲勝，需要倚靠的是神的大能大力，隨時多方爲自己和衆聖徒禱告祈求。</li>
   </ul>
  </details>
 </details>
@@ -2028,21 +2055,35 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書1:1-26&qs_version=CUVMPT">腓立比書1:1-26</a> - <a href="https://bibleplan.github.io/daily/wk42-day4-daily.html">興旺福音</a></summary>
   <ul>
+    <li>保羅為同心合意興旺福音的基督徒向神祈求和感恩。</li>
+    <li>保羅的捆鎖在外邦人中顯明為基督的緣故，反而讓福音興旺。</li>
+    <li>保羅的價值觀：活著就是基督，死了就有益處。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書1:27-2:30&qs_version=CUVMPT">腓立比書1:27-2:30</a> - <a href="https://bibleplan.github.io/daily/wk42-day5-daily.html">行事為人</a></summary>
   <ul>
+    <li>信徒的行事為人當與基督的福音相稱，同有一個心志，站立得穩，為所信的福音齊心努力。</li>
+    <li>凡事不可結黨，不可貪圖虛浮的榮耀，只要存心謙卑，各人看別人比自己強。</li>
+    <li>常順服做成信徒得救的工夫，因為信徒的立志行事，都是神在心裡運行，為要成就他的美意。</li>
+    <li>不要發怨言、起爭論，無可指摘，誠實無偽，在這彎曲悖謬的世代做神無瑕疵的兒女。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書3:1-4:3&qs_version=CUVMPT">腓立比書3:1-4:3</a> - <a href="https://bibleplan.github.io/daily/wk42-day6-daily.html">耶穌至寶</a></summary>
   <ul>
+    <li>要靠主喜樂，常常禱告。</li>
+    <li>將萬事當做有損的，因我以認識我主基督耶穌為至寶。</li>
+    <li>忘記背後，努力面前，向著標竿直跑，要得神在基督耶穌裡從上面召我來得的獎賞。</li>
+    <li>弟兄們就是我的喜樂，我的冠冕。我親愛的弟兄，你們應當靠主站立得穩。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=腓立比書4:4-23&qs_version=CUVMPT">腓立比書4:4-23</a> - <a href="https://bibleplan.github.io/daily/wk43-day1-daily.html">常常喜樂</a></summary>
   <ul>
+    <li>我們要靠主常常喜樂。</li>
+    <li>應當一無掛慮，只要凡事藉著禱告、祈求和感謝，將我們所要的告訴神。</li>
+    <li>保羅無論在什麼景況都可以知足，是因為靠著主加給力量。</li>
   </ul>
  </details>
 </details>
@@ -2050,16 +2091,26 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書1:1-2:5&qs_version=CUVMPT">歌羅西書1:1-2:5</a> - <a href="https://bibleplan.github.io/daily/wk43-day2-daily.html">神的奥秘</a></summary>
   <ul>
+    <li>認識神，知道神的旨意，是每一個重生得救的基督徒一生的功課。這不是一蹴而就的訓練，而是一生遵循神的旨意之善果的積累。</li>
+    <li>耶穌基督是神的奧秘的完全體現，神一切的豐富，一切的知識和智慧都是在耶穌基督裡面的。</li>
+    <li>傳揚神的奧秘是神給保羅的職分，在傳揚的時候，他用各樣的智慧，把人在基督裡完完全全的引導神面前。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書2:6-3:11&qs_version=CUVMPT">歌羅西書2:6-3:11</a> - <a href="https://bibleplan.github.io/daily/wk43-day3-daily.html">提防小学</a></summary>
   <ul>
+    <li>摩西律法，是耶穌到來之前對耶穌的預表，是耶穌的「影兒」，它所能啟示的神的知識是不完全的，是「小學」；而耶穌卻是神本體的真相在這個世界上完全的體現，神一切的豐富都是在耶穌基督裡面的。</li>
+    <li>猶太人想要通過行律法稱義反而容易落入假冒偽善的陷阱，表面上謙卑實際上自高自大，隨從己心，對克制肉體的情欲毫無功效。</li>
+    <li>重生得救的基督徒不再受到律法的約束，因為耶穌基督已經贖了信徒在律法上的虧欠；而新生命的表達卻會最終治死從肉體來的惡行。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=歌羅西書3:12-4:18&qs_version=CUVMPT">歌羅西書3:12-4:18</a> - <a href="https://bibleplan.github.io/daily/wk43-day4-daily.html">愛心聯絡</a></summary>
   <ul>
+    <li>被神揀選的子民因神的愛而罪得赦免，照樣，作為耶穌基督身體的教會，肢體之間應該有愛心聯絡，彼此饒恕嫌隙，在真道上追求合一。</li>
+    <li>保羅與當時很多的主內肢體之間有美好的同工關係，這中間包括他以前非常有意見的馬可。</li>
+    <li>初代教會聖徒之間彼此合作，教會之間彼此聯繫密切，教會的牧長、信徒之間也有很多的往來，他們共同因著耶穌基督大使命的託付，在地中海各個城市，同心合意，</li>
+    <li>興旺福音，對當時的世代發揮個人力量無法比擬的影響力。</li>
   </ul>
  </details>
 </details>
@@ -2067,26 +2118,40 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書1&qs_version=CUVMPT">帖撒羅尼迦前書1</a> - <a href="https://bibleplan.github.io/daily/wk43-day5-daily.html">信心根基</a></summary>
   <ul>
+    <li>耶穌基督的福音，不僅是通過言語教導，更是通過神的大能和聖靈的工作，將充足的信心賜給人。</li>
+    <li>美好的屬靈生命讓人看到因信所做的工夫、因愛所受的勞苦、和因盼望所存的忍耐。</li>
+    <li>效法主的生命，這樣信徒的生命就能成為主的福音的美好見證。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書2:1-16&qs_version=CUVMPT">帖撒羅尼迦前書2:1-16</a> - <a href="https://bibleplan.github.io/daily/wk43-day6-daily.html">信心榜樣</a></summary>
   <ul>
+    <li>保羅的信心，幫助他立定心志要討神的喜悅，靠神傳他所託付的福音；</li>
+    <li>保羅的盼望，幫助他在被害受辱的大爭戰中，依然靠神放膽做工；</li>
+    <li>保羅的愛心，幫助他對信徒存心溫柔如母親乳養兒女，又如父親教導勸勉兒女。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書2:17-3:13&qs_version=CUVMPT">帖撒羅尼迦前書2:17-3:13</a> - <a href="https://bibleplan.github.io/daily/wk44-day1-daily.html">榮耀冠冕</a></summary>
   <ul>
+    <li>信徒在信心上堅固，在主再來的時候站立得住，是保羅的榮耀、喜樂、盼望和所誇的冠冕，也是他在患難中的安慰。</li>
+    <li>堅固、補滿信徒的信心，是保羅派提摩太去帖撒羅尼迦教會的目的，也是他急切想去見他們的原因。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書4:1-12&qs_version=CUVMPT">帖撒羅尼迦前書4:1-12</a> - <a href="https://bibleplan.github.io/daily/wk44-day2-daily.html">義的行為</a></summary>
   <ul>
+    <li>保羅勸勉帖撒羅尼迦的信徒，要按照他們現在所行的，有信心有愛心有盼望的樣式，更加勉勵更加努力。</li>
+    <li>保羅用主耶穌的命令勸戒帖撒羅尼迦的信徒，要聖潔，遠離淫行。</li>
+    <li>保羅勸勉信徒要彼此相愛，要安靜做工，成為好的見證。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書4:13-5:11&qs_version=CUVMPT">帖撒羅尼迦前書4:13-5:11</a> - <a href="https://bibleplan.github.io/daily/wk44-day3-daily.html">驚醒謹守</a></summary>
   <ul>
+    <li>主再來的日子，已死去的信徒先復活，而後還活著的信徒加入他們，一同被提到雲裡，在空中與主相遇，從此與主永遠同在。</li>
+    <li>主再來的日子，好像夜間的賊來到，沒有人知道他來的時間。</li>
+    <li>信徒當驚醒謹守，以信望愛作為保護，等候主的再來。</li>
   </ul>
  </details>
  <details>
@@ -2099,11 +2164,18 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書1&qs_version=CUVMPT">帖撒羅尼迦後書1</a> - <a href="https://bibleplan.github.io/daily/wk44-day5-daily.html">公義審判</a></summary>
   <ul>
+    <li>信徒要敬重勞苦服事的神的僕人。</li>
+    <li>信徒要彼此和睦，警戒不守規矩的，勉勵灰心的，扶助軟弱的，總要追求良善。</li>
+    <li>信徒要與神的旨意、聖靈和美善的道相通相連。</li>
+    <li>信實的神必親自保守這樣的生命全然成聖。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦後書2:1-12&qs_version=CUVMPT">帖撒羅尼迦後書2:1-12</a> - <a href="https://bibleplan.github.io/daily/wk44-day6-daily.html">滅絕不法</a></summary>
   <ul>
+    <li>信徒在患難中，仍有忍耐和信心，就是神公義判斷的明證，也是信徒配得神的國的證據。</li>
+    <li>神是公義的，必將患難報應那加患難給信徒的人，並使受患難的信徒同得平安。</li>
+    <li>主再臨的時候就是神施公義審判的時候。</li>
   </ul>
  </details>
  <details>
