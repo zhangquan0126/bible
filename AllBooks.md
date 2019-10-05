@@ -1368,11 +1368,17 @@
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音15&qs_version=CUVMPT">馬可福音15</a> - <a href="https://bibleplan.github.io/daily/wk29-day1-daily.html">救主之死</a></summary>
   <ul>
+    <li>彼拉多審問耶穌卻找不到耶穌的罪狀。</li>
+    <li>猶太人寧願釋放巴拉巴也不願意釋放耶穌。</li>
+    <li>耶穌與兩個強盜一起被釘十字架，被人譏笑，死後尸體被放在磐石的墓穴裡。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=馬可福音16&qs_version=CUVMPT">馬可福音16</a> - <a href="https://bibleplan.github.io/daily/wk29-day2-daily.html">死裡復活</a></summary>
   <ul>
+    <li>兩位婦女在耶穌的墳墓看見白衣少年告訴他們耶穌已經復活。</li>
+    <li>耶穌向多人顯現，並責備門徒的不信。</li>
+    <li>耶穌向門徒頒布使命，向萬民傳福音，並與門徒同工。</li>
   </ul>
  </details>
 </details>
@@ -1562,91 +1568,150 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳1&qs_version=CUVMPT">使徒行傳1</a> - <a href="https://bibleplan.github.io/daily/wk32-day6-daily.html">等候聖靈</a></summary>
   <ul>
+    <li>耶穌囑咐門徒，要在耶路撒冷等候聖靈的洗。</li>
+    <li>門徒補選使徒。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳2&qs_version=CUVMPT">使徒行傳2</a> - <a href="https://bibleplan.github.io/daily/wk33-day1-daily.html">聖靈大能</a></summary>
   <ul>
+    <li>聖靈降臨在門徒身上，門徒得著能力，用各種語言向眾人傳講神的大作為。</li>
+    <li>彼得向困惑的眾人講解，耶穌就是神所立的基督。</li>
+    <li>三千人聽而信主，讚美神，得眾民的喜愛。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳3-4&qs_version=CUVMPT">使徒行傳3-4</a> - <a href="https://bibleplan.github.io/daily/wk33-day2-daily.html">放膽傳講</a></summary>
   <ul>
+    <li>彼得第二次講道，五千男丁信道。</li>
+    <li>面對大祭司的審訊，彼得大膽宣告耶穌是唯一拯救。</li>
+    <li>同心禱告的信徒被聖靈充滿，放膽傳講神的道。</li>
+    <li>信徒對神大有信心，凡物公用，彼此扶助。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳5:1-6:7&qs_version=CUVMPT">使徒行傳5:1-6:7</a> - <a href="https://bibleplan.github.io/daily/wk33-day3-daily.html">不可阻擋</a></summary>
   <ul>
+    <li>欺哄聖靈之人的結局，讓人對聖靈心生敬畏。</li>
+    <li>主藉使徒的手行神跡奇事，信而歸主的人越發增添，眾人病得醫治。</li>
+    <li>牢房無法囚禁使徒，反倒激勵使徒傳道。</li>
+    <li>智慧的法利賽教法師迦瑪列勸誡不要與神作對。</li>
+    <li>教會事物管理的需要，引出七執事的出現，信徒數目加增。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳6:8-7:60&qs_version=CUVMPT">使徒行傳6:8-7:60</a> - <a href="https://bibleplan.github.io/daily/wk33-day4-daily.html">天使面貌</a></summary>
   <ul>
+    <li>司提反靠主行奇事神蹟，受人誣告。</li>
+    <li>聖靈充滿的司提反宣告，正像他們的祖宗，他們活在罪中，常常抗拒聖靈，殺先知，現在又殺了那義者。</li>
+    <li>司提反殉道。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳8:1-9:31&qs_version=CUVMPT">使徒行傳8:1-9:31</a> - <a href="https://bibleplan.github.io/daily/wk33-day5-daily.html">分散傳道</a></summary>
   <ul>
+    <li>使徒以外的門徒，從耶路撒冷分散開來。</li>
+    <li>腓利在撒瑪利亞宣講基督，在曠野為歸主的埃塞俄比亞太監施洗。</li>
+    <li>捉拿門徒的掃羅，在前往大馬士革的途中遇見主。</li>
+    <li>亞拿尼亞奉聖靈差遣，按手在掃羅身上；失明的掃羅悔改而重新看見。</li>
+    <li>掃羅駁倒猶太人，證明耶穌是基督。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳9:32-10:48&qs_version=CUVMPT">使徒行傳9:32-10:48</a> - <a href="https://bibleplan.github.io/daily/wk33-day6-daily.html">臨到外邦</a></summary>
   <ul>
+    <li>彼得奉耶穌的名使癱子行走，讓死人復活。</li>
+    <li>聖靈引導彼得向外邦人哥尼流傳講福音，聖靈首次降臨在外邦人身上。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳11:1-12:24&qs_version=CUVMPT">使徒行傳11:1-12:24</a> - <a href="https://bibleplan.github.io/daily/wk34-day1-daily.html">真道興旺</a></summary>
   <ul>
+    <li>彼得講解聖靈降臨在外邦人身上的由來，使人明白神的救恩不分猶太、外邦。</li>
+    <li>福音傳到安提阿，許多外邦人信而歸主；巴拿巴和保羅一年之久教導、建立門徒。</li>
+    <li>天使解救面臨極刑的彼得。</li>
+    <li>殺害使徒雅各、囚禁彼得、不肯歸榮耀給神的希律被蟲咬死。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳12:25-13:52&qs_version=CUVMPT">使徒行傳12:25-13:52</a> - <a href="https://bibleplan.github.io/daily/wk34-day2-daily.html">宣教啟程</a></summary>
   <ul>
+    <li>聖靈呼召巴拿巴和保羅出去宣教。</li>
+    <li>保羅勝過假先知的抵擋，見證神的大能，方伯見而信道。</li>
+    <li>保羅在會堂講道，證明耶穌乃世人的救贖，多人信服。</li>
+    <li>猶太人對所聽的多有棄絕，使徒們轉向外邦人傳道。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳14:1-16:5&qs_version=CUVMPT">使徒行傳14:1-16:5</a> - <a href="https://bibleplan.github.io/daily/wk34-day3-daily.html">得救在恩</a></summary>
   <ul>
+    <li>使徒大難不死後，繼續傳福音、堅固門徒。</li>
+    <li>首次佈道旅行结束；使徒述說神藉他們所行的事，外邦人怎樣信道。</li>
+    <li>耶路撒冷會議確定得救在於主恩，停止強求無關信仰核心的規條。</li>
+    <li>第二次佈道旅行開始，提摩太加入。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳16:6-17:34&qs_version=CUVMPT">使徒行傳16:6-17:34</a> - <a href="https://bibleplan.github.io/daily/wk34-day4-daily.html">傳向歐洲</a></summary>
   <ul>
+    <li>聖靈指引使徒轉向歐洲傳道。</li>
+    <li>腓利比，呂底亞河邊信主，使徒監獄讚美神，獄卒蒙救恩。</li>
+    <li>帖撒羅尼迦多人信道。</li>
+    <li>疪哩亞人甘心受道。</li>
+    <li>保羅借未識之神宣講宇宙真神。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳18:1-19:20&qs_version=CUVMPT">使徒行傳18:1-19:20</a> - <a href="https://bibleplan.github.io/daily/wk34-day5-daily.html">許多百姓</a></summary>
   <ul>
+    <li>在哥林多建立教會一年半；主說，「這城裡我有許多的百姓。」</li>
+    <li>經過以弗所，結束第二次佈道旅行，隨即開始第三次佈道旅行。</li>
+    <li>在以弗所建立教會三年之久，眾人信而悔改，主道興旺。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳19:21-20:38&qs_version=CUVMPT">使徒行傳19:21-20:38</a> - <a href="https://bibleplan.github.io/daily/wk34-day6-daily.html">不顧性命</a></summary>
   <ul>
+    <li>神的道改變人心，偶像生意一落千丈。</li>
+    <li>不以性命爲念，一心成就主託付的使命。</li>
   </ul>
  </details>
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳21:1-22:29&qs_version=CUVMPT">使徒行傳21:1-22:29</a> - <a href="https://bibleplan.github.io/daily/wk35-day1-daily.html">耶城陳情</a></summary>
   <ul>
+    <li>不顧險阻，前往耶路撒冷。</li>
+    <li>陳明悔改、蒙召經過。</li>
+    <li>因羅馬國籍得免遇害。</li>
   </ul>
  </details>
  <details>
   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳22:30-24:27&qs_version=CUVMPT">使徒行傳22:30-24:27</a> - <a href="https://bibleplan.github.io/daily/wk35-day2-daily.html">據理力爭</a></summary>
   <ul>
+    <li>撒都該人關於死人復活的盲點，讓人看到人智慧的有限。</li>
+    <li>主的保守的啟示再次臨到；雖有人謀害，保羅被轉到愷撒利亞看守。</li>
   </ul>
  </details>
  <details>
   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳25-26&qs_version=CUVMPT">使徒行傳25-26</a> - <a href="https://bibleplan.github.io/daily/wk35-day3-daily.html">講解真道</a></summary>
   <ul>
+    <li>獲准上告於愷撒。</li>
+    <li>亞基帕王確認保羅無罪。</li>
   </ul>
  </details>
  <details>
   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳27:1-28:16&qs_version=CUVMPT">使徒行傳27:1-28:16</a> - <a href="https://bibleplan.github.io/daily/wk35-day4-daily.html">遭遇海難</a></summary>
   <ul>
+    <li>神在海難當中啟示平安，全船的人因使徒不致喪命。</li>
+    <li>保羅有神的保守，雖被毒蛇咬，安然無恙。</li>
+    <li>到達羅馬。</li>
   </ul>
  </details>
  <details>
   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=使徒行傳28:17-30&qs_version=CUVMPT">使徒行傳28:17-30</a> - <a href="https://bibleplan.github.io/daily/wk35-day5-daily.html">放膽傳講</a></summary>
   <ul>
+    <li>羅馬的猶太人曉得基督信仰到處被譭謗，但仍然願意聽講解。</li>
+    <li>猶太人有信的，也有油蒙了心而不信的；救達到外邦人。</li>
+    <li>保羅「放膽傳講神國的道」。</li>
   </ul>
  </details>
 </details>
@@ -1654,66 +1719,105 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書1:1-17&qs_version=CUVMPT">羅馬書1:1-17</a> - <a href="https://bibleplan.github.io/daily/wk35-day6-daily.html">神的福音</a></summary>
   <ul>
+    <li>福音的源頭是神</li>
+    <li>福音的內容是主耶穌基督</li>
+    <li>福音的傳揚是通過信徒，保羅是福音使者的榜樣</li>
+    <li>神借著福音顯出的義，讓人因信得生</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書1:18-2:29&qs_version=CUVMPT">羅馬書1:18-2:29</a> - <a href="https://bibleplan.github.io/daily/wk36-day1-daily.html">罪惡與審判</a></summary>
   <ul>
+    <li>人的敗壞在於明明知道神，卻不敬拜他，明知自己的惡要受審判，不但自己行，還喜歡別人去行。</li>
+    <li>沒有人是義的，唯有神是公義的審判者。</li>
+    <li>宗教禮儀不能讓人得救。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書3&qs_version=CUVMPT">羅馬書3</a> - <a href="https://bibleplan.github.io/daily/wk36-day2-daily.html">定罪與稱義</a></summary>
   <ul>
+    <li>人的不信不能廢去神的信實，人的不義倒顯出神的義。</li>
+    <li>沒有一個義人，普世之人都在神的審判之下。</li>
+    <li>靠著神的恩典，主耶穌基督的救贖，那信的就被稱為義了。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書4:1-5:11&qs_version=CUVMPT">羅馬書4:1-5:11</a> - <a href="https://bibleplan.github.io/daily/wk36-day3-daily.html">信心與行為</a></summary>
   <ul>
+    <li>稱義不是因著行為。</li>
+    <li>稱義不是因著宗教儀文。</li>
+    <li>稱義不是因著遵行律法。</li>
+    <li>稱義僅是因著信，使我們與神相和，靠主得救。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書5:12-21&qs_version=CUVMPT">羅馬書5:12-21</a> - <a href="https://bibleplan.github.io/daily/wk36-day4-daily.html">亞當與基督</a></summary>
   <ul>
+    <li>罪與死因亞當一人進入世界，因一次的過犯眾人都被定了罪。</li>
+    <li>生命與恩典也是藉著耶穌基督一人而來，因他一次的義行，眾人都被稱義得了生命。</li>
+    <li>恩典勝過過犯，恩典藉著義做王便勝過罪因著死做王。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書6:1-7:6&qs_version=CUVMPT">羅馬書6:1-7:6</a> - <a href="https://bibleplan.github.io/daily/wk36-day5-daily.html">同死與同活</a></summary>
   <ul>
+    <li>藉著洗禮，我們歸入基督的死，與他一同埋葬；又因著他的複活，聯合於他復活的形狀，叫我們一舉一動有新生的樣式。</li>
+    <li>要看自己向罪是死的，向神是活的，將肢體獻上，作義的器皿、義的奴僕。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書7:7-8:39&qs_version=CUVMPT">羅馬書7:7-8:39</a> - <a href="https://bibleplan.github.io/daily/wk36-day6-daily.html">捆綁與釋放</a></summary>
   <ul>
+    <li>罪的律藉著良善公義聖潔的律叫我們死；但是生命聖靈的律，在耶穌基督裡釋放我們，使我們脫離罪與死的律。</li>
+    <li>我們是榮耀的後裔，有聖靈與我們同證兒子的身份；有聖靈為我們代求，有神幫助我們，又因在基督耶穌裡，什麼都不能讓我們與神的愛隔絕！</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書9:1-29&qs_version=CUVMPT">羅馬書9:1-29</a> - <a href="https://bibleplan.github.io/daily/wk37-day1-daily.html">揀選的主權</a></summary>
   <ul>
+    <li>神的揀選是按神的應許，從不落空。</li>
+    <li>神的揀選在乎召人的主，而不在乎行為。</li>
+    <li>神的揀選在乎發憐憫的神，不在乎人的定意與奔跑。</li>
+    <li>神揀選得榮耀的器皿完全在於神的主權。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書9:30-10:21&qs_version=CUVMPT">羅馬書9:30-10:21</a> - <a href="https://bibleplan.github.io/daily/wk37-day2-daily.html">揀選的憑藉</a></summary>
   <ul>
+    <li>神的揀選是藉著因信稱義。</li>
+    <li>神的揀選是藉著主耶穌基督。基督是律法的總結，為我們死而復活。因信主名而呼求的就必得救。</li>
+    <li>呼求主來自於信道，信道來自於聽道，聽道來自於傳道。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書11&qs_version=CUVMPT">羅馬書11</a> - <a href="https://bibleplan.github.io/daily/wk37-day3-daily.html">揀選的智慧</a></summary>
   <ul>
+    <li>照神的揀選的恩典，他為以色列人存留餘數。</li>
+    <li>神藉著以色列人的頑梗，使救恩臨到外邦人，又藉著外邦人蒙恩，激發以色列人得救。</li>
+    <li>神的揀選是神的智慧和知識，可以憐恤以色列人也可以憐憫外邦人。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書12-13&qs_version=CUVMPT">羅馬書12-13</a> - <a href="https://bibleplan.github.io/daily/wk37-day4-daily.html">揀選的生命(一)</a></summary>
   <ul>
+    <li>在主耶穌基督里，將身體獻上當做活祭，事奉神，不要效法這世界，只要心意更新而變化，活出新生命。</li>
+    <li>信徒的生命應該是：按著所得的恩賜忠心服事，對他人以愛相待，對惡人以善勝惡，對掌權者要順服，披戴基督，不要為肉體安排。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書14-15&qs_version=CUVMPT">羅馬書14-15</a> - <a href="https://bibleplan.github.io/daily/wk37-day5-daily.html">揀選的生命(二)</a></summary>
   <ul>
+    <li>要接納信心軟弱的。不可彼此論斷。按愛人的道理行，不可絆倒人。要彼此擔當軟弱，彼此接納。</li>
+    <li>在公義、和平、並聖靈中喜樂這幾樣上服事基督。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=羅馬書16&qs_version=CUVMPT">羅馬書16</a> - <a href="https://bibleplan.github.io/daily/wk37-day6-daily.html">生命的榜樣</a></summary>
   <ul>
+    <li>除了主耶穌基督藉著保羅所做的傳福音的事，保羅什麼其他的都不敢提。</li>
+    <li>保羅立志將福音傳到更遠更廣的地方去。</li>
+    <li>保羅勸誡信徒與他一同竭力，為他禱告。</li>
+    <li>保羅告誡信徒要彼此問安，要提防背道之人。</li>
   </ul>
  </details>
 </details>
@@ -1721,51 +1825,85 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書1:1-3:4&qs_version=CUVMPT">哥林多前書1:1-3:4</a> - <a href="https://bibleplan.github.io/daily/wk38-day1-daily.html">神的智慧</a></summary>
   <ul>
+    <li>保羅提醒哥林多教會不可結黨紛爭。</li>
+    <li>神願全教會一心一意彼此相合。</li>
+    <li>神樂意用人所當作愚拙的道理拯救那些信的人，而不是用人的智慧。</li>
+    <li>神不願人誇口，自認為有智慧。</li>
+    <li>屬神的人借聖靈來獲得神的智慧，靠人的智慧無法明白神的奧秘。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書3:5-4:21&qs_version=CUVMPT">哥林多前書3:5-4:21</a> - <a href="https://bibleplan.github.io/daily/wk38-day2-daily.html">教會根基</a></summary>
   <ul>
+    <li>保羅提醒哥林多教會不要論斷，只等主來。</li>
+    <li>保羅責備自高自大、輕看他人的人。</li>
+    <li>保羅如好父親用嚴詞管教兒女般警戒教會，望教會合一，效法基督。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書5-6&qs_version=CUVMPT">哥林多前書5-6</a> - <a href="https://bibleplan.github.io/daily/wk38-day3-daily.html">避免淫行</a></summary>
   <ul>
+    <li>保羅警戒教會裡的弟兄應當避免淫行，因不義的人不能承受神的國。</li>
+    <li>從前的罪已經奉主耶穌基督的名並藉著神的靈洗淨了。神已經叫主復活，也要用自己的能力叫我們復活。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書7&qs_version=CUVMPT">哥林多前書7</a> - <a href="https://bibleplan.github.io/daily/wk38-day4-daily.html">嫁娶之事</a></summary>
   <ul>
+    <li>神所設立的婚約，要人忠於配偶。</li>
+    <li>結婚也好，獨身也好，都可以忠心侍奉神。</li>
+    <li>受不受割禮算不得什麼，守神的誡命最重要。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書8-9&qs_version=CUVMPT">哥林多前書8-9</a> - <a href="https://bibleplan.github.io/daily/wk38-day5-daily.html">真的自由</a></summary>
   <ul>
+    <li>自以為有知識的人容易自高自大目中無人，不顧及他人的軟弱。</li>
+    <li>廟堂的祭物本身對神不重要，我們不吃也無損，吃也無益。</li>
+    <li>倘若吃祭偶像之物會絆倒信心軟弱的弟兄，那寧可不吃。</li>
+    <li>保羅為基督放下一切專心傳福音。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書10:1-11:1&qs_version=CUVMPT">哥林多前書10:1-11:1</a> - <a href="https://bibleplan.github.io/daily/wk38-day6-daily.html">逃避偶像</a></summary>
   <ul>
+    <li>以色列人在試探面前大敗，應該作為我們的警戒。</li>
+    <li>神是信實的，必不叫人受試探過於所能受的。</li>
+    <li>不要求自己的益處，乃要求別人的益處。</li>
+    <li>無論做什麼，都要為榮耀神而行。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書11:2-34&qs_version=CUVMPT">哥林多前書11:2-34</a> - <a href="https://bibleplan.github.io/daily/wk39-day1-daily.html">蒙頭與聖餐</a></summary>
   <ul>
+    <li>蒙頭在當時的傳統中表示莊重。保羅建議當時的婦女應該蒙頭。</li>
+    <li>借著聖餐常常提醒紀念主，吃聖餐前自己省察自己，然後吃這餅、喝這杯。</li>
+    <li>聚會吃的時候，要彼此等待。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書12-14&qs_version=CUVMPT">哥林多前書12-14</a> - <a href="https://bibleplan.github.io/daily/wk39-day2-daily.html">屬靈的恩賜</a></summary>
   <ul>
+    <li>屬靈的恩賜是聖靈隨己意分給各人的。</li>
+    <li>肢體都從一位聖靈受洗，成了一個身體，飲於一位聖靈。</li>
+    <li>縱使有再多恩賜，若沒有愛，不用來造就人，都是無益。</li>
+    <li>我們現在所知道的有限，先知所講的也有限，等那完全的來到，這有限的必歸於無有了。</li>
+    <li>說方言是屬靈恩賜，可是對不懂的人講也是無益。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書15&qs_version=CUVMPT">哥林多前書15</a> - <a href="https://bibleplan.github.io/daily/wk39-day3-daily.html">得救的憑據</a></summary>
   <ul>
+    <li>保羅重申福音，糾正那些不相信基督從死裡復活的錯誤觀念。</li>
+    <li>基督的復活彰顯神的大能。</li>
+    <li>保羅原是使徒中最小的，從前逼迫教會。然而後來蒙神的恩典成為神重用的器皿。</li>
   </ul>
  </details>
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多前書16&qs_version=CUVMPT">哥林多前書16</a> - <a href="https://bibleplan.github.io/daily/wk39-day4-daily.html">捐項與勸勉</a></summary>
   <ul>
+    <li>保羅提醒哥林多教會用捐項幫助耶路撒冷窮困的教會。</li>
+    <li>哥林多教會可能輕看保羅差遣來的提摩太，保羅告誡他們不要看重這個輕看那個。</li>
   </ul>
  </details>
 </details>
@@ -1773,41 +1911,67 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書1:1-2:13&qs_version=CUVMPT">哥林多後書1:1-2:13</a> - <a href="https://bibleplan.github.io/daily/wk39-day5-daily.html">患難與憂愁</a></summary>
   <ul>
+    <li>神是發慈悲的父，賜各樣安慰的神。多受基督的苦楚的，就靠基督多得安慰；並用這苦楚與安慰，成為同在基督裡受苦的肢體的安慰。</li>
+    <li>信徒彼此相待，不是為了讓彼此憂愁，而是因著堅定不移的愛心，讓彼此在主裡真正快樂。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書2:14-4:6&qs_version=CUVMPT">哥林多後書2:14-4:6</a> - <a href="https://bibleplan.github.io/daily/wk39-day6-daily.html">香氣與榮光</a></summary>
   <ul>
+    <li>保羅與同工「由於誠實，由於神，在神面前憑著基督講道」；也是神，率領他們在基督裡誇勝，並藉著他們在各處顯揚因認識基督而有的香氣。</li>
+    <li>保羅與同工是新約的執事，是屬靈的執事，是稱義的執事，有極大的長存的榮光。主的靈使人變成主的形狀，榮上加榮。</li>
+    <li>我們要傳揚耶穌基督為主，使基督的榮光照在人的心裡。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書4:7-5:1&qs_version=CUVMPT">哥林多後書4:7-5:1</a> - <a href="https://bibleplan.github.io/daily/wk40-day1-daily.html">暫時與永恆</a></summary>
   <ul>
+    <li>保羅的生命的榜樣是這樣的：身上常帶著基督的死，卻顯明基督復活的生命；外體雖然毀壞，內心卻一天新似一天；顧念看不見的永遠的榮耀，輕看所能看見的暫時的苦楚，因為這地上的帳篷雖然拆毀，卻得以穿上屬天的房屋。</li>
+    <li>基督的門徒要立定心志、為主而活、討主喜悅，將榮耀歸給神。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書5:11-7:4&qs_version=CUVMPT">哥林多後書5:11-7:4</a> - <a href="https://bibleplan.github.io/daily/wk40-day2-daily.html">和好與悅納</a></summary>
   <ul>
+    <li>基督的使者的職分，是替基督求眾人與神和好;</li>
+    <li>基督的使者的榜樣，是在各樣的事情上表明自己是神的用人;</li>
+    <li>基督的使者的生命，是以敞開的口、寬宏的心對待人;</li>
+    <li>當效法基督的使者的樣式，要分別為聖，與神相交，潔淨自己、除去污穢、敬畏神，得以成聖。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書7:5-16&qs_version=CUVMPT">哥林多後書7:5-16</a> - <a href="https://bibleplan.github.io/daily/wk40-day3-daily.html">依神的意思</a></summary>
   <ul>
+    <li>依著神的意思憂愁，就凡事不受虧損；</li>
+    <li>依著神的意思憂愁，就生出沒有後悔的悔改，以致於得救；</li>
+    <li>依著神的意思憂愁，可以幫助我們生出美好的品格；</li>
+    <li>依著神的意思憂愁，就表明潔淨的生命。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書8-9&qs_version=CUVMPT">哥林多後書8-9</a> - <a href="https://bibleplan.github.io/daily/wk40-day4-daily.html">甘心的捐助</a></summary>
   <ul>
+    <li>捐助要甘心樂意，按照神給的力量而行；</li>
+    <li>捐助是效法主耶穌，祂本來富足，卻為我們成為貧窮，叫我們因祂的貧窮，可以成為富足；</li>
+    <li>捐助也是為結仁義的果子而撒的種子。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書10-11&qs_version=CUVMPT">哥林多後書10-11</a> - <a href="https://bibleplan.github.io/daily/wk40-day5-daily.html">使徒的權柄</a></summary>
   <ul>
+    <li>真使徒不是靠血氣爭戰，而是靠神的能力；</li>
+    <li>真使徒是要造就人，而不是為了敗壞人；</li>
+    <li>真使徒不仗著別人的勞碌誇口，只靠神賜給他們的界線，指著主誇口；</li>
+    <li>真使徒掛心信徒的信仰的忠誠和純正；</li>
+    <li>真使徒自甘卑微，叫信徒高升，凡事為信徒謹守；</li>
+    <li>假使徒必照著他們的行為得他們的結局。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哥林多後書12-13&qs_version=CUVMPT">哥林多後書12-13</a> - <a href="https://bibleplan.github.io/daily/wk40-day6-daily.html">保羅的自誇</a></summary>
   <ul>
+    <li>倚仗著經歷自誇是愚妄的，保羅本不願意自誇，他「自誇」是為了向人證明自己使徒的憑據和呼召。他更願意誇自己的軟弱，好叫基督的能力覆蔽他。保羅經歷患難(11:23-33)；得到主的顯現和啟示(12:1-10)；用百般的忍耐，藉著神蹟奇事異能顯出使徒的憑據來(12:12)；愛哥林多教會如同自己的孩子(11:7-11，12:14-18)；一切都是為了造就人(12:19-21)。</li>
+    <li>保羅提醒眾人，使徒的權柄不會寬容犯罪。</li>
   </ul>
  </details>
 </details>
