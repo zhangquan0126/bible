@@ -2157,9 +2157,10 @@
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=帖撒羅尼迦前書5:12-28&qs_version=CUVMPT">帖撒羅尼迦前書5:12-28</a> - <a href="https://bibleplan.github.io/daily/wk44-day4-daily.html">全然成聖</a></summary>
   <ul>
-    <li>在主再來的日子到來之前，必有記號，有離道反教的事，並有沉淪之子顯露出來。因此當有人說主已經來了的時候，不要輕易動心，也不要驚慌。</li>
-    <li>那不法之人是照撒旦的運動而來的，有奇事相隨。他的到來，使不信的人被定罪。</li>
-    <li>主再來的時候必滅絕沉淪之子。</li>
+    <li>信徒要敬重勞苦服事的神的僕人。</li>
+    <li>信徒要彼此和睦，警戒不守規矩的，勉勵灰心的，扶助軟弱的，總要追求良善。</li>
+    <li>信徒要與神的旨意、聖靈和美善的道相通相連。</li>
+    <li>信實的神必親自保守這樣的生命全然成聖。</li>
   </ul>
  </details>
 </details>
