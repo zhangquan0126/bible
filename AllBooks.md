@@ -979,16 +979,25 @@
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記20-21&qs_version=CUVMPT">約書亞記20-21</a> - <a href="https://bibleplan.github.io/daily/wk21-day1-daily.html">利未支派</a></summary>
   <ul>
+    <li>神為以色列人和在他們中間寄居的外人設立了六座逃城，三座在約旦河東，三座在河西，在應許之地均勻分佈，保證誤殺人的在半天內可以逃到，這是按照神吩咐摩西的(申命記19:1-13；民數記35:9-34)。</li>
+    <li>利未人分散應許之地全境，從各支派都得到城邑，他們與各支派混居，將敬畏神的生活帶到各個支派。</li>
+    <li>應許之地分配完畢，“神應許賜福給以色列家的話，一句也沒有落空，都應驗了”（21:45）</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記22-23&qs_version=CUVMPT">約書亞記22-23</a> - <a href="https://bibleplan.github.io/daily/wk21-day2-daily.html">歸回河東</a></summary>
   <ul>
+    <li>河東兩個半支派謹守諾言，幫助他們的弟兄奪取河西之地。分地完畢，約書亞給他們祝福，叮囑他們專心侍奉神，並囑咐他們將戰利品與留守的眾弟兄分享，方才打發他們回去。</li>
+    <li>兩個半支派的人到了約旦河，在那裡筑壇，因而引起其他九個半支派的猜疑，以為他們要事奉別神。祭司非尼哈與各支派代表去責問河東兩個半支派，他們回答柔和，告白信仰，弟兄間和好，一場猜疑化為美事。</li>
   </ul>
  </details>
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約書亞記24&qs_version=CUVMPT">約書亞記24</a> - <a href="https://bibleplan.github.io/daily/wk21-day3-daily.html">臨終勸勉</a></summary>
   <ul>
+    <li>約書亞第23章是約書亞臨終前對以色列眾領袖的勸勉，第24章是約書亞對於整個民族的勸勉，重申與神的約。</li>
+    <li>約書亞數算神在以色列人身上的恩典、提醒他們謹守遵行神的律例典章、專心依靠侍奉耶和華、不可偏離、不可與異教子民混雜通婚、不可敬拜別神。</li>
+    <li>約書亞讓以色列人做選擇，並與他們立約，為他們設立律法典章，並立石為證。</li>
+    <li>約書亞和以利亞撒去世。約瑟的骸骨葬于示劍。以色列人寄居外邦和流浪曠野的時代至此結束。</li>
   </ul>
  </details>
 </details>
@@ -996,46 +1005,84 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記1:1-2:5&qs_version=CUVMPT">士師記1:1-2:5</a> - <a href="https://bibleplan.github.io/daily/wk21-day4-daily.html">漸入網羅</a></summary>
   <ul>
+    <li>約書亞死後，不再有統領以色列人的領袖。</li>
+    <li>以色列人求問神後，有神同在的猶大支派和西緬支派聯手攻取了耶路撒冷、希伯崙等諸多城邑，將城盡行毀滅，但不能趕出在平原有鐵車的迦南人；迦勒照摩西所說，得了希伯崙為業，並從那裡趕出亞衲族長；有神同在的約瑟家也攻取了伯特利。</li>
+    <li>俄陀聶因奪取了底壁而得娶迦勒的女兒押撒為妻。俄陀聶後來成為神興起的第一位士師。</li>
+    <li>便雅憫人、瑪拿西人、以法蓮人、西布倫人、亞設人、拿弗他利人、但人無法趕出迦南人，迦南人仍住在他們中間，成了服苦的人。</li>
+    <li>神的使者斥責以色列人仍與當地居民立約、沒有拆毀他們的祭壇，因此必不將迦南人趕出，他們的神必成為日後的網羅；百姓聽見就放聲而哭。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記2:6-3:6&qs_version=CUVMPT">士師記2:6-3:6</a> - <a href="https://bibleplan.github.io/daily/wk21-day5-daily.html">傷癒忘痛</a></summary>
   <ul>
+    <li>當沒有經歷神為他們爭戰的世代開始離棄神，轉去侍奉別神，耶和華按先前所起的誓，以災禍攻擊他們，把他們交在敵人手中，他們在敵人面前再不能站立得住。</li>
+    <li>以色列人因受欺壓擾而哀聲嘆氣，神就憐憫他們，興起士師，拯救他們脫離敵人的手。</li>
+    <li>士師死後，以色列人又去拜別神，於是耶和華留下幾族人，為要讓後來的以色列人學習戰事，也為試驗他們是否願意聽從神的誡命；然而以色列人悖逆神，去和那幾族人混居、通婚，並侍奉他們的神。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記3:7-5:31&qs_version=CUVMPT">士師記3:7-5:31</a> - <a href="https://bibleplan.github.io/daily/wk21-day6-daily.html">士師初興</a></summary>
   <ul>
+    <li>以色列人忘記神，侍奉別神，被神交在迦南人手中受苦；以色列人向神呼求，神就興起士師拯救他們；然而以色列國中一旦太平，他們又去行惡。</li>
+    <li>神先後興起俄陀聶、以笏、珊迦、底波拉作士師。</li>
+    <li>女士師底波拉激勵巴拉依靠耶和華與擁有九百輛鐵車的夏瑣大軍奮勇爭戰，大敗夏瑣軍，又有女子雅億擊殺從戰場逃脫的夏瑣將軍西西拉，最終滅絕迦南王耶賓。</li>
+    <li>底波拉和巴拉作得勝讚美詩，述說神的作為，紀念面對夏瑣大軍的勝利。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記6-7&qs_version=CUVMPT">士師記6-7</a> - <a href="https://bibleplan.github.io/daily/wk22-day1-daily.html">以弱勝強</a></summary>
   <ul>
+    <li>太平之後以色列人又行惡，被神交在米甸人手裡受擄掠七年。</li>
+    <li>神的使者向基甸顯現，用火燒盡祭物作為基甸蒙恩的證據；基甸為神築壇，名為「耶和華沙龍」。</li>
+    <li>基甸不顧危險，順服神，拆毀父親為巴力築的壇，建神的壇並獻燔祭；巴力並不能為自己爭論。</li>
+    <li>基甸招聚眾支派迎擊來襲的米甸大軍之前，神兩次用羊毛的乾濕向基甸顯明祂在這一切當中掌權。</li>
+    <li>神讓基甸把已經處於劣勢的出征人數減至區區三百人，用以卵擊石之勢全面擊潰米甸大軍，殺敵十二萬(士8:10)。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記8&qs_version=CUVMPT">士師記8</a> - <a href="https://bibleplan.github.io/daily/wk22-day2-daily.html">紀念勝利</a></summary>
   <ul>
+    <li>以法蓮人因未被呼召同去征討米甸人而生怨言，基甸謙卑安撫。</li>
+    <li>基甸繼續帶領三百勇士征討剩餘的一萬五千米甸人，殺死二王，驚散全軍。</li>
+    <li>因為先前拒絕幫助與米甸爭戰的軍隊，基甸懲罰疏割人和毗努伊勒人。</li>
+    <li>基甸拒絕治理以色列，但為紀念勝利，用從米甸人所掠的金耳環造成一個以弗得，終成日後的網羅。</li>
+    <li>基甸死後，以色列人又遠離耶和華去拜諸巴力，也不恩待基甸的家。</li>
   </ul>
  </details>
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記9:1-10:5&qs_version=CUVMPT">士師記9:1-10:5</a> - <a href="https://bibleplan.github.io/daily/wk22-day3-daily.html">自立為王</a></summary>
   <ul>
+    <li>基甸的兒子亞比米勒自立為王，殺死弟兄七十人，唯有基甸的小兒子約坦躲過；約坦在基利心山上向示劍人大聲喊叫，警告叛逆的人將要敗亡。</li>
+    <li>亞比米勒與示劍人不和、互相攻擊；三年後，亞比米勒在攻打提備斯時，被一塊婦人拋下的磨石擊中而死。</li>
+    <li>亞比米勒以後，神興起陀拉、睚珥做士師。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記10:6-12:15&qs_version=CUVMPT">士師記10:6-12:15</a> - <a href="https://bibleplan.github.io/daily/wk22-day4-daily.html">許願還願</a></summary>
   <ul>
+    <li>以色列人離棄神、受非利士人和亞捫人的擾害欺壓十八年後，向神認罪並除掉外邦神；亞捫人來犯，以色列人苦於缺乏元帥。</li>
+    <li>勇士耶弗他出身卑賤，被趕出家門；急難當中被長老們請回，率領以色列人迎擊敵人。</li>
+    <li>耶弗他向亞捫王陳明以色列人得地居住三百年的歷史，由耶和華判斷其中是非；亞捫王不肯聽，耶弗他就許願將首先迎接他得勝歸來的人獻給神；神將亞捫人交在以色列人手中，亞捫人就被制服；不料出迎的是他獨生的女兒，耶弗他雖然極其為難，仍將女兒終身獻與神。</li>
+    <li>以法蓮人因沒有被邀請同去迎擊亞捫人，要挾會火燒耶弗他和他的家；耶弗他招聚基列人，殺四萬二千以法蓮人。</li>
+    <li>耶弗他以後，有以比讚、以倫、押頓做以色列的士師。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記13-14&qs_version=CUVMPT">士師記13-14</a> - <a href="https://bibleplan.github.io/daily/wk22-day5-daily.html">神勇不羈</a></summary>
   <ul>
+    <li>以色列人又行神眼中看为恶的事，在非利士人手中受苦害四十年。</li>
+    <li>本不生育的參孫父母受神指示，把神所賜的兒子參孫獻為終身的拿細耳人。</li>
+    <li>參孫長大後，有耶和華的靈大大感動而有超乎常人的神力，能徒手撕裂獅子，但任意妄為，並不看重律法和拿細耳人的身分。</li>
+    <li>參孫不顧律法，執意娶非利士人為妻。</li>
+    <li>參孫本想用除他以外無人能解的謎獲得好處，但終向妻子洩露謎底，反要給說出謎底之人衣物；參孫殺死非利士人並奪取他們的衣物，最後失去妻子。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=士師記15-16&qs_version=CUVMPT">士師記15-16</a> - <a href="https://bibleplan.github.io/daily/wk22-day6-daily.html">同歸於盡</a></summary>
   <ul>
+    <li>參孫怒中離開岳父家，回來時妻子已然另外嫁人；參孫盛怒之下對非利士人任意報復，致使前妻、岳父被害。</li>
+    <li>猶大人迫於壓力，把參孫交於非利士人；參孫有神的靈感動，用驢腮骨擊殺非利士千人；神在無水之地使水湧出，參孫得救於乾渴。</li>
+    <li>參孫肆意親近女色，雖靠謊言及神賜大力多次制敵，終因洩露真情，被剃去拿細耳人終身不可剃的頭髮，失去神的同在與力量，被非利士人所擒、剜眼；頭髮和力量回來後，在被非利士人戲弄時，與敵人同歸於盡，成為他一生中殺敵最多的一次。參孫做士師二十年。</li>
   </ul>
  </details>
  <details>
