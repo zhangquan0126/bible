@@ -13,14 +13,14 @@
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記2:4-4:26&qs_version=CUVMPT">創世記2:4-4:26</a> - <a href="https://bibleplan.github.io/daily/wk1-day2-daily.html">人類始祖</a></summary>
   <ul>
    <li>創 2:4-4:26 是創世記十段家族史的第一段，是人類始祖亞當夏娃的家族史。</li>
-   <li>神創造人並安置在伊甸園，夏娃是從亞當的肋骨所造，為要成為一體彼此幫助(2:4–25)；蛇引誘人犯罪遠離神，失去與神的同在(3:1–24)；人類進一步墮落，亞當夏娃的兒子該隱殺了弟弟亞伯，該隱的後裔拉麥的傲慢，以及罪惡中的希望：「`那時候，人才求告耶和華的名。`」 (4:1–26)。</li>
+   <li>神創造人並安置在伊甸園，夏娃是從亞當的肋骨所造，為要成為一體彼此幫助(2:4–25)；蛇引誘人犯罪遠離神，失去與神的同在(3:1–24)；人類進一步墮落，亞當夏娃的兒子該隱殺了弟弟亞伯，該隱的後裔拉麥的傲慢，以及罪惡中的希望：「那時候，人才求告耶和華的名。」 (4:1–26)。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記5:1-6:8&qs_version=CUVMPT">創世記5:1-6:8</a> - <a href="https://bibleplan.github.io/daily/wk1-day3-daily.html">賽特家族</a></summary>
   <ul>
    <li>創 5:1-6:8 是創世記十段家族史的第二段，是亞當另一個兒子賽特那一支的歷史。</li>
-   <li>賽特與亞當的形象樣式相似；亞當死了；以諾與神同行；挪亞「`必為我們的操作和手中的勞苦安慰我們`」；人的罪惡更大，神要除滅人，「`唯有挪亞在耶和華眼 前蒙恩`」。</li>
+   <li>賽特與亞當的形象樣式相似；亞當死了；以諾與神同行；挪亞「必為我們的操作和手中的勞苦安慰我們」；人的罪惡更大，神要除滅人，「唯有挪亞在耶和華眼 前蒙恩」。</li>
    <li>與前一天所讀經文中亞當的另一個兒子該隱的家族對比。</li>
   </ul>
  </details>
@@ -28,7 +28,7 @@
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記6:9-9:29&qs_version=CUVMPT">創世記6:9-9:29</a> - <a href="https://bibleplan.github.io/daily/wk1-day4-daily.html">洪水滔天</a></summary>
   <ul>
    <li>創 6:9-9:29 是創世記十段家族史的第三段,是挪亞的家族史。</li>
-   <li>挪亞與以諾一樣，也是「`與神同行`」(6:9)。洪水是因為世界的敗壞，挪亞得救是因為他的義與順服。大洪水使世界回復到創造前的影子(創 1:2)。神與人類重新立約，對挪亞的命令「`生養眾多,遍滿了地`」是對亞當命令的重申。挪亞的兒子繼續墮落被詛咒，但其中一個兒子「閃」得到祝福。</li>
+   <li>挪亞與以諾一樣，也是「與神同行」(6:9)。洪水是因為世界的敗壞，挪亞得救是因為他的義與順服。大洪水使世界回復到創造前的影子(創 1:2)。神與人類重新立約，對挪亞的命令「生養眾多,遍滿了地」是對亞當命令的重申。挪亞的兒子繼續墮落被詛咒，但其中一個兒子「閃」得到祝福。</li>
    <li>在人的罪惡中，被揀選的民族的帶來新的希望，人類的救贖通過他們最終到來。</li>
   </ul>
  </details>
@@ -91,7 +91,7 @@
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記20-21&qs_version=CUVMPT">創世記20-21</a> - <a href="https://bibleplan.github.io/daily/2018-02-05-daily.html">應許之子</a></summary>
   <ul>
-   <li>`創 20-21` 繼續應許的主題，應許之子以撒出生。</li>
+   <li>創 20-21 繼續應許的主題，應許之子以撒出生。</li>
    <li>亞伯拉罕又一次遷居，寄居在非利士人的地方；他又一次稱撒拉為他的妹妹，神保守撒拉，從而保守應許之子以撒的誕生。</li>
    <li>以撒漸長，亞伯拉罕將夏甲和以實瑪利送走。非利士人的王亞比米勒與亞伯拉罕立和平相處的約。</li>
   </ul>
@@ -99,7 +99,7 @@
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記22-23&qs_version=CUVMPT">創世記22-23</a> - <a href="https://bibleplan.github.io/daily/2018-02-06-daily.html">信心試驗</a></summary>
   <ul>
-   <li>`創 22-23` 藉著亞伯拉罕的試驗告訴我們應該如何看待神的應許；亞伯拉罕得到第一塊應許之地。</li>
+   <li>創 22-23 藉著亞伯拉罕的試驗告訴我們應該如何看待神的應許；亞伯拉罕得到第一塊應許之地。</li>
    <li>神試驗亞伯拉罕，要他將以撒獻爲燔祭，亞伯拉罕順服的信心經過試驗，神供應公羊代替了以撒，並再次向亞伯拉罕堅立所立的約。</li>
    <li>撒拉去世，亞伯拉罕買地埋葬撒拉，這是他在應許之地所擁有的第一塊地。</li>
   </ul>
@@ -107,7 +107,7 @@
  <details>
   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記24-25:11&qs_version=CUVMPT">創世記24-25:11</a> - <a href="https://bibleplan.github.io/daily/2018-02-07-daily.html">歸回列祖</a></summary>
   <ul>
-   <li>`創世紀 24-25:11` 是神對亞伯拉罕的應許這個主題的結束。亞伯拉罕去世。</li>
+   <li>創世紀 24-25:11 是神對亞伯拉罕的應許這個主題的結束。亞伯拉罕去世。</li>
    <li>亞伯拉罕派遣他的老僕人去他的本族為兒子以撒娶妻。老僕人在神的帶領下找到拉班，爲以撒娶了利百加。</li>
    <li>亞伯拉罕又娶妻生子，175 歲去世。亞伯拉罕將一切所有的都給了以撒。</li>
   </ul>
@@ -115,15 +115,15 @@
  <details>
   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記25:12-18&qs_version=CUVMPT">創世記25:12-18</a> - <a href="https://bibleplan.github.io/daily/2018-02-08-daily.html">以實瑪利</a></summary>
   <ul>
-   <li>`創世紀 25:12-18` 記錄了以實瑪利的後裔。神的應許從不落空。</li>
+   <li>創世紀 25:12-18 記錄了以實瑪利的後裔。神的應許從不落空。</li>
    <li>正如神所應許的，以實瑪利成為十二個族長的父親，住在眾弟兄的東邊。</li>
   </ul>
  </details>
  <details>
   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記25:19-26:35&qs_version=CUVMPT">創世記25:19-26:35</a> - <a href="https://bibleplan.github.io/daily/2018-02-09-daily.html">以撒家族</a></summary>
   <ul>
-   <li>`創世紀 25:19-35:29` 是創世記十段家族史的第八段，神的應許之子以撒的家族。</li>
-   <li>今天的經文 `25:19-26:35` 講到以撒的兩個兒子的出生和鬥。</li>
+   <li>創世紀 25:19-35:29 是創世記十段家族史的第八段，神的應許之子以撒的家族。</li>
+   <li>今天的經文 25:19-26:35 講到以撒的兩個兒子的出生和鬥。</li>
    <li>以撒與利百加生了雙生子。按神的應許，次子雅各將要強於長子以掃。雅各用紅豆湯換取了以掃的長子名分，</li>
    <li>以掃輕看了長子的名分。以撒按神的旨意住在非利士人的地方基拉耳，謊稱妻子是自己的妹妹。</li>
    <li>以撒因為強盛而被非利士人趕逐，在非利士人搶奪井的事情上退讓，神帶領他到寬闊之地。</li>
@@ -133,7 +133,7 @@
  <details>
   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記27-28&qs_version=CUVMPT">創世記27-28</a> - <a href="https://bibleplan.github.io/daily/2018-02-10-daily.html">雅各逃亡</a></summary>
   <ul>
-   <li>`創世紀 27-28` 講述雅各用欺騙的手段得到父親的祝福，並逃亡。</li>
+   <li>創世紀 27-28 講述雅各用欺騙的手段得到父親的祝福，並逃亡。</li>
    <li>以撒年老眼瞎，要給以掃祝福。利百加幫助雅各欺騙以撒，得到了本來要給以掃的祝福。以掃憤怒要殺雅各。</li>
    <li>雅各聽從父母之命去拉班那裡躲避。臨走前以撒給雅各祝福，確定他與耶和華所立的約。雅各在逃亡路上遇見神，並向他禱告許願。</li>
   </ul>
@@ -141,7 +141,7 @@
  <details>
   <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記29-31&qs_version=CUVMPT">創世記29-31</a> - <a href="https://bibleplan.github.io/daily/2018-02-12-daily.html">雅各家族</a></summary>
   <ul>
-   <li>`創 29-31` 講述雅各的十二兒子，也就是以色列的十二支派先祖的出生。</li>
+   <li>創 29-31 講述雅各的十二兒子，也就是以色列的十二支派先祖的出生。</li>
    <li>雅各從遇見神的地方起行，投靠他的母舅拉班。拉班以詭詐待他，他的兩個妻子也常常爭鬧。</li>
    <li>即便如此神還是祝福雅各，大大加增他的財產，並多多賜給他後裔。</li>
    <li>雖然人充滿了欺騙和詭詐，神卻依然成就他的加增雅各後裔的應許。</li>
@@ -151,7 +151,7 @@
  <details>
   <summary>20. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記32-33&qs_version=CUVMPT">創世記32-33</a> - <a href="https://bibleplan.github.io/daily/2018-02-13-daily.html">與神摔跤</a></summary>
   <ul>
-   <li>`創 32-33` 講述雅各的改變，與哥哥以掃相認。</li>
+   <li>創 32-33 講述雅各的改變，與哥哥以掃相認。</li>
    <li>雅各走向家的方向，心裡充滿懼怕。但是神與他摔跤，大大翻轉他的生命，</li>
    <li>為他改名為以色列。他與哥哥以掃相見和好。</li>
    <li>神在人最絕望的時候,改變人的生命。</li>
@@ -160,7 +160,7 @@
  <details>
   <summary>21. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記34-35&qs_version=CUVMPT">創世記34-35</a> - <a href="https://bibleplan.github.io/daily/2018-02-14-daily.html">雅各眾子</a></summary>
   <ul>
-   <li>`創世紀 34-35` 雅各眾子年輕時候的性情，以及以撒之死。</li>
+   <li>創世紀 34-35 雅各眾子年輕時候的性情，以及以撒之死。</li>
    <li>雅各的女兒底拿因為與當地人來往落入示劍手中被玷污。底拿的十個哥哥使用詭詐，</li>
    <li>殺了示劍全城的男丁，擄掠所有的貨財、婦女和孩童，因此將雅各家陷入危險當中。</li>
    <li>雅各順從神的話，潔淨全家，搬回他第一次遇見神的伯特利。</li>
@@ -170,7 +170,7 @@
  <details>
   <summary>22. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記36:1-37:1&qs_version=CUVMPT">創世記36:1-37:1</a> - <a href="https://bibleplan.github.io/daily/2018-02-15-daily.html">以掃後裔</a></summary>
   <ul>
-   <li>`創世紀 36:1-37:1` 創世記十段家族史的第九段,神對以掃的應許的實現。</li>
+   <li>創世紀 36:1-37:1 創世記十段家族史的第九段,神對以掃的應許的實現。</li>
    <li>以掃就是以東，在以色列人開始有君王治理以前，以東人就開始君王治理。</li>
    <li>以東的兒子們生在應許之地，以掃卻帶領他們遷到西珥；</li>
    <li>雅各的兒子們除了便雅憫全部生在應許之地之外，卻帶領他們回到應許之地。</li>
@@ -179,8 +179,8 @@
  <details>
   <summary>23. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記37:2-38:30&qs_version=CUVMPT">創世記37:2-38:30</a> - <a href="https://bibleplan.github.io/daily/2018-02-16-daily.html">約瑟被賣</a></summary>
   <ul>
-   <li>`創世紀 37:2-36` 講述雅各的兒子把兄弟約瑟出賣到埃及，為神的救贖計劃的進展埋下伏筆。</li>
-   <li>`創世記 38` 記錄猶大耶穌基督家譜中重要的一環。他瑪是被記錄在耶穌家譜中的幾個女子之一。</li>
+   <li>創世紀 37:2-36 講述雅各的兒子把兄弟約瑟出賣到埃及，為神的救贖計劃的進展埋下伏筆。</li>
+   <li>創世記 38 記錄猶大耶穌基督家譜中重要的一環。他瑪是被記錄在耶穌家譜中的幾個女子之一。</li>
    <li>她的信心讓猶大羞愧。</li>
    <li>神藉著雅各兒子們的嫉妒，卻成就祝福整個以色列民族的計劃；他也藉著他瑪的信心，成就救恩的計劃。</li>
   </ul>
@@ -188,14 +188,14 @@
  <details>
   <summary>24. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記39-40&qs_version=CUVMPT">創世記39-40</a> - <a href="https://bibleplan.github.io/daily/2018-02-17-daily.html">被囚埃及</a></summary>
   <ul>
-   <li>`創世紀 39-40` 講述約瑟在埃及的遭遇。</li>
+   <li>創世紀 39-40 講述約瑟在埃及的遭遇。</li>
    <li>約瑟在埃及做奴僕，被引誘，被誣陷，被下監。但是神一直與他同在。</li>
   </ul>
  </details>
  <details>
   <summary>25. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記41-42&qs_version=CUVMPT">創世記41-42</a> - <a href="https://bibleplan.github.io/daily/2018-02-19-daily.html">平步青雲</a></summary>
   <ul>
-   <li>`創 41-42` 講述約瑟因著為法老解夢，不僅被提出監，還被賦予一人之下萬人之上的宰相職責。</li>
+   <li>創 41-42 講述約瑟因著為法老解夢，不僅被提出監，還被賦予一人之下萬人之上的宰相職責。</li>
    <li>神通過他祝福周圍的人。同時，曾經賣他的兄弟們來到埃及糴糧，約瑟試驗他們。</li>
    <li>約瑟在自己的生命經歷中看到神的計劃，他在法老面前歸榮耀給神。</li>
    <li>神藉著約瑟試驗他的哥哥們，帶領他們面對過去的罪。</li>
@@ -204,7 +204,7 @@
  <details>
   <summary>26. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記43-44&qs_version=CUVMPT">創世記43-44</a> - <a href="https://bibleplan.github.io/daily/2018-02-20-daily.html">約瑟眾兄</a></summary>
   <ul>
-   <li>`創 43-44` 講述約瑟的哥哥們帶著便雅憫第二次到埃及來糴糧。約瑟再次試驗他們。</li>
+   <li>創 43-44 講述約瑟的哥哥們帶著便雅憫第二次到埃及來糴糧。約瑟再次試驗他們。</li>
    <li>神藉著約瑟的試驗，帶領猶大，改變他的生命，從出賣弟弟，到願意為弟弟捨棄自己。</li>
    <li>神藉著困境來幫助我們面對過去的罪，反轉我們的生命。</li>
   </ul>
@@ -212,7 +212,7 @@
  <details>
   <summary>27. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記45-46&qs_version=CUVMPT">創世記45-46</a> - <a href="https://bibleplan.github.io/daily/2018-02-21-daily.html">兄弟相認</a></summary>
   <ul>
-   <li>`創 45-46` 講述約瑟與兄弟們相認，並且安慰他們。以色列帶著全家搬到埃及。</li>
+   <li>創 45-46 講述約瑟與兄弟們相認，並且安慰他們。以色列帶著全家搬到埃及。</li>
    <li>神使用約瑟的哥哥們出賣約瑟到埃及的惡行，反而保全了以色列人。</li>
    <li>神關於亞伯拉罕的後裔要到埃及的應許果然實現。</li>
   </ul>
@@ -220,7 +220,7 @@
  <details>
   <summary>28. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記47-48&qs_version=CUVMPT">創世記47-48</a> - <a href="https://bibleplan.github.io/daily/2018-02-22-daily.html">定居埃及</a></summary>
   <ul>
-   <li>`創世紀 47-48` 講述以色列在埃及定居下來。約瑟繼續忠誠服事，並且用他的職責來拯救了更多的人。</li>
+   <li>創世紀 47-48 講述以色列在埃及定居下來。約瑟繼續忠誠服事，並且用他的職責來拯救了更多的人。</li>
    <li>以色列死期臨近，他讓約瑟發誓將他的身體帶回迦南應許之地。以色列為約瑟的兩個兒子按手祝福。</li>
    <li>以色列雖然死在埃及，對神的應許卻滿是信心。神的應許從不落空。</li>
   </ul>
@@ -228,7 +228,7 @@
  <details>
   <summary>29. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=創世記49-50&qs_version=CUVMPT">創世記49-50</a> - <a href="https://bibleplan.github.io/daily/2018-02-23-daily.html">祝福眾子</a></summary>
   <ul>
-   <li>`創世紀 49-50` 講述以色列去世。死前他為兒子們祝福。約瑟按照以色列的吩咐將</li>
+   <li>創世紀 49-50 講述以色列去世。死前他為兒子們祝福。約瑟按照以色列的吩咐將</li>
    <li>他帶回迦南地，葬進埋葬亞伯拉罕的洞里。約瑟的哥哥們還是心存懼怕，擔心約瑟報復。</li>
    <li>約瑟安慰他們。約瑟去世，像父親以色列一樣，要子孫們起誓在離開埃及的時候將他的骸骨帶回應許之地。</li>
    <li>神通過以色列，應許彌賽亞將通過猶大的後裔到來。</li>
@@ -239,7 +239,7 @@
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記1-2&qs_version=CUVMPT">出埃及記 1-2</a> - <a href="https://bibleplan.github.io/daily/2018-02-24-daily.html">救贖預備</a></summary>
    <ul>
-   <li>`出埃及記 1-2 章`，是出埃及記的時代背景，為神的救贖計劃拉開了序幕。</li>
+   <li>出埃及記 1-2 章，是出埃及記的時代背景，為神的救贖計劃拉開了序幕。</li>
    <li>以色列人在埃及被苦待，卻蒙神保守，日漸強盛。摩西在以色列人被迫害中出生，卻在各樣境遇中被神預備。</li>
    <li>不論人在任何的光景之中，即使有再大的苦難，我們都應當記得神掌權，神也看顧、保護。</li>
    </ul>
@@ -297,7 +297,7 @@
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記15:1-21&qs_version=CUVMPT">出埃及記15:1-21</a> - <a href="https://bibleplan.github.io/daily/wk7-day1-daily.html">讚美主恩</a></summary>
   <ul>
-   <li>`出 15:1-21` 記載摩西、米利暗、還有以色列眾人歌頌神的大能作為。</li>
+   <li>出 15:1-21 記載摩西、米利暗、還有以色列眾人歌頌神的大能作為。</li>
    <li>摩西之歌，頌讚神偉大的作為，祂是我們的力量、我們的拯救，祂戰勝一切的仇敵，</li>
    <li>憑祂的慈愛救贖祂的百姓。耶和華作王，直到永遠永遠。</li>
    <li>米利暗之歌，歌頌耶和華，因祂大大戰勝仇敵。</li>
@@ -306,7 +306,7 @@
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記15:22-17:7&qs_version=CUVMPT">出埃及記15:22-17:7</a> - <a href="https://bibleplan.github.io/daily/wk7-day2-daily.html">曠野供應</a></summary>
   <ul>
-   <li>`出 15:22-17:7` 講述以色列人出埃及後，神如何在曠野供應他們生活的需要。</li>
+   <li>出 15:22-17:7 講述以色列人出埃及後，神如何在曠野供應他們生活的需要。</li>
    <li>以色列人因沒有水喝，缺乏食物，就跟摩西亞倫抱怨，神藉著「把樹丟在水裡」，</li>
    <li>「賜下鵪鶉跟嗎哪」，「擊打磐石出水」來供應他們的需要。</li>
    <li>除了供應以色列人的需要，神也教導他們遵行神的誡命和律法，並紀念神的作為。</li>
@@ -315,7 +315,7 @@
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記17:8-18:27&qs_version=CUVMPT">出埃及記17:8-18:27</a> - <a href="https://bibleplan.github.io/daily/wk7-day3-daily.html">建立團隊</a></summary>
   <ul>
-   <li>`出 17:8-18:27` 講述摩西命約書亞帶領以色列人與亞瑪力人爭戰，</li>
+   <li>出 17:8-18:27 講述摩西命約書亞帶領以色列人與亞瑪力人爭戰，</li>
    <li>並建立分層管理的制度。</li>
    <li>與亞瑪力人爭戰，約書亞帶兵到前線，摩西拿著神的杖在山頂舉手，</li>
    <li>靠著亞倫跟戶珥的幫助，打敗亞瑪力人。</li>
@@ -326,7 +326,7 @@
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記&qs_version=CUVMPT">出埃及記</a> - <a href="https://bibleplan.github.io/daily/wk7-day4-daily.html">盟約律法</a></summary>
   <ul>
-   <li>`出19-20章`講述以色列人出埃及滿三個月後，神與他們立約，頒布十誡，並指教祭壇的條例。</li>
+   <li>出19-20章講述以色列人出埃及滿三個月後，神與他們立約，頒布十誡，並指教祭壇的條例。</li>
    <li>在西乃山下，神與他們立約，提醒他們記念神的救贖與帶領，要他們事奉神，做祭司的國度，聖潔的國民。</li>
    <li>神頒布十誡，前四條是對神的，後六條是關於人際關係的。再一次，我們體會到律法的總綱就是要愛神、愛人。</li>
   </ul>
@@ -334,7 +334,7 @@
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記21-23&qs_version=CUVMPT">出埃及記21-23</a> - <a href="https://bibleplan.github.io/daily/wk7-day5-daily.html">民事條例</a></summary>
   <ul>
-   <li>`出 21-23章` 講述神繼十誡後，頒布了以色列人的民事條例。</li>
+   <li>出 21-23章 講述神繼十誡後，頒布了以色列人的民事條例。</li>
    <li>針對以色列人的民事法則，神定了非常詳細的條例，奴隸制度 、懲罰暴行、牲畜賠償、偷竊、人權，司法、節期，面面俱到。民事法的頒佈以兩件事作結，一是應許和以色列人同在，賜他們能力征服迦南，另一件是與百姓確定盟約。</li>
    <li>神的心意，要讓以色列人在神面前成為聖潔，不與外邦人同流合污，操練順服，學習神聖潔的性情。</li>
   </ul>
@@ -342,14 +342,14 @@
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記24:1-11&qs_version=CUVMPT">出埃及記24:1-11</a> - <a href="https://bibleplan.github.io/daily/wk7-day6-daily.html">確立盟約</a></summary>
   <ul>
-   <li>`出 24:1-11` 講述神在西乃山跟以色列人立約儀式的最後一段，完成自第十九章開始的立約過程。</li>
+   <li>出 24:1-11 講述神在西乃山跟以色列人立約儀式的最後一段，完成自第十九章開始的立約過程。</li>
    <li>神與人立約，讓我們學習到在神的聖約裡，神子民的敬拜，敬拜的聖禮，經歷神同在的榮耀，約的確定。</li>
   </ul>
  </details>
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記24:12-25:40&qs_version=CUVMPT">出埃及記24:12-25:40</a> - <a href="https://bibleplan.github.io/daily/wk8-day1-daily.html">奉獻聖所</a></summary>
   <ul>
-   <li>`出 24:12-25:40` 講述神叫摩西上西乃山，賜給他教訓百姓的律法和誡命，</li>
+   <li>出 24:12-25:40 講述神叫摩西上西乃山，賜給他教訓百姓的律法和誡命，</li>
    <li>並開始指示他收納奉獻，建造聖所。本段經文是有關物料、 約櫃與施恩座、 </li>
    <li>陳設餅的桌子、還有燈臺的指示。</li>
    <li>神要以色列人為祂建聖所，所以神可以住在他們中間。</li>
@@ -359,7 +359,7 @@
  <details>
   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記26-27&qs_version=CUVMPT">出埃及記26-27</a> - <a href="https://bibleplan.github.io/daily/wk8-day2-daily.html">製作會幕</a></summary>
   <ul>
-   <li>`出 26-27章`講述神繼續指示製造會幕的細節。包括幕幔、幕板、幔子、祭壇、院子、還有燃燈。</li>
+   <li>出 26-27章講述神繼續指示製造會幕的細節。包括幕幔、幕板、幔子、祭壇、院子、還有燃燈。</li>
    <li>神不居住在人手所造的，但是，神如此詳細的指示造會幕的細節，因祂要祂的子民操練敬虔，</li>
    <li>學習將生命中最好的分別為聖，獻給神。</li>
   </ul>
@@ -367,7 +367,7 @@
  <details>
   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記28-29&qs_version=CUVMPT">出埃及記28-29</a> - <a href="https://bibleplan.github.io/daily/wk8-day3-daily.html">祭司制度</a></summary>
   <ul>
-   <li>`出 28-29 章`講述神指示祭司的條例。包括祭司的聖服，祭司的職責，還有當獻的祭。</li>
+   <li>出 28-29 章講述神指示祭司的條例。包括祭司的聖服，祭司的職責，還有當獻的祭。</li>
    <li>神設立祭司制度的目的，是要人分別為聖，服事神，服事祂的百姓。在舊約時代，</li>
    <li>神揀選亞倫和亞倫的子孫做大祭司。到了新約時代，神要每個信徒都是祭司，服事祂，宣揚祂。</li>
   </ul>
@@ -375,7 +375,7 @@
  <details>
   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記30-31&qs_version=CUVMPT">出埃及記30-31</a> - <a href="https://bibleplan.github.io/daily/wk8-day4-daily.html">其他條例</a></summary>
   <ul>
-   <li>`出 30-31 章`講述神對會幕條例其他的指示（香壇、贖價、銅盆、聖膏油、香、會幕的工人），</li>
+   <li>出 30-31 章講述神對會幕條例其他的指示（香壇、贖價、銅盆、聖膏油、香、會幕的工人），</li>
    <li>神還要人遵守安息日（與神立約、分別為聖）。</li>
    <li>神設立會幕，因祂要住在祂百姓中間，設立安息日，表明以色列人屬神為聖，作祂的子民。</li>
    <li>所以守安息日和建造會幕是敬拜的一體兩面：神在會幕中與以色列民同在、安息日使以色列民知道神使他們成聖。</li>
@@ -384,7 +384,7 @@
  <details>
   <summary>18. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記32-33&qs_version=CUVMPT">出埃及記32-33</a> - <a href="https://bibleplan.github.io/daily/wk8-day5-daily.html">造金牛犢</a></summary>
   <ul>
-   <li>`出 32-33 章`講述百姓久等不見摩西下山，鑄造金牛犢，破壞與神的約，透過摩西的代求，</li>
+   <li>出 32-33 章講述百姓久等不見摩西下山，鑄造金牛犢，破壞與神的約，透過摩西的代求，</li>
    <li>並部分以色列人的受審判，百姓得到一個新的機會。</li>
    <li>本段經文讓我們看到神的恩典與慈愛，雖然人因著自己的愚頑，一再的得罪祂，</li>
    <li>祂卻始終守約施慈愛，一再的給人機會悔改。</li>
@@ -393,8 +393,8 @@
  <details>
   <summary>19. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=出埃及記34&qs_version=CUVMPT">出埃及記34</a> - <a href="https://bibleplan.github.io/daily/wk8-day6-daily.html">重新立約</a></summary>
   <ul>
-   <li>`出 34 章`講述神重新與百姓立約的經過。</li>
-   <li>在金牛犢的事件中，亞倫宣告「耶和華的節日」並獻上燔祭和平安祭（`出 32: 5-6`）。</li>
+   <li>出 34 章講述神重新與百姓立約的經過。</li>
+   <li>在金牛犢的事件中，亞倫宣告「耶和華的節日」並獻上燔祭和平安祭（出 32: 5-6）。</li>
    <li>因此，當神與以色列民重新立約時，再次重申有關偶像的禁令及遵守節期的正確教訓。</li>
   </ul>
  </details>
@@ -454,23 +454,23 @@
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記4:1-5:13&qs_version=CUVMPT">利未記4:1-5:13</a> - <a href="https://bibleplan.github.io/daily/wk10-day1-daily.html">贖罪之祭</a></summary>
   <ul>
-   <li>`利未記 4:1-5:13`，是后兩種贖罪潔淨祭中的第一種——贖罪祭。</li>
+   <li>利未記 4:1-5:13，是后兩種贖罪潔淨祭中的第一種——贖罪祭。</li>
    <li>贖罪祭是針對誤犯的罪。獻贖罪祭不是出於自願，而是出於律法要求的必需的祭。</li>
-   <li>`利未記4章`列出四類人誤犯罪的時候需要獻的祭，這四類人包括受膏的祭司、全以色列會眾、官長和以色列個人，上到君王祭司，下到平民百姓都包含在內，人人都需要贖罪。</li>
-   <li>`利未記 5:1-13` 列出三種需要獻贖罪祭的例子，都是沒有預謀的犯罪。</li>
+   <li>利未記4章列出四類人誤犯罪的時候需要獻的祭，這四類人包括受膏的祭司、全以色列會眾、官長和以色列個人，上到君王祭司，下到平民百姓都包含在內，人人都需要贖罪。</li>
+   <li>利未記 5:1-13 列出三種需要獻贖罪祭的例子，都是沒有預謀的犯罪。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記5:14-6:7&qs_version=CUVMPT">利未記5:14-6:7</a> - <a href="https://bibleplan.github.io/daily/wk10-day2-daily.html">贖愆之祭</a></summary>
   <ul>
-   <li>`利未記 5:14-6:7`，是五種獻祭的最後一種，贖愆祭。</li>
-   <li>贖愆祭，在 `5:14-19` 是針對干犯了聖物的罪，和任何不管是知道還是不知道的干犯了神的吩咐的罪；在 `6:1-7`，是針對在與人的關係上，任何貪戀、欺詐、背信、搶奪和壓迫他人的行為。</li>
+   <li>利未記 5:14-6:7，是五種獻祭的最後一種，贖愆祭。</li>
+   <li>贖愆祭，在 5:14-19 是針對干犯了聖物的罪，和任何不管是知道還是不知道的干犯了神的吩咐的罪；在 6:1-7，是針對在與人的關係上，任何貪戀、欺詐、背信、搶奪和壓迫他人的行為。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記6:8-7:38&qs_version=CUVMPT">利未記6:8-7:38</a> - <a href="https://bibleplan.github.io/daily/wk10-day3-daily.html">祭司職責</a></summary>
   <ul>
-   <li>`利未記 6:8-7:38` 是對五種祭的一些細節補充。</li>
+   <li>利未記 6:8-7:38 是對五種祭的一些細節補充。</li>
    <li>祭司在獻祭的服事當中，對於聖物要小心謹慎，在會幕里穿的衣服都不可穿到會幕外去；他們在獻祭中，從獻祭到倒灰都要一絲不苟地去做；不管是大到使用公牛的獻祭，還是小到奉獻細麵的獻祭，都要同等對待。</li>
    <li>神為祭司規定了世世代代永得的分，讓他們專心供職。</li>
   </ul>
@@ -478,8 +478,8 @@
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記8-9&qs_version=CUVMPT">利未記8-9</a> - <a href="https://bibleplan.github.io/daily/wk10-day4-daily.html">膏立祭司</a></summary>
   <ul>
-   <li>`利未記 8-10` 是利未記的第二部分，記錄祭司受膏和事奉的條例。今天閱讀的 `8-9` 章是亞倫和他的兒子們的受膏立，以及他們第一次獻祭。</li>
-   <li>亞倫受膏立的時候，一切都是按照神的吩咐（`8:4、9、13、17、21、29、36`）。亞倫第一次獻祭，也是全然按照神的吩咐（`9:10、21`）</li>
+   <li>利未記 8-10 是利未記的第二部分，記錄祭司受膏和事奉的條例。今天閱讀的 8-9 章是亞倫和他的兒子們的受膏立，以及他們第一次獻祭。</li>
+   <li>亞倫受膏立的時候，一切都是按照神的吩咐（8:4、9、13、17、21、29、36）。亞倫第一次獻祭，也是全然按照神的吩咐（9:10、21）</li>
    <li>亞倫作為大祭司，第一次為百姓們獻祭祝福以後，神的榮光顯現，神的火燒盡壇上的燔祭。神的悅納讓百姓們歡呼敬拜。</li>
   </ul>
  </details>
@@ -493,15 +493,15 @@
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記11-12&qs_version=CUVMPT">利未記11-12</a> - <a href="https://bibleplan.github.io/daily/wk10-day6-daily.html">潔淨條例</a></summary>
   <ul>
-   <li>`利未記 11-22 章`，是神對他的子民的聖潔的要求。今天的`利未記 11-12`，是關於潔淨與不潔淨的食物的規定，以及產後潔淨的條例。</li>
-   <li>「我是耶和華你們的神，所以你們要成為聖潔，因為我是聖潔的。你們也不可在地上的爬物污穢自己。我是把你們從埃及地領出來的耶和華，要做你們的神，所以你們要聖潔，因為我是聖潔的。」（`11:44-45`），是關鍵的經文。</li>
+   <li>利未記 11-22 章，是神對他的子民的聖潔的要求。今天的利未記 11-12，是關於潔淨與不潔淨的食物的規定，以及產後潔淨的條例。</li>
+   <li>「我是耶和華你們的神，所以你們要成為聖潔，因為我是聖潔的。你們也不可在地上的爬物污穢自己。我是把你們從埃及地領出來的耶和華，要做你們的神，所以你們要聖潔，因為我是聖潔的。」（11:44-45），是關鍵的經文。</li>
    <li>這些飲食的條例和產後潔淨的條例，也都保護以色列人在建立國家以後的公共衛生和健康。</li>
   </ul>
  </details>
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記13-14&qs_version=CUVMPT">利未記13-14</a> - <a href="https://bibleplan.github.io/daily/wk11-day1-daily.html">皮膚潔淨</a></summary>
   <ul>
-   <li>`利未記 13-14` 繼續告訴以色列人要以聖潔來敬拜聖潔的神。</li>
+   <li>利未記 13-14 繼續告訴以色列人要以聖潔來敬拜聖潔的神。</li>
    <li>皮膚病容易傳染，其中的麻風病更是可怕。祭司對皮膚病的檢查謹慎又細緻。</li>
    <li>皮膚病得潔淨的時候，要在祭司面前檢驗、潔淨，七天后，要獻燔祭、素祭、贖罪祭、贖愆祭，在獻祭過程中，祭司在這人的右耳垂、右手大拇指和右腳大拇指上涂血和油。</li>
    <li>不僅僅是皮膚上的疾病要如此謹慎，人所穿的衣物、所住的房子，有了霉變的時候，也需要祭司的檢查和潔淨。</li>
@@ -510,60 +510,60 @@
  <details>
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記15-16&qs_version=CUVMPT">利未記15-16</a> - <a href="https://bibleplan.github.io/daily/wk11-day2-daily.html">贖罪之日</a></summary>
   <ul>
-   <li>`利未記 15-16`繼續告訴以色列人要以聖潔來敬拜聖潔的神。</li>
-   <li>`15章`是有關漏症的注意事項和潔淨條例，目的是要使以色列人「與他們的污穢隔絕」，神吩咐他們如此行，「免得他們玷污我的帳幕，就因自己的污穢死亡」。</li>
-   <li>`利未記16`是神設立的贖罪日的條例。這一天全以色列百姓要刻苦己心，守安息日，他們要在神面前得潔淨，脫盡一切的罪愆。</li>
+   <li>利未記 15-16繼續告訴以色列人要以聖潔來敬拜聖潔的神。</li>
+   <li>15章是有關漏症的注意事項和潔淨條例，目的是要使以色列人「與他們的污穢隔絕」，神吩咐他們如此行，「免得他們玷污我的帳幕，就因自己的污穢死亡」。</li>
+   <li>利未記16是神設立的贖罪日的條例。這一天全以色列百姓要刻苦己心，守安息日，他們要在神面前得潔淨，脫盡一切的罪愆。</li>
   </ul>
  </details>
  <details>
   <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記17-18&qs_version=CUVMPT">利未記17-18</a> - <a href="https://bibleplan.github.io/daily/wk11-day3-daily.html">聖潔行為</a></summary>
   <ul>
-   <li>從`17章`之後的經文繼續告訴以色列人要以聖潔來敬拜聖潔的神，著重講行為上的聖潔。</li>
-   <li>`利未記17章`是神關於血的禁令。血是聖的。神與挪亞立約，將動物的肉也賜給人的時候，就說「唯獨肉帶著血，那就是牠的生命，你們不可吃。」(`創世紀9`)。「因為血里有生命，所以能贖罪」(`利未記17:11`)</li>
-   <li>`利未記18章`是神關於淫亂的禁令。婚姻是聖的。「婚姻人人都當尊重，床也不可污穢，因為苟合行淫的人，神必要審判」(`希伯來書13:4`)。神警告以色列人不可隨從他們要進的迦南地的淫亂惡俗，免得玷污了自己。</li>
+   <li>從17章之後的經文繼續告訴以色列人要以聖潔來敬拜聖潔的神，著重講行為上的聖潔。</li>
+   <li>利未記17章是神關於血的禁令。血是聖的。神與挪亞立約，將動物的肉也賜給人的時候，就說「唯獨肉帶著血，那就是牠的生命，你們不可吃。」(創世紀9)。「因為血里有生命，所以能贖罪」(利未記17:11)</li>
+   <li>利未記18章是神關於淫亂的禁令。婚姻是聖的。「婚姻人人都當尊重，床也不可污穢，因為苟合行淫的人，神必要審判」(希伯來書13:4)。神警告以色列人不可隨從他們要進的迦南地的淫亂惡俗，免得玷污了自己。</li>
   </ul>
  </details>
  <details>
   <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記19-20&qs_version=CUVMPT">利未記19-20</a> - <a href="https://bibleplan.github.io/daily/wk11-day4-daily.html">戒民條例</a></summary>
   <ul>
-   <li>`利未記19章`詳述道德、法律、祭祀及精神生活的規範,涵蓋所有十誡的內容。共16小段,每段都用「我是耶和華」一語作結。「你們要聖潔,因為我耶和華——你們的神是聖潔的」是呼籲百姓過聖潔生活的基礎。「愛人如己」出現在今天的經文當中,告訴以色列人,聖潔的標準不只是不觸犯律法,更是要積極地活出美德。</li>
-   <li>`利未記20章`是 `18`與`19章`的增補,是對悖逆、不聖潔者的懲罰:人若犯了`18-19章`所禁止的罪行,便須接受本章所描述的嚴重刑罰,被處死或者剪除。</li>
+   <li>利未記19章詳述道德、法律、祭祀及精神生活的規範,涵蓋所有十誡的內容。共16小段,每段都用「我是耶和華」一語作結。「你們要聖潔,因為我耶和華——你們的神是聖潔的」是呼籲百姓過聖潔生活的基礎。「愛人如己」出現在今天的經文當中,告訴以色列人,聖潔的標準不只是不觸犯律法,更是要積極地活出美德。</li>
+   <li>利未記20章是 18與19章的增補,是對悖逆、不聖潔者的懲罰:人若犯了18-19章所禁止的罪行,便須接受本章所描述的嚴重刑罰,被處死或者剪除。</li>
   </ul>
  </details>
  <details>
   <summary>13. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記21-22&qs_version=CUVMPT">利未記21-22</a> - <a href="https://bibleplan.github.io/daily/wk11-day5-daily.html">聖潔祭司</a></summary>
   <ul>
-   <li>祭司是在百姓里分別為聖歸給神的人。在`利未記21章`,神對他們的聖潔有比百姓更加高的要求。他們在擇偶和身體的潔淨上,需要更加地謹慎。並且神在他們的聖工和俗務之間,給出了很明顯的優先次序。</li>
-   <li>聖物是分別為聖,歸給神的物。神不僅僅要求百姓和祭司聖潔,在`利未記22章`,也要求他們保守聖物的聖潔。</li>
-   <li>`利未記21-22章`,「我是叫他們成聖的耶和華」出現 6 次,「我是耶和華」也出現 6 次。</li>
+   <li>祭司是在百姓里分別為聖歸給神的人。在利未記21章,神對他們的聖潔有比百姓更加高的要求。他們在擇偶和身體的潔淨上,需要更加地謹慎。並且神在他們的聖工和俗務之間,給出了很明顯的優先次序。</li>
+   <li>聖物是分別為聖,歸給神的物。神不僅僅要求百姓和祭司聖潔,在利未記22章,也要求他們保守聖物的聖潔。</li>
+   <li>利未記21-22章,「我是叫他們成聖的耶和華」出現 6 次,「我是耶和華」也出現 6 次。</li>
   </ul>
  </details>
  <details>
   <summary>14. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記23:1-24:9&qs_version=CUVMPT">利未記23:1-24:9</a> - <a href="https://bibleplan.github.io/daily/wk11-day6-daily.html">節期條例</a></summary>
   <ul>
-   <li>`利未記23章`是神所要求的節期。神吩咐以色列人守的節期有逾越節,除酵節,初熟節,五旬節,吹角節,贖罪日和住棚節。</li>
-   <li>`利未記24:1-9`,是在會幕燃燈的條例,和陳設餅的條例。</li>
+   <li>利未記23章是神所要求的節期。神吩咐以色列人守的節期有逾越節,除酵節,初熟節,五旬節,吹角節,贖罪日和住棚節。</li>
+   <li>利未記24:1-9,是在會幕燃燈的條例,和陳設餅的條例。</li>
   </ul>
  </details>
  <details>
   <summary>15. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記24:10-25:55&qs_version=CUVMPT">利未記24:10-25:55</a> - <a href="https://bibleplan.github.io/daily/wk12-day1-daily.html">安息之年</a></summary>
   <ul>
-   <li>`利未記 24:10-22`記錄一個外邦人褻瀆神的名，違反十誡第三條的案件。於此帶出耶和華神吩咐的關於褻瀆神的名的刑罰，和傷害人畜的刑罰。`「不管是寄居的，還是本地人，同歸一例。我是耶和華——你們的神。」`</li>
-   <li>`利未記 25:1-22`，是有關於安息年和禧年的條例，以及遵守安息年的應許。`25:23-55`講述要實踐遵守安息年和禧年，必然要有的對待土地產業和窮人的態度。</li>
+   <li>利未記 24:10-22記錄一個外邦人褻瀆神的名，違反十誡第三條的案件。於此帶出耶和華神吩咐的關於褻瀆神的名的刑罰，和傷害人畜的刑罰。「不管是寄居的，還是本地人，同歸一例。我是耶和華——你們的神。」</li>
+   <li>利未記 25:1-22，是有關於安息年和禧年的條例，以及遵守安息年的應許。25:23-55講述要實踐遵守安息年和禧年，必然要有的對待土地產業和窮人的態度。</li>
   </ul>
  </details>
  <details>
   <summary>16. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記26&qs_version=CUVMPT">利未記26</a> - <a href="https://bibleplan.github.io/daily/wk12-day2-daily.html">守約背約</a></summary>
   <ul>
-   <li>`利未記 26 章`，是立約以後宣告對守約者的祝福和對背約者的咒詛。</li>
-   <li>`3-13 節`講**祝福**：順服神的便有福氣臨到；時雨與豐收；國泰民安；神的同在。神的祝福毫無保留地全然臨到順從他的子民。</li>
-   <li>`14-46 節`講**災禍**：敗在敵人手中；土地沒有出產；野獸為害人民；瘟疫、癆病；饑荒；人民因饑餓以致易子而食。災禍並不是一下全部臨到，神總是在給他的子民機會回轉，每次災禍以後，他們若「因這些事若仍不改正歸我」，下面的擊打才會臨到。</li>
+   <li>利未記 26 章，是立約以後宣告對守約者的祝福和對背約者的咒詛。</li>
+   <li>3-13 節講**祝福**：順服神的便有福氣臨到；時雨與豐收；國泰民安；神的同在。神的祝福毫無保留地全然臨到順從他的子民。</li>
+   <li>14-46 節講**災禍**：敗在敵人手中；土地沒有出產；野獸為害人民；瘟疫、癆病；饑荒；人民因饑餓以致易子而食。災禍並不是一下全部臨到，神總是在給他的子民機會回轉，每次災禍以後，他們若「因這些事若仍不改正歸我」，下面的擊打才會臨到。</li>
   </ul>
  </details>
  <details>
   <summary>17. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=利未記27&qs_version=CUVMPT">利未記27</a> - <a href="https://bibleplan.github.io/daily/wk12-day3-daily.html">許願之例</a></summary>
   <ul>
-   <li>`利未記 27 章`是神吩咐人向神許願的條例。</li>
+   <li>利未記 27 章是神吩咐人向神許願的條例。</li>
    <li>許願是十分莊嚴的事，必須慎重。人通常比較容易在危急或困難時候向神許願，而事後卻後悔甚至不守承諾。聖經對這種行為多次提出警告。本段為許願的獻物</li>
    <li>訂一個較高的賠償價值，並懲罰那些反悔、要收回獻物的人，要他們付出所估定的贖價另加五分之一。</li>
   </ul>
@@ -573,21 +573,21 @@
  <details>
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記1-2&qs_version=CUVMPT">民數記 1-2</a> - <a href="https://bibleplan.github.io/daily/wk12-day4-daily.html">數點安營</a></summary>
    <ul>
-   <li>`民數記 1-2 章`講述以色列的人口普查和每個支派在會幕周圍的安營位置。</li>
-   <li>人口普查是對那些`「從二十歲以外，能出去打仗的」 (1:3)` ，支派在會幕（神所在的地方）周圍的安排是`「按著軍隊」`。這些以色列人預備打仗的準備工作，神正在把昔日的奴隸轉變成一支軍隊，好進入神的應許之地。</li>
+   <li>民數記 1-2 章講述以色列的人口普查和每個支派在會幕周圍的安營位置。</li>
+   <li>人口普查是對那些「從二十歲以外，能出去打仗的」 (1:3) ，支派在會幕（神所在的地方）周圍的安排是「按著軍隊」。這些以色列人預備打仗的準備工作，神正在把昔日的奴隸轉變成一支軍隊，好進入神的應許之地。</li>
    </ul>
  </details>
  <details>
    <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記3-4&qs_version=CUVMPT">民數記 3-4</a> - <a href="https://bibleplan.github.io/daily/wk12-day5-daily.html">祭司國度</a></summary>
    <ul>
-   <li>`民數記 3 章`的開始類似創世記的家譜：`「亞倫和摩西的後代如下」`，記敘了利未支派的家譜和職責。</li>
-   <li>利未支派的工作是關乎會幕 - 神的同在，以及神在西奈山與以色列人所立的約。神在此設立了`「祭司的國度」(出 19:6)`。</li>
+   <li>民數記 3 章的開始類似創世記的家譜：「亞倫和摩西的後代如下」，記敘了利未支派的家譜和職責。</li>
+   <li>利未支派的工作是關乎會幕 - 神的同在，以及神在西奈山與以色列人所立的約。神在此設立了「祭司的國度」(出 19:6)。</li>
    </ul>
  </details>
  <details>
    <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記5-6&qs_version=CUVMPT">民數記 5-6</a> - <a href="https://bibleplan.github.io/daily/wk12-day6-daily.html">聖潔國民</a></summary>
    <ul>
-   <li>緊接著上兩章設立的`「祭司的國度」(出 19:6)`，神在此呼召以色列人成為`「聖潔的國民」(出 19:6)`。</li>
+   <li>緊接著上兩章設立的「祭司的國度」(出 19:6)，神在此呼召以色列人成為「聖潔的國民」(出 19:6)。</li>
    <li>潔淨以色列營的幾條律法：</li>
    <li> 1. 贖罪和賠償，以使以色列人合一；</li>
    <li> 2. 婚姻的聖潔，以使以色列後裔聖潔；</li>
@@ -598,26 +598,26 @@
  <details>
    <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記7&qs_version=CUVMPT">民數記 7</a> - <a href="https://bibleplan.github.io/daily/wk13-day1-daily.html">全心奉獻</a></summary>
    <ul>
-   <li>本章是承接`出埃及記第 40 章`，是摩西照神的吩咐立會幕以後發生的事。在`出埃及記第 40 章`的最後，神的榮光充滿會幕，神與百姓同在。然後(本章)以色列人持續 12 天舉行盛典，奉獻禮物給神，來回應神要賜福他們的應許。</li>
+   <li>本章是承接出埃及記第 40 章，是摩西照神的吩咐立會幕以後發生的事。在出埃及記第 40 章的最後，神的榮光充滿會幕，神與百姓同在。然後(本章)以色列人持續 12 天舉行盛典，奉獻禮物給神，來回應神要賜福他們的應許。</li>
    <li>十二個支派的首領，在會幕立起的當天，就送來六輛篷子車和十二隻公牛作為奉獻給神的禮物，摩西在得到神的特別同意下才收下這些禮物。</li>
-   <li>十二個支派的首領，按照扎營的次序，每天一個支派，送來完全相同的禮物。本章是舊約里除了`詩篇 119`以外最長的一章，因為重複十二次記錄完全相同的禮品清單，顯示神對各個支派的禮物完全的、相同的悅納。</li>
+   <li>十二個支派的首領，按照扎營的次序，每天一個支派，送來完全相同的禮物。本章是舊約里除了詩篇 119以外最長的一章，因為重複十二次記錄完全相同的禮品清單，顯示神對各個支派的禮物完全的、相同的悅納。</li>
    <li>本章以摩西進入會幕要與神說話，聽到施恩座兩基路伯之間有神對他說話的聲音結束，這成為神與百姓同在的確據。這是會幕立起以後，摩西第一次進去與神對話。</li>
    </ul>
  </details>
  <details>
    <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記8:1-9:14&qs_version=CUVMPT">民數記 8:1-9:14</a> - <a href="https://bibleplan.github.io/daily/wk13-day2-daily.html">潔淨歸主</a></summary>
    <ul>
-   <li>`民數記 8:1-4` 是摩西與神第一次在立起的會幕交談以後，神曉諭摩西吩咐大祭司亞倫點起金燈台，這是金燈台初次點燃。神特別吩咐金燈台的七盞燈要向前發光。</li>
-   <li>`民數記 8:5-26` 是神所吩咐的利未人的潔淨和奉獻禮儀。潔淨和奉獻以後，他們便被分派給祭司，輔助會幕的工作。他們是被揀選歸給神(14)，替代一切頭生的(16)，侍奉神，並為以色列人贖罪(19)，隔在會幕與以色列人之間，免得他們挨近聖所。</li>
-   <li>`民數記 9:1-14`，以色列人在出埃及以後第一次守逾越節。</li>
+   <li>民數記 8:1-4 是摩西與神第一次在立起的會幕交談以後，神曉諭摩西吩咐大祭司亞倫點起金燈台，這是金燈台初次點燃。神特別吩咐金燈台的七盞燈要向前發光。</li>
+   <li>民數記 8:5-26 是神所吩咐的利未人的潔淨和奉獻禮儀。潔淨和奉獻以後，他們便被分派給祭司，輔助會幕的工作。他們是被揀選歸給神(14)，替代一切頭生的(16)，侍奉神，並為以色列人贖罪(19)，隔在會幕與以色列人之間，免得他們挨近聖所。</li>
+   <li>民數記 9:1-14，以色列人在出埃及以後第一次守逾越節。</li>
    </ul>
  </details>
  <details>
    <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記9:15-10:36&qs_version=CUVMPT">民數記 9:15-10:36</a> - <a href="https://bibleplan.github.io/daily/wk13-day3-daily.html">令行禁止</a></summary>
    <ul>
    <li>以色列人完全按照神的指示拔營安營，神是他們行動的絕對中心。</li>
-   <li>在西奈山下，神給以色列人的最後一件指示是造出兩隻銀號，來指揮全民在曠野里的行動。銀號配合雲彩指揮全體百姓行動如一。當末後的日子，神的使者也要用號筒的大聲將選民從四方招聚攏來（`馬太福音 24:31`，`啟示錄 8-9`）。</li>
-   <li>從出埃及后一年一個月零 20 天，以色列人從西奈的曠野起行，向應許之地去。從`10:11-22:1`，是以色列人從西奈起行到摩押平原一共 38 年的生活。</li>
+   <li>在西奈山下，神給以色列人的最後一件指示是造出兩隻銀號，來指揮全民在曠野里的行動。銀號配合雲彩指揮全體百姓行動如一。當末後的日子，神的使者也要用號筒的大聲將選民從四方招聚攏來（馬太福音 24:31，啟示錄 8-9）。</li>
+   <li>從出埃及后一年一個月零 20 天，以色列人從西奈的曠野起行，向應許之地去。從10:11-22:1，是以色列人從西奈起行到摩押平原一共 38 年的生活。</li>
    </ul>
  </details>
  <details>
@@ -632,7 +632,7 @@
  <details>
    <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記13-14&qs_version=CUVMPT">民數記 13-14</a> - <a href="https://bibleplan.github.io/daily/wk13-day5-daily.html">惡信藐視</a></summary>
    <ul>
-   <li>`民數記 13-14` 是以色列人請求（`申命記 1:22-23`）派探子窺探迦南地，被其中十個所傳的惡信嚇到，抱怨、藐視神，不聽摩西、亞倫、迦勒和約書亞的勸誡，要另立首領回埃及。</li>
+   <li>民數記 13-14 是以色列人請求（申命記 1:22-23）派探子窺探迦南地，被其中十個所傳的惡信嚇到，抱怨、藐視神，不聽摩西、亞倫、迦勒和約書亞的勸誡，要另立首領回埃及。</li>
    <li>神在此第二次提出要擊殺百姓，叫摩西的後裔成為大國，承受應許之地。摩西為百姓們代求。神照著祂的話赦免的百姓。但是百姓必須為他們的罪付上代價，除了迦勒和約書亞，這一代的人沒有一個能進入迦南。</li>
    <li>以色列人後悔，但是還是硬著頸項不順服，想要進入迦南。但是因為沒有神的同在，他們大敗而回。</li>
    </ul>
@@ -663,21 +663,21 @@
  <details>
    <summary>11. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記18-19&qs_version=CUVMPT">民數記 18-19</a> - <a href="https://bibleplan.github.io/daily/wk14-day2-daily.html">祭司利未</a></summary>
    <ul>
-   <li>`民數記 18:1-7`，是神直接告訴亞倫他關於百姓在 `17:12-13` 的呼求的回答。</li>
+   <li>民數記 18:1-7，是神直接告訴亞倫他關於百姓在 17:12-13 的呼求的回答。</li>
    <li>祭司和利未人的職責是擔當神的震怒，百姓的性命才得保存。祭司的設立，不只是神</li>
    <li>給擔任祭司的人的賞賜，也是給眾民的賞賜。</li>
    <li>神賜給利未人享用的是以色列人獻上的出產的十分之一，賜給祭司享用的是一切不</li>
    <li>經火的供物和利未人獻上的收入的十分之一。</li>
-   <li>`民數記第 19 章`是針對前面的瘟疫中大量死人，民中很多人不潔淨，分別獻贖罪祭不可行的情況。</li>
+   <li>民數記第 19 章是針對前面的瘟疫中大量死人，民中很多人不潔淨，分別獻贖罪祭不可行的情況。</li>
    <li>除污穢水是神恩賜給以色列人簡單快捷及時除去污穢的方法，免得干犯神的聖所。</li>
    </ul>
  </details>
  <details>
    <summary>12. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=民數記20-21&qs_version=CUVMPT">民數記 20-21</a> - <a href="https://bibleplan.github.io/daily/wk14-day3-daily.html">流浪末年</a></summary>
    <ul>
-   <li>這是以色列人在曠野漂流的最後一年,他們回到當初抗命不進迦南地的加低斯(`民數記13`)。</li>
+   <li>這是以色列人在曠野漂流的最後一年,他們回到當初抗命不進迦南地的加低斯(民數記13)。</li>
    <li>在這裡以色列人又發怨言,跟他們的父輩的怨言一樣。摩西因為沒有尊神的名為聖而犯罪,不得進入迦南應許之地。米利暗和亞倫分別去世。</li>
-   <li>以色列人在約旦河東遭到以東人的阻礙,但是神不允許他們與以東爭戰(`申命記2:4-6`),所以他們繞道走艱難的路。以色列人因此又抱怨,神使火蛇進入百姓間。摩西為百姓代求,神吩咐他製作銅蛇,凡抬頭仰望銅蛇的就得救。在`約翰福音3:13-14`有主耶穌關於銅蛇的預表的解釋。</li>
+   <li>以色列人在約旦河東遭到以東人的阻礙,但是神不允許他們與以東爭戰(申命記2:4-6),所以他們繞道走艱難的路。以色列人因此又抱怨,神使火蛇進入百姓間。摩西為百姓代求,神吩咐他製作銅蛇,凡抬頭仰望銅蛇的就得救。在約翰福音3:13-14有主耶穌關於銅蛇的預表的解釋。</li>
    <li>人雖不信實,總是抱怨,神還是信實地帶領他們走向應許之地。</li>
    </ul>
  </details>
@@ -1118,7 +1118,7 @@
    <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路得記1&qs_version=CUVMPT">路得記 1</a> - <a href="https://bibleplan.github.io/daily/wk23-day4-daily.html">由甜至苦</a></summary>
    <ul>
      <li>各人任意而行的士師時代，以利米勒因著信心軟弱，帶著妻子拿俄米和兩個兒子逃避饑荒，“滿滿地”離開猶大的伯利恆，遷居到神所厭惡的摩押。全能者使他們受苦，以利米勒和兩個兒子都是死在摩押地，一個兒婦離開拿俄米回歸娘家和摩押神，另一個兒婦路得卻立志跟隨婆婆，跟隨耶和華。</li>
-     <li>路得所說的`你往哪裡去，我也往哪裡去...你的國就是我的國，你的神就是我的神`成為信心的美好榜樣。路得成為大衛的祖母，主耶穌家譜中的重要一員。</li>
+     <li>路得所說的你往哪裡去，我也往哪裡去...你的國就是我的國，你的神就是我的神成為信心的美好榜樣。路得成為大衛的祖母，主耶穌家譜中的重要一員。</li>
    </ul>
  </details>
  <details>
@@ -1445,7 +1445,7 @@
    <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=路加福音8&qs_version=CUVMPT">路加福音 8</a> - <a href="https://bibleplan.github.io/daily/wk30-day4-daily.html">聽道行道</a></summary>
    <ul>
      <li>耶穌用撒種的比喻來說明人對神的真理的不同回應。</li>
-     <li>耶穌回答說:「`聽了神之道而遵行的人，就是我的母親、我的弟兄了。`」</li>
+     <li>耶穌回答說:「聽了神之道而遵行的人，就是我的母親、我的弟兄了。」</li>
      <li>耶穌平靜風和海。把鬼趕入豬群。</li>
      <li>患血漏的女人因信心而得醫治。睚魯的女兒因信心而死裡復活。</li>
    </ul>
@@ -2681,7 +2681,7 @@
   <summary>10. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒母耳記上18-19&qs_version=CUVMPT">撒母耳記上18-19</a> - <a href="https://bibleplan.github.io/daily/wk53-day6-daily.html">嫉妒大衛</a></summary>
   <ul>
    <li>大衛與約拿單的心深相契合，成為好友；大衛戰績卓著，被掃羅看重，也被以色列人喜悅；</li>
-   <li>以色列人迎接得勝的掃羅王，眾婦女歌唱`「掃羅殺死千千，大衛殺死萬萬」`，引發掃羅對大衛的強烈嫉妒；</li>
+   <li>以色列人迎接得勝的掃羅王，眾婦女歌唱「掃羅殺死千千，大衛殺死萬萬」，引發掃羅對大衛的強烈嫉妒；</li>
    <li>因為耶和華離開自己，與大衛同在，掃羅嫉妒又懼怕，用不同方式明中暗中要殺死大衛，都不成功，人們反而更加愛大衛，包括掃羅的兒子約拿單，和女兒米甲；</li>
    <li>約拿單規勸掃羅，掃羅暫時聽從，很快又變卦；米甲幫助大衛逃跑，大衛跑到撒母耳處，掃羅派人去追殺，包括最後一次他自己親去，都被神的靈阻止。</li>
   </ul>
@@ -4192,7 +4192,7 @@
     <li>猶大的罪是用鐵筆、用金鋼鑽記錄的，銘刻在他們的心版上和壇角上。</li>
     <li>倚靠人血肉的膀臂，心中離棄耶和華的，那人有禍了！倚靠耶和華，以耶和華為可靠的，那人有福了！</li>
     <li>人心比萬物都詭詐，壞到極處，誰能識透呢？耶和華鑒察人心。</li>
-    <li>百姓不信預言，說：`「耶和華的話在哪裡呢？叫這話應驗吧！」`</li>
+    <li>百姓不信預言，說：「耶和華的話在哪裡呢？叫這話應驗吧！」</li>
     <li>安息日為聖日，在那日無論何工都不做。</li>
   </ul>
  </details>
@@ -4356,7 +4356,7 @@
 </summary>
   <ul>
    <li>巴比倫王尼布甲尼撒立西底家在猶大地做王。西底家不聽從耶和華藉先知耶利米所說的話。</li>
-   <li>西底家王打發西番雅去見耶利米，說：`「求你為我們禱告耶和華我們的神。」`</li>
+   <li>西底家王打發西番雅去見耶利米，說：「求你為我們禱告耶和華我們的神。」</li>
    <li>法老的軍隊從埃及出來，圍困耶路撒冷的迦勒底人就拔營離開耶路撒冷去了。</li>
    <li>耶利米預言法老的軍隊必回埃及本國去，迦勒底人必再來攻打這城，並要攻取，用火焚燒。</li>
    <li>耶利米出離耶路撒冷，要往便雅憫地去。守門官耶利米，將他囚在約拿單的房屋中。</li>
@@ -4630,7 +4630,7 @@
   <ul>
    <li>主耶和華如此說：眾樹以內的葡萄樹，我怎樣使它在火中當柴，也必照樣待耶路撒冷的居民。</li>
    <li>耶和華命令以西結要使耶路撒冷知道她那些可憎的事。</li>
-   <li>耶和華對耶路撒冷說：`「你雖在血中，仍可存活」`</li>
+   <li>耶和華對耶路撒冷說：「你雖在血中，仍可存活」</li>
    <li>耶路撒冷仗著自己的美貌名聲，就行邪淫。</li>
    <li>行一切惡事之後，又為自己建造圓頂花樓，在各街上做了高臺。</li>
    <li>耶和華要將耶路撒冷一切相歡相愛的和一切所恨的，都聚集來，從四圍攻擊。</li>
