@@ -4963,7 +4963,7 @@
   </ul>
  </details>
  <details>
-  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書&qs_version=CUVMPT">但以理書</a> - <a href="https://bibleplan.github.io/daily/12.5-13-daily.html">wk90-day1</a></summary>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書&qs_version=CUVMPT">但以理書12.5-13</a> - <a href="https://bibleplan.github.io/daily/wk90-day1-daily.html">隱藏封閉</a></summary>
   <ul>
     <li>預言已經隱藏封閉，直到末時。</li>
     <li>必有許多人使自己清淨潔白，且被熬煉，但惡人仍必行惡。</li>
