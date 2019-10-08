@@ -4963,3 +4963,7 @@
   </ul>
  </details>
 </details>
+<details><summary>何西阿書 - <a href="https://bibleplan.github.io/daily/wk90-day2-daily.html">導讀 第90週第2天</a></summary>
+ <details>
+ </details>
+</details>
