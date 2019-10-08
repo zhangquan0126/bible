@@ -4962,8 +4962,36 @@
     <li>本國的民中，凡名錄在冊上的，必得拯救。</li>
   </ul>
  </details>
+ <details>
+  <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書&qs_version=CUVMPT">但以理書</a> - <a href="https://bibleplan.github.io/daily/12.5-13-daily.html">wk90-day1</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
 <details><summary>何西阿書 - <a href="https://bibleplan.github.io/daily/wk90-day2-daily.html">導讀 第90週第2天</a></summary>
  <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書1-2&qs_version=CUVMPT">何西阿書1-2</a> - <a href="https://bibleplan.github.io/daily/wk90-day2-daily.html">淫婦歌篾</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書3.1-5.7&qs_version=CUVMPT">何西阿書3.1-5.7</a> - <a href="https://bibleplan.github.io/daily/wk90-day3-daily.html">子民之罪</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書5.8-7.16&qs_version=CUVMPT">何西阿書5.8-7.16</a> - <a href="https://bibleplan.github.io/daily/wk90-day4-daily.html">以法蓮人</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書8.1-9.9&qs_version=CUVMPT">何西阿書8.1-9.9</a> - <a href="https://bibleplan.github.io/daily/wk90-day5-daily.html">背約棄善</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書9.10-10.15&qs_version=CUVMPT">何西阿書9.10-10.15</a> - <a href="https://bibleplan.github.io/daily/wk90-day6-daily.html">崇偽拜像</a></summary>
+  <ul>
+  </ul>
  </details>
 </details>
