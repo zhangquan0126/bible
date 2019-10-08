@@ -4965,6 +4965,9 @@
  <details>
   <summary>9. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=但以理書&qs_version=CUVMPT">但以理書</a> - <a href="https://bibleplan.github.io/daily/12.5-13-daily.html">wk90-day1</a></summary>
   <ul>
+    <li>預言已經隱藏封閉，直到末時。</li>
+    <li>必有許多人使自己清淨潔白，且被熬煉，但惡人仍必行惡。</li>
+    <li>一切惡人都不明白，唯獨智慧人能明白。</li>
   </ul>
  </details>
 </details>
@@ -4972,26 +4975,54 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書1-2&qs_version=CUVMPT">何西阿書1-2</a> - <a href="https://bibleplan.github.io/daily/wk90-day2-daily.html">淫婦歌篾</a></summary>
   <ul>
+    <li>何西阿娶淫婦歌篾。這婦人懷孕生子起名叫耶斯列。</li>
+    <li>歌篾又懷孕，生了女兒，起名叫羅路哈瑪，因為耶和華必不再憐憫以色列家，決不赦免他們。</li>
+    <li>歌篾又懷孕，生了一個兒子，起名叫羅阿米，因為以色列不做神的子民，神也不做他們的神。</li>
+    <li>然而，將來以色列的人數必如海沙，必是永生神的兒子。</li>
+    <li>以色列人崇拜淫邪而被懲罰。</li>
+    <li>受罰之後神必勸導、安慰，必聘她永遠歸神為妻。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書3.1-5.7&qs_version=CUVMPT">何西阿書3.1-5.7</a> - <a href="https://bibleplan.github.io/daily/wk90-day3-daily.html">子民之罪</a></summary>
   <ul>
+    <li>何西阿再去娶一個淫婦。</li>
+    <li>末後以色列人必歸回，尋求他們的神耶和華。</li>
+    <li>因這地上無誠實，無良善，無人認識神因此這地悲哀，必衰微。</li>
+    <li>民因無知識而滅亡。</li>
+    <li>姦淫和酒並新酒奪去人的心。民離棄神，不守約束。</li>
+    <li>以色列雖然行淫，猶大卻不可犯罪。</li>
+    <li>審判要臨到以色列。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書5.8-7.16&qs_version=CUVMPT">何西阿書5.8-7.16</a> - <a href="https://bibleplan.github.io/daily/wk90-day4-daily.html">以法蓮人</a></summary>
   <ul>
+    <li>在責罰的日子，以法蓮必變為荒場。神必向以法蓮如獅子，必撕裂而去。</li>
+    <li>神要回到原處，等他們自覺有罪，尋求神的面。</li>
+    <li>勸以色列歸向耶和華，就在他面前得以存活。</li>
+    <li>主說以法蓮的良善如同早晨的雲霧。</li>
+    <li>以法蓮的罪孽和撒馬利亞的罪惡就露出來。</li>
+    <li>以法蓮與列邦人摻雜，以色列的驕傲當面見證自己。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書8.1-9.9&qs_version=CUVMPT">何西阿書8.1-9.9</a> - <a href="https://bibleplan.github.io/daily/wk90-day5-daily.html">背約棄善</a></summary>
   <ul>
+    <li>敵人如鷹來攻打耶和華的家，因為民違背神的約，干犯神的律法。</li>
+    <li>以金銀製造偶像，以致被剪除。耶和華已經丟棄撒馬利亞，神的怒氣向拜牛犢的人發作。</li>
+    <li>以色列建造宮殿，神卻要降火焚燒他的城邑。</li>
+    <li>以色列忘記造他的主，建造宮殿，神卻要降火焚燒他的城邑，燒滅其中的宮殿。</li>
+    <li>穀場和酒榨都不夠以色列人使用。他們必不得住耶和華的地，以法蓮卻要歸回埃及，必在亞述吃不潔淨的食物。</li>
   </ul>
  </details>
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書9.10-10.15&qs_version=CUVMPT">何西阿書9.10-10.15</a> - <a href="https://bibleplan.github.io/daily/wk90-day6-daily.html">崇偽拜像</a></summary>
   <ul>
+    <li>以法蓮受責罰，根本枯乾，必不能結果。</li>
+    <li>以色列是茂盛的葡萄樹，結果繁多。但心懷二意，現今要定為有罪。耶和華必拆毀他們的祭壇，毀壞他們的柱像。</li>
+    <li>他們為立約說謊言，起假誓，因此災罰如苦菜滋生在田間的犁溝中。</li>
+    <li>要為自己栽種公義，就能收割慈愛。現今正是尋求耶和華的時候，你們要開墾荒地，等他臨到，使公義如雨降在你們身上。</li>
   </ul>
  </details>
 </details>
