@@ -9,7 +9,9 @@ dayNum: 4
 language: English
 ---
 
-### Question     
+### Question   
+What happened to Daniel during Darius' reign?
+
 {% include BibleLinks.html %} 
 
 ### Meditation: God's Story   
