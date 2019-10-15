@@ -5028,16 +5028,30 @@
  <details>
   <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書11:1-11&qs_version=CUVMPT">何西阿書11:1-11</a> - <a href="https://bibleplan.github.io/daily/wk91-day1-daily.html">慈繩愛索</a></summary>
   <ul>
+    <li>以色列年幼的時候，神愛他，就從埃及召出他。</li>
+    <li>先知越發招呼他們，他們越發走開，向諸巴力獻祭，給雕刻的偶像燒香。</li>
+    <li>刀劍必臨到他們的城邑，毀壞門閂，把人吞滅。</li>
+    <li>耶和華必如獅子吼叫，子民必跟隨他，他一吼叫，他們就從西方急速而來。</li>
   </ul>
  </details>
  <details>
   <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書11:12-13:16&qs_version=CUVMPT">何西阿書11:12-13:16</a> - <a href="https://bibleplan.github.io/daily/wk91-day2-daily.html">虛謊強暴</a></summary>
   <ul>
+    <li>以法蓮虛謊和強暴，與亞述立約，把油送到埃及。</li>
+    <li>耶和華與猶大爭辯，必照雅各所行的懲罰他，按他所做的報應他。</li>
+    <li>以法蓮大大惹動主怒，所以他流血的罪必歸在他身上。</li>
+    <li>從前以法蓮侍奉巴力，現今罪上加罪，用銀子為自己鑄造偶像。</li>
+    <li>這些民照神所賜的食物得了飽足，既得飽足，心就高傲，忘記了神。</li>
+    <li>以法蓮的罪孽包裹，他的罪惡收藏。他在弟兄中雖然茂盛，但仇敵必擄掠他所積蓄的一切寶器。</li>
+    <li>撒馬利亞必擔當自己的罪，因為悖逆她的神。</li>
   </ul>
  </details>
  <details>
   <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書14&qs_version=CUVMPT">何西阿書14</a> - <a href="https://bibleplan.github.io/daily/wk91-day3-daily.html">得蒙憐憫</a></summary>
   <ul>
+    <li>先知勸以色列歸向耶和華你的神，求神除淨罪孽，悅納善行。</li>
+    <li>神必醫治他們背道的病，甘心愛他們，因為我的怒氣向他們轉消。</li>
+    <li>智慧人可以明白這些事;通達人可以知道這一切。</li>
   </ul>
  </details>
 </details>
@@ -5045,11 +5059,23 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約珥書1-2&qs_version=CUVMPT">約珥書1-2</a> - <a href="https://bibleplan.github.io/daily/wk91-day4-daily.html">蝗蟲大軍</a></summary>
   <ul>
+    <li>約珥預言蝗蟲又強盛又無數，侵犯猶大，蝗蟲過去以後，地成了荒涼的曠野。</li>
+    <li>猶大眾民哀號，田荒涼，地悲哀，因為五穀毀壞，新酒乾竭，油也缺乏。</li>
+    <li>祭司當腰束麻布痛哭，分定禁食的日子，宣告嚴肅會，向耶和華哀求。</li>
+    <li>耶和華的日子將到，大而可畏。</li>
+    <li>應當禁食、哭泣、悲哀，一心歸向神，因為他有恩典，有憐憫，不輕易發怒，有豐盛的慈愛，並且後悔不降所說的災。</li>
+    <li>耶和華就為自己的地發熱心，憐恤他的百姓。</li>
+    <li>神要將靈澆灌凡有血氣的，兒女要說預言，老年人要做異夢，少年人要見異象。</li>
+    <li>到那時候，凡求告耶和華名的，就必得救。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約珥書3&qs_version=CUVMPT">約珥書3</a> - <a href="https://bibleplan.github.io/daily/wk91-day5-daily.html">施行審判</a></summary>
   <ul>
+    <li>神要聚集列國，帶他們下到約沙法谷，在那裡施行審判。</li>
+    <li>到那日，猶大溪河都有水流，泉源從耶和華的殿中流出來，滋潤什亭谷。</li>
+    <li>埃及必然荒涼，以東變為淒涼的曠野。</li>
+    <li>猶大必存到永遠，耶路撒冷必存到萬代。</li>
   </ul>
  </details>
 </details>
@@ -5057,6 +5083,17 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書1-2&qs_version=CUVMPT">阿摩司書1-2</a> - <a href="https://bibleplan.github.io/daily/wk91-day6-daily.html">三番四次</a></summary>
   <ul>
+    <li>當耶羅波安在位的時候，阿摩司得默示論以色列。</li>
+    <li>耶和華必從錫安吼叫，牧人的草場要悲哀，迦密的山頂要枯乾。</li>
+    <li>大馬士革三番四次地犯罪，我必不免去他的刑罰。</li>
+    <li>加沙三番四次地犯罪，我必不免去他的刑罰，非利士人所餘剩的必都滅亡。</li>
+    <li>推羅三番四次地犯罪，我必不免去他的刑罰。</li>
+    <li>以東三番四次地犯罪，我必不免去他的刑罰。</li>
+    <li>亞捫人三番四次的犯罪，我必不免去他們的刑罰。</li>
+    <li>摩押三番四次地犯罪，我必不免去他的刑罰。</li>
+    <li>猶大人三番四次地犯罪，我必不免去他們的刑罰。</li>
+    <li>以色列人三番四次地犯罪，我必不免去他們的刑罰。</li>
+    <li>神責備以色列負恩逆主。</li>
   </ul>
  </details>
 </details>
