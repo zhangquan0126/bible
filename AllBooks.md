@@ -5025,4 +5025,38 @@
     <li>要為自己栽種公義，就能收割慈愛。現今正是尋求耶和華的時候，你們要開墾荒地，等他臨到，使公義如雨降在你們身上。</li>
   </ul>
  </details>
+ <details>
+  <summary>6. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書11:1-11&qs_version=CUVMPT">何西阿書11:1-11</a> - <a href="https://bibleplan.github.io/daily/wk91-day1-daily.html">慈繩愛索</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>7. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書11:12-13:16&qs_version=CUVMPT">何西阿書11:12-13:16</a> - <a href="https://bibleplan.github.io/daily/wk91-day2-daily.html">虛謊強暴</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>8. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=何西阿書14&qs_version=CUVMPT">何西阿書14</a> - <a href="https://bibleplan.github.io/daily/wk91-day3-daily.html">得蒙憐憫</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>約珥書 - <a href="https://bibleplan.github.io/daily/wk91-day4-daily.html">導讀 第91週第4天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約珥書1-2&qs_version=CUVMPT">約珥書1-2</a> - <a href="https://bibleplan.github.io/daily/wk91-day4-daily.html">蝗蟲大軍</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約珥書3&qs_version=CUVMPT">約珥書3</a> - <a href="https://bibleplan.github.io/daily/wk91-day5-daily.html">施行審判</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>阿摩司書 - <a href="https://bibleplan.github.io/daily/wk91-day6-daily.html">導讀 第91週第6天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書1-2&qs_version=CUVMPT">阿摩司書1-2</a> - <a href="https://bibleplan.github.io/daily/wk91-day6-daily.html">三番四次</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
