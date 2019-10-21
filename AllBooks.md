@@ -5096,4 +5096,76 @@
     <li>神責備以色列負恩逆主。</li>
   </ul>
  </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書3-4&qs_version=CUVMPT">阿摩司書3-4</a> - <a href="https://bibleplan.github.io/daily/wk92-day1-daily.html">追討罪孽</a></summary>
+  <ul>
+    <li>耶和華在地上萬族中只認識以色列，因此，祂必追討他們的一切罪孽。</li>
+    <li>主耶和華發命，誰能不說預言呢？</li>
+    <li>主耶和華警戒雅各家，要討伯特利祭壇的罪，壇角必被砍下，墜落於地。</li>
+    <li>住撒馬利亞山如巴珊母牛的，欺負貧寒，壓碎窮乏，日子快到，人必用鉤子將你們鉤去。</li>
+    <li>任以色列往伯特利去犯罪，到吉甲加增罪過。</li>
+    <li>神處以色列以重罰，他們仍不歸向神。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書5-6&qs_version=CUVMPT">阿摩司書5-6</a> - <a href="https://bibleplan.github.io/daily/wk92-day2-daily.html">荒宴之樂</a></summary>
+  <ul>
+    <li>以色列民跌倒，不得再起;躺在地上，無人攙扶。</li>
+    <li>耶和華向以色列家如此說：你們要尋求我，就必存活。</li>
+    <li>耶和華厭惡以色列的節期，也不喜悅他們的嚴肅會。雖然獻燔祭和素祭，神卻不悅納。</li>
+    <li>國為列國之首，人最著名，在錫安和撒馬利亞山安逸無慮的，有禍了！</li>
+    <li>這些人必在被擄的人中首先被擄，舒身的人荒宴之樂必消滅了。</li>
+    <li>他們喜愛虛浮的事，自誇說：「我們不是憑自己的力量取了角嗎？」</li>
+    <li>耶和華萬軍之神必興起一國攻擊他們。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書7&qs_version=CUVMPT">阿摩司書7</a> - <a href="https://bibleplan.github.io/daily/wk92-day3-daily.html">求主赦免</a></summary>
+  <ul>
+    <li>耶和華造蝗蟲，吃盡那地的青物，阿摩司求主赦免，耶和華就後悔。</li>
+    <li>耶和華命火來懲罰以色列，阿摩司求耶和華止息！耶和華就後悔。</li>
+    <li>耶和華要吊起準繩在以色列中，必不再寬恕他們。</li>
+    <li>伯特利的祭司亞瑪謝在以色列王耶羅波安那裡控告阿摩司圖謀背叛。</li>
+    <li>阿摩司對亞瑪謝說：我原不是先知，但神選召他去向以色列說預言。</li>
+    <li>阿摩司預言亞瑪謝必受重罰。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=阿摩司書8-9&qs_version=CUVMPT">阿摩司書8-9</a> - <a href="https://bibleplan.github.io/daily/wk92-day4-daily.html">結局到了</a></summary>
+  <ul>
+    <li>先知看見一筐夏天的果子，預言以色列的結局到了，神必不再寬恕他們。</li>
+    <li>你們這些要吞吃窮乏人，使困苦人衰敗的，當聽神的話。</li>
+    <li>日頭在午間落下，地在白晝黑暗。以色列的節期變為悲哀，歌曲變為哀歌。</li>
+    <li>饑荒降在地上。人飢餓乃因不聽耶和華的話。</li>
+    <li>主站在祭壇旁邊，要打碎柱頂落在眾人頭上。所剩下的人必用刀殺戮。</li>
+    <li>到那日，神必建立大衛倒塌的帳幕，使以色列人得國。</li>
+  </ul>
+ </details>
+</details>
+<details><summary>俄巴底亞書 - <a href="https://bibleplan.github.io/daily/wk92-day5-daily.html">導讀 第92週第5天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=俄巴底亞書&qs_version=CUVMPT">俄巴底亞書</a> - <a href="https://bibleplan.github.io/daily/wk92-day5-daily.html">降罰以東</a></summary>
+  <ul>
+    <li>俄巴底亞得了耶和華的默示，對以東發預言。神使以東在列國中為最小的，被人大大藐視。</li>
+    <li>因以東向兄弟雅各行強暴，羞愧必遮蓋他，他也必永遠斷絕。</li>
+    <li>耶和華降罰的日子臨近萬國。以東的報應必歸到頭上。</li>
+    <li>在錫安山必有逃脫的人，那山也必成聖，雅各家必得原有的產業。</li>
+  </ul>
+ </details>
+</details>
+<details><summary>約拿書 - <a href="https://bibleplan.github.io/daily/wk92-day6-daily.html">導讀 第92週第6天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約拿書1-4&qs_version=CUVMPT">約拿書1-4</a> - <a href="https://bibleplan.github.io/daily/wk92-day6-daily.html">先知約拿</a></summary>
+  <ul>
+    <li>耶和華命令約拿往尼尼微大城去，向居民預言。</li>
+    <li>約拿卻起來，逃往他施去躲避耶和華。</li>
+    <li>然而耶和華使海中起大風，水手將約拿拋在海中，海的狂浪就平息了。</li>
+    <li>耶和華安排一條大魚吞了約拿，他在魚腹中三日三夜。</li>
+    <li>約拿在魚腹中禱告耶和華他的神，耶和華吩咐魚，把約拿吐在旱地上。</li>
+    <li>耶和華二次命約拿往尼尼微大城去，向居民預言。約拿遵命前行。</li>
+    <li>約拿進城走了一日，宣告說：「再等四十日，尼尼微必傾覆了！」</li>
+    <li>尼尼微人信服神，便宣告禁食，從最大的到至小的都穿麻衣。於是神察看他們的行為，見他們離開惡道，他就後悔，不把所說的災禍降於他們了。</li>
+    <li>約拿大大不悅，且甚發怒。耶和華以蓖麻比喻神愛惜人民。</li>
+  </ul>
+ </details>
 </details>
