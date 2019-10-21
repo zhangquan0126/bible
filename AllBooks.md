@@ -5144,7 +5144,7 @@
 </details>
 <details><summary>俄巴底亞書 - <a href="https://bibleplan.github.io/daily/wk92-day5-daily.html">導讀 第92週第5天</a></summary>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=俄巴底亞書&qs_version=CUVMPT">俄巴底亞書</a> - <a href="https://bibleplan.github.io/daily/wk92-day5-daily.html">降罰以東</a></summary>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=俄巴底亞書1&qs_version=CUVMPT">俄巴底亞書1</a> - <a href="https://bibleplan.github.io/daily/wk92-day5-daily.html">降罰以東</a></summary>
   <ul>
     <li>俄巴底亞得了耶和華的默示，對以東發預言。神使以東在列國中為最小的，被人大大藐視。</li>
     <li>因以東向兄弟雅各行強暴，羞愧必遮蓋他，他也必永遠斷絕。</li>
