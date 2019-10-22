@@ -8,9 +8,11 @@ weekNum: 92
 dayNum: 6
 language: English
 ---
+
 ### Question     
 Why did Jonah run to Tarshish to hide from the Lord?
 {% include BibleLinks.html %} 
+
 ### Meditation: God's Story   
 + The word of the Lord came to Jonah to go to the great city of Nineveh and preach against it. 
 + But Jonah ran away from the Lord and headed for Tarshish. 
@@ -21,5 +23,6 @@ Why did Jonah run to Tarshish to hide from the Lord?
 + Jonah began by going a day's journey into the city, proclaiming: Forty more days and Nineveh will be overthrown. 
 + The Ninevites believed God. A fast was proclaimed, and all of them, from the greatest to the least, put on sackcloth. When God saw what they did and how they turned from their evil ways, he relented and did not bring on them the destruction he had threatened. 
 + But to Jonah this seemed very wrong, and he became angry. The Lord used a leafy plant as parable of His love for His people. 
+
 ### Meditation: My Story   
 + **Identity** - The Lord, the compassionate and gracious God, slow to anger, abounding in love and faithfulness, the Lord relents and does not bring on His people the disaster. This is such a comforting truth because when we repent to the Lord, we have already pleased Him. Thank you Lord! 
