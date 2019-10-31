@@ -5169,3 +5169,76 @@
   </ul>
  </details>
 </details>
+<details><summary>彌迦書 - <a href="https://bibleplan.github.io/daily/wk93-day1-daily.html">導讀 第93週第1天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彌迦書1-3&qs_version=CUVMPT">彌迦書1-3</a> - <a href="https://bibleplan.github.io/daily/wk93-day1-daily.html">警告南北</a></summary>
+  <ul>
+    <li>彌迦得耶和華的默示，論撒馬利亞和耶路撒冷。神從聖殿要見證他們的不是。</li>
+    <li>先知大聲哀號，赤腳露體，撒馬利亞的傷痕無法醫治，延及猶大和耶路撒冷的城門。</li>
+    <li>在床上圖謀罪孽的有禍了。他們貪圖田地、房屋，欺壓人，霸占房屋和產業。</li>
+    <li>所以耶和華籌劃災禍降於這族。必有人向他們提起悲慘的哀歌。</li>
+    <li>耶和華必要聚集雅各家，招聚以色列剩下的人，安置在一處。</li>
+    <li>警告雅各的首領、以色列家的官長惡善好惡。使民走差路的先知偽報平安。</li>
+    <li>雅各家的首領，以色列家的官長厭惡公平，所以錫安必被耕種，耶路撒冷必變為亂堆。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彌迦書4-5&qs_version=CUVMPT">彌迦書4-5</a> - <a href="https://bibleplan.github.io/daily/wk93-day2-daily.html">超乎諸山</a></summary>
+  <ul>
+    <li>末後的日子，耶和華殿的山必堅立超乎諸山。</li>
+    <li>他必在多國的民中施行審判。他們要將刀打成犁頭，把槍打成鐮刀。</li>
+    <li>耶和華要在錫安山做王治理他們，從今直到永遠。</li>
+    <li>有許多國的民聚集攻擊，卻不知道耶和華的意念：他聚集他們，讓錫安的民來踹穀！你必打碎多國的民。</li>
+    <li>伯利恆以法他在猶大諸城中為小，將來必有一位從你那裡出來，在以色列中掌權的。</li>
+    <li>他必起來，倚靠耶和華的大能威嚴，牧養他的羊群。</li>
+    <li>雅各餘剩的人必在多國多民中，如林間百獸中的獅子。</li>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=彌迦書6-7&qs_version=CUVMPT">彌迦書6-7</a> - <a href="https://bibleplan.github.io/daily/wk93-day3-daily.html">赦免罪孽</a></summary>
+  <ul>
+    <li>耶和華要與他的百姓爭辯：我的百姓啊，我向你做了什麼呢？</li>
+    <li>耶和華已指示世人何為善，只要行公義，好憐憫，存謙卑的心，與神同行。</li>
+    <li>人行詭詐，因此被擊打，撒種卻不得收割。</li>
+    <li>先知哀嘆義人死亡，人心唯惡是趨。</li>
+    <li>先知自己要仰望耶和華，等候神。</li>
+    <li>求耶和華牧放人民，因為沒有別的神赦免罪孽，饒恕餘民的罪過，不永遠懷怒，喜愛施恩。</li>
+    <li>耶和華必再憐憫我們，將我們的罪孽踏在腳下，向雅各發誠實，向亞伯拉罕施慈愛。</li>
+  </ul>
+ </details>
+</details>
+<details><summary>那鴻書 - <a href="https://bibleplan.github.io/daily/wk93-day4-daily.html">導讀 第93週第4天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=那鴻書1-3&qs_version=CUVMPT">那鴻書1-3</a> - <a href="https://bibleplan.github.io/daily/wk93-day4-daily.html">忌邪施報</a></summary>
+  <ul>
+    <li>那鴻書是那鴻得到的論尼尼微的默示。</li>
+    <li>耶和華是忌邪施報的神，不輕易發怒，大有能力，萬不以有罪的為無罪。</li>
+    <li>耶和華本為善，但他必以漲溢的洪水淹沒尼尼微，又驅逐仇敵進入黑暗。</li>
+    <li>尼尼微自古以來充滿人民，現在居民卻都逃跑。</li>
+    <li>這流人血的城有禍了。</li>
+  </ul>
+ </details>
+</details>
+<details><summary>哈巴谷書 - <a href="https://bibleplan.github.io/daily/wk93-day5-daily.html">導讀 第93週第5天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哈巴谷書1-3&qs_version=CUVMPT">哈巴谷書1-3</a> - <a href="https://bibleplan.github.io/daily/wk93-day5-daily.html">與神問答</a></summary>
+  <ul>
+    <li>先知哈巴谷呼求耶和華卻沒有聽到應允，因強暴哀求卻沒有得到拯救。</li>
+    <li>耶和華說祂興起迦勒底人作為審判。</li>
+    <li>哈巴谷求問耶和華，惡人吞滅比自己公義的，你為何靜默不語呢？</li>
+    <li>耶和華回答，義人因信得生，但為本家積蓄不義之財，以罪孽立邑，給人酒喝醉，倚靠啞巴偶像的有禍了。</li>
+    <li>哈巴谷懼怕戰兢，安靜等候災難之日臨到。因主耶和華是我的力量，他使我的腳快如母鹿的蹄，又使我穩行在高處。</li>
+  </ul>
+ </details>
+</details>
+<details><summary>西番雅書 - <a href="https://bibleplan.github.io/daily/wk93-day6-daily.html">導讀 第93週第6天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=西番雅書1&qs_version=CUVMPT">西番雅書1</a> - <a href="https://bibleplan.github.io/daily/wk93-day6-daily.html">憤怒之日</a></summary>
+  <ul>
+    <li>當猶大王約西亞在位的時候，耶和華的話臨到西番雅。</li>
+    <li>耶和華要伸手攻擊猶大和耶路撒冷的一切居民，從這地方剪除所剩下的巴力。</li>
+    <li>耶和華的日子快到，必懲罰首領和王子。</li>
+    <li>那日是憤怒的日子，是急難困苦的日子，攻擊堅固城和高大的城樓。</li>
+  </ul>
+ </details>
+</details>
