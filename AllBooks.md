@@ -1,4 +1,4 @@
-[主頁](https://bibleplan.github.io)
+[主頁](https://bibleplan.github.io) | [計劃](https://bibleplan.github.io/schedule.html) | [討論](https://bibleplan.github.io/discussion.html)
 
 # 聖經 - 各書卷
 <details><summary>創世記 - <a href="https://bibleplan.github.io/daily/wk1-day1-daily.html">導讀 第1週第1天</a></summary>
