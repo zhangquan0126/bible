@@ -5241,4 +5241,38 @@
     <li>那日是憤怒的日子，是急難困苦的日子，攻擊堅固城和高大的城樓。</li>
   </ul>
  </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=西番雅書2-3&qs_version=CUVMPT">西番雅書2-3</a> - <a href="https://bibleplan.github.io/daily/wk94-day1-daily.html">undefined</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>哈該書 - <a href="https://bibleplan.github.io/daily/wk92-day2-daily.html">導讀 第94週第2天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哈該書1-2&qs_version=CUVMPT">哈該書1-2</a> - <a href="https://bibleplan.github.io/daily/wk94-day2-daily.html">undefined</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>撒迦利亞書 - <a href="https://bibleplan.github.io/daily/wk94-day3-daily.html">導讀 第94週第3天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書1-2&qs_version=CUVMPT">撒迦利亞書1-2</a> - <a href="https://bibleplan.github.io/daily/wk94-day3-daily.html">undefined</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書3-6&qs_version=CUVMPT">撒迦利亞書3-6</a> - <a href="https://bibleplan.github.io/daily/wk94-day4-daily.html">undefined</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書7-8&qs_version=CUVMPT">撒迦利亞書7-8</a> - <a href="https://bibleplan.github.io/daily/wk94-day5-daily.html">undefined</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書9-11&qs_version=CUVMPT">撒迦利亞書9-11</a> - <a href="https://bibleplan.github.io/daily/wk94-day6-daily.html">undefined</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
