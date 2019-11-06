@@ -5244,6 +5244,14 @@
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=西番雅書2-3&qs_version=CUVMPT">西番雅書2-3</a> - <a href="https://bibleplan.github.io/daily/wk94-day1-daily.html">苦盡甘來</a></summary>
   <ul>
+    <li>勸世上遵守耶和華典章的謙卑人尋求耶和華！當尋求公義、謙卑，或者在耶和華發怒的日子，可以隱藏起來。</li>
+    <li>迦南，非利士人之地必被毀滅，以致無人居住。</li>
+    <li>摩押必像所多瑪，亞捫人必像蛾摩拉，都變為刺草、鹽坑、永遠荒廢之地。</li>
+    <li>古實人必被刀所殺。耶和華必伸手攻擊北方，毀滅亞述，使尼尼微荒涼，又乾旱如曠野。</li>
+    <li>悖逆、汙穢、欺壓的耶路撒冷城有禍了。</li>
+    <li>但以色列要等候耶和華，直到祂興起擄掠的日子。</li>
+    <li>耶和華必使萬民用清潔的言語，好求告祂的名，同心合意地侍奉祂。</li>
+    <li>錫安的民應當歌唱！以色列應當歡呼！耶路撒冷的民應當滿心歡喜快樂！</li>
   </ul>
  </details>
 </details>
@@ -5251,6 +5259,12 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=哈該書1-2&qs_version=CUVMPT">哈該書1-2</a> - <a href="https://bibleplan.github.io/daily/wk94-day2-daily.html">延不建殿</a></summary>
   <ul>
+    <li>先知哈該責備百姓遲延，不願意建造耶和華的殿。殿仍然荒涼，你們自己卻住天花板的房屋。</li>
+    <li>耶和華要他們省察自己的行為，上山取木料，建造這殿，神就因此喜樂，且得榮耀。</li>
+    <li>耶和華激動所羅巴伯和約書亞，並剩下之百姓的心，他們就來為萬軍之耶和華他們神的殿做工。</li>
+    <li>耶和華說：過不多時，我必再一次震動天地、滄海與旱地。這殿後來的榮耀必大過先前的榮耀，在這地方我必賜平安。</li>
+    <li>耶和華責備未建殿以前，以色列眾民所獻不潔，所以諸事不利。</li>
+    <li>耶和華揀選所羅巴伯為印。</li>
   </ul>
  </details>
 </details>
@@ -5258,21 +5272,52 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書1-2&qs_version=CUVMPT">撒迦利亞書1-2</a> - <a href="https://bibleplan.github.io/daily/wk94-day3-daily.html">威嚇列國</a></summary>
   <ul>
+    <li>耶和華藉先知撒迦利亞要以色列人轉向耶和華。</li>
+    <li>撒迦利亞見一人騎著紅馬，是遍行全地的耶和華的使者。</li>
+    <li>耶和華的使者問耶和華不施憐憫要到幾時？耶和華就用美善的安慰話回答。</li>
+    <li>撒加利亞見有四角，是打散猶大、以色列和耶路撒冷的角。</li>
+    <li>耶和華又指四個匠人給他看，就來威嚇列國，打掉他們的角，就是舉起打散猶大地的角。</li>
+    <li>撒加利亞又見一人手拿準繩，要去量耶路撒冷，看有多寬多長。</li>
+    <li>耶和華說應許要分散在天的四方的，要從北方之地逃回。</li>
+    <li>錫安城啊，應當歡樂歌唱！因為耶和華要住在你中間。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書3-6&qs_version=CUVMPT">撒迦利亞書3-6</a> - <a href="https://bibleplan.github.io/daily/wk94-day4-daily.html">純金燈臺</a></summary>
   <ul>
+    <li>大祭司約書亞站在耶和華的使者面前，撒旦也站在約書亞的右邊，與他作對。</li>
+    <li>耶和華必使僕人大衛的苗裔發出。</li>
+    <li>撒加利亞看見純金的燈臺，旁邊有兩棵橄欖樹。</li>
+    <li>金燈台是神的靈，兩棵橄欖樹是兩個受膏者，站在普天下主的旁邊。</li>
+    <li>飛行的書卷，長二十肘，寬十肘，是發出行在遍地上的咒詛。</li>
+    <li>有一片圓鉛被舉起來，這坐在量器中的是個婦人，是罪惡。</li>
+    <li>四輛車從兩山中間出來，那山是銅山。</li>
+    <li>耶和華吩咐為約書亞製金冕，預示主殿必成。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書7-8&qs_version=CUVMPT">撒迦利亞書7-8</a> - <a href="https://bibleplan.github.io/daily/wk94-day5-daily.html">定意施恩</a></summary>
   <ul>
+    <li>伯特利人懇求耶和華的恩，並問耶和華歷年以來五月間哭泣齋戒還當這樣行嗎？</li>
+    <li>耶和華宣告他不喜悅五月、七月禁食悲哀，因為他們不是向祂禁食。</li>
+    <li>因耶和華曾呼喚他們，他們不聽，所以必以旋風吹散他們到素不認識的萬國中。</li>
+    <li>耶和華要回到錫安，住在耶路撒冷中。</li>
+    <li>耶和華定意施恩於耶路撒冷和猶大家，你們不要懼怕。</li>
+    <li>耶和華要將四月、五月禁食的日子，七月、十月禁食的日子，變為猶大家歡喜快樂的日子和歡樂的節期，所以要喜愛誠實與和平。</li>
+    <li>必有列邦的人和強國的民來到耶路撒冷，尋求萬軍之耶和華，懇求耶和華的恩。</li>
   </ul>
  </details>
  <details>
   <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書9-11&qs_version=CUVMPT">撒迦利亞書9-11</a> - <a href="https://bibleplan.github.io/daily/wk94-day6-daily.html">公義拯救</a></summary>
   <ul>
+    <li>耶和華必懲罰哈得拉與大馬士革。</li>
+    <li>錫安應當大大喜樂，因為王來到這裡，他是公義的，並且施行拯救。</li>
+    <li>因與錫安立約的血，將你中間被擄而囚的人從無水的坑中釋放出來。</li>
+    <li>向耶和華求雨，他必為眾人降下甘霖，使田園生長菜蔬。</li>
+    <li>耶和華要堅固猶大家，拯救約瑟家，要領他們歸回。</li>
+    <li>牧人哀號，因他們榮華的草場毀壞了。撒迦利亞要牧養這將宰的群羊。拿著兩根杖，一根稱為「榮美」，一根稱為「聯索」。</li>
+    <li>折斷稱為「榮美」的杖，表明廢棄與萬民所立的約。又折斷稱為「聯索」的那根杖，表明廢棄猶大與以色列弟兄的情誼。</li>
+    <li>耶和華吩咐撒加利亞取愚昧人所用的器具，因祂要興起一個牧人，他不看顧喪亡的，卻要吃肥羊的肉。</li>
   </ul>
  </details>
 </details>
