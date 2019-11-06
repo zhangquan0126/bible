@@ -5261,17 +5261,17 @@
   </ul>
  </details>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書3-6&qs_version=CUVMPT">撒迦利亞書3-6</a> - <a href="https://bibleplan.github.io/daily/wk94-day4-daily.html">純金燈臺</a></summary>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書3-6&qs_version=CUVMPT">撒迦利亞書3-6</a> - <a href="https://bibleplan.github.io/daily/wk94-day4-daily.html">純金燈臺</a></summary>
   <ul>
   </ul>
  </details>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書7-8&qs_version=CUVMPT">撒迦利亞書7-8</a> - <a href="https://bibleplan.github.io/daily/wk94-day5-daily.html">定意施恩</a></summary>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書7-8&qs_version=CUVMPT">撒迦利亞書7-8</a> - <a href="https://bibleplan.github.io/daily/wk94-day5-daily.html">定意施恩</a></summary>
   <ul>
   </ul>
  </details>
  <details>
-  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書9-11&qs_version=CUVMPT">撒迦利亞書9-11</a> - <a href="https://bibleplan.github.io/daily/wk94-day6-daily.html">公義拯救</a></summary>
+  <summary>4. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書9-11&qs_version=CUVMPT">撒迦利亞書9-11</a> - <a href="https://bibleplan.github.io/daily/wk94-day6-daily.html">公義拯救</a></summary>
   <ul>
   </ul>
  </details>
