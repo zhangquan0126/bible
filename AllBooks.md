@@ -5320,4 +5320,46 @@
     <li>耶和華吩咐撒加利亞取愚昧人所用的器具，因祂要興起一個牧人，他不看顧喪亡的，卻要吃肥羊的肉。</li>
   </ul>
  </details>
+ <details>
+  <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書12-14&qs_version=CUVMPT">撒迦利亞書 12-14</a> - <a href="https://bibleplan.github.io/daily/wk95-day1-daily.html">全地的王</a></summary>
+  <ul>
+    <li>耶和華必懲罰哈得拉與大馬士革。</li>
+    <li>錫安應當大大喜樂，因為王來到這裡，他是公義的，並且施行拯救。</li>
+    <li>因與錫安立約的血，將你中間被擄而囚的人從無水的坑中釋放出來。</li>
+    <li>向耶和華求雨，他必為眾人降下甘霖，使田園生長菜蔬。</li>
+    <li>耶和華要堅固猶大家，拯救約瑟家，要領他們歸回。</li>
+    <li>牧人哀號，因他們榮華的草場毀壞了。撒迦利亞要牧養這將宰的群羊。拿著兩根杖，一根稱為「榮美」，一根稱為「聯索」。</li>
+    <li>折斷稱為「榮美」的杖，表明廢棄與萬民所立的約。又折斷稱為「聯索」的那根杖，表明廢棄猶大與以色列弟兄的情誼。</li>
+    <li>耶和華吩咐撒加利亞取愚昧人所用的器具，因祂要興起一個牧人，他不看顧喪亡的，卻要吃肥羊的肉。</li>
+  </ul>
+ </details>
+</details>
+<details><summary>瑪拉基書 - <a href="https://bibleplan.github.io/daily/wk95-day2-daily.html">導讀 第95週第2天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=瑪拉基書1.1-3.5&qs_version=CUVMPT">瑪拉基書1.1-3.5</a> - <a href="https://bibleplan.github.io/daily/wk95-day2-daily.html">褻瀆之罪</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=瑪拉基書3.6-4.6&qs_version=CUVMPT">瑪拉基書3.6-4.6</a> - <a href="https://bibleplan.github.io/daily/wk95-day3-daily.html">狂傲頂撞</a></summary>
+  <ul>
+  </ul>
+ </details>
+</details>
+<details><summary>約翰福音 - <a href="https://bibleplan.github.io/daily/wk95-day4-daily.html">導讀 第95週第4天</a></summary>
+ <details>
+  <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.1-18&qs_version=CUVMPT">約翰福音1.1-18</a> - <a href="https://bibleplan.github.io/daily/wk95-day4-daily.html">道成肉身</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.19-2.12&qs_version=CUVMPT">約翰福音1.19-2.12</a> - <a href="https://bibleplan.github.io/daily/wk95-day5-daily.html">神的兒子</a></summary>
+  <ul>
+  </ul>
+ </details>
+ <details>
+  <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音2.13-3.36&qs_version=CUVMPT">約翰福音2.13-3.36</a> - <a href="https://bibleplan.github.io/daily/wk95-day6-daily.html">如何得救</a></summary>
+  <ul>
+  </ul>
+ </details>
 </details>
