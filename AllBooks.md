@@ -5323,14 +5323,17 @@
  <details>
   <summary>5. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=撒迦利亞書12-14&qs_version=CUVMPT">撒迦利亞書 12-14</a> - <a href="https://bibleplan.github.io/daily/wk95-day1-daily.html">全地的王</a></summary>
   <ul>
-    <li>耶和華必懲罰哈得拉與大馬士革。</li>
-    <li>錫安應當大大喜樂，因為王來到這裡，他是公義的，並且施行拯救。</li>
-    <li>因與錫安立約的血，將你中間被擄而囚的人從無水的坑中釋放出來。</li>
-    <li>向耶和華求雨，他必為眾人降下甘霖，使田園生長菜蔬。</li>
-    <li>耶和華要堅固猶大家，拯救約瑟家，要領他們歸回。</li>
-    <li>牧人哀號，因他們榮華的草場毀壞了。撒迦利亞要牧養這將宰的群羊。拿著兩根杖，一根稱為「榮美」，一根稱為「聯索」。</li>
-    <li>折斷稱為「榮美」的杖，表明廢棄與萬民所立的約。又折斷稱為「聯索」的那根杖，表明廢棄猶大與以色列弟兄的情誼。</li>
-    <li>耶和華吩咐撒加利亞取愚昧人所用的器具，因祂要興起一個牧人，他不看顧喪亡的，卻要吃肥羊的肉。</li>
+    <li>耶和華必使耶路撒冷被圍困的時候，向四圍列國的民成為令人昏醉的杯。</li>
+    <li>耶和華必使耶路撒冷向聚集攻擊她的萬民當做一塊重石頭，凡舉起的必受重傷。</li>
+    <li>耶和華必使靈澆灌大衛家和耶路撒冷的居民。他們必仰望耶和華。</li>
+    <li>必給大衛家和耶路撒冷的居民開一個泉源，洗除罪惡與汙穢。</li>
+    <li>耶和華必從地上除滅偶像的名。</li>
+    <li>刀劍興起攻擊，三分之二必剪除而死，三分之一仍必存留。</li>
+    <li>那時耶和華必出去與那些國爭戰。</li>
+    <li>那日，他的腳必站在耶路撒冷前面朝東的橄欖山上。</li>
+    <li>耶和華必做全地的王。</li>
+    <li>耶和華用災殃攻擊那與耶路撒冷爭戰的列國人。</li>
+    <li>所有攻擊耶路撒冷剩下的人必年年上來敬拜耶和華，並守住棚節。</li>
   </ul>
  </details>
 </details>
@@ -5338,11 +5341,26 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=瑪拉基書1.1-3.5&qs_version=CUVMPT">瑪拉基書1.1-3.5</a> - <a href="https://bibleplan.github.io/daily/wk95-day2-daily.html">褻瀆之罪</a></summary>
   <ul>
+    <li>瑪拉基責備以色列忘記神的恩典。</li>
+    <li>耶和華責備祭司藐視耶和華的名。</li>
+    <li>他們褻瀆神的名，說耶和華的桌子是汙穢的，其上的食物是可藐視的。</li>
+    <li>他們若不聽從，就有咒詛臨到，使福分變為咒詛。</li>
+    <li>猶大人褻瀆耶和華所喜愛的聖潔，娶侍奉外邦神的女子為妻。</li>
+    <li>耶和華見證以色列人以詭詐待妻子。</li>
+    <li>他們用言語煩瑣耶和華，</li>
+    <li>耶和華差遣使者在前面預備道路，快要來到，他來的日子，誰能當得起呢？</li>
+    <li>耶和華必臨近他們，施行審判。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=瑪拉基書3.6-4.6&qs_version=CUVMPT">瑪拉基書3.6-4.6</a> - <a href="https://bibleplan.github.io/daily/wk95-day3-daily.html">狂傲頂撞</a></summary>
   <ul>
+    <li>耶和華要轉向以色列，他們卻說：『我們如何才是轉向呢？』</li>
+    <li>以色列在當納稅的十分之一和當獻的供物上奪取神的供物。</li>
+    <li>以色列用話頂撞耶和華，因為他們說侍奉神是徒然的，遵守神所吩咐的沒有益處。</li>
+    <li>耶和華有紀念冊在他面前，記錄那敬畏耶和華思念他名的人。</li>
+    <li>那日臨近，凡狂傲的和行惡的必如碎秸，在那日必被燒盡。</li>
+    <li>你當記念摩西的律法。耶和華大而可畏之日未到以前，先知以利亞必到你們那裡去。</li>
   </ul>
  </details>
 </details>
@@ -5350,16 +5368,37 @@
  <details>
   <summary>1. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.1-18&qs_version=CUVMPT">約翰福音1.1-18</a> - <a href="https://bibleplan.github.io/daily/wk95-day4-daily.html">道成肉身</a></summary>
   <ul>
+    <li>太初有道，道與神同在，道就是神。</li>
+    <li>神差約翰來為光作見證，叫眾人因他可以信。</li>
+    <li>道成了肉身，住在我們中間，充充滿滿地有恩典有真理。</li>
+    <li>約翰為他作見證。</li>
+    <li>從他豐滿的恩典裡，我們都領受了，而且恩上加恩。</li>
+    <li>律法本是藉著摩西傳的，恩典和真理都是由耶穌基督來的。</li>
   </ul>
  </details>
  <details>
   <summary>2. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音1.19-2.12&qs_version=CUVMPT">約翰福音1.19-2.12</a> - <a href="https://bibleplan.github.io/daily/wk95-day5-daily.html">神的兒子</a></summary>
   <ul>
+    <li>約翰說自己不是基督。</li>
+    <li>他就是那在曠野有人聲喊著說：『修直主的道路』，正如先知以賽亞所說的。</li>
+    <li>約翰稱耶穌為神的羔羊，除去世人罪孽的！</li>
+    <li>約翰看見聖靈彷彿鴿子從天降下，住在他的身上，就證明這是神的兒子。</li>
+    <li>約翰的兩個門徒跟從了耶穌。</li>
+    <li>耶穌召腓力拿但業為門徒。</li>
+    <li>拿但業說：「拉比，你是神的兒子，你是以色列的王！」</li>
+    <li>耶穌在迦拿變水為酒，這是耶穌所行的頭一件神蹟，為顯出他的榮耀來。</li>
   </ul>
  </details>
  <details>
   <summary>3. <a href="https://www.biblegateway.com/quicksearch/?quicksearch=約翰福音2.13-3.36&qs_version=CUVMPT">約翰福音2.13-3.36</a> - <a href="https://bibleplan.github.io/daily/wk95-day6-daily.html">如何得救</a></summary>
   <ul>
+    <li>耶穌看見殿裡有做買賣的，就拿繩子做成鞭子，把他們趕出殿去。</li>
+    <li>猶太人要耶穌顯神蹟，耶穌說：你們拆毀這殿，我三日內要再建立起來。</li>
+    <li>尼哥迪慕夜裡來見耶穌，耶穌說人若不重生，就不能見神的國。</li>
+    <li>神愛世人，甚至將他的獨生子賜給他們，叫一切信他的不致滅亡，反得永生。</li>
+    <li>光來到世間，世人因自己的行為是惡的，不愛光倒愛黑暗，定他們的罪就是在此。</li>
+    <li>耶穌和門徒到了猶太地，在那裡居住，施洗。約翰在靠近撒冷的哀嫩也施洗。但約翰說：他必興旺，我必衰微。</li>
+    <li>信子的人有永生，不信子的人得不著永生，神的震怒常在他身上。</li>
   </ul>
  </details>
 </details>
